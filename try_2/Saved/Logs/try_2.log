@@ -1,4 +1,4 @@
-﻿Log file open, 03/20/15 18:58:06
+﻿Log file open, 03/20/15 19:16:50
 LogInit:Display: Running engine for game: try_2
 LogInit: Version: 4.7.3-2479750+++depot+UE4-Releases+4.7
 LogInit: API Version: 2455222
@@ -9,556 +9,134 @@ LogInit: Branch Name: ++depot+UE4-Releases+4.7
 LogInit: Command line: 
 LogInit: Base directory: C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/
 LogInit: Rocket: 1
-[2015.03.20-18.58.06:294][  0]LogTaskGraph: Started task graph with 3 named threads and 6 total threads.
-[2015.03.20-18.58.06:362][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
-[2015.03.20-18.58.06:387][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
-[2015.03.20-18.58.06:396][  0]LogInit: Object subsystem initialized
-[2015.03.20-18.58.06:398][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'TranslucentSortAxis = (X=0.000000,Y=-1.000000,Z=0.000000)'
-[2015.03.20-18.58.06:398][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
-[2015.03.20-18.58.06:398][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
-[2015.03.20-18.58.06:398][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
-[2015.03.20-18.58.06:398][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=),ExternalCurve=None)'
-[2015.03.20-18.58.06:398][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
-[2015.03.20-18.58.06:398][  0]LogInit: Selected Device Profile: [Windows]
-[2015.03.20-18.58.06:399][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2015.03.20-18.58.06:405][  0]LogInit: Computer: PC
-[2015.03.20-18.58.06:405][  0]LogInit: User: TMoynihan
-[2015.03.20-18.58.06:405][  0]LogInit: CPU Page size=4096, Cores=4
-[2015.03.20-18.58.06:405][  0]LogInit: High frequency timer resolution =2.338369 MHz
-[2015.03.20-18.58.06:405][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx) Virtual=8192.0GB
-[2015.03.20-18.58.06:405][  0]LogMemory: Platform Memory Stats for Windows
-[2015.03.20-18.58.06:405][  0]LogMemory: Process Physical Memory: 49.21 MB used, 49.21 MB peak
-[2015.03.20-18.58.06:406][  0]LogMemory: Process Virtual Memory: 25.01 MB used, 25.02 MB peak
-[2015.03.20-18.58.06:406][  0]LogMemory: Physical Memory: 5339.88 MB used, 16304.11 MB total
-[2015.03.20-18.58.06:406][  0]LogMemory: Virtual Memory: 279.23 MB used, 8388608.00 MB total
-[2015.03.20-18.58.06:458][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 860M    (Feature Level 11_0)
-[2015.03.20-18.58.06:458][  0]LogD3D11RHI: Adapter has 1976MB of dedicated video memory, 0MB of dedicated system memory, and 2048MB of shared system memory, 1 output[s]
-[2015.03.20-18.58.06:458][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
-[2015.03.20-18.58.06:465][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
-[2015.03.20-18.58.06:479][  0]LogD3D11RHI: Async texture creation enabled
-[2015.03.20-18.58.06:556][  0]LogTextLocalizationManager: The requested culture ('en_GB') has no localization data; parent culture's ('en') localization data will be used.
-[2015.03.20-18.58.06:614][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:UICommands, Key:Save_ToolTip):
+[2015.03.20-19.16.50:608][  0]LogTaskGraph: Started task graph with 3 named threads and 6 total threads.
+[2015.03.20-19.16.50:675][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2015.03.20-19.16.50:701][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.03.20-19.16.50:714][  0]LogInit: Object subsystem initialized
+[2015.03.20-19.16.50:717][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'TranslucentSortAxis = (X=0.000000,Y=-1.000000,Z=0.000000)'
+[2015.03.20-19.16.50:717][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.20-19.16.50:717][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2015.03.20-19.16.50:717][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.20-19.16.50:717][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=),ExternalCurve=None)'
+[2015.03.20-19.16.50:717][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.20-19.16.50:718][  0]LogInit: Selected Device Profile: [Windows]
+[2015.03.20-19.16.50:718][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2015.03.20-19.16.50:730][  0]LogInit: Computer: PC
+[2015.03.20-19.16.50:730][  0]LogInit: User: TMoynihan
+[2015.03.20-19.16.50:730][  0]LogInit: CPU Page size=4096, Cores=4
+[2015.03.20-19.16.50:730][  0]LogInit: High frequency timer resolution =2.338369 MHz
+[2015.03.20-19.16.50:730][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx) Virtual=8192.0GB
+[2015.03.20-19.16.50:730][  0]LogMemory: Platform Memory Stats for Windows
+[2015.03.20-19.16.50:730][  0]LogMemory: Process Physical Memory: 49.28 MB used, 49.28 MB peak
+[2015.03.20-19.16.50:730][  0]LogMemory: Process Virtual Memory: 25.14 MB used, 25.14 MB peak
+[2015.03.20-19.16.50:730][  0]LogMemory: Physical Memory: 5115.25 MB used, 16304.11 MB total
+[2015.03.20-19.16.50:730][  0]LogMemory: Virtual Memory: 279.23 MB used, 8388608.00 MB total
+[2015.03.20-19.16.50:779][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 860M    (Feature Level 11_0)
+[2015.03.20-19.16.50:779][  0]LogD3D11RHI: Adapter has 1976MB of dedicated video memory, 0MB of dedicated system memory, and 2048MB of shared system memory, 1 output[s]
+[2015.03.20-19.16.50:779][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2015.03.20-19.16.50:785][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2015.03.20-19.16.50:800][  0]LogD3D11RHI: Async texture creation enabled
+[2015.03.20-19.16.50:887][  0]LogTextLocalizationManager: The requested culture ('en_GB') has no localization data; parent culture's ('en') localization data will be used.
+[2015.03.20-19.16.50:951][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:UICommands, Key:Save_ToolTip):
 Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-29098895) String: (Saves the current level to disk)
 Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Engine/en/Engine.locres) Hash: (-1280300587) String: (Save selected data to vlog file)
-[2015.03.20-18.58.06:614][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:ContentBrowser, Key:ImportAssetToolTip):
+[2015.03.20-19.16.50:952][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:ContentBrowser, Key:ImportAssetToolTip):
 Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-630476809) String: (Import to {0}...)
 Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (1271782899) String: (Imports an asset from file to this folder.)
-[2015.03.20-18.58.06:695][  0]LogContentStreaming: Texture pool size is 0.000000MB
-[2015.03.20-18.58.08:928][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2015.03.20-18.58.09:428][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2015.03.20-18.58.09:485][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
-[2015.03.20-18.58.09:521][  0]LogDerivedDataCache: Loaded boot cache 0.04s 39MB C:/Users/TMoynihan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
-[2015.03.20-18.58.09:521][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/TMoynihan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc
-[2015.03.20-18.58.09:522][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2015.03.20-18.58.09:522][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2015.03.20-18.58.09:643][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2015.03.20-18.58.09:654][  0]LogDerivedDataCache: Using Local data cache path C:/Users/TMoynihan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2015.03.20-18.58.09:954][  0]LogMeshUtilities: No automatic mesh reduction module available
-[2015.03.20-18.58.09:954][  0]LogMeshUtilities: No automatic mesh merging module available
-[2015.03.20-18.58.10:296][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2015.03.20-18.58.10:373][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf'
-[2015.03.20-18.58.12:028][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2015.03.20-18.58.12:347][  0]SourceControl: Info Source control is disabled
-[2015.03.20-18.58.12:347][  0]SourceControl: Info Source control is disabled
-[2015.03.20-18.58.12:347][  0]SourceControl: Info Source control is disabled
-[2015.03.20-18.58.12:347][  0]LogSourceControl: RunCommandInternalRaw: 'git version'
-[2015.03.20-18.58.12:347][  0]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
-[2015.03.20-18.58.12:355][  0]SourceControl: Info Source control is disabled
-[2015.03.20-18.58.12:560][  0]LogObj: 24231 objects as part of root set at end of initial load.
-[2015.03.20-18.58.12:560][  0]LogUObjectAllocator: 5136440 out of 0 bytes used by permanent object pool.
-[2015.03.20-18.58.12:638][  0]LogEngine: Initializing Engine...
-[2015.03.20-18.58.14:801][  0]LogInit: XAudio2 using 'Headphone (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2015.03.20-18.58.14:842][  0]LogInit: FAudioDevice initialized.
-[2015.03.20-18.58.14:878][  0]LogAIModule: Creating AISystem for world NewWorld
-[2015.03.20-18.58.14:897][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/TMoynihan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
-[2015.03.20-18.58.14:899][  0]LogInit: Texture streaming: Enabled
-[2015.03.20-18.58.14:990][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
-[2015.03.20-18.58.14:990][  0]LogAnalytics: ET APIKey = Rocket.Release. APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.7.3-2479750+++depot+UE4-Releases+4.7
-[2015.03.20-18.58.14:990][  0]LogAnalytics: ET APIKey = Rocket.Release. DataRouterUploadURL = https://datarouter-public-service-gamedev.ol.epicgames.net/datarouter/api/v1/public/data. AppVersion = 4.7.3-2479750+++depot+UE4-Releases+4.7
-[2015.03.20-18.58.14:990][  0]LogAnalytics: SetUserId a1543e6e4b44b1180d87dca38229f528|f29681344a31429fb7499e9e1133047a|a291f7dc-b741-4b66-bec7-16f532d7f59b
-[2015.03.20-18.58.14:990][  0]LogAnalytics: AnalyticsET::StartSession [Rocket.Release]
-[2015.03.20-18.58.15:013][  0]LogInit: Transaction tracking system initialized
-[2015.03.20-18.58.15:189][  0]BlueprintLog: New page: Editor Load
-[2015.03.20-18.58.15:223][  0]LogAssetRegistry: FAssetRegistry took 0.0094 seconds to start up
-[2015.03.20-18.58.15:223][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
-[2015.03.20-18.58.15:763][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2015.03.20-18.58.16:119][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2015.03.20-18.58.16:376][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Regular.ttf'
-[2015.03.20-18.58.16:377][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Bold.ttf'
-[2015.03.20-18.58.16:384][  0]LogConsoleResponse:Display: 
-[2015.03.20-18.58.16:500][  0]LogCook:Display: Done creating registry. It took  0.00s.
-[2015.03.20-18.58.16:658][  0]SourceControl: Info Source control is disabled
-[2015.03.20-18.58.16:658][  0]Cmd: MAP LOAD FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/TwinStickBP/Maps/TwinStickExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2015.03.20-18.58.16:658][  0]LogEditorServer:Warning: Can't find file '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
-[2015.03.20-18.58.16:658][  0]Cmd: MAP CHECKDEP
-[2015.03.20-18.58.16:658][  0]MapCheck: New page: Untitled_0 - 20 Mar 2015 18:58:16
-[2015.03.20-18.58.16:740][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 81.721ms to complete.
-[2015.03.20-18.58.16:740][  0]LogFileHelpers: Loading map 'TwinStickExampleMap' took 0.082
-[2015.03.20-18.58.16:871][  0]LogCollectionManager: Loaded 0 collections in 0.001643 seconds
-[2015.03.20-18.58.16:883][  0]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 1696 classes and 261 folders.
-[2015.03.20-18.58.16:916][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0018 seconds. Added 1 classes and 2 folders.
-[2015.03.20-18.58.16:965][  0]LogCrashTracker: Crashtracker disabled due to settings.
-[2015.03.20-18.58.16:966][  0]LogSlate:Warning: Failed to load font data from 'Veranda'
-[2015.03.20-18.58.16:969][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
-[2015.03.20-18.58.16:999][  0]LogLoad: Full Startup: 12.53 seconds (BP compile: 0.00 seconds)
-[2015.03.20-18.58.17:038][  0]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/TwinStickBP/Blueprints'
-[2015.03.20-18.58.17:207][  2]LogRenderer:Warning: Reallocating scene render targets to support 808x368 (Frame:2).
-[2015.03.20-18.58.17:399][  4]LogAssetRegistry: Asset discovery search completed in 2.1861 seconds
-[2015.03.20-18.58.17:699][ 22]AssetReimport: New page: Outstanding source content changes 18:58:17
-[2015.03.20-18.58.23:665][346]LogRenderer:Warning: Reallocating scene render targets to support 1208x568 (Frame:281).
-[2015.03.20-18.58.25:737][465]LogPlayLevel: PIE:  No blueprints needed recompiling
-[2015.03.20-18.58.25:737][465]PIE: New page: PIE session: Untitled_0 (20 Mar 2015 18:58:25)
-[2015.03.20-18.58.25:738][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000461s)
-[2015.03.20-18.58.25:738][465]LogPlayLevel: PIE: World Init took: (0.000439s)
-[2015.03.20-18.58.25:738][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.NewWorld to /Temp/UEDPIE_0_Untitled_0.NewWorld (0.001032s)
-[2015.03.20-18.58.25:903][465]LogTexture:Display: Building textures: chameleon (AutoDXT)
-[2015.03.20-18.58.25:963][465]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.20-18.58.25:965][465]LogAIModule: Creating AISystem for world NewWorld
-[2015.03.20-18.58.25:966][465]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.NewWorld up for play (max tick rate 60) at 2015.03.20-18.58.25
-[2015.03.20-18.58.25:967][465]LogWorld: Bringing up level for play took: 0.000831
-[2015.03.20-18.58.25:970][465]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_0 0.054
-[2015.03.20-18.58.33:061][886]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D6CB560
-[2015.03.20-18.58.36:036][ 64]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
-[2015.03.20-18.58.37:102][120]Cmd: MAP LOAD FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2015.03.20-18.58.37:102][120]LightingResults: New page: Lighting Build
-[2015.03.20-18.58.37:115][120]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0021 seconds. Added 5 classes and 0 folders.
-[2015.03.20-18.58.37:141][120]LoadErrors: New page: Loading map: Levelone.umap
-[2015.03.20-18.58.37:141][120]MapCheck: New page: Map Check
-[2015.03.20-18.58.37:141][120]LightingResults: New page: Lighting Build
-[2015.03.20-18.58.37:148][120]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000013BDA980
-[2015.03.20-18.58.37:151][120]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2015.03.20-18.58.37:152][120]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-18.58.37:180][120]Cmd: MAP CHECKDEP
-[2015.03.20-18.58.37:180][120]MapCheck: New page: Levelone - 20 Mar 2015 18:58:37
-[2015.03.20-18.58.37:264][120]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 83.864ms to complete.
-[2015.03.20-18.58.37:264][120]LogFileHelpers: Loading map 'Levelone' took 0.164
-[2015.03.20-18.58.39:098][220]LogPlayLevel: PIE:  No blueprints needed recompiling
-[2015.03.20-18.58.39:099][220]PIE: New page: PIE session: Levelone (20 Mar 2015 18:58:39)
-[2015.03.20-18.58.39:100][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001274s)
-[2015.03.20-18.58.39:101][220]LogPlayLevel: PIE: World Init took: (0.000453s)
-[2015.03.20-18.58.39:101][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.001870s)
-[2015.03.20-18.58.39:131][220]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C'
-[2015.03.20-18.58.39:131][220]LogWorld: Game class is 'GameMode'
-[2015.03.20-18.58.39:133][220]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-18.58.39:134][220]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-18.58.39
-[2015.03.20-18.58.39:134][220]LogWorld: Bringing up level for play took: 0.001260
-[2015.03.20-18.58.39:137][220]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.78
-[2015.03.20-18.58.44:433][535]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D7A1A80
-[2015.03.20-18.58.53:518][ 49]LogPlayLevel: PIE:  No blueprints needed recompiling
-[2015.03.20-18.58.53:518][ 49]PIE: New page: PIE session: Levelone (20 Mar 2015 18:58:53)
-[2015.03.20-18.58.53:520][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001394s)
-[2015.03.20-18.58.53:521][ 49]LogPlayLevel: PIE: World Init took: (0.000560s)
-[2015.03.20-18.58.53:521][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.002102s)
-[2015.03.20-18.58.53:554][ 49]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C'
-[2015.03.20-18.58.53:554][ 49]LogWorld: Game class is 'GameMode'
-[2015.03.20-18.58.53:556][ 49]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-18.58.53:557][ 49]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-18.58.53
-[2015.03.20-18.58.53:558][ 49]LogWorld: Bringing up level for play took: 0.001540
-[2015.03.20-18.58.53:560][ 49]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.357
-[2015.03.20-18.58.56:674][233]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D7A1B20
-[2015.03.20-18.58.59:068][375]LogEditorViewport: Clicking on Actor (context menu): PlayerStart (PlayerStart)
-[2015.03.20-18.58.59:767][412]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
-[2015.03.20-18.58.59:851][416]LogEditorViewport: Clicking on Actor (double click): PlayerStart (PlayerStart)
-[2015.03.20-18.59.05:437][751]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
-[2015.03.20-18.59.08:137][909]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
-[2015.03.20-18.59.09:537][993]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
-[2015.03.20-18.59.10:138][ 28]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
-[2015.03.20-18.59.21:984][689]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C'
-[2015.03.20-18.59.21:984][689]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C'
-[2015.03.20-18.59.25:333][874]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C'
-[2015.03.20-18.59.25:333][874]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C'
-[2015.03.20-18.59.27:389][994]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
-[2015.03.20-18.59.32:968][220]LogPlayLevel: PIE:  No blueprints needed recompiling
-[2015.03.20-18.59.32:968][220]PIE: New page: PIE session: Levelone (20 Mar 2015 18:59:32)
-[2015.03.20-18.59.32:970][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001827s)
-[2015.03.20-18.59.32:971][220]LogPlayLevel: PIE: World Init took: (0.000454s)
-[2015.03.20-18.59.32:971][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.002432s)
-[2015.03.20-18.59.33:002][220]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.20-18.59.33:004][220]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-18.59.33:005][220]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-18.59.33
-[2015.03.20-18.59.33:006][220]LogWorld: Bringing up level for play took: 0.001623
-[2015.03.20-18.59.33:007][220]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.91
-[2015.03.20-18.59.45:386][961]Set new viewmode: Wireframe
-[2015.03.20-18.59.46:486][ 27]Set new viewmode: Wireframe
-[2015.03.20-18.59.47:336][ 78]Set new viewmode: Wireframe
-[2015.03.20-18.59.47:964][113]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000009E225C0
-[2015.03.20-18.59.49:672][214]LogPlayLevel: PIE:  No blueprints needed recompiling
-[2015.03.20-18.59.49:673][214]PIE: New page: PIE session: Levelone (20 Mar 2015 18:59:49)
-[2015.03.20-18.59.49:674][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000900s)
-[2015.03.20-18.59.49:674][214]LogPlayLevel: PIE: World Init took: (0.000443s)
-[2015.03.20-18.59.49:675][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.001480s)
-[2015.03.20-18.59.49:704][214]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.20-18.59.49:706][214]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-18.59.49:707][214]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-18.59.49
-[2015.03.20-18.59.49:708][214]LogWorld: Bringing up level for play took: 0.001603
-[2015.03.20-18.59.49:709][214]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.208
-[2015.03.20-18.59.52:453][373]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000015D86480
-[2015.03.20-18.59.56:431][609]LogPlayLevel: PIE:  No blueprints needed recompiling
-[2015.03.20-18.59.56:431][609]PIE: New page: PIE session: Levelone (20 Mar 2015 18:59:56)
-[2015.03.20-18.59.56:433][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001453s)
-[2015.03.20-18.59.56:434][609]LogPlayLevel: PIE: World Init took: (0.000454s)
-[2015.03.20-18.59.56:434][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.002047s)
-[2015.03.20-18.59.56:467][609]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.20-18.59.56:469][609]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-18.59.56:470][609]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-18.59.56
-[2015.03.20-18.59.56:471][609]LogWorld: Bringing up level for play took: 0.001656
-[2015.03.20-18.59.56:472][609]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.555
-[2015.03.20-18.59.58:384][721]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001F79C900
-[2015.03.20-19.00.42:748][372]LogPlayLevel: PIE:  No blueprints needed recompiling
-[2015.03.20-19.00.42:749][372]PIE: New page: PIE session: Levelone (20 Mar 2015 19:00:42)
-[2015.03.20-19.00.42:750][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000999s)
-[2015.03.20-19.00.42:750][372]LogPlayLevel: PIE: World Init took: (0.000505s)
-[2015.03.20-19.00.42:751][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.001664s)
-[2015.03.20-19.00.42:781][372]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.20-19.00.42:782][372]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-19.00.42:784][372]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-19.00.42
-[2015.03.20-19.00.42:784][372]LogWorld: Bringing up level for play took: 0.001545
-[2015.03.20-19.00.42:786][372]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.868
-[2015.03.20-19.01.35:312][518]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000129F9F80
-[2015.03.20-19.01.58:586][895]LogPlayLevel: PIE:  No blueprints needed recompiling
-[2015.03.20-19.01.58:586][895]PIE: New page: PIE session: Levelone (20 Mar 2015 19:01:58)
-[2015.03.20-19.01.58:587][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000914s)
-[2015.03.20-19.01.58:588][895]LogPlayLevel: PIE: World Init took: (0.000527s)
-[2015.03.20-19.01.58:588][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.001586s)
-[2015.03.20-19.01.58:620][895]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.20-19.01.58:622][895]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-19.01.58:623][895]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-19.01.58
-[2015.03.20-19.01.58:624][895]LogWorld: Bringing up level for play took: 0.001671
-[2015.03.20-19.01.58:626][895]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.707
-[2015.03.20-19.02.00:087][980]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001F79D260
-[2015.03.20-19.02.04:444][227]LogPlayLevel: PIE:  No blueprints needed recompiling
-[2015.03.20-19.02.04:445][227]PIE: New page: PIE session: Levelone (20 Mar 2015 19:02:04)
-[2015.03.20-19.02.04:446][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000995s)
-[2015.03.20-19.02.04:446][227]LogPlayLevel: PIE: World Init took: (0.000488s)
-[2015.03.20-19.02.04:446][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.001657s)
-[2015.03.20-19.02.04:480][227]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.20-19.02.04:482][227]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-19.02.04:483][227]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-19.02.04
-[2015.03.20-19.02.04:484][227]LogWorld: Bringing up level for play took: 0.001679
-[2015.03.20-19.02.04:486][227]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.566
-[2015.03.20-19.02.05:295][273]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001D6BE980
-[2015.03.20-19.02.07:546][407]LogPlayLevel: PIE:  No blueprints needed recompiling
-[2015.03.20-19.02.07:546][407]PIE: New page: PIE session: Levelone (20 Mar 2015 19:02:07)
-[2015.03.20-19.02.07:547][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001037s)
-[2015.03.20-19.02.07:548][407]LogPlayLevel: PIE: World Init took: (0.000453s)
-[2015.03.20-19.02.07:548][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.001631s)
-[2015.03.20-19.02.07:580][407]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.20-19.02.07:582][407]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-19.02.07:583][407]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-19.02.07
-[2015.03.20-19.02.07:584][407]LogWorld: Bringing up level for play took: 0.001605
-[2015.03.20-19.02.07:585][407]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.334
-[2015.03.20-19.02.08:448][456]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000009E23EC0
-[2015.03.20-19.02.14:565][823]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
-[2015.03.20-19.02.31:579][149]AssetReimport: New page: Outstanding source content changes 19:02:31
-[2015.03.20-19.02.31:580][149]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B.png)
-[2015.03.20-19.03.11:972][149]0.000012 seconds to analyze Texture2D /Game/pngs/Point_B.Point_B
-
-[2015.03.20-19.03.12:195][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Point_B" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B.uasset" SILENT=true
-[2015.03.20-19.03.12:215][150]LogSavePackage: Save=18.549681ms
-[2015.03.20-19.03.12:215][150]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Point_B5AE31CB04A2D25E1930D74B58F22A5E7.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B.uasset'
-[2015.03.20-19.03.12:241][151]AssetReimport: Info Creating new asset /Game/pngs/Point_B.
-[2015.03.20-19.03.12:774][164]AssetReimport: New page: Outstanding source content changes 19:03:12
-[2015.03.20-19.03.12:783][165]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_A.png)
-[2015.03.20-19.03.12:784][165]0.000012 seconds to analyze Texture2D /Game/pngs/Point_A.Point_A
-
-[2015.03.20-19.03.12:935][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Point_A" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_A.uasset" SILENT=true
-[2015.03.20-19.03.12:949][166]LogSavePackage: Save=12.338943ms
-[2015.03.20-19.03.12:949][166]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Point_AFD12CD3A445DCFB13F3BB5A6C696A6FC.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_A.uasset'
-[2015.03.20-19.03.13:112][167]LogEditorFactories: Performing atomic reimport of [C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B.png]
-[2015.03.20-19.03.13:112][167]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B.png)
-[2015.03.20-19.03.13:130][167]LogEditorFactories: -- imported successfully
-[2015.03.20-19.03.13:189][168]AssetReimport: Info Creating new asset /Game/pngs/Point_A.
-[2015.03.20-19.03.13:189][168]AssetReimport: Info Reimported asset Point_B from C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B.png.
-[2015.03.20-19.03.22:811][653]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
-[2015.03.20-19.03.22:811][653]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
-[2015.03.20-19.03.22:811][653]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
-[2015.03.20-19.03.29:053][ 18]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/TwinStickBP/Blueprints'
-[2015.03.20-19.03.30:120][ 82]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
-[2015.03.20-19.03.30:970][133]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
-[2015.03.20-19.03.36:196][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/Point_B_Sprite" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/sprites/Point_B_Sprite.uasset" SILENT=true
-[2015.03.20-19.03.36:216][420]LogSavePackage: Save=17.834225ms
-[2015.03.20-19.03.36:216][420]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Point_B_Sprite30A07BAB4D465DA9F1DF3CBEDC50F608.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/sprites/Point_B_Sprite.uasset'
-[2015.03.20-19.03.36:231][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/Point_A_Sprite" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/sprites/Point_A_Sprite.uasset" SILENT=true
-[2015.03.20-19.03.36:252][420]LogSavePackage: Save=19.243328ms
-[2015.03.20-19.03.36:252][420]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Point_A_Sprite7CBB66C5403DFE9D0C4E7598F592806C.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/sprites/Point_A_Sprite.uasset'
-[2015.03.20-19.03.37:693][502]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
-[2015.03.20-19.03.48:757][152]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Point_A_Sprite)
-[2015.03.20-19.03.50:824][271]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Point_B_Sprite)
-[2015.03.20-19.03.52:430][366]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Point_A_Sprite)
-[2015.03.20-19.03.54:296][475]LogEditorViewport: Clicking Background
-[2015.03.20-19.03.55:063][521]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Point_B_Sprite)
-[2015.03.20-19.04.04:565][993]LogPlayLevel: PIE:  No blueprints needed recompiling
-[2015.03.20-19.04.04:565][993]PIE: New page: PIE session: Levelone (20 Mar 2015 19:04:04)
-[2015.03.20-19.04.04:567][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001348s)
-[2015.03.20-19.04.04:568][993]LogPlayLevel: PIE: World Init took: (0.000495s)
-[2015.03.20-19.04.04:568][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.002006s)
-[2015.03.20-19.04.04:600][993]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.20-19.04.04:602][993]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-19.04.04:603][993]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-19.04.04
-[2015.03.20-19.04.04:604][993]LogWorld: Bringing up level for play took: 0.001852
-[2015.03.20-19.04.04:606][993]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.684
-[2015.03.20-19.04.22:969][ 80]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000A23A660
-[2015.03.20-19.06.22:263][600]LogEditorViewport: Clicking Background
-[2015.03.20-19.06.36:394][426]LogPlayLevel: PIE:  No blueprints needed recompiling
-[2015.03.20-19.06.36:394][426]PIE: New page: PIE session: Levelone (20 Mar 2015 19:06:36)
-[2015.03.20-19.06.36:396][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001098s)
-[2015.03.20-19.06.36:397][426]LogPlayLevel: PIE: World Init took: (0.000570s)
-[2015.03.20-19.06.36:397][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.001839s)
-[2015.03.20-19.06.36:429][426]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.20-19.06.36:431][426]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-19.06.36:432][426]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-19.06.36
-[2015.03.20-19.06.36:433][426]LogWorld: Bringing up level for play took: 0.001839
-[2015.03.20-19.06.36:435][426]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.512
-[2015.03.20-19.06.46:541][ 24]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000A1F9620
-[2015.03.20-19.06.47:688][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2015.03.20-19.06.47:719][ 76]LogSavePackage: Save=17.469870ms
-[2015.03.20-19.06.47:719][ 76]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/LeveloneD6438B344E01DFB0DBEDA7949E1DC7BE.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap'
-[2015.03.20-19.06.47:748][ 76]LogFileHelpers: Saving map 'Levelone' took 0.246
-[2015.03.20-19.06.47:756][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Point_B" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B.uasset" SILENT=true
-[2015.03.20-19.06.47:771][ 76]LogSavePackage: Save=10.890924ms
-[2015.03.20-19.06.47:771][ 76]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Point_B8F3996004C0ABF64C9992B8E17A5EE8F.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B.uasset'
-[2015.03.20-19.06.47:778][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Point_B_Sprite" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B_Sprite.uasset" SILENT=true
-[2015.03.20-19.06.47:781][ 76]LogSavePackage: Save=1.891062ms
-[2015.03.20-19.06.47:781][ 76]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Point_B_Sprite9B45164B4749143980EDF29FDE88BC09.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B_Sprite.uasset'
-[2015.03.20-19.06.47:788][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Point_A_Sprite" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_A_Sprite.uasset" SILENT=true
-[2015.03.20-19.06.47:792][ 76]LogSavePackage: Save=2.156204ms
-[2015.03.20-19.06.47:792][ 76]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Point_A_Sprite4874583C4FC9C48E234C0CA5F76833D7.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_A_Sprite.uasset'
-[2015.03.20-19.07.12:790][410]LogEditorViewport: Clicking Background
-[2015.03.20-19.07.13:424][448]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Point_A_Sprite)
-[2015.03.20-19.07.14:595][517]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Point_B_Sprite)
-[2015.03.20-19.07.47:944][819]AssetReimport: New page: Outstanding source content changes 19:07:47
-[2015.03.20-19.07.47:945][819]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/BirdPlaceholder.png)
-[2015.03.20-19.07.47:958][819]0.000029 seconds to analyze Texture2D /Game/pngs/BirdPlaceholder.BirdPlaceholder
-
-[2015.03.20-19.07.48:209][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/BirdPlaceholder" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/BirdPlaceholder.uasset" SILENT=true
-[2015.03.20-19.07.48:232][819]LogSavePackage: Save=22.132093ms
-[2015.03.20-19.07.48:233][819]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/BirdPlaceholder1B42C26E4506C06DD624348D48D80FC4.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/BirdPlaceholder.uasset'
-[2015.03.20-19.07.48:270][820]AssetReimport: Info Creating new asset /Game/pngs/BirdPlaceholder.
-[2015.03.20-19.07.59:010][277]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
-[2015.03.20-19.08.03:052][508]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
-[2015.03.20-19.08.03:052][508]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
-[2015.03.20-19.08.07:552][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/BirdPlaceholder_Sprite" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/sprites/BirdPlaceholder_Sprite.uasset" SILENT=true
-[2015.03.20-19.08.07:562][757]LogSavePackage: Save=7.751557ms
-[2015.03.20-19.08.07:562][757]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/BirdPlaceholder_Sprite08B00E05453E29FA85F47FBB8B3A7252.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/sprites/BirdPlaceholder_Sprite.uasset'
-[2015.03.20-19.08.09:219][852]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
-[2015.03.20-19.08.14:962][190]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Point_B_Sprite)
-[2015.03.20-19.08.16:365][273]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BirdPlaceholder_Sprite)
-[2015.03.20-19.08.17:603][346]LogEditorViewport: Clicking Background
-[2015.03.20-19.08.18:487][399]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BirdPlaceholder_Sprite)
-[2015.03.20-19.08.25:361][810]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BirdPlaceholder_Sprite)
-[2015.03.20-19.08.25:708][829]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
-[2015.03.20-19.08.25:958][843]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
-[2015.03.20-19.08.26:527][876]LogEditorViewport: Clicking on Component (context menu): PaperSpriteComponent (RenderComponent)
-[2015.03.20-19.08.43:510][746]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
-[2015.03.20-19.08.44:377][798]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
-[2015.03.20-19.09.00:414][242]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
-[2015.03.20-19.09.09:681][732]LogRenderer:Warning: Reallocating scene render targets to support 1208x896 (Frame:22701).
-[2015.03.20-19.09.17:186][152]LogPlayLevel: PIE:  No blueprints needed recompiling
-[2015.03.20-19.09.17:186][152]PIE: New page: PIE session: Levelone (20 Mar 2015 19:09:17)
-[2015.03.20-19.09.17:188][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001362s)
-[2015.03.20-19.09.17:188][152]LogPlayLevel: PIE: World Init took: (0.000497s)
-[2015.03.20-19.09.17:189][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.002010s)
-[2015.03.20-19.09.17:220][152]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.20-19.09.17:222][152]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-19.09.17:224][152]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-19.09.17
-[2015.03.20-19.09.17:224][152]LogWorld: Bringing up level for play took: 0.002214
-[2015.03.20-19.09.17:226][152]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.699
-[2015.03.20-19.09.55:189][422]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000026D185E0
-[2015.03.20-19.14.48:883][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2015.03.20-19.14.48:918][238]LogSavePackage: Save=13.925518ms
-[2015.03.20-19.14.48:918][238]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Levelone0AC4E48340E01AB107D3B0ADEF3F6263.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap'
-[2015.03.20-19.14.48:965][238]LogFileHelpers: Saving map 'Levelone' took 0.220
-[2015.03.20-19.14.48:969][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/BirdPlaceholder_Sprite" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/BirdPlaceholder_Sprite.uasset" SILENT=true
-[2015.03.20-19.14.48:972][238]LogSavePackage: Save=1.988138ms
-[2015.03.20-19.14.48:972][238]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/BirdPlaceholder_SpriteEC5629B74639094B25070D860E90D958.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/BirdPlaceholder_Sprite.uasset'
-[2015.03.20-19.14.48:980][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Bird" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Bird.uasset" SILENT=true
-[2015.03.20-19.14.48:995][238]LogSavePackage: Save=12.040016ms
-[2015.03.20-19.14.48:995][238]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/BirdCD854690429CE0E55AE085947EB46BC6.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Bird.uasset'
-[2015.03.20-19.14.54:445][524]Cmd: QUIT_EDITOR
-[2015.03.20-19.14.54:689][524]LogExit: Preparing to exit.
-[2015.03.20-19.14.55:201][524]LogExit: Editor shut down
-[2015.03.20-19.14.55:201][524]LogExit: Transaction tracking system shut down
-[2015.03.20-19.14.55:202][524]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000CDE4F40
-[2015.03.20-19.14.55:202][524]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000019270A40
-[2015.03.20-19.14.55:202][524]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001F79C720
-[2015.03.20-19.14.55:203][524]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000E04AAC0
-[2015.03.20-19.14.55:203][524]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D7A0860
-[2015.03.20-19.14.55:267][524]LogExit: Object subsystem successfully closed.
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module StatsViewer (177)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module CrashTracker (176)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module SuperSearch (175)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module SceneOutliner (174)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module EditorWidgets (173)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module CollectionManager (172)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module FoliageEdit (171)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module LandscapeEditor (170)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module MeshPaint (169)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module ActorPickerMode (168)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module GeometryMode (167)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module TextureAlignMode (166)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module BspMode (165)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module PlacementMode (164)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module AutomationWorker (163)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module CharacterAI (162)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module SmartSnapping (161)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module ViewportSnapping (160)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module LogVisualizer (159)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (158)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module IntroTutorials (157)
-[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (156)
-[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module HardwareTargeting (155)
-[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (154)
-[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module UndoHistory (153)
-[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (152)
-[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module UserFeedback (151)
-[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module XmlParser (150)
-[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module Blutility (149)
-[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (148)
-[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (147)
-[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (146)
-[2015.03.20-19.14.56:258][524]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (145)
-[2015.03.20-19.14.56:258][524]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (144)
-[2015.03.20-19.14.56:258][524]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (143)
-[2015.03.20-19.14.56:258][524]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (142)
-[2015.03.20-19.14.56:258][524]LogModuleManager: Shutting down and abandoning module InputBindingEditor (141)
-[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (140)
-[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module SettingsEditor (139)
-[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module ProjectLauncher (138)
-[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module SessionFrontend (137)
-[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module ProfilerClient (136)
-[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (135)
-[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module DeviceManager (134)
-[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module AutomationController (133)
-[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module AutomationWindow (132)
-[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module Layers (131)
-[2015.03.20-19.14.56:260][524]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (130)
-[2015.03.20-19.14.56:260][524]LogModuleManager: Shutting down and abandoning module DetailCustomizations (129)
-[2015.03.20-19.14.56:260][524]LogModuleManager: Shutting down and abandoning module PackagesDialog (128)
-[2015.03.20-19.14.56:260][524]LogModuleManager: Shutting down and abandoning module AssetRegistry (127)
-[2015.03.20-19.14.56:322][524]LogModuleManager: Shutting down and abandoning module Persona (126)
-[2015.03.20-19.14.56:322][524]LogModuleManager: Shutting down and abandoning module SlateReflector (125)
-[2015.03.20-19.14.56:322][524]LogModuleManager: Shutting down and abandoning module LevelEditor (124)
-[2015.03.20-19.14.56:323][524]LogModuleManager: Shutting down and abandoning module Kismet (123)
-[2015.03.20-19.14.56:323][524]LogModuleManager: Shutting down and abandoning module GraphEditor (122)
-[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module ClassViewer (121)
-[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module Toolbox (120)
-[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module ModuleUI (119)
-[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module MovieSceneTools (118)
-[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module OutputLog (117)
-[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module GammaUI (116)
-[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module Documentation (115)
-[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (114)
-[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (113)
-[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module HTTP (112)
-[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module AnalyticsET (111)
-[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module Analytics (110)
-[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module AITestSuite (109)
-[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module GameplayDebugger (108)
-[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module AIModule (107)
-[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module ProfilerService (106)
-[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module TaskGraph (105)
-[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module SlateRemote (104)
-[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module ScriptEditorPlugin (103)
-[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (102)
-[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module CableComponent (101)
-[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module MessagingDebugger (100)
-[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (99)
-[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (98)
-[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module PluginsEditor (97)
-[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module MainFrame (96)
-[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module EpicSurvey (95)
-[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module DesktopPlatform (94)
-[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (93)
-[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module HotReload (92)
-[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (91)
-[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module UObjectPlugin (90)
-[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (89)
-[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (88)
-[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module SourceControl (87)
-[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module GitSourceControl (86)
-[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module BlankPlugin (85)
-[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (84)
-[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module PaperJsonImporter (83)
-[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module ContentBrowser (82)
-[2015.03.20-19.14.56:406][524]LogModuleManager: Shutting down and abandoning module Paper2DEditor (81)
-[2015.03.20-19.14.56:406][524]LogModuleManager: Shutting down and abandoning module ScriptPlugin (80)
-[2015.03.20-19.14.56:406][524]LogModuleManager: Shutting down and abandoning module UdpMessaging (79)
-[2015.03.20-19.14.56:506][524]LogModuleManager: Shutting down and abandoning module Paper2D (78)
-[2015.03.20-19.14.56:506][524]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (77)
-[2015.03.20-19.14.56:507][524]LogModuleManager: Shutting down and abandoning module Media (76)
-[2015.03.20-19.14.56:507][524]LogModuleManager: Shutting down and abandoning module WmfMedia (75)
-[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
-[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module PropertyEditor (73)
-[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (72)
-[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module FunctionalTesting (71)
-[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (70)
-[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (69)
-[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module MessageLog (68)
-[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module Sequencer (67)
-[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module AssetTools (66)
-[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module UMGEditor (65)
-[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module UMG (64)
-[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module Slate (63)
-[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module EditorStyle (62)
-[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module SessionServices (61)
-[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (60)
-[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (59)
-[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module XAudio2 (58)
-[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module Networking (56)
-[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module Core (55)
-[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module KismetCompiler (54)
-[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module PhysXFormats (53)
-[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module MeshUtilities (52)
-[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module DerivedDataCache (51)
-[2015.03.20-19.14.56:592][524]LogDerivedDataCache: Shutdown
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (50)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (49)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (48)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (47)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (46)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (45)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (44)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module ImageWrapper (43)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (42)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (41)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (40)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (39)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (38)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (37)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (36)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (35)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module Messaging (34)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (33)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (32)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (31)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (30)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (29)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module Android_ES31TargetPlatform (28)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (27)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (26)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (25)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (24)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (23)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (22)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (21)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module TargetPlatform (20)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module InputCore (19)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module Settings (18)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (16)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module OculusRift (15)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (14)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module TextureCompressor (13)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module ShaderCore (12)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module Landscape (11)
-[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (10)
-[2015.03.20-19.14.56:595][524]LogModuleManager: Shutting down and abandoning module OpenGLDrv (9)
-[2015.03.20-19.14.56:595][524]LogModuleManager: Shutting down and abandoning module D3D11RHI (8)
-[2015.03.20-19.14.56:595][524]LogModuleManager: Shutting down and abandoning module Renderer (7)
-[2015.03.20-19.14.56:595][524]LogModuleManager: Shutting down and abandoning module Engine (6)
-[2015.03.20-19.14.56:595][524]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
-[2015.03.20-19.14.56:595][524]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
-[2015.03.20-19.14.56:595][524]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
-[2015.03.20-19.14.56:595][524]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
-[2015.03.20-19.14.56:595][524]LogModuleManager: Shutting down and abandoning module PakFile (1)
-[2015.03.20-19.14.56:595][524]LogExit: Exiting.
-[2015.03.20-19.14.56:614][524]Log file closed, 03/20/15 19:14:56
+[2015.03.20-19.16.51:043][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2015.03.20-19.16.53:528][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.20-19.16.54:118][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.20-19.16.54:184][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2015.03.20-19.16.54:227][  0]LogDerivedDataCache: Loaded boot cache 0.04s 39MB C:/Users/TMoynihan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
+[2015.03.20-19.16.54:227][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/TMoynihan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc
+[2015.03.20-19.16.54:227][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2015.03.20-19.16.54:227][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2015.03.20-19.16.54:357][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2015.03.20-19.16.54:368][  0]LogDerivedDataCache: Using Local data cache path C:/Users/TMoynihan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2015.03.20-19.16.54:716][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2015.03.20-19.16.54:716][  0]LogMeshUtilities: No automatic mesh merging module available
+[2015.03.20-19.16.55:114][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2015.03.20-19.16.55:200][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf'
+[2015.03.20-19.16.56:947][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2015.03.20-19.16.57:182][  0]SourceControl: Info Source control is disabled
+[2015.03.20-19.16.57:182][  0]SourceControl: Info Source control is disabled
+[2015.03.20-19.16.57:182][  0]SourceControl: Info Source control is disabled
+[2015.03.20-19.16.57:182][  0]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.20-19.16.57:182][  0]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.20-19.16.57:191][  0]SourceControl: Info Source control is disabled
+[2015.03.20-19.16.57:412][  0]LogObj: 24231 objects as part of root set at end of initial load.
+[2015.03.20-19.16.57:412][  0]LogUObjectAllocator: 5136440 out of 0 bytes used by permanent object pool.
+[2015.03.20-19.16.57:498][  0]LogEngine: Initializing Engine...
+[2015.03.20-19.16.59:699][  0]LogInit: XAudio2 using 'Headphone (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.03.20-19.16.59:714][  0]LogInit: FAudioDevice initialized.
+[2015.03.20-19.16.59:753][  0]LogAIModule: Creating AISystem for world NewWorld
+[2015.03.20-19.16.59:774][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/TMoynihan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
+[2015.03.20-19.16.59:776][  0]LogInit: Texture streaming: Enabled
+[2015.03.20-19.16.59:881][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
+[2015.03.20-19.16.59:881][  0]LogAnalytics: ET APIKey = Rocket.Release. APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.7.3-2479750+++depot+UE4-Releases+4.7
+[2015.03.20-19.16.59:881][  0]LogAnalytics: ET APIKey = Rocket.Release. DataRouterUploadURL = https://datarouter-public-service-gamedev.ol.epicgames.net/datarouter/api/v1/public/data. AppVersion = 4.7.3-2479750+++depot+UE4-Releases+4.7
+[2015.03.20-19.16.59:881][  0]LogAnalytics: SetUserId a1543e6e4b44b1180d87dca38229f528|f29681344a31429fb7499e9e1133047a|a291f7dc-b741-4b66-bec7-16f532d7f59b
+[2015.03.20-19.16.59:881][  0]LogAnalytics: AnalyticsET::StartSession [Rocket.Release]
+[2015.03.20-19.16.59:907][  0]LogInit: Transaction tracking system initialized
+[2015.03.20-19.17.00:112][  0]BlueprintLog: New page: Editor Load
+[2015.03.20-19.17.00:146][  0]LogAssetRegistry: FAssetRegistry took 0.0097 seconds to start up
+[2015.03.20-19.17.00:146][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2015.03.20-19.17.00:730][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.20-19.17.01:108][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.20-19.17.01:388][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Regular.ttf'
+[2015.03.20-19.17.01:388][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Bold.ttf'
+[2015.03.20-19.17.01:397][  0]LogConsoleResponse:Display: 
+[2015.03.20-19.17.01:538][  0]LogCook:Display: Done creating registry. It took  0.00s.
+[2015.03.20-19.17.01:690][  0]SourceControl: Info Source control is disabled
+[2015.03.20-19.17.01:690][  0]Cmd: MAP LOAD FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/TwinStickBP/Maps/TwinStickExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2015.03.20-19.17.01:690][  0]LogEditorServer:Warning: Can't find file '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2015.03.20-19.17.01:690][  0]Cmd: MAP CHECKDEP
+[2015.03.20-19.17.01:690][  0]MapCheck: New page: Untitled_0 - 20 Mar 2015 19:17:01
+[2015.03.20-19.17.01:816][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 125.618ms to complete.
+[2015.03.20-19.17.01:816][  0]LogFileHelpers: Loading map 'TwinStickExampleMap' took 0.126
+[2015.03.20-19.17.01:965][  0]LogCollectionManager: Loaded 0 collections in 0.001747 seconds
+[2015.03.20-19.17.01:977][  0]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 1696 classes and 261 folders.
+[2015.03.20-19.17.02:013][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0018 seconds. Added 1 classes and 2 folders.
+[2015.03.20-19.17.02:059][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2015.03.20-19.17.02:061][  0]LogSlate:Warning: Failed to load font data from 'Veranda'
+[2015.03.20-19.17.02:064][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2015.03.20-19.17.02:098][  0]LogLoad: Full Startup: 13.67 seconds (BP compile: 0.00 seconds)
+[2015.03.20-19.17.02:478][  0]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
+[2015.03.20-19.17.02:656][  0]LogRenderer:Warning: Reallocating scene render targets to support 1208x568 (Frame:2).
+[2015.03.20-19.17.04:477][  6]LogAssetRegistry: Asset discovery search completed in 4.3416 seconds
+[2015.03.20-19.17.04:802][  7]AssetReimport: New page: Outstanding source content changes 19:17:04
+[2015.03.20-19.17.04:806][  7]LogEditorFactories: Performing atomic reimport of [C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/BirdPlaceholder.png]
+[2015.03.20-19.17.04:806][  7]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/BirdPlaceholder.png)
+[2015.03.20-19.17.04:850][  7]LogEditorFactories: -- imported successfully
+[2015.03.20-19.17.04:851][  7]AssetReimport: Info Reimported asset BirdPlaceholder from C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/BirdPlaceholder.png.
+[2015.03.20-19.27.02:723][531]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.023
+[2015.03.20-19.27.02:756][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pngs/BirdPlaceholder] ([1] browsable assets)...
+[2015.03.20-19.27.02:793][531]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/pngs/BirdPlaceholder.BirdPlaceholder]
+[2015.03.20-19.27.02:793][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/pngs/BirdPlaceholder]
+[2015.03.20-19.27.02:938][531]LogSavePackage: Save=138.328461ms
+[2015.03.20-19.27.02:939][531]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/BirdPlaceholder_Auto16F587DA144093ABAD565B0ACDB63C1F9.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Autosaves/Game/pngs/BirdPlaceholder_Auto1.uasset'
+[2015.03.20-19.27.02:980][531]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Bird] ([1] browsable assets)...
+[2015.03.20-19.27.02:980][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Bird]
+[2015.03.20-19.27.03:000][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Bird" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Bird_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2015.03.20-19.27.03:148][531]LogSavePackage: Save=141.677811ms
+[2015.03.20-19.27.03:149][531]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Bird_Auto1366B7F704C32735F647D65AAA819B58F.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Bird_Auto1.uasset'
+[2015.03.20-19.27.03:162][531]LogFileHelpers: Auto-saving content packages took 0.439
+[2015.03.20-19.34.39:004][354]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2015.03.20-19.34.39:790][400]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.20-19.34.41:514][502]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
+[2015.03.20-19.34.43:849][641]LogEditorViewport: Clicking Background
+[2015.03.20-19.34.44:733][694]Cmd: SELECT NONE
+[2015.03.20-19.34.49:951][999]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2015.03.20-19.34.53:145][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Bird" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Bird.uasset" SILENT=true
+[2015.03.20-19.34.53:171][ 68]LogSavePackage: Save=19.558504ms
+[2015.03.20-19.34.53:171][ 68]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Bird5EB3B09F49991D2E234A1B9ACBDC0D20.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Bird.uasset'
+[2015.03.20-19.34.53:178][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/BirdPlaceholder" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/BirdPlaceholder.uasset" SILENT=true
+[2015.03.20-19.34.53:188][ 68]LogSavePackage: Save=3.521258ms
+[2015.03.20-19.34.53:188][ 68]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/BirdPlaceholder3BFC9161437D0EB6C9EBEEB20EB28ED4.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/BirdPlaceholder.uasset'
+[2015.03.20-19.34.53:193][ 68]Cmd: MAP LOAD FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2015.03.20-19.34.53:194][ 68]LightingResults: New page: Lighting Build
+[2015.03.20-19.34.53:215][ 68]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0068 seconds. Added 5 classes and 0 folders.
+[2015.03.20-19.34.53:246][ 68]LoadErrors: New page: Loading map: Levelone.umap
+[2015.03.20-19.34.53:247][ 68]MapCheck: New page: Map Check
+[2015.03.20-19.34.53:247][ 68]LightingResults: New page: Lighting Build
+[2015
