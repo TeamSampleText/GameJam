@@ -1,4 +1,4 @@
-﻿Log file open, 03/20/15 18:42:18
+﻿Log file open, 03/20/15 18:58:06
 LogInit:Display: Running engine for game: try_2
 LogInit: Version: 4.7.3-2479750+++depot+UE4-Releases+4.7
 LogInit: API Version: 2455222
@@ -6,406 +6,294 @@ LogInit: Compiled (64-bit): Mar 15 2015 23:20:45
 LogInit: Compiled with Visual C++: 18.00.21005.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++depot+UE4-Releases+4.7
-LogInit: Command line:  
+LogInit: Command line: 
 LogInit: Base directory: C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/
 LogInit: Rocket: 1
-[2015.03.20-18.42.18:756][  0]LogTaskGraph: Started task graph with 3 named threads and 6 total threads.
-[2015.03.20-18.42.18:826][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
-[2015.03.20-18.42.18:859][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
-[2015.03.20-18.42.18:875][  0]LogInit: Object subsystem initialized
-[2015.03.20-18.42.18:878][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'TranslucentSortAxis = (X=0.000000,Y=-1.000000,Z=0.000000)'
-[2015.03.20-18.42.18:878][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Alan/Desktop/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
-[2015.03.20-18.42.18:878][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
-[2015.03.20-18.42.18:878][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Alan/Desktop/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
-[2015.03.20-18.42.18:878][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=),ExternalCurve=None)'
-[2015.03.20-18.42.18:878][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Alan/Desktop/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
-[2015.03.20-18.42.18:879][  0]LogInit: Selected Device Profile: [Windows]
-[2015.03.20-18.42.18:879][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2015.03.20-18.42.18:905][  0]LogInit: Computer: LENOVO-PC
-[2015.03.20-18.42.18:905][  0]LogInit: User: Alan
-[2015.03.20-18.42.18:905][  0]LogInit: CPU Page size=4096, Cores=4
-[2015.03.20-18.42.18:905][  0]LogInit: High frequency timer resolution =2.435779 MHz
-[2015.03.20-18.42.18:905][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx) Virtual=131072.0GB
-[2015.03.20-18.42.18:905][  0]LogMemory: Platform Memory Stats for Windows
-[2015.03.20-18.42.18:905][  0]LogMemory: Process Physical Memory: 45.90 MB used, 45.90 MB peak
-[2015.03.20-18.42.18:905][  0]LogMemory: Process Virtual Memory: 26.39 MB used, 26.39 MB peak
-[2015.03.20-18.42.18:905][  0]LogMemory: Physical Memory: 5536.79 MB used, 12200.27 MB total
-[2015.03.20-18.42.18:905][  0]LogMemory: Virtual Memory: 291.70 MB used, 134217728.00 MB total
-[2015.03.20-18.42.18:949][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 860M   (Feature Level 11_0)
-[2015.03.20-18.42.18:949][  0]LogD3D11RHI: Adapter has 1972MB of dedicated video memory, 0MB of dedicated system memory, and 2048MB of shared system memory, 1 output[s]
-[2015.03.20-18.42.18:958][  0]LogD3D11RHI: Found D3D11 adapter 1: Intel(R) HD Graphics 4600 (Feature Level 11_0)
-[2015.03.20-18.42.18:958][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 1792MB of shared system memory, 0 output[s]
-[2015.03.20-18.42.18:961][  0]LogD3D11RHI: Found D3D11 adapter 2: Microsoft Basic Render Driver (Feature Level 11_0)
-[2015.03.20-18.42.18:961][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 256MB of shared system memory, 0 output[s]
-[2015.03.20-18.42.18:961][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
-[2015.03.20-18.42.18:989][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
-[2015.03.20-18.42.19:002][  0]LogD3D11RHI: Async texture creation enabled
-[2015.03.20-18.42.19:095][  0]LogTextLocalizationManager: The requested culture ('en_GB') has no localization data; parent culture's ('en') localization data will be used.
-[2015.03.20-18.42.19:198][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:UICommands, Key:Save_ToolTip):
+[2015.03.20-18.58.06:294][  0]LogTaskGraph: Started task graph with 3 named threads and 6 total threads.
+[2015.03.20-18.58.06:362][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2015.03.20-18.58.06:387][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.03.20-18.58.06:396][  0]LogInit: Object subsystem initialized
+[2015.03.20-18.58.06:398][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'TranslucentSortAxis = (X=0.000000,Y=-1.000000,Z=0.000000)'
+[2015.03.20-18.58.06:398][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.20-18.58.06:398][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2015.03.20-18.58.06:398][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.20-18.58.06:398][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=),ExternalCurve=None)'
+[2015.03.20-18.58.06:398][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.20-18.58.06:398][  0]LogInit: Selected Device Profile: [Windows]
+[2015.03.20-18.58.06:399][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2015.03.20-18.58.06:405][  0]LogInit: Computer: PC
+[2015.03.20-18.58.06:405][  0]LogInit: User: TMoynihan
+[2015.03.20-18.58.06:405][  0]LogInit: CPU Page size=4096, Cores=4
+[2015.03.20-18.58.06:405][  0]LogInit: High frequency timer resolution =2.338369 MHz
+[2015.03.20-18.58.06:405][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx) Virtual=8192.0GB
+[2015.03.20-18.58.06:405][  0]LogMemory: Platform Memory Stats for Windows
+[2015.03.20-18.58.06:405][  0]LogMemory: Process Physical Memory: 49.21 MB used, 49.21 MB peak
+[2015.03.20-18.58.06:406][  0]LogMemory: Process Virtual Memory: 25.01 MB used, 25.02 MB peak
+[2015.03.20-18.58.06:406][  0]LogMemory: Physical Memory: 5339.88 MB used, 16304.11 MB total
+[2015.03.20-18.58.06:406][  0]LogMemory: Virtual Memory: 279.23 MB used, 8388608.00 MB total
+[2015.03.20-18.58.06:458][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 860M    (Feature Level 11_0)
+[2015.03.20-18.58.06:458][  0]LogD3D11RHI: Adapter has 1976MB of dedicated video memory, 0MB of dedicated system memory, and 2048MB of shared system memory, 1 output[s]
+[2015.03.20-18.58.06:458][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2015.03.20-18.58.06:465][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2015.03.20-18.58.06:479][  0]LogD3D11RHI: Async texture creation enabled
+[2015.03.20-18.58.06:556][  0]LogTextLocalizationManager: The requested culture ('en_GB') has no localization data; parent culture's ('en') localization data will be used.
+[2015.03.20-18.58.06:614][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:UICommands, Key:Save_ToolTip):
 Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-29098895) String: (Saves the current level to disk)
 Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Engine/en/Engine.locres) Hash: (-1280300587) String: (Save selected data to vlog file)
-[2015.03.20-18.42.19:198][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:ContentBrowser, Key:ImportAssetToolTip):
+[2015.03.20-18.58.06:614][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:ContentBrowser, Key:ImportAssetToolTip):
 Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-630476809) String: (Import to {0}...)
 Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (1271782899) String: (Imports an asset from file to this folder.)
-[2015.03.20-18.42.19:333][  0]LogContentStreaming: Texture pool size is 0.000000MB
-[2015.03.20-18.42.22:777][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2015.03.20-18.42.23:509][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2015.03.20-18.42.23:591][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
-[2015.03.20-18.42.23:640][  0]LogDerivedDataCache: Loaded boot cache 0.05s 39MB C:/Users/Alan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
-[2015.03.20-18.42.23:640][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Alan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc
-[2015.03.20-18.42.23:641][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alan/Desktop/GameJam/try_2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2015.03.20-18.42.23:641][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2015.03.20-18.42.23:780][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2015.03.20-18.42.23:796][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2015.03.20-18.42.24:210][  0]LogMeshUtilities: No automatic mesh reduction module available
-[2015.03.20-18.42.24:210][  0]LogMeshUtilities: No automatic mesh merging module available
-[2015.03.20-18.42.24:839][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2015.03.20-18.42.25:005][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf'
-[2015.03.20-18.42.26:411][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2015.03.20-18.42.26:707][  0]SourceControl: Info Source control is disabled
-[2015.03.20-18.42.26:707][  0]SourceControl: Info Source control is disabled
-[2015.03.20-18.42.26:707][  0]SourceControl: Info Source control is disabled
-[2015.03.20-18.42.26:707][  0]LogSourceControl: RunCommandInternalRaw: 'git version'
-[2015.03.20-18.42.26:707][  0]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
-[2015.03.20-18.42.26:721][  0]SourceControl: Info Source control is disabled
-[2015.03.20-18.42.26:999][  0]LogObj: 24231 objects as part of root set at end of initial load.
-[2015.03.20-18.42.26:999][  0]LogUObjectAllocator: 5136440 out of 0 bytes used by permanent object pool.
-[2015.03.20-18.42.27:125][  0]LogEngine: Initializing Engine...
-[2015.03.20-18.42.29:432][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2015.03.20-18.42.29:445][  0]LogInit: FAudioDevice initialized.
-[2015.03.20-18.42.29:528][  0]LogAIModule: Creating AISystem for world NewWorld
-[2015.03.20-18.42.29:559][  0]LogDerivedDataCache: Saved boot cache 0.03s 39MB C:/Users/Alan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
-[2015.03.20-18.42.29:564][  0]LogInit: Texture streaming: Enabled
-[2015.03.20-18.42.29:784][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
-[2015.03.20-18.42.29:784][  0]LogAnalytics: ET APIKey = Rocket.Release. APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.7.3-2479750+++depot+UE4-Releases+4.7
-[2015.03.20-18.42.29:784][  0]LogAnalytics: ET APIKey = Rocket.Release. DataRouterUploadURL = https://datarouter-public-service-gamedev.ol.epicgames.net/datarouter/api/v1/public/data. AppVersion = 4.7.3-2479750+++depot+UE4-Releases+4.7
-[2015.03.20-18.42.29:784][  0]LogAnalytics: SetUserId bf983d414061faadd9b540bc65654c89|cd1d82d73781485ab50acc24dc629692|7e7e8939-47f7-4fa5-92a0-b7ded3b067c9
-[2015.03.20-18.42.29:785][  0]LogAnalytics: AnalyticsET::StartSession [Rocket.Release]
-[2015.03.20-18.42.29:842][  0]LogInit: Transaction tracking system initialized
-[2015.03.20-18.42.30:167][  0]BlueprintLog: New page: Editor Load
-[2015.03.20-18.42.30:224][  0]LogAssetRegistry: FAssetRegistry took 0.0104 seconds to start up
-[2015.03.20-18.42.30:224][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
-[2015.03.20-18.42.31:271][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2015.03.20-18.42.31:917][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2015.03.20-18.42.32:344][  0]LogLinker:Warning: Asset '../../../Engine/Content/Tutorial/Mobile/SettingUpAndroidTutorial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
-[2015.03.20-18.42.32:417][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Regular.ttf'
-[2015.03.20-18.42.32:417][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Bold.ttf'
-[2015.03.20-18.42.32:423][  0]LogConsoleResponse:Display: 
-[2015.03.20-18.42.32:705][  0]LogCook:Display: Done creating registry. It took  0.00s.
-[2015.03.20-18.42.33:024][  0]SourceControl: Info Source control is disabled
-[2015.03.20-18.42.33:024][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/TwinStickBP/Maps/TwinStickExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2015.03.20-18.42.33:060][  0]LightingResults: New page: Lighting Build
-[2015.03.20-18.42.33:090][  0]MapCheck: New page: Map Check
-[2015.03.20-18.42.33:090][  0]LightingResults: New page: Lighting Build
-[2015.03.20-18.42.33:105][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000354DBE2980
-[2015.03.20-18.42.34:583][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2015.03.20-18.42.35:822][  0]LogAIModule: Creating AISystem for world TwinStickExampleMap
-[2015.03.20-18.42.35:823][  0]Cmd: MAP CHECKDEP
-[2015.03.20-18.42.35:823][  0]MapCheck: New page: TwinStickExampleMap - 20 Mar 2015 18:42:35
-[2015.03.20-18.42.35:960][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 136.365ms to complete.
-[2015.03.20-18.42.35:960][  0]LogFileHelpers: Loading map 'TwinStickExampleMap' took 2.935
-[2015.03.20-18.42.36:126][  0]LogCollectionManager: Loaded 0 collections in 0.002327 seconds
-[2015.03.20-18.42.36:138][  0]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 1696 classes and 261 folders.
-[2015.03.20-18.42.36:184][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0026 seconds. Added 1 classes and 2 folders.
-[2015.03.20-18.42.36:260][  0]LogCrashTracker: Crashtracker disabled due to settings.
-[2015.03.20-18.42.36:262][  0]LogSlate:Warning: Failed to load font data from 'Veranda'
-[2015.03.20-18.42.36:269][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
-[2015.03.20-18.42.36:303][  0]LogLoad: Full Startup: 20.25 seconds (BP compile: 0.34 seconds)
-[2015.03.20-18.42.36:731][  0]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/TwinStickBP/Blueprints'
-[2015.03.20-18.42.36:922][  0]LogRenderer:Warning: Reallocating scene render targets to support 32x32 (Frame:2).
-[2015.03.20-18.42.37:239][  1]LogRenderer:Warning: Reallocating scene render targets to support 808x368 (Frame:3).
-[2015.03.20-18.42.40:330][  8]LogAssetRegistry: Asset discovery search completed in 10.1171 seconds
-[2015.03.20-18.43.23:144][200]LogRenderer:Warning: Reallocating scene render targets to support 968x440 (Frame:164).
-[2015.03.20-18.43.24:160][249]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
-[2015.03.20-18.43.24:899][287]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_8) Not registered. Aborting.
-[2015.03.20-18.43.24:929][287]Cmd: MAP LOAD FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2015.03.20-18.43.24:929][287]LightingResults: New page: Lighting Build
-[2015.03.20-18.43.24:970][287]LoadErrors: New page: Loading map: Levelone.umap
-[2015.03.20-18.43.24:971][287]MapCheck: New page: Map Check
-[2015.03.20-18.43.24:971][287]LightingResults: New page: Lighting Build
-[2015.03.20-18.43.24:984][287]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000035555BAAC0
-[2015.03.20-18.43.25:088][287]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2015.03.20-18.43.25:089][287]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-18.43.25:124][287]Cmd: MAP CHECKDEP
-[2015.03.20-18.43.25:124][287]MapCheck: New page: Levelone - 20 Mar 2015 18:43:25
-[2015.03.20-18.43.25:271][287]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 147.288ms to complete.
-[2015.03.20-18.43.25:271][287]LogFileHelpers: Loading map 'Levelone' took 0.345
-[2015.03.20-18.43.34:859][820]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/TwinStickBP'
-[2015.03.20-18.43.37:188][959]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
-[2015.03.20-18.43.41:321][185]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
-[2015.03.20-18.43.50:672][740]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
-[2015.03.20-18.43.59:566][893]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
-[2015.03.20-18.44.00:267][935]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/TwinStickBP/Audio'
-[2015.03.20-18.44.01:032][979]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/TwinStickBP/Blueprints'
-[2015.03.20-18.44.03:607][102]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_8) Not registered. Aborting.
-[2015.03.20-18.44.03:626][102]LogMetaData: Removing '/Game/BluePrints/TwinStickPawn.TwinStickPawn_C' ref from Metadata '/Game/TwinStickBP/Blueprints/TwinStickPawn.PackageMetaData'
-[2015.03.20-18.44.03:626][102]LogMetaData: Removing '/Game/BluePrints/TwinStickPawn.SKEL_TwinStickPawn_C' ref from Metadata '/Game/TwinStickBP/Blueprints/TwinStickPawn.PackageMetaData'
-[2015.03.20-18.44.03:840][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/TwinStickPawn" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/TwinStickPawn.uasset" SILENT=true
-[2015.03.20-18.44.04:550][102]LogSavePackage: Save=701.606323ms
-[2015.03.20-18.44.04:550][102]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/TwinStickPawn96910C6848556A3197680CA526529D72.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/TwinStickPawn.uasset'
-[2015.03.20-18.44.04:647][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/TwinStickPawn" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset" SILENT=true
-[2015.03.20-18.44.04:667][102]LogSavePackage: Save=8.770089ms
-[2015.03.20-18.44.04:667][102]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/TwinStickPawn63B10AEC424ABF9DED3F1AB80FE251BC.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
-[2015.03.20-18.44.07:616][254]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_8) Not registered. Aborting.
-[2015.03.20-18.44.07:632][254]LogMetaData: Removing '/Game/TwinStickGameMode.TwinStickGameMode_C' ref from Metadata '/Game/TwinStickBP/Blueprints/TwinStickGameMode.PackageMetaData'
-[2015.03.20-18.44.07:632][254]LogMetaData: Removing '/Game/TwinStickGameMode.SKEL_TwinStickGameMode_C' ref from Metadata '/Game/TwinStickBP/Blueprints/TwinStickGameMode.PackageMetaData'
-[2015.03.20-18.44.07:706][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickGameMode" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/TwinStickGameMode.uasset" SILENT=true
-[2015.03.20-18.44.07:754][254]LogSavePackage: Save=12.816844ms
-[2015.03.20-18.44.07:755][254]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/TwinStickGameMode7F4DFBA442BA6C332B558996F092B77E.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/TwinStickGameMode.uasset'
-[2015.03.20-18.44.07:776][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/TwinStickGameMode" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/TwinStickBP/Blueprints/TwinStickGameMode.uasset" SILENT=true
-[2015.03.20-18.44.07:802][254]LogSavePackage: Save=11.519518ms
-[2015.03.20-18.44.07:802][254]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/TwinStickGameModeBE5CE1444C9443EA5E78169A4986822C.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/TwinStickBP/Blueprints/TwinStickGameMode.uasset'
-[2015.03.20-18.44.08:921][320]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_8) Not registered. Aborting.
-[2015.03.20-18.44.12:797][320]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_TwinStickProjectile_C_0' or package '/Engine/Transient'.
-[2015.03.20-18.44.12:797][320]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_TwinStickProjectile_C_1' or package '/Engine/Transient'.
-[2015.03.20-18.44.12:798][320]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_TwinStickProjectile_C_48' or package '/Engine/Transient'.
-[2015.03.20-18.44.12:798][320]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_TwinStickProjectile_C_47' or package '/Engine/Transient'.
-[2015.03.20-18.44.13:685][366]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
-[2015.03.20-18.44.15:561][405]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.44.15:561][405]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.44.15:561][405]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.44.15:561][405]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.44.18:980][597]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.44.18:981][597]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.44.18:981][597]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.44.18:981][597]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.44.27:716][ 84]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.44.27:716][ 84]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.44.27:716][ 84]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.44.27:716][ 84]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.44.37:685][680]BlueprintLog: New page: Pre-PIE auto-recompile
-[2015.03.20-18.44.37:701][680]LogPlayLevel: [PIE] Compiling TwinStickPawn before PIE...
-[2015.03.20-18.44.37:747][680]LogBlueprint:Error: [compiler] Error Spawn node  SpawnActor NONE  must have a class specified.
-[2015.03.20-18.44.37:839][680]LogBlueprint:Warning: [compiler] Warning [0141.78] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 0 Warning(s) [in 123 ms]
-[2015.03.20-18.44.37:839][680]LogBlueprint:Warning: [compiler] Warning [0141.78] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 1 Warning(s) [in 0 ms]
-[2015.03.20-18.44.37:840][680]LogBlueprint:Warning: [compiler] Warning [0141.78] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 2 Warning(s) [in 0 ms]
-[2015.03.20-18.44.37:848][680]LogBlueprint:Warning: [compiler] Warning [0141.79] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 3 Warning(s) [in 7 ms]
-[2015.03.20-18.44.37:848][680]LogBlueprint:Warning: [compiler] Warning [0141.79] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 4 Warning(s) [in 0 ms]
-[2015.03.20-18.44.37:848][680]LogBlueprint:Warning: [compiler] Warning [0141.79] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 5 Warning(s) [in 0 ms]
-[2015.03.20-18.44.37:874][680]LogPlayLevel: PIE:  Blueprint regeneration took 188 ms (1 blueprints)
-[2015.03.20-18.44.39:353][680]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.44.39:353][680]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.44.39:353][680]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.44.39:353][680]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.44.39:379][680]BlueprintLog: Info Blueprint TwinStickPawn failed to compile
-[2015.03.20-18.44.43:016][895]BlueprintLog: New page: Pre-PIE auto-recompile
-[2015.03.20-18.44.43:027][895]LogPlayLevel: [PIE] Compiling TwinStickPawn before PIE...
-[2015.03.20-18.44.43:135][895]LogPlayLevel: PIE:  Blueprint regeneration took 119 ms (1 blueprints)
-[2015.03.20-18.44.43:135][895]PIE: New page: PIE session: Levelone (20 Mar 2015 18:44:43)
-[2015.03.20-18.44.43:137][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001445s)
-[2015.03.20-18.44.43:138][895]LogPlayLevel: PIE: World Init took: (0.000787s)
-[2015.03.20-18.44.43:138][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.002497s)
-[2015.03.20-18.44.43:193][895]LogLinker:Warning: Can't find file '/Game/TwinStickBP/Blueprints/TwinStickProjectile'
-[2015.03.20-18.44.43:193][895]LogLinker:Warning: Can't find file for asset '/Game/TwinStickBP/Blueprints/TwinStickProjectile' while loading ../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/TwinStickPawn.uasset.
-[2015.03.20-18.44.43:193][895]LoadErrors:Error: Error /Game/BluePrints/TwinStickPawn : Can't find file for asset. /Game/TwinStickBP/Blueprints/TwinStickProjectile
-[2015.03.20-18.44.43:203][895]LogLinker:Warning: Can't find file '/Game/TwinStickBP/Blueprints/TwinStickProjectile'
-[2015.03.20-18.44.43:203][895]LogLinker:Warning: Can't find file for asset '/Game/TwinStickBP/Blueprints/TwinStickProjectile' while loading ../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/TwinStickPawn.uasset.
-[2015.03.20-18.44.43:209][895]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.20-18.44.43:211][895]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-18.44.43:213][895]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-18.44.43
-[2015.03.20-18.44.43:213][895]LogWorld: Bringing up level for play took: 0.001511
-[2015.03.20-18.44.43:214][895]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2015.03.20-18.44.43:226][895]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.59
-[2015.03.20-18.44.43:265][895]LogRenderer:Warning: Reallocating scene render targets to support 1296x760 (Frame:2137).
-[2015.03.20-18.44.44:579][963]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000350EFF8D60
-[2015.03.20-18.45.11:601][268]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
-[2015.03.20-18.45.12:689][333]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
-[2015.03.20-18.45.12:989][351]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
-[2015.03.20-18.45.13:589][387]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
-[2015.03.20-18.45.17:805][599]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/TwinStickBP/Blueprints'
-[2015.03.20-18.45.18:089][616]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/TwinStickBP/Audio'
-[2015.03.20-18.45.22:668][710]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.TwinStickPawn_C_71.PaperSprite) Trying to register component with IsPendingKill() == true. Aborting.
-[2015.03.20-18.45.22:668][710]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'TwinStickPawn_C_71' or package '/Engine/Transient'.
-[2015.03.20-18.45.22:668][710]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'TwinStickPawn_C_22' or package '/Engine/Transient'.
-[2015.03.20-18.45.24:628][710]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000003506FEBF60
-[2015.03.20-18.45.31:414][ 27]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/TwinStickBP/Maps'
-[2015.03.20-18.45.41:464][342]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/TwinStickBP/Meshes'
-[2015.03.20-18.45.44:862][537]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/TwinStickBP'
-[2015.03.20-18.45.46:465][633]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
-[2015.03.20-18.45.48:032][727]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
-[2015.03.20-18.45.50:638][862]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
-[2015.03.20-18.45.55:398][127]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
-[2015.03.20-18.45.59:047][345]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/TwinStickBP/Meshes'
-[2015.03.20-18.46.06:698][613]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
-[2015.03.20-18.47.14:454][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2015.03.20-18.47.14:535][971]LogSavePackage: Save=24.989952ms
-[2015.03.20-18.47.14:535][971]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/LeveloneFE5F79F447D59D56CD454B8EF8FF557B.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
-[2015.03.20-18.47.14:602][971]LogFileHelpers: Saving map 'Levelone' took 0.364
-[2015.03.20-18.47.14:610][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/TwinStickPawn" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/TwinStickPawn.uasset" SILENT=true
-[2015.03.20-18.47.14:757][971]LogSavePackage: Save=136.699600ms
-[2015.03.20-18.47.14:757][971]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/TwinStickPawnDC285C1946851DF3C31209877A297409.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/TwinStickPawn.uasset'
-[2015.03.20-18.47.14:781][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Audio/TemplateTSS_WeaponFire" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/TwinStickBP/Audio/TemplateTSS_WeaponFire.uasset" SILENT=true
-[2015.03.20-18.47.14:805][971]LogSavePackage: Save=7.258869ms
-[2015.03.20-18.47.14:805][971]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/TemplateTSS_WeaponFireF664716A43AEA4D05B6C5CA7193BA8BB.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/TwinStickBP/Audio/TemplateTSS_WeaponFire.uasset'
-[2015.03.20-18.47.14:831][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Meshes/UFO" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/TwinStickBP/Meshes/UFO.uasset" SILENT=true
-[2015.03.20-18.47.14:857][971]LogSavePackage: Save=8.439600ms
-[2015.03.20-18.47.14:857][971]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/UFOC1DDFBEB440D93416DD580A3B853F0E5.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/TwinStickBP/Meshes/UFO.uasset'
-[2015.03.20-18.47.27:690][130]AssetReimport: New page: Outstanding source content changes 18:47:27
-[2015.03.20-18.47.27:690][130]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/chameleon.png)
-[2015.03.20-18.47.29:002][130]0.000021 seconds to analyze Texture2D /Game/chameleon.chameleon
+[2015.03.20-18.58.06:695][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2015.03.20-18.58.08:928][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.20-18.58.09:428][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.20-18.58.09:485][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2015.03.20-18.58.09:521][  0]LogDerivedDataCache: Loaded boot cache 0.04s 39MB C:/Users/TMoynihan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
+[2015.03.20-18.58.09:521][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/TMoynihan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc
+[2015.03.20-18.58.09:522][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2015.03.20-18.58.09:522][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2015.03.20-18.58.09:643][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2015.03.20-18.58.09:654][  0]LogDerivedDataCache: Using Local data cache path C:/Users/TMoynihan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2015.03.20-18.58.09:954][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2015.03.20-18.58.09:954][  0]LogMeshUtilities: No automatic mesh merging module available
+[2015.03.20-18.58.10:296][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2015.03.20-18.58.10:373][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf'
+[2015.03.20-18.58.12:028][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2015.03.20-18.58.12:347][  0]SourceControl: Info Source control is disabled
+[2015.03.20-18.58.12:347][  0]SourceControl: Info Source control is disabled
+[2015.03.20-18.58.12:347][  0]SourceControl: Info Source control is disabled
+[2015.03.20-18.58.12:347][  0]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.20-18.58.12:347][  0]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.20-18.58.12:355][  0]SourceControl: Info Source control is disabled
+[2015.03.20-18.58.12:560][  0]LogObj: 24231 objects as part of root set at end of initial load.
+[2015.03.20-18.58.12:560][  0]LogUObjectAllocator: 5136440 out of 0 bytes used by permanent object pool.
+[2015.03.20-18.58.12:638][  0]LogEngine: Initializing Engine...
+[2015.03.20-18.58.14:801][  0]LogInit: XAudio2 using 'Headphone (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.03.20-18.58.14:842][  0]LogInit: FAudioDevice initialized.
+[2015.03.20-18.58.14:878][  0]LogAIModule: Creating AISystem for world NewWorld
+[2015.03.20-18.58.14:897][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/TMoynihan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
+[2015.03.20-18.58.14:899][  0]LogInit: Texture streaming: Enabled
+[2015.03.20-18.58.14:990][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
+[2015.03.20-18.58.14:990][  0]LogAnalytics: ET APIKey = Rocket.Release. APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.7.3-2479750+++depot+UE4-Releases+4.7
+[2015.03.20-18.58.14:990][  0]LogAnalytics: ET APIKey = Rocket.Release. DataRouterUploadURL = https://datarouter-public-service-gamedev.ol.epicgames.net/datarouter/api/v1/public/data. AppVersion = 4.7.3-2479750+++depot+UE4-Releases+4.7
+[2015.03.20-18.58.14:990][  0]LogAnalytics: SetUserId a1543e6e4b44b1180d87dca38229f528|f29681344a31429fb7499e9e1133047a|a291f7dc-b741-4b66-bec7-16f532d7f59b
+[2015.03.20-18.58.14:990][  0]LogAnalytics: AnalyticsET::StartSession [Rocket.Release]
+[2015.03.20-18.58.15:013][  0]LogInit: Transaction tracking system initialized
+[2015.03.20-18.58.15:189][  0]BlueprintLog: New page: Editor Load
+[2015.03.20-18.58.15:223][  0]LogAssetRegistry: FAssetRegistry took 0.0094 seconds to start up
+[2015.03.20-18.58.15:223][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2015.03.20-18.58.15:763][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.20-18.58.16:119][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.20-18.58.16:376][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Regular.ttf'
+[2015.03.20-18.58.16:377][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Bold.ttf'
+[2015.03.20-18.58.16:384][  0]LogConsoleResponse:Display: 
+[2015.03.20-18.58.16:500][  0]LogCook:Display: Done creating registry. It took  0.00s.
+[2015.03.20-18.58.16:658][  0]SourceControl: Info Source control is disabled
+[2015.03.20-18.58.16:658][  0]Cmd: MAP LOAD FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/TwinStickBP/Maps/TwinStickExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2015.03.20-18.58.16:658][  0]LogEditorServer:Warning: Can't find file '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2015.03.20-18.58.16:658][  0]Cmd: MAP CHECKDEP
+[2015.03.20-18.58.16:658][  0]MapCheck: New page: Untitled_0 - 20 Mar 2015 18:58:16
+[2015.03.20-18.58.16:740][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 81.721ms to complete.
+[2015.03.20-18.58.16:740][  0]LogFileHelpers: Loading map 'TwinStickExampleMap' took 0.082
+[2015.03.20-18.58.16:871][  0]LogCollectionManager: Loaded 0 collections in 0.001643 seconds
+[2015.03.20-18.58.16:883][  0]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 1696 classes and 261 folders.
+[2015.03.20-18.58.16:916][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0018 seconds. Added 1 classes and 2 folders.
+[2015.03.20-18.58.16:965][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2015.03.20-18.58.16:966][  0]LogSlate:Warning: Failed to load font data from 'Veranda'
+[2015.03.20-18.58.16:969][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2015.03.20-18.58.16:999][  0]LogLoad: Full Startup: 12.53 seconds (BP compile: 0.00 seconds)
+[2015.03.20-18.58.17:038][  0]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/TwinStickBP/Blueprints'
+[2015.03.20-18.58.17:207][  2]LogRenderer:Warning: Reallocating scene render targets to support 808x368 (Frame:2).
+[2015.03.20-18.58.17:399][  4]LogAssetRegistry: Asset discovery search completed in 2.1861 seconds
+[2015.03.20-18.58.17:699][ 22]AssetReimport: New page: Outstanding source content changes 18:58:17
+[2015.03.20-18.58.23:665][346]LogRenderer:Warning: Reallocating scene render targets to support 1208x568 (Frame:281).
+[2015.03.20-18.58.25:737][465]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.03.20-18.58.25:737][465]PIE: New page: PIE session: Untitled_0 (20 Mar 2015 18:58:25)
+[2015.03.20-18.58.25:738][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000461s)
+[2015.03.20-18.58.25:738][465]LogPlayLevel: PIE: World Init took: (0.000439s)
+[2015.03.20-18.58.25:738][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.NewWorld to /Temp/UEDPIE_0_Untitled_0.NewWorld (0.001032s)
+[2015.03.20-18.58.25:903][465]LogTexture:Display: Building textures: chameleon (AutoDXT)
+[2015.03.20-18.58.25:963][465]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-18.58.25:965][465]LogAIModule: Creating AISystem for world NewWorld
+[2015.03.20-18.58.25:966][465]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.NewWorld up for play (max tick rate 60) at 2015.03.20-18.58.25
+[2015.03.20-18.58.25:967][465]LogWorld: Bringing up level for play took: 0.000831
+[2015.03.20-18.58.25:970][465]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_0 0.054
+[2015.03.20-18.58.33:061][886]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D6CB560
+[2015.03.20-18.58.36:036][ 64]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2015.03.20-18.58.37:102][120]Cmd: MAP LOAD FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2015.03.20-18.58.37:102][120]LightingResults: New page: Lighting Build
+[2015.03.20-18.58.37:115][120]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0021 seconds. Added 5 classes and 0 folders.
+[2015.03.20-18.58.37:141][120]LoadErrors: New page: Loading map: Levelone.umap
+[2015.03.20-18.58.37:141][120]MapCheck: New page: Map Check
+[2015.03.20-18.58.37:141][120]LightingResults: New page: Lighting Build
+[2015.03.20-18.58.37:148][120]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000013BDA980
+[2015.03.20-18.58.37:151][120]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2015.03.20-18.58.37:152][120]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-18.58.37:180][120]Cmd: MAP CHECKDEP
+[2015.03.20-18.58.37:180][120]MapCheck: New page: Levelone - 20 Mar 2015 18:58:37
+[2015.03.20-18.58.37:264][120]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 83.864ms to complete.
+[2015.03.20-18.58.37:264][120]LogFileHelpers: Loading map 'Levelone' took 0.164
+[2015.03.20-18.58.39:098][220]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.03.20-18.58.39:099][220]PIE: New page: PIE session: Levelone (20 Mar 2015 18:58:39)
+[2015.03.20-18.58.39:100][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001274s)
+[2015.03.20-18.58.39:101][220]LogPlayLevel: PIE: World Init took: (0.000453s)
+[2015.03.20-18.58.39:101][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.001870s)
+[2015.03.20-18.58.39:131][220]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C'
+[2015.03.20-18.58.39:131][220]LogWorld: Game class is 'GameMode'
+[2015.03.20-18.58.39:133][220]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-18.58.39:134][220]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-18.58.39
+[2015.03.20-18.58.39:134][220]LogWorld: Bringing up level for play took: 0.001260
+[2015.03.20-18.58.39:137][220]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.78
+[2015.03.20-18.58.44:433][535]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D7A1A80
+[2015.03.20-18.58.53:518][ 49]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.03.20-18.58.53:518][ 49]PIE: New page: PIE session: Levelone (20 Mar 2015 18:58:53)
+[2015.03.20-18.58.53:520][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001394s)
+[2015.03.20-18.58.53:521][ 49]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2015.03.20-18.58.53:521][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.002102s)
+[2015.03.20-18.58.53:554][ 49]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C'
+[2015.03.20-18.58.53:554][ 49]LogWorld: Game class is 'GameMode'
+[2015.03.20-18.58.53:556][ 49]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-18.58.53:557][ 49]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-18.58.53
+[2015.03.20-18.58.53:558][ 49]LogWorld: Bringing up level for play took: 0.001540
+[2015.03.20-18.58.53:560][ 49]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.357
+[2015.03.20-18.58.56:674][233]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D7A1B20
+[2015.03.20-18.58.59:068][375]LogEditorViewport: Clicking on Actor (context menu): PlayerStart (PlayerStart)
+[2015.03.20-18.58.59:767][412]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2015.03.20-18.58.59:851][416]LogEditorViewport: Clicking on Actor (double click): PlayerStart (PlayerStart)
+[2015.03.20-18.59.05:437][751]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
+[2015.03.20-18.59.08:137][909]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2015.03.20-18.59.09:537][993]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
+[2015.03.20-18.59.10:138][ 28]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
+[2015.03.20-18.59.21:984][689]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C'
+[2015.03.20-18.59.21:984][689]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C'
+[2015.03.20-18.59.25:333][874]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C'
+[2015.03.20-18.59.25:333][874]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode_C'
+[2015.03.20-18.59.27:389][994]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2015.03.20-18.59.32:968][220]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.03.20-18.59.32:968][220]PIE: New page: PIE session: Levelone (20 Mar 2015 18:59:32)
+[2015.03.20-18.59.32:970][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001827s)
+[2015.03.20-18.59.32:971][220]LogPlayLevel: PIE: World Init took: (0.000454s)
+[2015.03.20-18.59.32:971][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.002432s)
+[2015.03.20-18.59.33:002][220]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-18.59.33:004][220]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-18.59.33:005][220]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-18.59.33
+[2015.03.20-18.59.33:006][220]LogWorld: Bringing up level for play took: 0.001623
+[2015.03.20-18.59.33:007][220]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.91
+[2015.03.20-18.59.45:386][961]Set new viewmode: Wireframe
+[2015.03.20-18.59.46:486][ 27]Set new viewmode: Wireframe
+[2015.03.20-18.59.47:336][ 78]Set new viewmode: Wireframe
+[2015.03.20-18.59.47:964][113]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000009E225C0
+[2015.03.20-18.59.49:672][214]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.03.20-18.59.49:673][214]PIE: New page: PIE session: Levelone (20 Mar 2015 18:59:49)
+[2015.03.20-18.59.49:674][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000900s)
+[2015.03.20-18.59.49:674][214]LogPlayLevel: PIE: World Init took: (0.000443s)
+[2015.03.20-18.59.49:675][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.001480s)
+[2015.03.20-18.59.49:704][214]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-18.59.49:706][214]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-18.59.49:707][214]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-18.59.49
+[2015.03.20-18.59.49:708][214]LogWorld: Bringing up level for play took: 0.001603
+[2015.03.20-18.59.49:709][214]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.208
+[2015.03.20-18.59.52:453][373]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000015D86480
+[2015.03.20-18.59.56:431][609]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.03.20-18.59.56:431][609]PIE: New page: PIE session: Levelone (20 Mar 2015 18:59:56)
+[2015.03.20-18.59.56:433][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001453s)
+[2015.03.20-18.59.56:434][609]LogPlayLevel: PIE: World Init took: (0.000454s)
+[2015.03.20-18.59.56:434][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.002047s)
+[2015.03.20-18.59.56:467][609]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-18.59.56:469][609]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-18.59.56:470][609]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-18.59.56
+[2015.03.20-18.59.56:471][609]LogWorld: Bringing up level for play took: 0.001656
+[2015.03.20-18.59.56:472][609]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.555
+[2015.03.20-18.59.58:384][721]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001F79C900
+[2015.03.20-19.00.42:748][372]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.03.20-19.00.42:749][372]PIE: New page: PIE session: Levelone (20 Mar 2015 19:00:42)
+[2015.03.20-19.00.42:750][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000999s)
+[2015.03.20-19.00.42:750][372]LogPlayLevel: PIE: World Init took: (0.000505s)
+[2015.03.20-19.00.42:751][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.001664s)
+[2015.03.20-19.00.42:781][372]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-19.00.42:782][372]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-19.00.42:784][372]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-19.00.42
+[2015.03.20-19.00.42:784][372]LogWorld: Bringing up level for play took: 0.001545
+[2015.03.20-19.00.42:786][372]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.868
+[2015.03.20-19.01.35:312][518]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000129F9F80
+[2015.03.20-19.01.58:586][895]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.03.20-19.01.58:586][895]PIE: New page: PIE session: Levelone (20 Mar 2015 19:01:58)
+[2015.03.20-19.01.58:587][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000914s)
+[2015.03.20-19.01.58:588][895]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2015.03.20-19.01.58:588][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.001586s)
+[2015.03.20-19.01.58:620][895]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-19.01.58:622][895]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-19.01.58:623][895]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-19.01.58
+[2015.03.20-19.01.58:624][895]LogWorld: Bringing up level for play took: 0.001671
+[2015.03.20-19.01.58:626][895]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.707
+[2015.03.20-19.02.00:087][980]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001F79D260
+[2015.03.20-19.02.04:444][227]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.03.20-19.02.04:445][227]PIE: New page: PIE session: Levelone (20 Mar 2015 19:02:04)
+[2015.03.20-19.02.04:446][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000995s)
+[2015.03.20-19.02.04:446][227]LogPlayLevel: PIE: World Init took: (0.000488s)
+[2015.03.20-19.02.04:446][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.001657s)
+[2015.03.20-19.02.04:480][227]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-19.02.04:482][227]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-19.02.04:483][227]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-19.02.04
+[2015.03.20-19.02.04:484][227]LogWorld: Bringing up level for play took: 0.001679
+[2015.03.20-19.02.04:486][227]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.566
+[2015.03.20-19.02.05:295][273]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001D6BE980
+[2015.03.20-19.02.07:546][407]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.03.20-19.02.07:546][407]PIE: New page: PIE session: Levelone (20 Mar 2015 19:02:07)
+[2015.03.20-19.02.07:547][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001037s)
+[2015.03.20-19.02.07:548][407]LogPlayLevel: PIE: World Init took: (0.000453s)
+[2015.03.20-19.02.07:548][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.001631s)
+[2015.03.20-19.02.07:580][407]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-19.02.07:582][407]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-19.02.07:583][407]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-19.02.07
+[2015.03.20-19.02.07:584][407]LogWorld: Bringing up level for play took: 0.001605
+[2015.03.20-19.02.07:585][407]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.334
+[2015.03.20-19.02.08:448][456]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000009E23EC0
+[2015.03.20-19.02.14:565][823]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.20-19.02.31:579][149]AssetReimport: New page: Outstanding source content changes 19:02:31
+[2015.03.20-19.02.31:580][149]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B.png)
+[2015.03.20-19.03.11:972][149]0.000012 seconds to analyze Texture2D /Game/pngs/Point_B.Point_B
 
-[2015.03.20-18.47.29:193][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/chameleon" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/chameleon.uasset" SILENT=true
-[2015.03.20-18.47.29:246][131]LogSavePackage: Save=47.261265ms
-[2015.03.20-18.47.29:246][131]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/chameleonDA663F6A4F22E2D27D22C980A4C8357B.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/chameleon.uasset'
-[2015.03.20-18.47.29:289][132]AssetReimport: Info Creating new asset /Game/chameleon.
-[2015.03.20-18.47.30:005][169]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
-[2015.03.20-18.47.32:905][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/chameleon" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/chameleon.uasset" SILENT=true
-[2015.03.20-18.47.33:060][316]LogSavePackage: Save=148.758163ms
-[2015.03.20-18.47.33:060][316]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/chameleonDF3D471C45BF7A9E8BE150BF62B6EF20.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/chameleon.uasset'
-[2015.03.20-18.47.33:618][336]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
-[2015.03.20-18.47.37:095][506]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
-[2015.03.20-18.47.37:096][506]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
-[2015.03.20-18.47.39:559][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/chameleon_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/chameleon_Sprite.uasset" SILENT=true
-[2015.03.20-18.47.39:579][627]LogSavePackage: Save=15.429151ms
-[2015.03.20-18.47.39:579][627]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/chameleon_SpriteA50604DF4A9CEB16F810DE87D870CAB6.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/chameleon_Sprite.uasset'
-[2015.03.20-18.47.40:172][654]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
-[2015.03.20-18.47.47:898][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/chameleon_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/chameleon_Sprite.uasset" SILENT=true
-[2015.03.20-18.47.47:939][ 83]LogSavePackage: Save=24.157774ms
-[2015.03.20-18.47.47:939][ 83]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/chameleon_SpriteEEE22192449C271A019CA88A06104755.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/chameleon_Sprite.uasset'
-[2015.03.20-18.47.51:054][269]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
-[2015.03.20-18.48.23:187][ 84]BlueprintLog: New page: Pre-PIE auto-recompile
-[2015.03.20-18.48.23:195][ 84]LogPlayLevel: [PIE] Compiling TwinStickPawn before PIE...
-[2015.03.20-18.48.23:227][ 84]LogBlueprint:Error: [compiler] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
-[2015.03.20-18.48.23:312][ 84]LogBlueprint:Warning: [compiler] Warning [0367.26] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 0 Warning(s) [in 110 ms]
-[2015.03.20-18.48.23:312][ 84]LogBlueprint:Warning: [compiler] Warning [0367.26] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 1 Warning(s) [in 0 ms]
-[2015.03.20-18.48.23:312][ 84]LogBlueprint:Warning: [compiler] Warning [0367.26] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 2 Warning(s) [in 0 ms]
-[2015.03.20-18.48.23:318][ 84]LogBlueprint:Warning: [compiler] Warning [0367.26] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 3 Warning(s) [in 5 ms]
-[2015.03.20-18.48.23:318][ 84]LogBlueprint:Warning: [compiler] Warning [0367.26] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 4 Warning(s) [in 0 ms]
-[2015.03.20-18.48.23:318][ 84]LogBlueprint:Warning: [compiler] Warning [0367.26] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 5 Warning(s) [in 0 ms]
-[2015.03.20-18.48.23:352][ 84]LogPlayLevel: PIE:  Blueprint regeneration took 165 ms (1 blueprints)
-[2015.03.20-18.48.25:013][ 84]BlueprintLog: Info Blueprint TwinStickPawn failed to compile
-[2015.03.20-18.48.27:961][252]LogEditorTransaction: Undo Modify Component(s)
-[2015.03.20-18.48.34:889][606]LogEditorTransaction: Undo Modify Component(s)
-[2015.03.20-18.48.35:533][620]LogEditorTransaction: Undo Modify Component(s)
-[2015.03.20-18.48.36:022][647]LogEditorTransaction: Undo Modify Component(s)
-[2015.03.20-18.48.36:401][668]LogEditorTransaction: Undo Modify Component(s)
-[2015.03.20-18.48.36:511][671]LogEditorTransaction: Undo Edit Source Sprite
-[2015.03.20-18.49.18:309][887]BlueprintLog: New page: Pre-PIE auto-recompile
-[2015.03.20-18.49.18:317][887]LogPlayLevel: [PIE] Compiling TwinStickPawn before PIE...
-[2015.03.20-18.49.18:359][887]LogBlueprint:Error: [compiler] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
-[2015.03.20-18.49.18:471][887]LogBlueprint:Warning: [compiler] Warning [0422.41] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 0 Warning(s) [in 141 ms]
-[2015.03.20-18.49.18:472][887]LogBlueprint:Warning: [compiler] Warning [0422.41] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 1 Warning(s) [in 0 ms]
-[2015.03.20-18.49.18:472][887]LogBlueprint:Warning: [compiler] Warning [0422.41] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 2 Warning(s) [in 0 ms]
-[2015.03.20-18.49.18:478][887]LogBlueprint:Warning: [compiler] Warning [0422.42] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 3 Warning(s) [in 6 ms]
-[2015.03.20-18.49.18:479][887]LogBlueprint:Warning: [compiler] Warning [0422.42] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 4 Warning(s) [in 0 ms]
-[2015.03.20-18.49.18:479][887]LogBlueprint:Warning: [compiler] Warning [0422.42] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 5 Warning(s) [in 0 ms]
-[2015.03.20-18.49.18:514][887]LogPlayLevel: PIE:  Blueprint regeneration took 205 ms (1 blueprints)
-[2015.03.20-18.49.19:772][887]BlueprintLog: Info Blueprint TwinStickPawn failed to compile
-[2015.03.20-18.49.22:040][ 17]BlueprintLog: New page: Compile TwinStickPawn
-[2015.03.20-18.49.22:083][ 17]LogBlueprint:Error: [compiler] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
-[2015.03.20-18.49.22:228][ 17]LogBlueprint:Warning: [compiler] Warning [0426.17] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 0 Warning(s) [in 187 ms]
-[2015.03.20-18.49.22:229][ 17]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
-[2015.03.20-18.49.22:229][ 17]BlueprintEditorCompileResults:Warning: Warning [0426.17] Compile of TwinStickPawn failed. 1 Fatal Issue(s) 0 Warning(s) [in 187 ms]
-[2015.03.20-18.49.24:196][123]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
-[2015.03.20-18.49.24:196][123]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
-[2015.03.20-18.49.24:240][123]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.49.24:240][123]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.49.24:240][123]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.49.24:240][123]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.49.36:647][807]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.49.36:647][807]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.49.36:647][807]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.49.36:647][807]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.49.39:290][938]BlueprintLog: New page: Compile TwinStickPawn
-[2015.03.20-18.49.39:413][938]BlueprintEditorCompileResults: Info [0443.36] Compile of TwinStickPawn successful! [in 122 ms]
-[2015.03.20-18.49.41:427][ 45]LogPlayLevel: PIE:  No blueprints needed recompiling
-[2015.03.20-18.49.41:427][ 45]PIE: New page: PIE session: Levelone (20 Mar 2015 18:49:41)
-[2015.03.20-18.49.41:429][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000977s)
-[2015.03.20-18.49.41:429][ 45]LogPlayLevel: PIE: World Init took: (0.000656s)
-[2015.03.20-18.49.41:429][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.001813s)
-[2015.03.20-18.49.41:467][ 45]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.20-18.49.41:470][ 45]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-18.49.41:471][ 45]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-18.49.41
-[2015.03.20-18.49.41:472][ 45]LogWorld: Bringing up level for play took: 0.001495
-[2015.03.20-18.49.41:472][ 45]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2015.03.20-18.49.41:495][ 45]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.321
-[2015.03.20-18.49.46:817][345]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000356D691BC0
-[2015.03.20-18.49.49:931][520]LogPlayLevel: PIE:  No blueprints needed recompiling
-[2015.03.20-18.49.49:931][520]PIE: New page: PIE session: Levelone (20 Mar 2015 18:49:49)
-[2015.03.20-18.49.49:933][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001225s)
-[2015.03.20-18.49.49:933][520]LogPlayLevel: PIE: World Init took: (0.000741s)
-[2015.03.20-18.49.49:933][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.002198s)
-[2015.03.20-18.49.49:995][520]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.20-18.49.49:998][520]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-18.49.50:000][520]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-18.49.50
-[2015.03.20-18.49.50:001][520]LogWorld: Bringing up level for play took: 0.002097
-[2015.03.20-18.49.50:004][520]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.188
-[2015.03.20-18.49.51:142][585]LogSelection:Warning: PIE object was selected: "AtmosphericFog /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.AtmosphericFog_1"
-[2015.03.20-18.49.55:116][813]LogEditorViewport: Clicking on Actor (LMB): TwinStickPawn_C (TwinStickPawn8)
-[2015.03.20-18.49.55:116][813]LogSelection:Warning: PIE object was selected: "TwinStickPawn_C /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.TwinStickPawn_C_8"
-[2015.03.20-18.50.05:152][311]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000350F1F72E0
-[2015.03.20-18.50.12:813][723]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.50.12:813][723]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.50.12:813][723]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.50.12:813][723]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.50.16:374][908]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.50.16:374][908]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.50.16:374][908]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.50.16:374][908]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.50.25:613][445]LogEditorTransaction: Undo Modify Component(s)
-[2015.03.20-18.50.51:832][968]BlueprintLog: New page: Pre-PIE auto-recompile
-[2015.03.20-18.50.51:842][968]LogPlayLevel: [PIE] Compiling TwinStickPawn before PIE...
-[2015.03.20-18.50.51:985][968]LogPlayLevel: PIE:  Blueprint regeneration took 153 ms (1 blueprints)
-[2015.03.20-18.50.51:985][968]PIE: New page: PIE session: Levelone (20 Mar 2015 18:50:51)
-[2015.03.20-18.50.51:987][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000990s)
-[2015.03.20-18.50.51:988][968]LogPlayLevel: PIE: World Init took: (0.000573s)
-[2015.03.20-18.50.51:988][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.001777s)
-[2015.03.20-18.50.52:030][968]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.20-18.50.52:032][968]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-18.50.52:034][968]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-18.50.52
-[2015.03.20-18.50.52:034][968]LogWorld: Bringing up level for play took: 0.001508
-[2015.03.20-18.50.52:035][968]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2015.03.20-18.50.52:056][968]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.24
-[2015.03.20-18.50.56:945][246]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000356B96C360
-[2015.03.20-18.50.58:991][328]LogPlayLevel: PIE:  No blueprints needed recompiling
-[2015.03.20-18.50.58:991][328]PIE: New page: PIE session: Levelone (20 Mar 2015 18:50:58)
-[2015.03.20-18.50.58:992][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000974s)
-[2015.03.20-18.50.58:993][328]LogPlayLevel: PIE: World Init took: (0.000672s)
-[2015.03.20-18.50.58:993][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.001873s)
-[2015.03.20-18.50.59:030][328]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.20-18.50.59:032][328]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-18.50.59:034][328]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-18.50.59
-[2015.03.20-18.50.59:034][328]LogWorld: Bringing up level for play took: 0.001458
-[2015.03.20-18.50.59:036][328]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.78
-[2015.03.20-18.51.04:585][657]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000035065BD260
-[2015.03.20-18.51.08:071][856]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.51.08:071][856]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.51.08:071][856]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.51.08:071][856]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.51.52:174][113]LogPlayLevel: PIE:  No blueprints needed recompiling
-[2015.03.20-18.51.52:174][113]PIE: New page: PIE session: Levelone (20 Mar 2015 18:51:52)
-[2015.03.20-18.51.52:176][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001101s)
-[2015.03.20-18.51.52:177][113]LogPlayLevel: PIE: World Init took: (0.000659s)
-[2015.03.20-18.51.52:177][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.001988s)
-[2015.03.20-18.51.52:218][113]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.20-18.51.52:221][113]LogAIModule: Creating AISystem for world Levelone
-[2015.03.20-18.51.52:222][113]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-18.51.52
-[2015.03.20-18.51.52:223][113]LogWorld: Bringing up level for play took: 0.001504
-[2015.03.20-18.51.52:223][113]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2015.03.20-18.51.52:244][113]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.428
-[2015.03.20-18.51.55:685][311]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000356B96C2C0
-[2015.03.20-18.51.59:946][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/TwinStickPawn" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/TwinStickPawn.uasset" SILENT=true
-[2015.03.20-18.52.00:105][557]LogSavePackage: Save=140.061554ms
-[2015.03.20-18.52.00:105][557]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/TwinStickPawn1221587047E70FDEF64449BFC6A36EDF.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/TwinStickPawn.uasset'
-[2015.03.20-18.52.00:127][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/chameleon_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/chameleon_Sprite.uasset" SILENT=true
-[2015.03.20-18.52.00:141][557]LogSavePackage: Save=7.051543ms
-[2015.03.20-18.52.00:141][557]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/chameleon_SpriteE2E6DDAB4A3D6B540741248EB3746327.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/chameleon_Sprite.uasset'
-[2015.03.20-18.52.13:613][345]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.52.13:613][345]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.52.13:613][345]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.52.13:613][345]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.52.25:939][ 45]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.52.25:939][ 45]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.52.25:939][ 45]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.52.25:939][ 45]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.52.29:757][140]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.52.29:757][140]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.52.29:757][140]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.52.29:757][140]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.52.34:423][416]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.52.34:423][416]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.52.34:423][416]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.52.34:423][416]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
-[2015.03.20-18.52.37:497][568]BlueprintLog: New page: Compile TwinStickPawn
-[2015.03.20-18.52.37:624][568]BlueprintEditorCompileResults: Info [0621.57] Compile of TwinStickPawn successful! [in 126 ms]
-[2015.03.20-18.53.08:236][377
+[2015.03.20-19.03.12:195][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Point_B" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B.uasset" SILENT=true
+[2015.03.20-19.03.12:215][150]LogSavePackage: Save=18.549681ms
+[2015.03.20-19.03.12:215][150]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Point_B5AE31CB04A2D25E1930D74B58F22A5E7.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B.uasset'
+[2015.03.20-19.03.12:241][151]AssetReimport: Info Creating new asset /Game/pngs/Point_B.
+[2015.03.20-19.03.12:774][164]AssetReimport: New page: Outstanding source content changes 19:03:12
+[2015.03.20-19.03.12:783][165]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_A.png)
+[2015.03.20-19.03.12:784][165]0.000012 seconds to analyze Texture2D /Game/pngs/Point_A.Point_A
+
+[2015.03.20-19.03.12:935][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Point_A" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_A.uasset" SILENT=true
+[2015.03.20-19.03.12:949][166]LogSavePackage: Save=12.338943ms
+[2015.03.20-19.03.12:949][166]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Point_AFD12CD3A445DCFB13F3BB5A6C696A6FC.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_A.uasset'
+[2015.03.20-19.03.13:112][167]LogEditorFactories: Performing atomic reimport of [C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B.png]
+[2015.03.20-19.03.13:112][167]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B.png)
+[2015.03.20-19.03.13:130][167]LogEditorFactories: -- imported successfully
+[2015.03.20-19.03.13:189][168]AssetReimport: Info Creating new asset /Game/pngs/Point_A.
+[2015.03.20-19.03.13:189][168]AssetReimport: Info Reimported asset Point_B from C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B.png.
+[2015.03.20-19.03.22:811][653]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.20-19.03.22:811][653]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.20-19.03.22:811][653]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.20-19.03.29:053][ 18]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/TwinStickBP/Blueprints'
+[2015.03.20-19.03.30:120][ 82]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2015.03.20-19.03.30:970][133]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.20-19.03.36:196][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/Point_B_Sprite" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/sprites/Point_B_Sprite.uasset" SILENT=true
+[2015.03.20-19.03.36:216][420]LogSavePackage: Save=17.834225ms
+[2015.03.20-19.03.36:216][420]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Point_B_Sprite30A07BAB4D465DA9F1DF3CBEDC50F608.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/sprites/Point_B_Sprite.uasset'
+[2015.03.20-19.03.36:231][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/Point_A_Sprite" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/sprites/Point_A_Sprite.uasset" SILENT=true
+[2015.03.20-19.03.36:252][420]LogSavePackage: Save=19.243328ms
+[2015.03.20-19.03.36:252][420]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Point_A_Sprite7CBB66C5403DFE9D0C4E7598F592806C.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/sprites/Point_A_Sprite.uasset'
+[2015.03.20-19.03.37:693][502]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
+[2015.03.20-19.03.48:757][152]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Point_A_Sprite)
+[2015.03.20-19.03.50:824][271]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Point_B_Sprite)
+[2015.03.20-19.03.52:430][366]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Point_A_Sprite)
+[2015.03.20-19.03.54:296][475]LogEditorViewport: Clicking Background
+[2015.03.20-19.03.55:063][521]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Point_B_Sprite)
+[2015.03.20-19.04.04:565][993]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.03.20-19.04.04:565][993]PIE: New page: PIE session: Levelone (20 Mar 2015 19:04:04)
+[2015.03.20-19.04.04:567][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001348s)
+[2015.03.20-19.04.04:568][993]LogPlayLevel: PIE: World Init took: (0.000495s)
+[2015.03.20-19.04.04:568][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.002006s)
+[2015.03.20-19.04.04:600][993]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-19.04.04:602][993]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-19.04.04:603][993]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-19.04.04
+[2015.03.20-19.04.04:604][993]LogWorld: Bringing up level for play took: 0.001852
+[2015.03.20-19.0
