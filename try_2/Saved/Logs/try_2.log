@@ -3670,4 +3670,883 @@ Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en
 [2015.03.20-21.32.27:395][311]LogAIModule: Creating AISystem for world Levelone
 [2015.03.20-21.32.27:397][311]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-21.32.27
 [2015.03.20-21.32.27:398][311]LogWorld: Bringing up level for play took: 0.002190
-[2015.03.20-21.32.27:400][311]PIE: 
+[2015.03.20-21.32.27:400][311]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.417
+[2015.03.20-21.32.28:119][353]LogBlueprintUserMessages: 2
+[2015.03.20-21.32.29:186][417]LogBlueprintUserMessages: 3
+[2015.03.20-21.32.29:618][443]LogBlueprintUserMessages: 4
+[2015.03.20-21.32.29:852][457]LogBlueprintUserMessages: 5
+[2015.03.20-21.32.30:628][500]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008A9A6576A0
+[2015.03.20-21.33.36:010][120]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.20-21.33.36:021][120]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.20-21.33.36:075][120]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.20-21.33.36:193][120]LogPlayLevel: PIE:  Blueprint regeneration took 181 ms (2 blueprints)
+[2015.03.20-21.33.36:193][120]PIE: New page: PIE session: Levelone (20 Mar 2015 21:33:36)
+[2015.03.20-21.33.36:196][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002817s)
+[2015.03.20-21.33.36:197][120]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2015.03.20-21.33.36:198][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.003944s)
+[2015.03.20-21.33.36:229][120]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-21.33.36:231][120]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-21.33.36:233][120]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-21.33.36
+[2015.03.20-21.33.36:234][120]LogWorld: Bringing up level for play took: 0.002243
+[2015.03.20-21.33.36:236][120]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.419
+[2015.03.20-21.33.57:710][395]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008A93B140E0
+[2015.03.20-21.34.06:735][507]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.34.06:735][507]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.34.06:735][507]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.34.06:735][507]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.29:880][572]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.29:881][572]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.29:881][572]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.29:881][572]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.35:595][897]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.35:595][897]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.35:595][897]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.35:595][897]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.42:479][300]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.42:479][300]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.42:479][300]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.42:479][300]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.43:742][372]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.43:742][372]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.43:742][372]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.43:742][372]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.45:837][489]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.45:838][489]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.45:838][489]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.45:838][489]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.47:598][592]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.47:598][592]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.47:598][592]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.47:598][592]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.50:881][775]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.50:881][775]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.50:881][775]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.50:881][775]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.52:257][855]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.52:257][855]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.52:257][855]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.52:257][855]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.54:791][993]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.54:791][993]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.54:791][993]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.54:791][993]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.56:332][ 83]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.56:332][ 83]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.56:332][ 83]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.56:332][ 83]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.57:150][119]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.57:150][119]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.57:150][119]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.57:150][119]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.59:271][232]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.59:271][232]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.59:271][232]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.36.59:271][232]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.37.22:074][430]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.37.22:074][430]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.37.22:074][430]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.37.22:074][430]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.40.01:035][498]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.20-21.40.01:043][498]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.20-21.40.01:148][498]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.20-21.40.01:219][498]LogPlayLevel: PIE:  Blueprint regeneration took 184 ms (2 blueprints)
+[2015.03.20-21.40.01:219][498]PIE: New page: PIE session: Levelone (20 Mar 2015 21:40:01)
+[2015.03.20-21.40.01:223][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003150s)
+[2015.03.20-21.40.01:223][498]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2015.03.20-21.40.01:223][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.004034s)
+[2015.03.20-21.40.01:264][498]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-21.40.01:266][498]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-21.40.01:268][498]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-21.40.01
+[2015.03.20-21.40.01:269][498]LogWorld: Bringing up level for play took: 0.002295
+[2015.03.20-21.40.01:282][498]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.534
+[2015.03.20-21.40.02:474][554]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008A995AD760
+[2015.03.20-21.40.16:276][342]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.40.16:276][342]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.40.16:276][342]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.40.16:276][342]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.40.17:223][395]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.03.20-21.40.17:223][395]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.03.20-21.40.17:223][395]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.03.20-21.40.17:223][395]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.03.20-21.40.17:223][395]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.03.20-21.40.17:224][395]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:EventGraph.K2Node_CallFunction_4751 or K2Node_CallFunction /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:scoreFunction.K2Node_CallFunction_4751
+[2015.03.20-21.40.17:227][395]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CommutativeAssociativeBinaryOperator /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_455 or K2Node_CommutativeAssociativeBinaryOperator /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:scoreFunction.K2Node_CommutativeAssociativeBinaryOperator_455
+[2015.03.20-21.40.17:229][395]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:EventGraph.K2Node_CallFunction_4751 or K2Node_CallFunction /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:scoreFunction.K2Node_CallFunction_4751
+[2015.03.20-21.40.17:229][395]LogUObjectHash:Warning: Ambiguous search, could be K2Node_FunctionEntry /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:EdGraph_697.K2Node_FunctionEntry_810 or K2Node_FunctionEntry /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:EdGraph_683.K2Node_FunctionEntry_810
+[2015.03.20-21.40.17:229][395]LogUObjectHash:Warning: Ambiguous search, could be K2Node_FunctionEntry /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:EdGraph_697.K2Node_FunctionEntry_810 or K2Node_FunctionEntry /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:EdGraph_679.K2Node_FunctionEntry_810
+[2015.03.20-21.40.17:229][395]LogUObjectHash:Warning: Ambiguous search, could be K2Node_FunctionEntry /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:EdGraph_697.K2Node_FunctionEntry_810 or K2Node_FunctionEntry /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:EdGraph_672.K2Node_FunctionEntry_810
+[2015.03.20-21.40.17:230][395]LogUObjectHash:Warning: Ambiguous search, could be K2Node_FunctionEntry /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:EdGraph_697.K2Node_FunctionEntry_810 or K2Node_FunctionEntry /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:EdGraph_668.K2Node_FunctionEntry_810
+[2015.03.20-21.40.17:230][395]LogUObjectHash:Warning: Ambiguous search, could be K2Node_FunctionEntry /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:EdGraph_697.K2Node_FunctionEntry_810 or K2Node_FunctionEntry /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:EdGraph_663.K2Node_FunctionEntry_810
+[2015.03.20-21.40.17:230][395]LogUObjectHash:Warning: Ambiguous search, could be K2Node_FunctionEntry /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:EdGraph_697.K2Node_FunctionEntry_810 or K2Node_FunctionEntry /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:EdGraph_659.K2Node_FunctionEntry_810
+[2015.03.20-21.40.17:230][395]LogUObjectHash:Warning: Ambiguous search, could be K2Node_FunctionEntry /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:EdGraph_697.K2Node_FunctionEntry_810 or K2Node_FunctionEntry /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:scoreFunction.K2Node_FunctionEntry_810
+[2015.03.20-21.40.17:232][395]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CommutativeAssociativeBinaryOperator /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_455 or K2Node_CommutativeAssociativeBinaryOperator /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan:scoreFunction.K2Node_CommutativeAssociativeBinaryOperator_455
+[2015.03.20-21.40.17:260][395]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.40.17:260][395]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.40.17:260][395]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.40.17:260][395]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.40.21:750][637]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.40.21:750][637]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.40.21:750][637]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.40.21:750][637]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.41.25:683][331]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.41.25:683][331]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.41.25:683][331]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.41.25:683][331]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.41.32:993][759]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.41.32:993][759]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.41.32:993][759]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.41.32:993][759]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.41.34:578][851]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.41.34:578][851]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.41.34:578][851]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.41.34:578][851]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.18:313][389]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.18:313][389]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.18:313][389]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.18:313][389]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.26:527][871]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.26:527][871]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.26:527][871]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.26:527][871]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.29:932][ 61]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.29:932][ 61]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.29:932][ 61]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.29:932][ 61]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.32:032][184]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.32:032][184]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.32:032][184]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.32:032][184]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.36:025][405]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.36:025][405]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.36:025][405]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.36:025][405]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.45:596][962]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.45:596][962]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.45:596][962]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.45:596][962]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.54:845][465]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levelone' took 0.031
+[2015.03.20-21.42.54:884][465]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Icantspellchamerlan] ([1] browsable assets)...
+[2015.03.20-21.42.54:927][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Icantspellchamerlan]
+[2015.03.20-21.42.55:180][465]LogSavePackage: Save=234.244568ms
+[2015.03.20-21.42.55:181][465]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Icantspellchamerlan_Auto45F35AD4D46D6DC3AE36B1FA041C3C200.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Icantspellchamerlan_Auto4.uasset'
+[2015.03.20-21.42.55:322][465]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/HUD] ([1] browsable assets)...
+[2015.03.20-21.42.55:322][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HUD]
+[2015.03.20-21.42.55:345][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/HUD_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2015.03.20-21.42.55:499][465]LogSavePackage: Save=140.403549ms
+[2015.03.20-21.42.55:500][465]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/HUD_Auto4593722BC49B21E8BB97C41AD9D6E76C0.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/HUD_Auto4.uasset'
+[2015.03.20-21.42.55:604][465]LogFileHelpers: Auto-saving content packages took 0.759
+[2015.03.20-21.42.56:479][516]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.20-21.42.56:492][516]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.20-21.42.56:604][516]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.20-21.42.56:670][516]LogPlayLevel: PIE:  Blueprint regeneration took 190 ms (2 blueprints)
+[2015.03.20-21.42.56:670][516]PIE: New page: PIE session: Levelone (20 Mar 2015 21:42:56)
+[2015.03.20-21.42.56:673][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002836s)
+[2015.03.20-21.42.56:674][516]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2015.03.20-21.42.56:674][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.003973s)
+[2015.03.20-21.42.56:714][516]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-21.42.56:716][516]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-21.42.56:718][516]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-21.42.56
+[2015.03.20-21.42.56:719][516]LogWorld: Bringing up level for play took: 0.002267
+[2015.03.20-21.42.56:733][516]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.917
+[2015.03.20-21.42.56:758][516]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.56:758][516]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.56:758][516]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.56:758][516]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.42.58:488][604]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008AAAFF42C0
+[2015.03.20-21.43.03:739][889]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.03:739][889]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.03:739][889]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.03:739][889]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.06:320][ 19]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.06:320][ 19]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.06:320][ 19]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.06:320][ 19]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.07:348][ 76]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.20-21.43.07:362][ 76]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.20-21.43.07:472][ 76]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.20-21.43.07:543][ 76]LogPlayLevel: PIE:  Blueprint regeneration took 194 ms (2 blueprints)
+[2015.03.20-21.43.07:543][ 76]PIE: New page: PIE session: Levelone (20 Mar 2015 21:43:07)
+[2015.03.20-21.43.07:546][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002457s)
+[2015.03.20-21.43.07:547][ 76]LogPlayLevel: PIE: World Init took: (0.001135s)
+[2015.03.20-21.43.07:547][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.003759s)
+[2015.03.20-21.43.07:584][ 76]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-21.43.07:587][ 76]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-21.43.07:589][ 76]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-21.43.07
+[2015.03.20-21.43.07:589][ 76]LogWorld: Bringing up level for play took: 0.002072
+[2015.03.20-21.43.07:600][ 76]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.216
+[2015.03.20-21.43.07:624][ 76]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.07:624][ 76]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.07:624][ 76]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.07:624][ 76]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.08:901][146]LogBlueprintUserMessages: 2
+[2015.03.20-21.43.11:519][299]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008AAB86AF20
+[2015.03.20-21.43.21:123][843]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.20-21.43.21:136][843]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.20-21.43.21:245][843]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.20-21.43.21:317][843]LogPlayLevel: PIE:  Blueprint regeneration took 194 ms (2 blueprints)
+[2015.03.20-21.43.21:317][843]PIE: New page: PIE session: Levelone (20 Mar 2015 21:43:21)
+[2015.03.20-21.43.21:321][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003341s)
+[2015.03.20-21.43.21:322][843]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2015.03.20-21.43.21:322][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.004742s)
+[2015.03.20-21.43.21:360][843]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-21.43.21:362][843]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-21.43.21:364][843]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-21.43.21
+[2015.03.20-21.43.21:365][843]LogWorld: Bringing up level for play took: 0.002175
+[2015.03.20-21.43.21:377][843]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.439
+[2015.03.20-21.43.21:403][843]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.21:403][843]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.21:403][843]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.21:403][843]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.28:515][214]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008AAAF828E0
+[2015.03.20-21.43.28:515][214]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.28:515][214]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.28:515][214]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.28:515][214]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.41:590][951]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.41:590][951]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.41:590][951]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.41:590][951]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.51:380][526]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.20-21.43.51:392][526]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.20-21.43.51:498][526]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.20-21.43.51:567][526]LogPlayLevel: PIE:  Blueprint regeneration took 187 ms (2 blueprints)
+[2015.03.20-21.43.51:567][526]PIE: New page: PIE session: Levelone (20 Mar 2015 21:43:51)
+[2015.03.20-21.43.51:570][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002335s)
+[2015.03.20-21.43.51:571][526]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2015.03.20-21.43.51:571][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.003130s)
+[2015.03.20-21.43.51:603][526]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-21.43.51:606][526]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-21.43.51:607][526]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-21.43.51
+[2015.03.20-21.43.51:608][526]LogWorld: Bringing up level for play took: 0.002190
+[2015.03.20-21.43.51:621][526]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.196
+[2015.03.20-21.43.51:645][526]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.51:645][526]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.51:645][526]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.51:645][526]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.43.52:357][557]LogBlueprintUserMessages: 1
+[2015.03.20-21.43.53:358][617]LogBlueprintUserMessages: 2
+[2015.03.20-21.43.54:358][677]LogBlueprintUserMessages: 3
+[2015.03.20-21.43.55:357][737]LogBlueprintUserMessages: 4
+[2015.03.20-21.43.56:357][797]LogBlueprintUserMessages: 5
+[2015.03.20-21.43.57:357][857]LogBlueprintUserMessages: 6
+[2015.03.20-21.43.58:358][917]LogBlueprintUserMessages: 7
+[2015.03.20-21.43.59:357][977]LogBlueprintUserMessages: 8
+[2015.03.20-21.44.00:357][ 37]LogBlueprintUserMessages: 9
+[2015.03.20-21.44.01:055][ 75]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008A9571EF20
+[2015.03.20-21.44.25:381][476]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.20-21.44.25:394][476]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.20-21.44.25:499][476]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.20-21.44.25:568][476]LogPlayLevel: PIE:  Blueprint regeneration took 187 ms (2 blueprints)
+[2015.03.20-21.44.25:568][476]PIE: New page: PIE session: Levelone (20 Mar 2015 21:44:25)
+[2015.03.20-21.44.25:571][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002442s)
+[2015.03.20-21.44.25:572][476]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2015.03.20-21.44.25:572][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.003603s)
+[2015.03.20-21.44.25:611][476]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-21.44.25:614][476]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-21.44.25:615][476]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-21.44.25
+[2015.03.20-21.44.25:616][476]LogWorld: Bringing up level for play took: 0.002393
+[2015.03.20-21.44.25:629][476]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.187
+[2015.03.20-21.44.25:654][476]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.44.25:654][476]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.44.25:654][476]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.44.25:654][476]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.44.26:358][511]LogBlueprintUserMessages: 1
+[2015.03.20-21.44.27:358][571]LogBlueprintUserMessages: 2
+[2015.03.20-21.44.28:359][631]LogBlueprintUserMessages: 3
+[2015.03.20-21.44.29:359][691]LogBlueprintUserMessages: 4
+[2015.03.20-21.44.30:359][751]LogBlueprintUserMessages: 5
+[2015.03.20-21.44.31:360][811]LogBlueprintUserMessages: 6
+[2015.03.20-21.44.32:362][871]LogBlueprintUserMessages: 7
+[2015.03.20-21.44.33:370][931]LogBlueprintUserMessages: 8
+[2015.03.20-21.44.34:371][991]LogBlueprintUserMessages: 9
+[2015.03.20-21.44.35:371][ 51]LogBlueprintUserMessages: 10
+[2015.03.20-21.44.36:372][111]LogBlueprintUserMessages: 11
+[2015.03.20-21.44.37:373][171]LogBlueprintUserMessages: 12
+[2015.03.20-21.44.38:378][231]LogBlueprintUserMessages: 13
+[2015.03.20-21.44.39:378][291]LogBlueprintUserMessages: 14
+[2015.03.20-21.44.40:378][351]LogBlueprintUserMessages: 15
+[2015.03.20-21.44.41:379][411]LogBlueprintUserMessages: 16
+[2015.03.20-21.44.42:379][471]LogBlueprintUserMessages: 17
+[2015.03.20-21.44.43:381][531]LogBlueprintUserMessages: 18
+[2015.03.20-21.44.44:381][591]LogBlueprintUserMessages: 19
+[2015.03.20-21.44.45:381][651]LogBlueprintUserMessages: 20
+[2015.03.20-21.44.46:381][711]LogBlueprintUserMessages: 21
+[2015.03.20-21.44.47:382][771]LogBlueprintUserMessages: 22
+[2015.03.20-21.44.48:381][831]LogBlueprintUserMessages: 23
+[2015.03.20-21.44.49:382][891]LogBlueprintUserMessages: 24
+[2015.03.20-21.44.50:382][951]LogBlueprintUserMessages: 25
+[2015.03.20-21.44.51:383][ 11]LogBlueprintUserMessages: 26
+[2015.03.20-21.44.52:385][ 71]LogBlueprintUserMessages: 27
+[2015.03.20-21.44.53:385][131]LogBlueprintUserMessages: 28
+[2015.03.20-21.44.54:386][191]LogBlueprintUserMessages: 29
+[2015.03.20-21.44.55:387][251]LogBlueprintUserMessages: 30
+[2015.03.20-21.44.56:387][311]LogBlueprintUserMessages: 31
+[2015.03.20-21.44.57:387][371]LogBlueprintUserMessages: 32
+[2015.03.20-21.44.58:392][431]LogBlueprintUserMessages: 33
+[2015.03.20-21.44.59:391][491]LogBlueprintUserMessages: 34
+[2015.03.20-21.45.00:390][551]LogBlueprintUserMessages: 35
+[2015.03.20-21.45.01:391][611]LogBlueprintUserMessages: 36
+[2015.03.20-21.45.02:391][671]LogBlueprintUserMessages: 37
+[2015.03.20-21.45.04:428][789]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008A9571DDA0
+[2015.03.20-21.45.41:656][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.20-21.45.41:801][ 29]LogSavePackage: Save=130.841919ms
+[2015.03.20-21.45.41:801][ 29]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Icantspellchamerlan56E2B0784C04BEC9CC919A9ECEAC13A1.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.20-21.45.41:818][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/NewWidgetBlueprint" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/NewWidgetBlueprint.uasset" SILENT=true
+[2015.03.20-21.45.41:829][ 29]LogSavePackage: Save=4.187983ms
+[2015.03.20-21.45.41:829][ 29]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/NewWidgetBlueprint532E80F74A54710A298ACAAE97DA28F5.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/NewWidgetBlueprint.uasset'
+[2015.03.20-21.45.41:856][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/HUD.uasset" SILENT=true
+[2015.03.20-21.45.41:888][ 29]LogSavePackage: Save=23.756670ms
+[2015.03.20-21.45.41:888][ 29]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/HUD317FFB374CF8E3DBB2D578B993BEB3AB.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/HUD.uasset'
+[2015.03.20-21.45.47:792][379]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.20-21.45.47:805][379]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.20-21.45.47:917][379]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.20-21.45.48:003][379]LogPlayLevel: PIE:  Blueprint regeneration took 210 ms (2 blueprints)
+[2015.03.20-21.45.48:003][379]PIE: New page: PIE session: Levelone (20 Mar 2015 21:45:48)
+[2015.03.20-21.45.48:006][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002798s)
+[2015.03.20-21.45.48:007][379]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2015.03.20-21.45.48:007][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.004191s)
+[2015.03.20-21.45.48:047][379]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-21.45.48:049][379]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-21.45.48:051][379]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-21.45.48
+[2015.03.20-21.45.48:052][379]LogWorld: Bringing up level for play took: 0.002169
+[2015.03.20-21.45.48:064][379]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.248
+[2015.03.20-21.45.48:088][379]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.45.48:088][379]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.45.48:088][379]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.45.48:088][379]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.45.48:767][414]LogBlueprintUserMessages: 1
+[2015.03.20-21.45.49:772][474]LogBlueprintUserMessages: 2
+[2015.03.20-21.45.50:771][534]LogBlueprintUserMessages: 3
+[2015.03.20-21.45.51:771][594]LogBlueprintUserMessages: 4
+[2015.03.20-21.45.52:771][654]LogBlueprintUserMessages: 5
+[2015.03.20-21.45.53:770][714]LogBlueprintUserMessages: 6
+[2015.03.20-21.45.54:770][774]LogBlueprintUserMessages: 7
+[2015.03.20-21.45.55:243][798]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008AE0041760
+[2015.03.20-21.46.41:851][143]AssetReimport: New page: Outstanding source content changes 21:46:41
+[2015.03.20-21.46.41:894][143]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/Bug.png)
+[2015.03.20-21.46.41:931][143]0.000358 seconds to analyze Texture2D /Game/pngs/Bug.Bug
+
+[2015.03.20-21.46.42:258][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Bug" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Bug.uasset" SILENT=true
+[2015.03.20-21.46.42:275][144]LogSavePackage: Save=10.121198ms
+[2015.03.20-21.46.42:275][144]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Bug78188A4B4B47854FDBC4EE98C5B3D38D.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Bug.uasset'
+[2015.03.20-21.46.42:412][145]AssetReimport: Info Creating new asset /Game/pngs/Bug.
+[2015.03.20-21.46.45:206][258]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.20-21.46.45:747][290]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
+[2015.03.20-21.46.46:067][309]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/UI'
+[2015.03.20-21.46.46:767][351]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.20-21.46.52:042][638]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.20-21.46.52:043][638]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.20-21.46.55:885][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/Bug_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/Bug_Sprite.uasset" SILENT=true
+[2015.03.20-21.46.55:908][833]LogSavePackage: Save=12.698196ms
+[2015.03.20-21.46.55:908][833]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Bug_SpriteB52086FD406C1454FD94E0A322DC50A4.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/Bug_Sprite.uasset'
+[2015.03.20-21.46.56:681][870]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
+[2015.03.20-21.47.54:008][298]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
+[2015.03.20-21.49.48:883][734]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
+[2015.03.20-21.51.12:899][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Bug_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Bug_Sprite.uasset" SILENT=true
+[2015.03.20-21.51.12:908][667]LogSavePackage: Save=4.290209ms
+[2015.03.20-21.51.12:908][667]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Bug_SpriteBD04601D4E10EC4570580D9B8664F8B1.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Bug_Sprite.uasset'
+[2015.03.20-21.51.12:964][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Bug" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Bug.uasset" SILENT=true
+[2015.03.20-21.51.12:982][667]LogSavePackage: Save=13.870306ms
+[2015.03.20-21.51.12:982][667]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/BugCEB728F8492E93097B914594A62FEF85.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Bug.uasset'
+[2015.03.20-21.54.08:403][963]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008A843AED40
+[2015.03.20-21.54.08:404][963]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008A843AE980
+[2015.03.20-21.54.08:409][963]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008A99539F80
+[2015.03.20-21.54.08:488][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Levelone_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2015.03.20-21.54.08:559][963]LogSavePackage: Save=55.760807ms
+[2015.03.20-21.54.08:559][963]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone_Auto57D48008F40F397B08778348060698D4B.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Levelone_Auto5.umap'
+[2015.03.20-21.54.08:617][963]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levelone' took 0.232
+[2015.03.20-21.54.08:617][963]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.232
+[2015.03.20-21.54.08:654][963]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Bug] ([1] browsable assets)...
+[2015.03.20-21.54.08:654][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Bug]
+[2015.03.20-21.54.08:699][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Bug" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Bug_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2015.03.20-21.54.08:908][963]LogSavePackage: Save=195.494339ms
+[2015.03.20-21.54.08:909][963]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Bug_Auto5DF1F06CE442287A1C8255E95230CD4AD.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Bug_Auto5.uasset'
+[2015.03.20-21.54.08:924][963]LogFileHelpers: Auto-saving content packages took 0.307
+[2015.03.20-21.54.18:384][468]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.54.18:384][468]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.54.18:384][468]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.54.18:384][468]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.54.38:315][630]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.54.38:315][630]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.54.38:315][630]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.54.38:315][630]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.55.03:992][773]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.55.03:992][773]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.55.03:992][773]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.55.03:992][773]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.55.15:191][433]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.55.15:191][433]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.55.15:191][433]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.55.15:191][433]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.55.26:174][ 79]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.55.26:174][ 79]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.55.26:174][ 79]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.55.26:174][ 79]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.56.20:344][263]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.56.20:344][263]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.56.20:344][263]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.56.20:344][263]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.56.58:896][997]AssetReimport: New page: Outstanding source content changes 21:56:58
+[2015.03.20-21.56.58:897][997]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/tongue.png)
+[2015.03.20-21.56.59:058][997]0.000012 seconds to analyze Texture2D /Game/pngs/tongue.tongue
+
+[2015.03.20-21.56.59:343][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/tongue" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/tongue.uasset" SILENT=true
+[2015.03.20-21.56.59:360][998]LogSavePackage: Save=12.538494ms
+[2015.03.20-21.56.59:360][998]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/tongueDB5122C14C16A5CDB311169047169CE4.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/tongue.uasset'
+[2015.03.20-21.56.59:377][998]AssetReimport: Info Creating new asset /Game/pngs/tongue.
+[2015.03.20-21.57.03:169][197]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.20-21.57.07:166][428]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.20-21.57.07:166][428]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.20-21.57.11:384][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/tongue_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/tongue_Sprite.uasset" SILENT=true
+[2015.03.20-21.57.11:412][655]LogSavePackage: Save=22.777929ms
+[2015.03.20-21.57.11:412][655]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/tongue_Sprite1239E6564C1FC6A8D0291A867EE0E19C.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/tongue_Sprite.uasset'
+[2015.03.20-21.57.13:373][765]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
+[2015.03.20-21.57.36:820][171]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
+[2015.03.20-21.57.43:626][266]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
+[2015.03.20-21.58.26:137][695]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.58.26:138][695]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.58.26:138][695]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.58.26:138][695]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.58.34:325][151]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.58.34:325][151]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.58.34:325][151]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.58.34:325][151]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.58.35:801][229]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2015.03.20-21.58.44:551][721]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.58.44:551][721]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.58.44:551][721]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.58.44:551][721]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.59.05:574][964]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.59.05:574][964]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.59.05:574][964]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-21.59.05:574][964]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.00.17:729][237]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.00.17:729][237]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.00.17:729][237]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.00.17:729][237]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.01.09:597][104]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.01.09:597][104]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.01.09:597][104]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.01.09:597][104]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.01.20:655][750]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.01.20:655][750]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.01.20:655][750]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.01.20:655][750]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.01.23:451][914]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.01.23:451][914]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.01.23:451][914]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.01.23:451][914]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.01.31:414][379]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.01.31:414][379]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.01.31:414][379]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.01.31:414][379]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.02.12:860][750]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.02.12:860][750]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.02.12:860][750]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.02.12:860][750]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.04.06:315][369]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.04.06:315][369]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.04.06:315][369]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.04.06:315][369]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.04.09:613][557]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levelone' took 0.023
+[2015.03.20-22.04.09:650][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Icantspellchamerlan] ([1] browsable assets)...
+[2015.03.20-22.04.09:697][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Icantspellchamerlan]
+[2015.03.20-22.04.10:049][557]LogSavePackage: Save=301.999908ms
+[2015.03.20-22.04.10:050][557]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Icantspellchamerlan_Auto6EF8A9DA04AE974D4B2BBF88C44C9FEF7.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Icantspellchamerlan_Auto6.uasset'
+[2015.03.20-22.04.10:071][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/tongue_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/pngs/tongue_Sprite_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2015.03.20-22.04.10:176][557]LogSavePackage: Save=99.699524ms
+[2015.03.20-22.04.10:176][557]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/tongue_Sprite_Auto6553561FC46D784866C4330A59E8867C2.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/pngs/tongue_Sprite_Auto6.uasset'
+[2015.03.20-22.04.10:227][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Tongue] ([1] browsable assets)...
+[2015.03.20-22.04.10:227][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Tongue]
+[2015.03.20-22.04.10:265][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Tongue" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Tongue_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2015.03.20-22.04.10:384][557]LogSavePackage: Save=115.524849ms
+[2015.03.20-22.04.10:385][557]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Tongue_Auto62B9985FE48F2840B6704AF82D46BA222.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Tongue_Auto6.uasset'
+[2015.03.20-22.04.10:399][557]LogFileHelpers: Auto-saving content packages took 0.787
+[2015.03.20-22.04.52:697][ 18]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.20-22.04.52:713][ 18]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.20-22.04.52:929][ 18]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.20-22.04.52:985][ 18]LogPlayLevel: [PIE] Compiling Tongue before PIE...
+[2015.03.20-22.04.53:033][ 18]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.20-22.04.53:100][ 18]LogPlayLevel: PIE:  Blueprint regeneration took 404 ms (4 blueprints)
+[2015.03.20-22.04.53:100][ 18]PIE: New page: PIE session: Levelone (20 Mar 2015 22:04:53)
+[2015.03.20-22.04.53:103][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002448s)
+[2015.03.20-22.04.53:104][ 18]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2015.03.20-22.04.53:104][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.003497s)
+[2015.03.20-22.04.53:138][ 18]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-22.04.53:140][ 18]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-22.04.53:142][ 18]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-22.04.53
+[2015.03.20-22.04.53:143][ 18]LogWorld: Bringing up level for play took: 0.002279
+[2015.03.20-22.04.53:155][ 18]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.339
+[2015.03.20-22.04.53:179][ 18]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.04.53:179][ 18]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.04.53:179][ 18]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.04.53:179][ 18]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.05.36:078][558]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008AB5C30CC0
+[2015.03.20-22.05.37:464][640]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.20-22.05.37:480][640]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.20-22.05.37:612][640]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.20-22.05.37:682][640]LogPlayLevel: PIE:  Blueprint regeneration took 217 ms (2 blueprints)
+[2015.03.20-22.05.37:682][640]PIE: New page: PIE session: Levelone (20 Mar 2015 22:05:37)
+[2015.03.20-22.05.37:685][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002889s)
+[2015.03.20-22.05.37:686][640]LogPlayLevel: PIE: World Init took: (0.001261s)
+[2015.03.20-22.05.37:687][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.004386s)
+[2015.03.20-22.05.37:721][640]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-22.05.37:723][640]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-22.05.37:725][640]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-22.05.37
+[2015.03.20-22.05.37:726][640]LogWorld: Bringing up level for play took: 0.002346
+[2015.03.20-22.05.37:737][640]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.079
+[2015.03.20-22.05.37:762][640]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.05.37:762][640]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.05.37:762][640]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.05.37:762][640]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.05.38:440][675]LogBlueprintUserMessages: 1
+[2015.03.20-22.05.39:441][735]LogBlueprintUserMessages: 2
+[2015.03.20-22.05.40:440][795]LogBlueprintUserMessages: 3
+[2015.03.20-22.05.41:441][855]LogBlueprintUserMessages: 4
+[2015.03.20-22.05.42:441][915]LogBlueprintUserMessages: 5
+[2015.03.20-22.05.43:441][975]LogBlueprintUserMessages: 6
+[2015.03.20-22.05.44:440][ 35]LogBlueprintUserMessages: 7
+[2015.03.20-22.05.45:440][ 95]LogBlueprintUserMessages: 8
+[2015.03.20-22.05.46:440][155]LogBlueprintUserMessages: 9
+[2015.03.20-22.05.47:440][215]LogBlueprintUserMessages: 10
+[2015.03.20-22.05.48:441][275]LogBlueprintUserMessages: 11
+[2015.03.20-22.05.49:441][335]LogBlueprintUserMessages: 12
+[2015.03.20-22.05.50:441][395]LogBlueprintUserMessages: 13
+[2015.03.20-22.05.51:441][455]LogBlueprintUserMessages: 14
+[2015.03.20-22.05.52:441][515]LogBlueprintUserMessages: 15
+[2015.03.20-22.05.53:441][575]LogBlueprintUserMessages: 16
+[2015.03.20-22.05.54:444][635]LogBlueprintUserMessages: 17
+[2015.03.20-22.05.55:446][695]LogBlueprintUserMessages: 18
+[2015.03.20-22.05.56:189][735]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008AAC1BDF80
+[2015.03.20-22.06.07:139][388]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2015.03.20-22.06.08:765][485]LogEditorViewport: Clicking on Actor (LMB): Bug_C (Bug)
+[2015.03.20-22.06.17:396][  2]LogEditorViewport: Clicking Background
+[2015.03.20-22.06.18:595][ 74]LogEditorViewport: Clicking on Actor (LMB): Bug_C (Bug)
+[2015.03.20-22.06.22:375][299]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.20-22.06.22:396][299]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.20-22.06.22:573][299]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.20-22.06.22:661][299]LogPlayLevel: PIE:  Blueprint regeneration took 286 ms (2 blueprints)
+[2015.03.20-22.06.22:661][299]PIE: New page: PIE session: Levelone (20 Mar 2015 22:06:22)
+[2015.03.20-22.06.22:665][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003525s)
+[2015.03.20-22.06.22:667][299]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2015.03.20-22.06.22:667][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.004996s)
+[2015.03.20-22.06.22:702][299]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-22.06.22:704][299]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-22.06.22:706][299]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-22.06.22
+[2015.03.20-22.06.22:707][299]LogWorld: Bringing up level for play took: 0.002690
+[2015.03.20-22.06.22:710][299]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.894
+[2015.03.20-22.06.23:342][336]LogBlueprintUserMessages: 1
+[2015.03.20-22.06.24:342][396]LogBlueprintUserMessages: 2
+[2015.03.20-22.06.25:341][456]LogBlueprintUserMessages: 3
+[2015.03.20-22.06.26:342][516]LogBlueprintUserMessages: 4
+[2015.03.20-22.06.27:342][576]LogBlueprintUserMessages: 5
+[2015.03.20-22.06.28:342][636]LogBlueprintUserMessages: 6
+[2015.03.20-22.06.28:526][643]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008AB71774C0
+[2015.03.20-22.06.29:673][710]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.06.29:673][710]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.06.29:673][710]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.06.29:673][710]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.06.39:333][265]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.20-22.06.39:354][265]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.20-22.06.39:523][265]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.20-22.06.39:611][265]LogPlayLevel: PIE:  Blueprint regeneration took 278 ms (2 blueprints)
+[2015.03.20-22.06.39:611][265]PIE: New page: PIE session: Levelone (20 Mar 2015 22:06:39)
+[2015.03.20-22.06.39:615][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003414s)
+[2015.03.20-22.06.39:617][265]LogPlayLevel: PIE: World Init took: (0.001559s)
+[2015.03.20-22.06.39:617][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.005165s)
+[2015.03.20-22.06.39:651][265]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-22.06.39:654][265]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-22.06.39:656][265]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-22.06.39
+[2015.03.20-22.06.39:657][265]LogWorld: Bringing up level for play took: 0.002758
+[2015.03.20-22.06.39:659][265]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.157
+[2015.03.20-22.06.40:307][303]LogBlueprintUserMessages: 1
+[2015.03.20-22.06.41:307][363]LogBlueprintUserMessages: 2
+[2015.03.20-22.06.42:307][423]LogBlueprintUserMessages: 3
+[2015.03.20-22.06.43:307][483]LogBlueprintUserMessages: 4
+[2015.03.20-22.06.44:306][543]LogBlueprintUserMessages: 5
+[2015.03.20-22.06.45:307][603]LogBlueprintUserMessages: 6
+[2015.03.20-22.06.46:286][657]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008AB696CD60
+[2015.03.20-22.06.49:306][837]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2015.03.20-22.06.52:126][  4]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.06.52:126][  4]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.06.52:126][  4]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.06.52:126][  4]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.07.07:064][893]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.20-22.07.07:084][893]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.20-22.07.07:255][893]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.20-22.07.07:347][893]LogPlayLevel: PIE:  Blueprint regeneration took 282 ms (2 blueprints)
+[2015.03.20-22.07.07:347][893]PIE: New page: PIE session: Levelone (20 Mar 2015 22:07:07)
+[2015.03.20-22.07.07:350][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003256s)
+[2015.03.20-22.07.07:352][893]LogPlayLevel: PIE: World Init took: (0.001417s)
+[2015.03.20-22.07.07:352][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.004843s)
+[2015.03.20-22.07.07:390][893]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-22.07.07:392][893]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-22.07.07:395][893]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-22.07.07
+[2015.03.20-22.07.07:395][893]LogWorld: Bringing up level for play took: 0.002761
+[2015.03.20-22.07.07:398][893]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.418
+[2015.03.20-22.07.08:028][930]LogBlueprintUserMessages: 1
+[2015.03.20-22.07.09:028][990]LogBlueprintUserMessages: 2
+[2015.03.20-22.07.10:028][ 50]LogBlueprintUserMessages: 3
+[2015.03.20-22.07.11:028][110]LogBlueprintUserMessages: 4
+[2015.03.20-22.07.12:028][170]LogBlueprintUserMessages: 5
+[2015.03.20-22.07.13:028][230]LogBlueprintUserMessages: 6
+[2015.03.20-22.07.13:881][281]LogSelection:Warning: PIE object was selected: "PlayerStart /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.PlayerStart_1"
+[2015.03.20-22.07.14:117][295]LogBlueprintUserMessages: 7
+[2015.03.20-22.07.15:120][350]LogBlueprintUserMessages: 8
+[2015.03.20-22.07.16:127][409]LogBlueprintUserMessages: 9
+[2015.03.20-22.07.17:133][465]LogBlueprintUserMessages: 10
+[2015.03.20-22.07.18:135][522]LogBlueprintUserMessages: 11
+[2015.03.20-22.07.19:148][581]LogBlueprintUserMessages: 12
+[2015.03.20-22.07.20:161][630]LogBlueprintUserMessages: 13
+[2015.03.20-22.07.21:167][687]LogBlueprintUserMessages: 14
+[2015.03.20-22.07.21:534][708]LogEditorViewport: Clicking Background
+[2015.03.20-22.07.22:177][746]LogBlueprintUserMessages: 15
+[2015.03.20-22.07.23:194][806]LogBlueprintUserMessages: 16
+[2015.03.20-22.07.24:040][856]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2015.03.20-22.07.24:040][856]Can't find target actor or component.
+[2015.03.20-22.07.24:207][866]LogBlueprintUserMessages: 17
+[2015.03.20-22.07.24:292][871]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2015.03.20-22.07.24:292][871]Can't find target actor or component.
+[2015.03.20-22.07.25:207][926]LogBlueprintUserMessages: 18
+[2015.03.20-22.07.26:212][986]LogBlueprintUserMessages: 19
+[2015.03.20-22.07.27:222][ 46]LogBlueprintUserMessages: 20
+[2015.03.20-22.07.28:222][106]LogBlueprintUserMessages: 21
+[2015.03.20-22.07.29:223][166]LogBlueprintUserMessages: 22
+[2015.03.20-22.07.30:234][226]LogBlueprintUserMessages: 23
+[2015.03.20-22.07.31:235][286]LogBlueprintUserMessages: 24
+[2015.03.20-22.07.32:235][346]LogBlueprintUserMessages: 25
+[2015.03.20-22.07.33:237][406]LogBlueprintUserMessages: 26
+[2015.03.20-22.07.34:243][466]LogBlueprintUserMessages: 27
+[2015.03.20-22.07.35:242][526]LogBlueprintUserMessages: 28
+[2015.03.20-22.07.35:893][565]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Point_B_Sprite)
+[2015.03.20-22.07.35:893][565]LogSelection:Warning: PIE object was selected: "PaperSpriteActor /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.Point_B_Sprite_5"
+[2015.03.20-22.07.36:250][585]LogBlueprintUserMessages: 29
+[2015.03.20-22.07.37:259][644]LogBlueprintUserMessages: 30
+[2015.03.20-22.07.37:861][675]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008AA29D68E0
+[2015.03.20-22.09.20:010][788]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.09.20:010][788]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.09.20:010][788]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.09.20:010][788]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.09.31:238][423]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.09.31:238][423]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.09.31:238][423]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.09.31:238][423]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.09.37:840][790]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.09.37:840][790]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.09.37:840][790]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.09.37:840][790]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.09.42:599][ 70]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.09.42:599][ 70]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.09.42:599][ 70]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.09.42:599][ 70]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.10.01:578][176]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.10.01:578][176]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.10.01:578][176]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.10.01:578][176]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.10.26:921][656]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.20-22.10.26:941][656]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.20-22.10.27:119][656]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.20-22.10.27:207][656]LogPlayLevel: PIE:  Blueprint regeneration took 286 ms (2 blueprints)
+[2015.03.20-22.10.27:207][656]PIE: New page: PIE session: Levelone (20 Mar 2015 22:10:27)
+[2015.03.20-22.10.27:211][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003368s)
+[2015.03.20-22.10.27:213][656]LogPlayLevel: PIE: World Init took: (0.001309s)
+[2015.03.20-22.10.27:213][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.004863s)
+[2015.03.20-22.10.27:248][656]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-22.10.27:251][656]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-22.10.27:253][656]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-22.10.27
+[2015.03.20-22.10.27:254][656]LogWorld: Bringing up level for play took: 0.002774
+[2015.03.20-22.10.27:256][656]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.559
+[2015.03.20-22.10.27:888][693]LogBlueprintUserMessages: 1
+[2015.03.20-22.10.28:888][753]LogBlueprintUserMessages: 2
+[2015.03.20-22.10.29:888][813]LogBlueprintUserMessages: 3
+[2015.03.20-22.10.30:889][873]LogBlueprintUserMessages: 4
+[2015.03.20-22.10.31:443][893]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008AB1ADBE20
+[2015.03.20-22.10.32:206][929]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.10.32:206][929]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.10.32:206][929]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.10.32:206][929]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.16.01:206][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Levelone_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2015.03.20-22.16.01:287][298]LogSavePackage: Save=65.139328ms
+[2015.03.20-22.16.01:287][298]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone_Auto7A908C54242CB5CA31ED986B35B94935D.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Levelone_Auto7.umap'
+[2015.03.20-22.16.01:306][298]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levelone' took 0.216
+[2015.03.20-22.16.01:306][298]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.216
+[2015.03.20-22.16.01:344][298]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Icantspellchamerlan] ([1] browsable assets)...
+[2015.03.20-22.16.01:344][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Icantspellchamerlan]
+[2015.03.20-22.16.01:690][298]LogSavePackage: Save=302.489258ms
+[2015.03.20-22.16.01:691][298]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Icantspellchamerlan_Auto7C58A95A14918227D1AD094BA08C10E40.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Icantspellchamerlan_Auto7.uasset'
+[2015.03.20-22.16.01:742][298]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Bug] ([1] browsable assets)...
+[2015.03.20-22.16.01:742][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Bug]
+[2015.03.20-22.16.01:784][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Bug" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Bug_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2015.03.20-22.16.01:934][298]LogSavePackage: Save=133.897202ms
+[2015.03.20-22.16.01:935][298]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Bug_Auto7E21CDEB24F4337225F7ECA8A989F5784.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Bug_Auto7.uasset'
+[2015.03.20-22.16.01:988][298]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Tongue] ([1] browsable assets)...
+[2015.03.20-22.16.01:988][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Tongue]
+[2015.03.20-22.16.02:034][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Tongue" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Tongue_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2015.03.20-22.16.02:160][298]LogSavePackage: Save=120.818436ms
+[2015.03.20-22.16.02:161][298]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Tongue_Auto790CB3AC0454CC41540B9FBAAB14C4378.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Tongue_Auto7.uasset'
+[2015.03.20-22.16.02:177][298]LogFileHelpers: Auto-saving content packages took 0.870
+[2015.03.20-22.21.42:027][934]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.21.42:027][934]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.21.42:027][934]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.21.42:027][934]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.21.51:110][475]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.21.51:110][475]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.21.51:110][475]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.21.51:110][475]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.22.05:150][264]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.22.05:150][264]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.22.05:150][264]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.22.05:150][264]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.22.27:443][536]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.22.27:443][536]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.22.27:443][536]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.22.27:443][536]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.22.39:501][231]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.20-22.22.39:517][231]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.20-22.22.39:603][231]LogBlueprint:Error: [compiler] Error This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2015.03.20-22.22.39:707][231]LogBlueprint:Warning: [compiler] Warning [6673.80] Compile of Icantspellchamerlan failed. 1 Fatal Issue(s) 0 Warning(s) [in 175 ms]
+[2015.03.20-22.22.39:707][231]LogBlueprint:Warning: [compiler] Warning [6673.80] Compile of Icantspellchamerlan failed. 1 Fatal Issue(s) 1 Warning(s) [in 0 ms]
+[2015.03.20-22.22.39:707][231]LogBlueprint:Warning: [compiler] Warning [6673.80] Compile of Icantspellchamerlan failed. 1 Fatal Issue(s) 2 Warning(s) [in 0 ms]
+[2015.03.20-22.22.39:713][231]LogBlueprint:Warning: [compiler] Warning [6673.81] Compile of Icantspellchamerlan failed. 1 Fatal Issue(s) 3 Warning(s) [in 5 ms]
+[2015.03.20-22.22.39:715][231]LogBlueprint:Warning: [compiler] Warning [6673.81] Compile of Icantspellchamerlan failed. 1 Fatal Issue(s) 4 Warning(s) [in 2 ms]
+[2015.03.20-22.22.39:715][231]LogBlueprint:Warning: [compiler] Warning [6673.81] Compile of Icantspellchamerlan failed. 1 Fatal Issue(s) 5 Warning(s) [in 0 ms]
+[2015.03.20-22.22.39:719][231]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.20-22.22.39:794][231]LogPlayLevel: PIE:  Blueprint regeneration took 293 ms (2 blueprints)
+[2015.03.20-22.22.49:561][231]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.22.49:561][231]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.22.49:561][231]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.22.49:561][231]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.22.49:615][231]BlueprintLog: Info Blueprint Icantspellchamerlan failed to compile
+[2015.03.20-22.22.50:558][282]BlueprintLog: New page: Compile Icantspellchamerlan
+[2015.03.20-22.22.50:643][282]LogBlueprint:Error: [compiler] Error This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2015.03.20-22.22.50:770][282]LogBlueprint:Warning: [compiler] Warning [6684.87] Compile of Icantspellchamerlan failed. 1 Fatal Issue(s) 0 Warning(s) [in 212 ms]
+[2015.03.20-22.22.50:770][282]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2015.03.20-22.22.50:770][282]BlueprintEditorCompileResults:Warning: Warning [6684.87] Compile of Icantspellchamerlan failed. 1 Fatal Issue(s) 0 Warning(s) [in 212 ms]
+[2015.03.20-22.23.09:525][259]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.23.09:525][259]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.23.09:525][259]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.23.09:525][259]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.23.15:793][619]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.23.15:793][619]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.23.15:793][619]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.23.15:793][619]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.23.23:831][ 65]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.23.23:831][ 65]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.23.23:831][ 65]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.23.23:831][ 65]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.23.36:646][795]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.23.36:646][795]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.23.36:646][795]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.23.36:646][795]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.23.55:916][941]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2015.03.20-22.24.02:053][287]LogBlueprint:Warning: Reparenting blueprint Blueprint /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan from Pawn to PaperCharacter...
+[2015.03.20-22.24.02:053][287]BlueprintLog: New page: Compile Icantspellchamerlan
+[2015.03.20-22.24.02:208][287]BlueprintEditorCompileResults: Info [6756.30] Compile of Icantspellchamerlan successful! [in 154 ms]
+[2015.03.20-22.24.08:511][628]BlueprintLog: New page: Compile Icantspellchamerlan
+[2015.03.20-22.24.08:676][628]BlueprintEditorCompileResults: Info [6762.77] Compile of Icantspellchamerlan successful! [in 165 ms]
+[2015.03.20-22.24.10:620][743]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.20-22.24.10:623][743]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.20-22.24.10:690][743]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.20-22.24.10:851][743]LogPlayLevel: PIE:  Blueprint regeneration took 231 ms (2 blueprints)
+[2015.03.20-22.24.10:851][743]PIE: New page: PIE session: Levelone (20 Mar 2015 22:24:10)
+[2015.03.20-22.24.10:854][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002268s)
+[2015.03.20-22.24.10:856][743]LogPlayLevel: PIE: World Init took: (0.001440s)
+[2015.03.20-22.24.10:856][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.003894s)
+[2015.03.20-22.24.10:891][743]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-22.24.10:893][743]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-22.24.10:894][743]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-22.24.10
+[2015.03.20-22.24.10:895][743]LogWorld: Bringing up level for play took: 0.002146
+[2015.03.20-22.24.10:906][743]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.09
+[2015.03.20-22.24.11:064][743]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.24.11:064][743]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.24.11:064][743]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.24.11:064][743]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.24.14:018][907]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008AB68B9F80
+[2015.03.20-22.26.07:515][366]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levelone' took 0.036
+[2015.03.20-22.26.07:553][366]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Icantspellchamerlan] ([1] browsable assets)...
+[2015.03.20-22.26.07:621][366]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Icantspellchamerlan]
+[2015.03.20-22.26.08:089][366]LogSavePackage: Save=439.904846ms
+[2015.03.20-22.26.08:090][366]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Icantspellchamerlan_Auto8FE495B0D4D9EEEBF843B0CBF14FFA639.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Icantspellchamerlan_Auto8.uasset'
+[2015.03.20-22.26.08:316][366]LogFileHelpers: Auto-saving content packages took 0.802
+[2015.03.20-22.27.41:480][196]LogEditorViewport: Clicking Background
+[2015.03.20-22.28.06:241][655]LogEditorViewport: Clicking Background
+[2015.03.20-22.28.07:496][729]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.20-22.28.07:503][729]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.20-22.28.07:590][729]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.20-22.28.07:798][729]LogPlayLevel: PIE:  Blueprint regeneration took 302 ms (2 blueprints)
+[2015.03.20-22.28.07:798][729]PIE: New page: PIE session: Levelone (20 Mar 2015 22:28:07)
+[2015.03.20-22.28.07:802][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003563s)
+[2015.03.20-22.28.07:803][729]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2015.03.20-22.28.07:803][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.004755s)
+[2015.03.20-22.28.07:837][729]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-22.28.07:840][729]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-22.28.07:842][729]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-22.28.07
+[2015.03.20-22.28.07:843][729]LogWorld: Bringing up level for play took: 0.002717
+[2015.03.20-22.28.07:846][729]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.03
+[2015.03.20-22.28.09:516][824]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008ABDC6E480
+[2015.03.20-22.28.11:377][922]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.28.11:377][922]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.28.11:377][922]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.28.11:377][922]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.29.21:343][ 76]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.20-22.29.21:363][ 76]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.20-22.29.21:593][ 76]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.20-22.29.21:680][ 76]LogPlayLevel: PIE:  Blueprint regeneration took 337 ms (2 blueprints)
+[2015.03.20-22.29.21:680][ 76]PIE: New page: PIE session: Levelone (20 Mar 2015 22:29:21)
+[2015.03.20-22.29.21:684][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003197s)
+[2015.03.20-22.29.21:685][ 76]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2015.03.20-22.29.21:685][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.004690s)
+[2015.03.20-22.29.21:722][ 76]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-22.29.21:724][ 76]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-22.29.21:727][ 76]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-22.29.21
+[2015.03.20-22.29.21:728][ 76]LogWorld: Bringing up level for play took: 0.002827
+[2015.03.20-22.29.21:731][ 76]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.085
+[2015.03.20-22.29.22:350][112]LogBlueprintUserMessages: 1
+[2015.03.20-22.29.23:350][172]LogBlueprintUserMessages: 2
+[2015.03.20-22.29.24:350][232]LogBlueprintUserMessages: 3
+[2015.03.20-22.29.29:289][512]LogBlueprintUserMessages: 2
+[2015.03.20-22.29.30:855][606]LogBlueprintUserMessages: 3
+[2015.03.20-22.29.31:138][623]LogBlueprintUserMessages: 4
+[2015.03.20-22.29.31:322][634]LogBlueprintUserMessages: 5
+[2015.03.20-22.29.31:522][646]LogBlueprintUserMessages: 6
+[2015.03.20-22.29.31:689][656]LogBlueprintUserMessages: 7
+[2015.03.20-22.29.31:855][666]LogBlueprintUserMessages: 8
+[2015.03.20-22.29.32:022][676]LogBlueprintUserMessages: 9
+[2015.03.20-22.29.40:660][183]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000008AB4BC0540
+[2015.03.20-22.29.44:964][439]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.29.44:964][439]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.29.44:964][439]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.29.44:964][439]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.30.16:593][321]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.20-22.30.16:616][321]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.20-22.30.16:792][321]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.20-22.30.16:880][321]LogPlayLevel: PIE:  Blueprint regeneration took 287 ms (2 blueprints)
+[2015.03.20-22.30.16:880][321]PIE: New page: PIE session: Levelone (20 Mar 2015 22:30:16)
+[2015.03.20-22.30.16:883][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002983s)
+[2015.03.20-22.30.16:884][321]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2015.03.20-22.30.16:884][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.003863s)
+[2015.03.20-22.30.16:924][321]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-22.30.16:926][321]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-22.30.16:929][321]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-22.30.16
+[2015.03.20-22.30.16:930][321]LogWorld: Bringing up level for play took: 0.002586
+[2015.03.20-22.30.16:945][321]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.128
+[2015.03.20-22.30.16:988][321]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.30.16:988][321]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.30.16:988][321]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.30.16:988][321]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.20-22.30.17:676][353]LogBlueprintUserMessages: 1
+[2015.03.20-22.30.18:676][413]LogBlueprintUserMessages: 2
+[2015.03.20-22.30.19:682][473]LogBlueprintUserMessages: 3
+[2015.03.20-22.30.20:684][533]LogBlueprintUserMessages: 4
+[2015.03.20-22.30.21:689][593]LogBlueprintUserMessages: 5
+[2015.03.20-22.30.22:693][653]LogBlueprintUserMessages: 6
+[2015.03.20-22.30.23:694][713]LogBlueprintUserMessages: 7
+[2015.03.20-22.30.24:696][773]LogBlueprintUserMessages: 8
+[2015.03.20-22.30.25:701][833]LogBlueprintUserMessages: 9
+[2015.03.20-22.30.26:701][893]LogBlueprintUserMessages: 10
+[2015.03.20-22.30.27:709][953]LogBlueprintUserMessages: 11
+[2015.03.20-22.30.28:712][ 13]LogBlueprintUserMessages: 12
+[2015.03.20-22.30.29:713][ 73]LogBlueprintUserMessages: 13
+[2015.03.20-22.30.30:713][133]LogBlueprintUserMessages: 14
+[2015.03.20-22.30.31:724][193]LogBlueprintUserMessages: 15
+[2015.03.20-22.30.32:724]
