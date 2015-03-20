@@ -296,4 +296,269 @@ Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en
 [2015.03.20-19.04.04:602][993]LogAIModule: Creating AISystem for world Levelone
 [2015.03.20-19.04.04:603][993]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-19.04.04
 [2015.03.20-19.04.04:604][993]LogWorld: Bringing up level for play took: 0.001852
-[2015.03.20-19.0
+[2015.03.20-19.04.04:606][993]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.684
+[2015.03.20-19.04.22:969][ 80]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000A23A660
+[2015.03.20-19.06.22:263][600]LogEditorViewport: Clicking Background
+[2015.03.20-19.06.36:394][426]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.03.20-19.06.36:394][426]PIE: New page: PIE session: Levelone (20 Mar 2015 19:06:36)
+[2015.03.20-19.06.36:396][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001098s)
+[2015.03.20-19.06.36:397][426]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2015.03.20-19.06.36:397][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.001839s)
+[2015.03.20-19.06.36:429][426]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-19.06.36:431][426]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-19.06.36:432][426]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-19.06.36
+[2015.03.20-19.06.36:433][426]LogWorld: Bringing up level for play took: 0.001839
+[2015.03.20-19.06.36:435][426]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.512
+[2015.03.20-19.06.46:541][ 24]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000A1F9620
+[2015.03.20-19.06.47:688][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.20-19.06.47:719][ 76]LogSavePackage: Save=17.469870ms
+[2015.03.20-19.06.47:719][ 76]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/LeveloneD6438B344E01DFB0DBEDA7949E1DC7BE.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.20-19.06.47:748][ 76]LogFileHelpers: Saving map 'Levelone' took 0.246
+[2015.03.20-19.06.47:756][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Point_B" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B.uasset" SILENT=true
+[2015.03.20-19.06.47:771][ 76]LogSavePackage: Save=10.890924ms
+[2015.03.20-19.06.47:771][ 76]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Point_B8F3996004C0ABF64C9992B8E17A5EE8F.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B.uasset'
+[2015.03.20-19.06.47:778][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Point_B_Sprite" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B_Sprite.uasset" SILENT=true
+[2015.03.20-19.06.47:781][ 76]LogSavePackage: Save=1.891062ms
+[2015.03.20-19.06.47:781][ 76]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Point_B_Sprite9B45164B4749143980EDF29FDE88BC09.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B_Sprite.uasset'
+[2015.03.20-19.06.47:788][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Point_A_Sprite" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_A_Sprite.uasset" SILENT=true
+[2015.03.20-19.06.47:792][ 76]LogSavePackage: Save=2.156204ms
+[2015.03.20-19.06.47:792][ 76]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Point_A_Sprite4874583C4FC9C48E234C0CA5F76833D7.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_A_Sprite.uasset'
+[2015.03.20-19.07.12:790][410]LogEditorViewport: Clicking Background
+[2015.03.20-19.07.13:424][448]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Point_A_Sprite)
+[2015.03.20-19.07.14:595][517]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Point_B_Sprite)
+[2015.03.20-19.07.47:944][819]AssetReimport: New page: Outstanding source content changes 19:07:47
+[2015.03.20-19.07.47:945][819]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/BirdPlaceholder.png)
+[2015.03.20-19.07.47:958][819]0.000029 seconds to analyze Texture2D /Game/pngs/BirdPlaceholder.BirdPlaceholder
+
+[2015.03.20-19.07.48:209][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/BirdPlaceholder" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/BirdPlaceholder.uasset" SILENT=true
+[2015.03.20-19.07.48:232][819]LogSavePackage: Save=22.132093ms
+[2015.03.20-19.07.48:233][819]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/BirdPlaceholder1B42C26E4506C06DD624348D48D80FC4.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/BirdPlaceholder.uasset'
+[2015.03.20-19.07.48:270][820]AssetReimport: Info Creating new asset /Game/pngs/BirdPlaceholder.
+[2015.03.20-19.07.59:010][277]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.20-19.08.03:052][508]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.20-19.08.03:052][508]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.20-19.08.07:552][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/BirdPlaceholder_Sprite" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/sprites/BirdPlaceholder_Sprite.uasset" SILENT=true
+[2015.03.20-19.08.07:562][757]LogSavePackage: Save=7.751557ms
+[2015.03.20-19.08.07:562][757]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/BirdPlaceholder_Sprite08B00E05453E29FA85F47FBB8B3A7252.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/sprites/BirdPlaceholder_Sprite.uasset'
+[2015.03.20-19.08.09:219][852]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
+[2015.03.20-19.08.14:962][190]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Point_B_Sprite)
+[2015.03.20-19.08.16:365][273]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BirdPlaceholder_Sprite)
+[2015.03.20-19.08.17:603][346]LogEditorViewport: Clicking Background
+[2015.03.20-19.08.18:487][399]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BirdPlaceholder_Sprite)
+[2015.03.20-19.08.25:361][810]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BirdPlaceholder_Sprite)
+[2015.03.20-19.08.25:708][829]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2015.03.20-19.08.25:958][843]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2015.03.20-19.08.26:527][876]LogEditorViewport: Clicking on Component (context menu): PaperSpriteComponent (RenderComponent)
+[2015.03.20-19.08.43:510][746]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2015.03.20-19.08.44:377][798]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
+[2015.03.20-19.09.00:414][242]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
+[2015.03.20-19.09.09:681][732]LogRenderer:Warning: Reallocating scene render targets to support 1208x896 (Frame:22701).
+[2015.03.20-19.09.17:186][152]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.03.20-19.09.17:186][152]PIE: New page: PIE session: Levelone (20 Mar 2015 19:09:17)
+[2015.03.20-19.09.17:188][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001362s)
+[2015.03.20-19.09.17:188][152]LogPlayLevel: PIE: World Init took: (0.000497s)
+[2015.03.20-19.09.17:189][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.002010s)
+[2015.03.20-19.09.17:220][152]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.20-19.09.17:222][152]LogAIModule: Creating AISystem for world Levelone
+[2015.03.20-19.09.17:224][152]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.20-19.09.17
+[2015.03.20-19.09.17:224][152]LogWorld: Bringing up level for play took: 0.002214
+[2015.03.20-19.09.17:226][152]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.699
+[2015.03.20-19.09.55:189][422]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000026D185E0
+[2015.03.20-19.14.48:883][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.20-19.14.48:918][238]LogSavePackage: Save=13.925518ms
+[2015.03.20-19.14.48:918][238]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Levelone0AC4E48340E01AB107D3B0ADEF3F6263.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.20-19.14.48:965][238]LogFileHelpers: Saving map 'Levelone' took 0.220
+[2015.03.20-19.14.48:969][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/BirdPlaceholder_Sprite" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/BirdPlaceholder_Sprite.uasset" SILENT=true
+[2015.03.20-19.14.48:972][238]LogSavePackage: Save=1.988138ms
+[2015.03.20-19.14.48:972][238]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/BirdPlaceholder_SpriteEC5629B74639094B25070D860E90D958.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/BirdPlaceholder_Sprite.uasset'
+[2015.03.20-19.14.48:980][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Bird" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Bird.uasset" SILENT=true
+[2015.03.20-19.14.48:995][238]LogSavePackage: Save=12.040016ms
+[2015.03.20-19.14.48:995][238]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/BirdCD854690429CE0E55AE085947EB46BC6.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Bird.uasset'
+[2015.03.20-19.14.54:445][524]Cmd: QUIT_EDITOR
+[2015.03.20-19.14.54:689][524]LogExit: Preparing to exit.
+[2015.03.20-19.14.55:201][524]LogExit: Editor shut down
+[2015.03.20-19.14.55:201][524]LogExit: Transaction tracking system shut down
+[2015.03.20-19.14.55:202][524]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000CDE4F40
+[2015.03.20-19.14.55:202][524]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000019270A40
+[2015.03.20-19.14.55:202][524]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001F79C720
+[2015.03.20-19.14.55:203][524]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000E04AAC0
+[2015.03.20-19.14.55:203][524]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D7A0860
+[2015.03.20-19.14.55:267][524]LogExit: Object subsystem successfully closed.
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module StatsViewer (177)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module CrashTracker (176)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module SuperSearch (175)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module SceneOutliner (174)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module EditorWidgets (173)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module CollectionManager (172)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module FoliageEdit (171)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module LandscapeEditor (170)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module MeshPaint (169)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module ActorPickerMode (168)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module GeometryMode (167)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module TextureAlignMode (166)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module BspMode (165)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module PlacementMode (164)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module AutomationWorker (163)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module CharacterAI (162)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module SmartSnapping (161)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module ViewportSnapping (160)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module LogVisualizer (159)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (158)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module IntroTutorials (157)
+[2015.03.20-19.14.55:321][524]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (156)
+[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module HardwareTargeting (155)
+[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (154)
+[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module UndoHistory (153)
+[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (152)
+[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module UserFeedback (151)
+[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module XmlParser (150)
+[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module Blutility (149)
+[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (148)
+[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (147)
+[2015.03.20-19.14.55:322][524]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (146)
+[2015.03.20-19.14.56:258][524]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (145)
+[2015.03.20-19.14.56:258][524]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (144)
+[2015.03.20-19.14.56:258][524]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (143)
+[2015.03.20-19.14.56:258][524]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (142)
+[2015.03.20-19.14.56:258][524]LogModuleManager: Shutting down and abandoning module InputBindingEditor (141)
+[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (140)
+[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module SettingsEditor (139)
+[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module ProjectLauncher (138)
+[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module SessionFrontend (137)
+[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module ProfilerClient (136)
+[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (135)
+[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module DeviceManager (134)
+[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module AutomationController (133)
+[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module AutomationWindow (132)
+[2015.03.20-19.14.56:259][524]LogModuleManager: Shutting down and abandoning module Layers (131)
+[2015.03.20-19.14.56:260][524]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (130)
+[2015.03.20-19.14.56:260][524]LogModuleManager: Shutting down and abandoning module DetailCustomizations (129)
+[2015.03.20-19.14.56:260][524]LogModuleManager: Shutting down and abandoning module PackagesDialog (128)
+[2015.03.20-19.14.56:260][524]LogModuleManager: Shutting down and abandoning module AssetRegistry (127)
+[2015.03.20-19.14.56:322][524]LogModuleManager: Shutting down and abandoning module Persona (126)
+[2015.03.20-19.14.56:322][524]LogModuleManager: Shutting down and abandoning module SlateReflector (125)
+[2015.03.20-19.14.56:322][524]LogModuleManager: Shutting down and abandoning module LevelEditor (124)
+[2015.03.20-19.14.56:323][524]LogModuleManager: Shutting down and abandoning module Kismet (123)
+[2015.03.20-19.14.56:323][524]LogModuleManager: Shutting down and abandoning module GraphEditor (122)
+[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module ClassViewer (121)
+[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module Toolbox (120)
+[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module ModuleUI (119)
+[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module MovieSceneTools (118)
+[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module OutputLog (117)
+[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module GammaUI (116)
+[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module Documentation (115)
+[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (114)
+[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (113)
+[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module HTTP (112)
+[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module AnalyticsET (111)
+[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module Analytics (110)
+[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module AITestSuite (109)
+[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module GameplayDebugger (108)
+[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module AIModule (107)
+[2015.03.20-19.14.56:324][524]LogModuleManager: Shutting down and abandoning module ProfilerService (106)
+[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module TaskGraph (105)
+[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module SlateRemote (104)
+[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module ScriptEditorPlugin (103)
+[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (102)
+[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module CableComponent (101)
+[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module MessagingDebugger (100)
+[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (99)
+[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (98)
+[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module PluginsEditor (97)
+[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module MainFrame (96)
+[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module EpicSurvey (95)
+[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module DesktopPlatform (94)
+[2015.03.20-19.14.56:404][524]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (93)
+[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module HotReload (92)
+[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (91)
+[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module UObjectPlugin (90)
+[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (89)
+[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (88)
+[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module SourceControl (87)
+[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module GitSourceControl (86)
+[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module BlankPlugin (85)
+[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (84)
+[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module PaperJsonImporter (83)
+[2015.03.20-19.14.56:405][524]LogModuleManager: Shutting down and abandoning module ContentBrowser (82)
+[2015.03.20-19.14.56:406][524]LogModuleManager: Shutting down and abandoning module Paper2DEditor (81)
+[2015.03.20-19.14.56:406][524]LogModuleManager: Shutting down and abandoning module ScriptPlugin (80)
+[2015.03.20-19.14.56:406][524]LogModuleManager: Shutting down and abandoning module UdpMessaging (79)
+[2015.03.20-19.14.56:506][524]LogModuleManager: Shutting down and abandoning module Paper2D (78)
+[2015.03.20-19.14.56:506][524]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (77)
+[2015.03.20-19.14.56:507][524]LogModuleManager: Shutting down and abandoning module Media (76)
+[2015.03.20-19.14.56:507][524]LogModuleManager: Shutting down and abandoning module WmfMedia (75)
+[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module PropertyEditor (73)
+[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (72)
+[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module FunctionalTesting (71)
+[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (70)
+[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (69)
+[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module MessageLog (68)
+[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module Sequencer (67)
+[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module AssetTools (66)
+[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module UMGEditor (65)
+[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module UMG (64)
+[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module Slate (63)
+[2015.03.20-19.14.56:508][524]LogModuleManager: Shutting down and abandoning module EditorStyle (62)
+[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module SessionServices (61)
+[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (60)
+[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (59)
+[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module XAudio2 (58)
+[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module Networking (56)
+[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module Core (55)
+[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module KismetCompiler (54)
+[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module PhysXFormats (53)
+[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module MeshUtilities (52)
+[2015.03.20-19.14.56:511][524]LogModuleManager: Shutting down and abandoning module DerivedDataCache (51)
+[2015.03.20-19.14.56:592][524]LogDerivedDataCache: Shutdown
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (50)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (49)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (48)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (47)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (46)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (45)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (44)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module ImageWrapper (43)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (42)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (41)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (40)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (39)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (38)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (37)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (36)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (35)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module Messaging (34)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (33)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (32)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (31)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (30)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (29)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module Android_ES31TargetPlatform (28)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (27)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (26)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (25)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (24)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (23)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (22)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (21)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module TargetPlatform (20)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module InputCore (19)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module Settings (18)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (16)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module OculusRift (15)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (14)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module TextureCompressor (13)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module ShaderCore (12)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module Landscape (11)
+[2015.03.20-19.14.56:592][524]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (10)
+[2015.03.20-19.14.56:595][524]LogModuleManager: Shutting down and abandoning module OpenGLDrv (9)
+[2015.03.20-19.14.56:595][524]LogModuleManager: Shutting down and abandoning module D3D11RHI (8)
+[2015.03.20-19.14.56:595][524]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2015.03.20-19.14.56:595][524]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2015.03.20-19.14.56:595][524]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2015.03.20-19.14.56:595][524]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2015.03.20-19.14.56:595][524]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2015.03.20-19.14.56:595][524]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2015.03.20-19.14.56:595][524]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2015.03.20-19.14.56:595][524]LogExit: Exiting.
+[2015.03.20-19.14.56:614][524]Log file closed, 03/20/15 19:14:56
