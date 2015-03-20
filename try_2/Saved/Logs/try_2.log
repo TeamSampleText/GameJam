@@ -1,0 +1,77 @@
+﻿Log file open, 03/20/15 18:42:18
+LogInit:Display: Running engine for game: try_2
+LogInit: Version: 4.7.3-2479750+++depot+UE4-Releases+4.7
+LogInit: API Version: 2455222
+LogInit: Compiled (64-bit): Mar 15 2015 23:20:45
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.7
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2015.03.20-18.42.18:756][  0]LogTaskGraph: Started task graph with 3 named threads and 6 total threads.
+[2015.03.20-18.42.18:826][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2015.03.20-18.42.18:859][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.03.20-18.42.18:875][  0]LogInit: Object subsystem initialized
+[2015.03.20-18.42.18:878][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'TranslucentSortAxis = (X=0.000000,Y=-1.000000,Z=0.000000)'
+[2015.03.20-18.42.18:878][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Alan/Desktop/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.20-18.42.18:878][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2015.03.20-18.42.18:878][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Alan/Desktop/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.20-18.42.18:878][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=),ExternalCurve=None)'
+[2015.03.20-18.42.18:878][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Alan/Desktop/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.20-18.42.18:879][  0]LogInit: Selected Device Profile: [Windows]
+[2015.03.20-18.42.18:879][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2015.03.20-18.42.18:905][  0]LogInit: Computer: LENOVO-PC
+[2015.03.20-18.42.18:905][  0]LogInit: User: Alan
+[2015.03.20-18.42.18:905][  0]LogInit: CPU Page size=4096, Cores=4
+[2015.03.20-18.42.18:905][  0]LogInit: High frequency timer resolution =2.435779 MHz
+[2015.03.20-18.42.18:905][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx) Virtual=131072.0GB
+[2015.03.20-18.42.18:905][  0]LogMemory: Platform Memory Stats for Windows
+[2015.03.20-18.42.18:905][  0]LogMemory: Process Physical Memory: 45.90 MB used, 45.90 MB peak
+[2015.03.20-18.42.18:905][  0]LogMemory: Process Virtual Memory: 26.39 MB used, 26.39 MB peak
+[2015.03.20-18.42.18:905][  0]LogMemory: Physical Memory: 5536.79 MB used, 12200.27 MB total
+[2015.03.20-18.42.18:905][  0]LogMemory: Virtual Memory: 291.70 MB used, 134217728.00 MB total
+[2015.03.20-18.42.18:949][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 860M   (Feature Level 11_0)
+[2015.03.20-18.42.18:949][  0]LogD3D11RHI: Adapter has 1972MB of dedicated video memory, 0MB of dedicated system memory, and 2048MB of shared system memory, 1 output[s]
+[2015.03.20-18.42.18:958][  0]LogD3D11RHI: Found D3D11 adapter 1: Intel(R) HD Graphics 4600 (Feature Level 11_0)
+[2015.03.20-18.42.18:958][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 1792MB of shared system memory, 0 output[s]
+[2015.03.20-18.42.18:961][  0]LogD3D11RHI: Found D3D11 adapter 2: Microsoft Basic Render Driver (Feature Level 11_0)
+[2015.03.20-18.42.18:961][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 256MB of shared system memory, 0 output[s]
+[2015.03.20-18.42.18:961][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2015.03.20-18.42.18:989][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2015.03.20-18.42.19:002][  0]LogD3D11RHI: Async texture creation enabled
+[2015.03.20-18.42.19:095][  0]LogTextLocalizationManager: The requested culture ('en_GB') has no localization data; parent culture's ('en') localization data will be used.
+[2015.03.20-18.42.19:198][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:UICommands, Key:Save_ToolTip):
+Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-29098895) String: (Saves the current level to disk)
+Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Engine/en/Engine.locres) Hash: (-1280300587) String: (Save selected data to vlog file)
+[2015.03.20-18.42.19:198][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:ContentBrowser, Key:ImportAssetToolTip):
+Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-630476809) String: (Import to {0}...)
+Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (1271782899) String: (Imports an asset from file to this folder.)
+[2015.03.20-18.42.19:333][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2015.03.20-18.42.22:777][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.20-18.42.23:509][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.20-18.42.23:591][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2015.03.20-18.42.23:640][  0]LogDerivedDataCache: Loaded boot cache 0.05s 39MB C:/Users/Alan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
+[2015.03.20-18.42.23:640][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Alan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc
+[2015.03.20-18.42.23:641][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alan/Desktop/GameJam/try_2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2015.03.20-18.42.23:641][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2015.03.20-18.42.23:780][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2015.03.20-18.42.23:796][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2015.03.20-18.42.24:210][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2015.03.20-18.42.24:210][  0]LogMeshUtilities: No automatic mesh merging module available
+[2015.03.20-18.42.24:839][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2015.03.20-18.42.25:005][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf'
+[2015.03.20-18.42.26:411][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2015.03.20-18.42.26:707][  0]SourceControl: Info Source control is disabled
+[2015.03.20-18.42.26:707][  0]SourceControl: Info Source control is disabled
+[2015.03.20-18.42.26:707][  0]SourceControl: Info Source control is disabled
+[2015.03.20-18.42.26:707][  0]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.20-18.42.26:707][  0]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.20-18.42.26:721][  0]SourceControl: Info Source control is disabled
+[2015.03.20-18.42.26:999][  0]LogObj: 24231 objects as part of root set at end of initial load.
+[2015.03.20-18.42.26:999][  0]LogUObjectAllocator: 5136440 out of 0 bytes used by permanent object pool.
+[2015.03.20-18.42.27:125][  0]LogEngine: Initializing Engine...
+[2015.03.20-18.42.29:432][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.03.20-18.42.29:445][  0]LogInit: FAudioDevice initialized.
+[2015.03.20-18.42.29:528][  0]LogAIModule: Creating AISystem for world NewWorld
+[2015.03.20-18.42.29:559][  0]LogDerivedDataCache: Saved boot cache 0.03s 39MB C:/Users/Alan/AppData/Local/UnrealEngine/4.7/DerivedDa
