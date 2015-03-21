@@ -294,4 +294,332 @@ Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en
 [2015.03.21-21.01.15:191][515]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
 [2015.03.21-21.01.15:191][515]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
 [2015.03.21-21.01.15:481][530]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
-[2015.03.21-21.01.15:481][530]LogConsoleManager:Warning: Console varia
+[2015.03.21-21.01.15:481][530]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.21-21.01.15:816][541]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.21-21.01.15:816][541]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.21-21.01.16:557][585]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.21-21.01.16:557][585]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.21-21.01.16:581][586]LogRenderer:Warning: Reallocating scene render targets to support 968x440 (Frame:7954).
+[2015.03.21-21.01.17:239][624]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.21-21.01.17:240][624]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.21-21.01.17:249][625]LogRenderer:Warning: Reallocating scene render targets to support 968x440 (Frame:7993).
+[2015.03.21-21.01.18:941][701]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.21-21.01.18:941][701]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.21-21.01.50:312][ 98]LogEditorViewport: Clicking Background
+[2015.03.21-21.03.04:217][493]AssetReimport: New page: Outstanding source content changes 21:03:04
+[2015.03.21-21.03.05:392][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.21-21.03.06:305][493]LogSavePackage: Save=778.875244ms
+[2015.03.21-21.03.06:305][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone0BCE3CE447AF36151F6F6D962E72911B.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.21-21.03.06:677][493]LogFileHelpers: Saving map 'Levelone' took 1.909
+[2015.03.21-21.03.06:734][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_10" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_10.uasset" SILENT=true
+[2015.03.21-21.03.08:982][493]LogSavePackage: Save=2147.573730ms
+[2015.03.21-21.03.08:982][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_1099E8DBEB44505771475EC9AAEED81F4B.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_10.uasset'
+[2015.03.21-21.03.09:098][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_1" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_1.uasset" SILENT=true
+[2015.03.21-21.03.11:429][493]LogSavePackage: Save=2222.205322ms
+[2015.03.21-21.03.11:430][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_10D2A1D9C42228688045EC19095628250.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_1.uasset'
+[2015.03.21-21.03.11:607][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_2" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_2.uasset" SILENT=true
+[2015.03.21-21.03.14:259][493]LogSavePackage: Save=2316.694580ms
+[2015.03.21-21.03.14:259][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_2F2BD0B0B4237E4AC029E849B0D5E4B56.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_2.uasset'
+[2015.03.21-21.03.14:460][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_3" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_3.uasset" SILENT=true
+[2015.03.21-21.03.16:178][493]LogSavePackage: Save=1621.965698ms
+[2015.03.21-21.03.16:178][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_3FE06AA3248EA1D202278399FDB8F537B.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_3.uasset'
+[2015.03.21-21.03.16:269][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_4" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_4.uasset" SILENT=true
+[2015.03.21-21.03.17:982][493]LogSavePackage: Save=1637.063110ms
+[2015.03.21-21.03.17:982][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_451D34FBC4FE5A79C3F386194CCAF6540.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_4.uasset'
+[2015.03.21-21.03.18:058][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_5" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_5.uasset" SILENT=true
+[2015.03.21-21.03.19:562][493]LogSavePackage: Save=1442.893188ms
+[2015.03.21-21.03.19:562][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_54D2E20744E1581C323A15F9CC8DA30C0.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_5.uasset'
+[2015.03.21-21.03.19:680][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_6" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_6.uasset" SILENT=true
+[2015.03.21-21.03.21:166][493]LogSavePackage: Save=1405.736694ms
+[2015.03.21-21.03.21:166][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_66A3FBC1B4BEE9CA4AD685C9DAAA563FC.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_6.uasset'
+[2015.03.21-21.03.21:219][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_7" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_7.uasset" SILENT=true
+[2015.03.21-21.03.22:515][493]LogSavePackage: Save=1244.192139ms
+[2015.03.21-21.03.22:515][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_779104D88469235763B164B8242B12731.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_7.uasset'
+[2015.03.21-21.03.22:580][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_8" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_8.uasset" SILENT=true
+[2015.03.21-21.03.23:763][493]LogSavePackage: Save=1119.604492ms
+[2015.03.21-21.03.23:763][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_80E963579444340E7B576B9938856FBA3.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_8.uasset'
+[2015.03.21-21.03.23:818][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_9" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_9.uasset" SILENT=true
+[2015.03.21-21.03.24:897][493]LogSavePackage: Save=1032.360840ms
+[2015.03.21-21.03.24:897][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_9F7D229F64FD9B6693C6EFA99CDDF259B.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_9.uasset'
+[2015.03.21-21.03.25:002][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/tongue" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/tongue.uasset" SILENT=true
+[2015.03.21-21.03.25:074][493]LogSavePackage: Save=12.246185ms
+[2015.03.21-21.03.25:074][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/tongueB897D4004C48F8B7C2A5AC85199970E4.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/tongue.uasset'
+[2015.03.21-21.03.25:133][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/hollow_log" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/hollow_log.uasset" SILENT=true
+[2015.03.21-21.03.29:223][493]LogSavePackage: Save=4042.372070ms
+[2015.03.21-21.03.29:223][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/hollow_log6F94B10A4DFA1E9D43AD60B9BEE67F98.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/hollow_log.uasset'
+[2015.03.21-21.03.29:279][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/background" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/background.uasset" SILENT=true
+[2015.03.21-21.03.29:742][493]LogSavePackage: Save=411.986053ms
+[2015.03.21-21.03.29:742][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/background735E7DE74D87E2E0C8AD87806F7FADF1.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/background.uasset'
+[2015.03.21-21.03.29:782][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/branch_1" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_1.uasset" SILENT=true
+[2015.03.21-21.03.30:526][493]LogSavePackage: Save=698.066589ms
+[2015.03.21-21.03.30:526][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/branch_10BD7919541569E50C73072AC05B9B4F2.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_1.uasset'
+[2015.03.21-21.03.30:568][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/branch_2" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_2.uasset" SILENT=true
+[2015.03.21-21.03.31:248][493]LogSavePackage: Save=639.596619ms
+[2015.03.21-21.03.31:248][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/branch_282D521C94C036DD7AE2A288B156C8DDF.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_2.uasset'
+[2015.03.21-21.03.31:287][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/branch_3" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_3.uasset" SILENT=true
+[2015.03.21-21.03.31:945][493]LogSavePackage: Save=596.951965ms
+[2015.03.21-21.03.31:946][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/branch_3489882D440FC4B9D656B3B992DC03F61.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_3.uasset'
+[2015.03.21-21.03.31:991][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/grass_1" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass_1.uasset" SILENT=true
+[2015.03.21-21.03.32:421][493]LogSavePackage: Save=389.018860ms
+[2015.03.21-21.03.32:421][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/grass_16B2CD2BE4461118E457DA8B10878A7E9.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass_1.uasset'
+[2015.03.21-21.03.32:489][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/grass_tuft" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass_tuft.uasset" SILENT=true
+[2015.03.21-21.03.33:163][493]LogSavePackage: Save=634.642151ms
+[2015.03.21-21.03.33:163][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/grass_tuft6DC9ED7E421AE6CDF09A40A487551E7B.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass_tuft.uasset'
+[2015.03.21-21.03.33:216][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/stump" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/stump.uasset" SILENT=true
+[2015.03.21-21.03.34:251][493]LogSavePackage: Save=999.757385ms
+[2015.03.21-21.03.34:251][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/stump1A44839D493FE666C7D31D9E3E9BB279.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/stump.uasset'
+[2015.03.21-21.03.34:302][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/treebasetile" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/treebasetile.uasset" SILENT=true
+[2015.03.21-21.03.40:035][493]LogSavePackage: Save=5692.271973ms
+[2015.03.21-21.03.40:035][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/treebasetileD481CB68457AC896D17F9C9DA43F43DB.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/treebasetile.uasset'
+[2015.03.21-21.03.40:084][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/treetile" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/treetile.uasset" SILENT=true
+[2015.03.21-21.03.47:210][493]LogSavePackage: Save=7076.596680ms
+[2015.03.21-21.03.47:210][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/treetile0C5E1AE3434EF12488DDD69068F5962B.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/treetile.uasset'
+[2015.03.21-21.03.47:248][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_1" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_1.uasset" SILENT=true
+[2015.03.21-21.03.48:120][493]LogSavePackage: Save=843.616760ms
+[2015.03.21-21.03.48:120][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_16201146C427FA508405583ACD3C97AE9.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_1.uasset'
+[2015.03.21-21.03.48:154][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_10" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_10.uasset" SILENT=true
+[2015.03.21-21.03.48:850][493]LogSavePackage: Save=673.225281ms
+[2015.03.21-21.03.48:851][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_10813ADCDE48028168546C3E89B806F419.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_10.uasset'
+[2015.03.21-21.03.48:877][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_2" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_2.uasset" SILENT=true
+[2015.03.21-21.03.49:475][493]LogSavePackage: Save=571.314941ms
+[2015.03.21-21.03.49:475][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_2AF16E1A645BD1E21E24B16AA3D7A05B0.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_2.uasset'
+[2015.03.21-21.03.49:504][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_3" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_3.uasset" SILENT=true
+[2015.03.21-21.03.50:189][493]LogSavePackage: Save=661.462280ms
+[2015.03.21-21.03.50:189][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_3163CDEC043EDB6216AFB88AC962844B8.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_3.uasset'
+[2015.03.21-21.03.50:216][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_4" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_4.uasset" SILENT=true
+[2015.03.21-21.03.50:848][493]LogSavePackage: Save=608.080200ms
+[2015.03.21-21.03.50:848][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_430EB65F2440290D27663A2A7C3CF09A8.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_4.uasset'
+[2015.03.21-21.03.50:922][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_5" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_5.uasset" SILENT=true
+[2015.03.21-21.03.51:511][493]LogSavePackage: Save=532.612366ms
+[2015.03.21-21.03.51:511][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_5881A3E0F44F2292C267A1DBE78519290.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_5.uasset'
+[2015.03.21-21.03.51:537][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_6" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_6.uasset" SILENT=true
+[2015.03.21-21.03.52:115][493]LogSavePackage: Save=556.811584ms
+[2015.03.21-21.03.52:115][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_61CF7EA7E4477D22FB8FBA382B24C183C.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_6.uasset'
+[2015.03.21-21.03.52:157][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_7" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_7.uasset" SILENT=true
+[2015.03.21-21.03.52:794][493]LogSavePackage: Save=602.117004ms
+[2015.03.21-21.03.52:794][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_7F83961D24A74FF34C3CEC6B4432E0FCF.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_7.uasset'
+[2015.03.21-21.03.52:853][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_8" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_8.uasset" SILENT=true
+[2015.03.21-21.03.53:574][493]LogSavePackage: Save=674.931091ms
+[2015.03.21-21.03.53:574][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_87FB1A71249AF0698CDE37395B4C16E3E.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_8.uasset'
+[2015.03.21-21.03.53:610][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_9" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_9.uasset" SILENT=true
+[2015.03.21-21.03.54:179][493]LogSavePackage: Save=543.648682ms
+[2015.03.21-21.03.54:179][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_9F54BC9C14EC835814B061090FEE81772.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_9.uasset'
+[2015.03.21-21.03.54:226][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Branch" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Branch.uasset" SILENT=true
+[2015.03.21-21.03.54:286][493]LogSavePackage: Save=34.405418ms
+[2015.03.21-21.03.54:287][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/BranchFA4E84B74E91E5BCFA7177BA3E0033D7.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Branch.uasset'
+[2015.03.21-21.03.54:318][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Bug" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Bug.uasset" SILENT=true
+[2015.03.21-21.03.54:363][493]LogSavePackage: Save=13.800923ms
+[2015.03.21-21.03.54:363][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/BugC49E89FD41CB21B71D1ADFBAEB989511.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Bug.uasset'
+[2015.03.21-21.03.54:399][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/cloud1" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud1.uasset" SILENT=true
+[2015.03.21-21.03.54:862][493]LogSavePackage: Save=433.235931ms
+[2015.03.21-21.03.54:862][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/cloud1C1BF2205419EB302D3740AA26EF03342.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud1.uasset'
+[2015.03.21-21.03.54:893][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/cloud2" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud2.uasset" SILENT=true
+[2015.03.21-21.03.55:290][493]LogSavePackage: Save=368.860229ms
+[2015.03.21-21.03.55:290][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/cloud25B11697842258C0492B022B1E75C52FE.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud2.uasset'
+[2015.03.21-21.03.55:343][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/DeadLog" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/DeadLog.uasset" SILENT=true
+[2015.03.21-21.03.55:422][493]LogSavePackage: Save=43.326591ms
+[2015.03.21-21.03.55:422][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/DeadLog3FE948A34FEA4DEE9A8F708D3EFE1723.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/DeadLog.uasset'
+[2015.03.21-21.03.55:452][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Log" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Log.uasset" SILENT=true
+[2015.03.21-21.03.55:537][493]LogSavePackage: Save=54.663006ms
+[2015.03.21-21.03.55:537][493]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/LogF758ABDE41A5FF89D34585922DEE5EF8.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Log.uasset'
+[2015.03.21-21.03.59:131][493]AssetReimport: Info Attempting to delete plainstile (its source file has been removed).
+[2015.03.21-21.03.59:707][525]AssetReimport: New page: Outstanding source content changes 21:03:59
+[2015.03.21-21.03.59:708][525]AssetReimport: Info Ignoring new file edgeofplainstile.png as it's already imported by edgeofplainstile.
+[2015.03.21-21.03.59:708][525]AssetReimport: Info Ignoring new file plainstile.png as it's already imported by plainstile.
+[2015.03.21-21.04.15:329][756]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (plainstile_Sprite)
+[2015.03.21-21.04.16:117][789]Cmd: DELETE
+[2015.03.21-21.04.16:117][789]Cmd: ACTOR DELETE
+[2015.03.21-21.04.16:121][789]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2015.03.21-21.04.16:163][789]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2015.03.21-21.04.19:334][954]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-21.04.25:043][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.21-21.04.25:438][134]LogSavePackage: Save=326.145355ms
+[2015.03.21-21.04.25:438][134]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone14F3E99F4CFC5352C3DA98B45D4F818C.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.21-21.04.25:533][134]LogFileHelpers: Saving map 'Levelone' took 0.831
+[2015.03.21-21.04.26:388][135]Cmd: QUIT_EDITOR
+[2015.03.21-21.04.26:991][135]LogExit: Preparing to exit.
+[2015.03.21-21.04.27:732][135]LogExit: Editor shut down
+[2015.03.21-21.04.27:733][135]LogExit: Transaction tracking system shut down
+[2015.03.21-21.04.27:736][135]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000BC708B1F80
+[2015.03.21-21.04.27:736][135]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000BC6FEBCC20
+[2015.03.21-21.04.27:737][135]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000BC6FD36480
+[2015.03.21-21.04.27:837][135]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000BC60222CA0
+[2015.03.21-21.04.27:837][135]LogExit: Object subsystem successfully closed.
+[2015.03.21-21.04.27:968][135]LogModuleManager: Shutting down and abandoning module CrashTracker (177)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module SuperSearch (176)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module SceneOutliner (175)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module EditorWidgets (174)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module CollectionManager (173)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module StatsViewer (172)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module FoliageEdit (171)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module LandscapeEditor (170)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module MeshPaint (169)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module ActorPickerMode (168)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module GeometryMode (167)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module TextureAlignMode (166)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module BspMode (165)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module PlacementMode (164)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module AutomationWorker (163)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module CharacterAI (162)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module SmartSnapping (161)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module ViewportSnapping (160)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module LogVisualizer (159)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (158)
+[2015.03.21-21.04.27:969][135]LogModuleManager: Shutting down and abandoning module IntroTutorials (157)
+[2015.03.21-21.04.27:970][135]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (156)
+[2015.03.21-21.04.27:970][135]LogModuleManager: Shutting down and abandoning module HardwareTargeting (155)
+[2015.03.21-21.04.27:970][135]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (154)
+[2015.03.21-21.04.27:970][135]LogModuleManager: Shutting down and abandoning module UndoHistory (153)
+[2015.03.21-21.04.27:970][135]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (152)
+[2015.03.21-21.04.27:970][135]LogModuleManager: Shutting down and abandoning module UserFeedback (151)
+[2015.03.21-21.04.27:970][135]LogModuleManager: Shutting down and abandoning module XmlParser (150)
+[2015.03.21-21.04.27:970][135]LogModuleManager: Shutting down and abandoning module Blutility (149)
+[2015.03.21-21.04.27:970][135]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (148)
+[2015.03.21-21.04.27:970][135]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (147)
+[2015.03.21-21.04.27:970][135]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (146)
+[2015.03.21-21.04.28:386][135]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (145)
+[2015.03.21-21.04.28:386][135]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (144)
+[2015.03.21-21.04.28:386][135]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (143)
+[2015.03.21-21.04.28:386][135]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (142)
+[2015.03.21-21.04.28:386][135]LogModuleManager: Shutting down and abandoning module InputBindingEditor (141)
+[2015.03.21-21.04.28:386][135]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (140)
+[2015.03.21-21.04.28:386][135]LogModuleManager: Shutting down and abandoning module SettingsEditor (139)
+[2015.03.21-21.04.28:386][135]LogModuleManager: Shutting down and abandoning module ProjectLauncher (138)
+[2015.03.21-21.04.28:386][135]LogModuleManager: Shutting down and abandoning module SessionFrontend (137)
+[2015.03.21-21.04.28:386][135]LogModuleManager: Shutting down and abandoning module ProfilerClient (136)
+[2015.03.21-21.04.28:386][135]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (135)
+[2015.03.21-21.04.28:386][135]LogModuleManager: Shutting down and abandoning module DeviceManager (134)
+[2015.03.21-21.04.28:387][135]LogModuleManager: Shutting down and abandoning module AutomationController (133)
+[2015.03.21-21.04.28:387][135]LogModuleManager: Shutting down and abandoning module AutomationWindow (132)
+[2015.03.21-21.04.28:387][135]LogModuleManager: Shutting down and abandoning module Layers (131)
+[2015.03.21-21.04.28:387][135]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (130)
+[2015.03.21-21.04.28:387][135]LogModuleManager: Shutting down and abandoning module DetailCustomizations (129)
+[2015.03.21-21.04.28:387][135]LogModuleManager: Shutting down and abandoning module PackagesDialog (128)
+[2015.03.21-21.04.28:387][135]LogModuleManager: Shutting down and abandoning module AssetRegistry (127)
+[2015.03.21-21.04.28:466][135]LogModuleManager: Shutting down and abandoning module Persona (126)
+[2015.03.21-21.04.28:466][135]LogModuleManager: Shutting down and abandoning module SlateReflector (125)
+[2015.03.21-21.04.28:466][135]LogModuleManager: Shutting down and abandoning module LevelEditor (124)
+[2015.03.21-21.04.28:468][135]LogModuleManager: Shutting down and abandoning module Kismet (123)
+[2015.03.21-21.04.28:468][135]LogModuleManager: Shutting down and abandoning module GraphEditor (122)
+[2015.03.21-21.04.28:468][135]LogModuleManager: Shutting down and abandoning module ClassViewer (121)
+[2015.03.21-21.04.28:468][135]LogModuleManager: Shutting down and abandoning module Toolbox (120)
+[2015.03.21-21.04.28:468][135]LogModuleManager: Shutting down and abandoning module ModuleUI (119)
+[2015.03.21-21.04.28:468][135]LogModuleManager: Shutting down and abandoning module MovieSceneTools (118)
+[2015.03.21-21.04.28:468][135]LogModuleManager: Shutting down and abandoning module OutputLog (117)
+[2015.03.21-21.04.28:468][135]LogModuleManager: Shutting down and abandoning module GammaUI (116)
+[2015.03.21-21.04.28:468][135]LogModuleManager: Shutting down and abandoning module Documentation (115)
+[2015.03.21-21.04.28:468][135]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (114)
+[2015.03.21-21.04.28:468][135]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (113)
+[2015.03.21-21.04.28:468][135]LogModuleManager: Shutting down and abandoning module HTTP (112)
+[2015.03.21-21.04.28:468][135]LogModuleManager: Shutting down and abandoning module AnalyticsET (111)
+[2015.03.21-21.04.28:468][135]LogModuleManager: Shutting down and abandoning module Analytics (110)
+[2015.03.21-21.04.28:468][135]LogModuleManager: Shutting down and abandoning module AITestSuite (109)
+[2015.03.21-21.04.28:468][135]LogModuleManager: Shutting down and abandoning module GameplayDebugger (108)
+[2015.03.21-21.04.28:468][135]LogModuleManager: Shutting down and abandoning module AIModule (107)
+[2015.03.21-21.04.28:468][135]LogModuleManager: Shutting down and abandoning module ProfilerService (106)
+[2015.03.21-21.04.28:639][135]LogModuleManager: Shutting down and abandoning module TaskGraph (105)
+[2015.03.21-21.04.28:639][135]LogModuleManager: Shutting down and abandoning module SlateRemote (104)
+[2015.03.21-21.04.28:640][135]LogModuleManager: Shutting down and abandoning module ScriptEditorPlugin (103)
+[2015.03.21-21.04.28:641][135]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (102)
+[2015.03.21-21.04.28:641][135]LogModuleManager: Shutting down and abandoning module CableComponent (101)
+[2015.03.21-21.04.28:641][135]LogModuleManager: Shutting down and abandoning module MessagingDebugger (100)
+[2015.03.21-21.04.28:641][135]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (99)
+[2015.03.21-21.04.28:641][135]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (98)
+[2015.03.21-21.04.28:641][135]LogModuleManager: Shutting down and abandoning module PluginsEditor (97)
+[2015.03.21-21.04.28:641][135]LogModuleManager: Shutting down and abandoning module MainFrame (96)
+[2015.03.21-21.04.28:641][135]LogModuleManager: Shutting down and abandoning module EpicSurvey (95)
+[2015.03.21-21.04.28:641][135]LogModuleManager: Shutting down and abandoning module DesktopPlatform (94)
+[2015.03.21-21.04.28:641][135]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (93)
+[2015.03.21-21.04.28:645][135]LogModuleManager: Shutting down and abandoning module HotReload (92)
+[2015.03.21-21.04.28:645][135]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (91)
+[2015.03.21-21.04.28:645][135]LogModuleManager: Shutting down and abandoning module UObjectPlugin (90)
+[2015.03.21-21.04.28:645][135]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (89)
+[2015.03.21-21.04.28:646][135]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (88)
+[2015.03.21-21.04.28:646][135]LogModuleManager: Shutting down and abandoning module SourceControl (87)
+[2015.03.21-21.04.28:646][135]LogModuleManager: Shutting down and abandoning module GitSourceControl (86)
+[2015.03.21-21.04.28:646][135]LogModuleManager: Shutting down and abandoning module BlankPlugin (85)
+[2015.03.21-21.04.28:646][135]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (84)
+[2015.03.21-21.04.28:646][135]LogModuleManager: Shutting down and abandoning module PaperJsonImporter (83)
+[2015.03.21-21.04.28:647][135]LogModuleManager: Shutting down and abandoning module ContentBrowser (82)
+[2015.03.21-21.04.28:649][135]LogModuleManager: Shutting down and abandoning module Paper2DEditor (81)
+[2015.03.21-21.04.28:649][135]LogModuleManager: Shutting down and abandoning module ScriptPlugin (80)
+[2015.03.21-21.04.28:649][135]LogModuleManager: Shutting down and abandoning module UdpMessaging (79)
+[2015.03.21-21.04.28:750][135]LogModuleManager: Shutting down and abandoning module Paper2D (78)
+[2015.03.21-21.04.28:750][135]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (77)
+[2015.03.21-21.04.28:757][135]LogModuleManager: Shutting down and abandoning module Media (76)
+[2015.03.21-21.04.28:757][135]LogModuleManager: Shutting down and abandoning module WmfMedia (75)
+[2015.03.21-21.04.28:758][135]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2015.03.21-21.04.28:758][135]LogModuleManager: Shutting down and abandoning module PropertyEditor (73)
+[2015.03.21-21.04.28:758][135]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (72)
+[2015.03.21-21.04.28:758][135]LogModuleManager: Shutting down and abandoning module FunctionalTesting (71)
+[2015.03.21-21.04.28:758][135]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (70)
+[2015.03.21-21.04.28:758][135]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (69)
+[2015.03.21-21.04.28:758][135]LogModuleManager: Shutting down and abandoning module MessageLog (68)
+[2015.03.21-21.04.28:758][135]LogModuleManager: Shutting down and abandoning module Sequencer (67)
+[2015.03.21-21.04.28:758][135]LogModuleManager: Shutting down and abandoning module AssetTools (66)
+[2015.03.21-21.04.28:758][135]LogModuleManager: Shutting down and abandoning module UMGEditor (65)
+[2015.03.21-21.04.28:758][135]LogModuleManager: Shutting down and abandoning module UMG (64)
+[2015.03.21-21.04.28:759][135]LogModuleManager: Shutting down and abandoning module Slate (63)
+[2015.03.21-21.04.28:759][135]LogModuleManager: Shutting down and abandoning module EditorStyle (62)
+[2015.03.21-21.04.28:777][135]LogModuleManager: Shutting down and abandoning module SessionServices (61)
+[2015.03.21-21.04.28:777][135]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (60)
+[2015.03.21-21.04.28:777][135]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (59)
+[2015.03.21-21.04.28:777][135]LogModuleManager: Shutting down and abandoning module XAudio2 (58)
+[2015.03.21-21.04.28:777][135]LogModuleManager: Shutting down and abandoning module Networking (56)
+[2015.03.21-21.04.28:777][135]LogModuleManager: Shutting down and abandoning module Core (55)
+[2015.03.21-21.04.28:777][135]LogModuleManager: Shutting down and abandoning module KismetCompiler (54)
+[2015.03.21-21.04.28:777][135]LogModuleManager: Shutting down and abandoning module PhysXFormats (53)
+[2015.03.21-21.04.28:777][135]LogModuleManager: Shutting down and abandoning module MeshUtilities (52)
+[2015.03.21-21.04.28:777][135]LogModuleManager: Shutting down and abandoning module DerivedDataCache (51)
+[2015.03.21-21.04.28:832][135]LogDerivedDataCache: Shutdown
+[2015.03.21-21.04.28:832][135]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (50)
+[2015.03.21-21.04.28:832][135]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (49)
+[2015.03.21-21.04.28:832][135]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (48)
+[2015.03.21-21.04.28:832][135]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (47)
+[2015.03.21-21.04.28:832][135]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (46)
+[2015.03.21-21.04.28:832][135]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (45)
+[2015.03.21-21.04.28:832][135]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (44)
+[2015.03.21-21.04.28:832][135]LogModuleManager: Shutting down and abandoning module ImageWrapper (43)
+[2015.03.21-21.04.28:832][135]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (42)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (41)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (40)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (39)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (38)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (37)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (36)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (35)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module Messaging (34)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (33)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (32)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (31)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (30)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (29)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module Android_ES31TargetPlatform (28)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (27)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (26)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (25)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (24)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (23)
+[2015.03.21-21.04.28:833][135]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (22)
+[2015.03.21-21.04.28:834][135]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (21)
+[2015.03.21-21.04.28:834][135]LogModuleManager: Shutting down and abandoning module TargetPlatform (20)
+[2015.03.21-21.04.28:834][135]LogModuleManager: Shutting down and abandoning module InputCore (19)
+[2015.03.21-21.04.28:834][135]LogModuleManager: Shutting down and abandoning module Settings (18)
+[2015.03.21-21.04.28:834][135]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (16)
+[2015.03.21-21.04.28:834][135]LogModuleManager: Shutting down and abandoning module OculusRift (15)
+[2015.03.21-21.04.28:834][135]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (14)
+[2015.03.21-21.04.28:834][135]LogModuleManager: Shutting down and abandoning module TextureCompressor (13)
+[2015.03.21-21.04.28:834][135]LogModuleManager: Shutting down and abandoning module ShaderCore (12)
+[2015.03.21-21.04.28:834][135]LogModuleManager: Shutting down and abandoning module Landscape (11)
+[2015.03.21-21.04.28:834][135]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (10)
+[2015.03.21-21.04.28:845][135]LogModuleManager: Shutting down and abandoning module OpenGLDrv (9)
+[2015.03.21-21.04.28:845][135]LogModuleManager: Shutting down and abandoning module D3D11RHI (8)
+[2015.03.21-21.04.28:845][135]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2015.03.21-21.04.28:845][135]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2015.03.21-21.04.28:845][135]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2015.03.21-21.04.28:845][135]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2015.03.21-21.04.28:845][135]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2015.03.21-21.04.28:845][135]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2015.03.21-21.04.28:845][135]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2015.03.21-21.04.28:847][135]LogExit: Exiting.
+[2015.03.21-21.04.28:863][135]Log file closed, 03/21/15 21:04:28
