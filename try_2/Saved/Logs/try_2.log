@@ -2881,4 +2881,1444 @@ Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en
 [2015.03.21-16.21.49:933][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/fly_4" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/fly_4.uasset" SILENT=true
 [2015.03.21-16.21.52:610][ 92]LogSavePackage: Save=2662.489502ms
 [2015.03.21-16.21.52:610][ 92]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/fly_4724353EA44A59885AB8FE5AE1D8430C9.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/fly_4.uasset'
-[2015.03.21-16.21.52:691][ 92]Cmd: OBJ SA
+[2015.03.21-16.21.52:691][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/fly_5" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/fly_5.uasset" SILENT=true
+[2015.03.21-16.21.55:319][ 92]LogSavePackage: Save=2615.648926ms
+[2015.03.21-16.21.55:319][ 92]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/fly_5AB029BAF4E1D716A707E97B3E3F0D4FE.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/fly_5.uasset'
+[2015.03.21-16.21.55:430][ 93]AssetReimport: Info Creating new asset /Game/pngs/fly_1.
+[2015.03.21-16.21.55:430][ 93]AssetReimport: Info Creating new asset /Game/pngs/fly_2.
+[2015.03.21-16.21.55:430][ 93]AssetReimport: Info Creating new asset /Game/pngs/fly_3.
+[2015.03.21-16.21.55:430][ 93]AssetReimport: Info Creating new asset /Game/pngs/fly_4.
+[2015.03.21-16.21.55:430][ 93]AssetReimport: Info Creating new asset /Game/pngs/fly_5.
+[2015.03.21-16.22.16:978][380]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-16.22.16:993][380]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-16.22.17:423][380]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-16.22.17:539][380]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-16.22.17:779][380]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-16.22.17:918][380]LogPlayLevel: PIE:  Blueprint regeneration took 940 ms (4 blueprints)
+[2015.03.21-16.22.17:918][380]PIE: New page: PIE session: Levelone (21 Mar 2015 16:22:17)
+[2015.03.21-16.22.17:934][380]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.17:934][380]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.17:935][380]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.17:935][380]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.17:936][380]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.17:936][380]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.17:936][380]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.17:936][380]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.17:937][380]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.17:937][380]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.17:941][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021356s)
+[2015.03.21-16.22.17:941][380]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2015.03.21-16.22.17:942][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.022411s)
+[2015.03.21-16.22.17:992][380]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-16.22.17:996][380]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-16.22.18:002][380]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 0) at 2015.03.21-16.22.18
+[2015.03.21-16.22.18:005][380]LogWorld: Bringing up level for play took: 0.008101
+[2015.03.21-16.22.18:008][380]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.22.18:008][380]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.22.18:009][380]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.101
+[2015.03.21-16.22.18:039][381]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-16.22.18:039][381]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-16.22.19:073][448]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC1F6CAA20
+[2015.03.21-16.22.25:549][848]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treetile_Sprite2)
+[2015.03.21-16.22.30:134][964]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-16.22.30:166][964]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-16.22.31:275][964]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-16.22.31:625][964]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-16.22.32:122][964]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-16.22.32:400][964]LogPlayLevel: PIE:  Blueprint regeneration took 2265 ms (4 blueprints)
+[2015.03.21-16.22.32:400][964]PIE: New page: PIE session: Levelone (21 Mar 2015 16:22:32)
+[2015.03.21-16.22.32:428][964]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.32:428][964]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.32:430][964]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.32:430][964]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.32:431][964]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.32:431][964]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.32:431][964]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.32:431][964]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.32:433][964]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.32:433][964]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.22.32:438][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036506s)
+[2015.03.21-16.22.32:440][964]LogPlayLevel: PIE: World Init took: (0.001457s)
+[2015.03.21-16.22.32:440][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.038416s)
+[2015.03.21-16.22.32:505][964]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-16.22.32:512][964]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-16.22.32:524][964]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 0) at 2015.03.21-16.22.32
+[2015.03.21-16.22.32:528][964]LogWorld: Bringing up level for play took: 0.014555
+[2015.03.21-16.22.32:532][964]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.22.32:532][964]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.22.32:536][964]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.627
+[2015.03.21-16.22.32:585][965]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-16.22.32:585][965]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-16.22.34:083][ 29]LogBlueprintUserMessages: Player found
+[2015.03.21-16.22.34:243][ 36]PIE:Warning: Warning Icantspellchamerlan_C_0.Box has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2015.03.21-16.22.37:548][198]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.22.37:548][198]LogBlueprintUserMessages: Bird
+[2015.03.21-16.22.38:655][260]LogBlueprintUserMessages: Player found
+[2015.03.21-16.22.39:604][316]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.22.39:604][316]LogBlueprintUserMessages: Bird
+[2015.03.21-16.22.43:150][532]LogBlueprintUserMessages: Player found
+[2015.03.21-16.22.43:390][548]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.22.43:390][548]LogBlueprintUserMessages: Bird
+[2015.03.21-16.22.47:663][861]LogBlueprintUserMessages: Player found
+[2015.03.21-16.22.47:809][872]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.22.47:809][872]LogBlueprintUserMessages: Bird
+[2015.03.21-16.22.51:840][189]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.22.51:840][189]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.22.51:840][189]LogBlueprintUserMessages: Hello
+[2015.03.21-16.22.51:978][201]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.22.51:978][201]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.22.51:978][201]LogBlueprintUserMessages: Hello
+[2015.03.21-16.22.51:989][202]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.22.51:989][202]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.22.51:989][202]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-16.22.52:132][214]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.22.52:132][214]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.22.52:132][214]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-16.23.04:565][283]LogBlueprintUserMessages: Player found
+[2015.03.21-16.23.04:751][298]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.04:751][298]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:659][469]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:659][469]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:668][470]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:668][470]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:677][471]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:677][471]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:686][472]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:686][472]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:698][473]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:698][473]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:708][474]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:708][474]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:718][475]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:718][475]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:728][476]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:728][476]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:738][477]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:738][477]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:749][478]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:749][478]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:761][479]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:761][479]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:769][480]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:769][480]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:780][481]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:780][481]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:789][482]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:789][482]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:798][483]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:798][483]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:808][484]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:808][484]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:817][485]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:817][485]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:827][486]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:827][486]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:836][487]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:836][487]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:846][488]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:846][488]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:856][489]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:856][489]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:867][490]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:867][490]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:878][491]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:878][491]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:886][492]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:886][492]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:897][493]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:897][493]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:905][494]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:905][494]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:917][495]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:917][495]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:928][496]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:928][496]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:937][497]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:937][497]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:947][498]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:947][498]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:958][499]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:958][499]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:967][500]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:967][500]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:977][501]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:977][501]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:986][502]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:986][502]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.06:997][503]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.06:997][503]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:010][504]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:010][504]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:021][505]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:021][505]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:037][506]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:037][506]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:049][507]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:049][507]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:058][508]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:058][508]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:070][509]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:070][509]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:080][510]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:080][510]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:088][511]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:088][511]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:099][512]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:099][512]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:109][513]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:109][513]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:121][514]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:121][514]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:133][515]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:133][515]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:143][516]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:143][516]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:152][517]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:153][517]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:163][518]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:163][518]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:172][519]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:172][519]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:183][520]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:183][520]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:193][521]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:193][521]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:203][522]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:203][522]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:214][523]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:214][523]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:224][524]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:224][524]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:234][525]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:234][525]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:246][526]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:246][526]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:255][527]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:255][527]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:266][528]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:266][528]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:277][529]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:277][529]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:287][530]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:287][530]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.07:288][530]LogBlueprintUserMessages: Player found
+[2015.03.21-16.23.07:297][531]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.07:297][531]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:604][817]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:604][817]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:614][818]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:614][818]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:626][819]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:626][819]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:636][820]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:636][820]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:646][821]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:646][821]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:657][822]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:657][822]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:665][823]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:665][823]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:676][824]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:676][824]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:686][825]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:686][825]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:696][826]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:697][826]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:709][827]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:709][827]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:720][828]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:720][828]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:731][829]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:732][829]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:742][830]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:742][830]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:753][831]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:753][831]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:764][832]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:764][832]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:775][833]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:775][833]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:790][834]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:790][834]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:800][835]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:800][835]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:811][836]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:811][836]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:824][837]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:824][837]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:834][838]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:835][838]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:846][839]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:846][839]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:857][840]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:857][840]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:868][841]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:868][841]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:879][842]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:879][842]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:890][843]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:890][843]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:899][844]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:899][844]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:912][845]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:912][845]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:924][846]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:924][846]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:933][847]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:933][847]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:945][848]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:945][848]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:956][849]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:956][849]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:965][850]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:965][850]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:975][851]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:975][851]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:986][852]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:987][852]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.10:998][853]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.10:998][853]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:008][854]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:008][854]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:017][855]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:017][855]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:027][856]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:028][856]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:040][857]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:040][857]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:050][858]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:050][858]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:060][859]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:060][859]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:069][860]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:070][860]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:079][861]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:079][861]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:090][862]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:090][862]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:099][863]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:099][863]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:109][864]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:109][864]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:119][865]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:119][865]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:130][866]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:130][866]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:141][867]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:141][867]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:149][868]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:149][868]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:160][869]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:160][869]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:169][870]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:169][870]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:179][871]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:179][871]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:190][872]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:190][872]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:200][873]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:200][873]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:210][874]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:210][874]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:220][875]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:220][875]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:229][876]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:229][876]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:240][877]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:240][877]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:249][878]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:249][878]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:259][879]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:259][879]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:267][880]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:267][880]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:278][881]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:278][881]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:290][882]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:290][882]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:299][883]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:299][883]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:309][884]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:309][884]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:318][885]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:318][885]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:328][886]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:328][886]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:338][887]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:338][887]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:347][888]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:347][888]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:357][889]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:357][889]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:367][890]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:367][890]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:379][891]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:379][891]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:389][892]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:389][892]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:398][893]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:398][893]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:408][894]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:408][894]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:418][895]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:418][895]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:428][896]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:428][896]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:437][897]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:437][897]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:447][898]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:447][898]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:458][899]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:458][899]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:469][900]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:469][900]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:479][901]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:479][901]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:490][902]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:490][902]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:500][903]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:500][903]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:511][904]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:511][904]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:523][905]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:523][905]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:533][906]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:533][906]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:544][907]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:544][907]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:555][908]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:555][908]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:564][909]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:564][909]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:575][910]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:575][910]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:585][911]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:585][911]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:596][912]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:596][912]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:608][913]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:608][913]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:620][914]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:620][914]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:631][915]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:631][915]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:643][916]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:643][916]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:653][917]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:653][917]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:663][918]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:663][918]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:674][919]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:674][919]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:683][920]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:684][920]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:694][921]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:694][921]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:707][922]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:707][922]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:717][923]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:717][923]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:731][924]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:731][924]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:743][925]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:743][925]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:754][926]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:754][926]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:763][927]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:763][927]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:774][928]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:774][928]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:785][929]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:785][929]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:795][930]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:795][930]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:807][931]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:807][931]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:817][932]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:817][932]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:827][933]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:827][933]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:839][934]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:839][934]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:849][935]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:849][935]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:860][936]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:860][936]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:871][937]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:871][937]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:883][938]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:883][938]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:895][939]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:895][939]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:911][940]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:911][940]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:930][941]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:930][941]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:940][942]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:940][942]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:949][943]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:949][943]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:961][944]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:961][944]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:972][945]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:972][945]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:982][946]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:982][946]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.11:993][947]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.11:993][947]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:005][948]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:005][948]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:015][949]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:015][949]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:027][950]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:027][950]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:041][951]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:042][951]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:051][952]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:051][952]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:062][953]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:062][953]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:073][954]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:073][954]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:081][955]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:081][955]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:092][956]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:092][956]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:101][957]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:101][957]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:110][958]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:110][958]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:122][959]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:122][959]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:131][960]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:131][960]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:141][961]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:141][961]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:151][962]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:151][962]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:161][963]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:162][963]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:172][964]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:172][964]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:180][965]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:180][965]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:191][966]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:191][966]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:200][967]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:200][967]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:212][968]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:212][968]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:223][969]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:223][969]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:231][970]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:231][970]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:241][971]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:241][971]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:250][972]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:250][972]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:261][973]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:261][973]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:271][974]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:271][974]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:280][975]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:280][975]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:293][976]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:293][976]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:304][977]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:304][977]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:313][978]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:313][978]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:324][979]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:324][979]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:333][980]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:333][980]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:345][981]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:345][981]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:356][982]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:356][982]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:369][983]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:369][983]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:380][984]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:380][984]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:391][985]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:391][985]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:401][986]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:401][986]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:411][987]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:411][987]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:423][988]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:423][988]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:433][989]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:434][989]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:444][990]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:445][990]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:456][991]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:456][991]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:466][992]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:466][992]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:477][993]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:477][993]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:488][994]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:488][994]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:498][995]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:498][995]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:508][996]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:508][996]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:519][997]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:519][997]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:530][998]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:530][998]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:540][999]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:540][999]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:550][  0]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:550][  0]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:561][  1]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:561][  1]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:572][  2]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:572][  2]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:581][  3]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:581][  3]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:594][  4]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:594][  4]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:605][  5]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:605][  5]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:617][  6]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:617][  6]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:628][  7]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:628][  7]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:639][  8]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:639][  8]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:648][  9]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:649][  9]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:659][ 10]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:659][ 10]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:670][ 11]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:671][ 11]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:680][ 12]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:680][ 12]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:692][ 13]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:692][ 13]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:702][ 14]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:702][ 14]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:713][ 15]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:713][ 15]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.12:723][ 16]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.12:723][ 16]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:441][551]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:441][551]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:463][552]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:463][552]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:485][553]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:486][553]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:497][554]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:497][554]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:507][555]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:508][555]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:519][556]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:519][556]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:528][557]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:528][557]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:538][558]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:538][558]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:549][559]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:549][559]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:558][560]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:558][560]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:569][561]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:569][561]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:580][562]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:580][562]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:590][563]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:590][563]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:601][564]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:601][564]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:611][565]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:611][565]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:622][566]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:622][566]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:633][567]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:633][567]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:643][568]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:643][568]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:654][569]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:654][569]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:665][570]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:665][570]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:674][571]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:674][571]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:685][572]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:685][572]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:695][573]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:695][573]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:706][574]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:706][574]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:718][575]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:718][575]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:728][576]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:728][576]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:739][577]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:739][577]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:751][578]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:751][578]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:761][579]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:761][579]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:772][580]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:772][580]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:784][581]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:784][581]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:795][582]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:795][582]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:807][583]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:807][583]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:818][584]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:818][584]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:829][585]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:829][585]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:839][586]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:839][586]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:850][587]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:850][587]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.18:859][588]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.18:859][588]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.23:322][ 19]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.23:322][ 19]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.23:332][ 20]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.23:332][ 20]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.23:341][ 21]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.23:341][ 21]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.23:350][ 22]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.23:350][ 22]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.23:360][ 23]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.23:360][ 23]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.23:369][ 24]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.23:369][ 24]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:446][395]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:446][395]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:457][396]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:457][396]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:467][397]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:467][397]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:478][398]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:478][398]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:488][399]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:488][399]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:497][400]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:497][400]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:508][401]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:508][401]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:518][402]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:518][402]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:528][403]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:528][403]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:539][404]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:539][404]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:549][405]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:550][405]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:562][406]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:562][406]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:575][407]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:575][407]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:585][408]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:585][408]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:596][409]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:596][409]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:607][410]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:607][410]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:617][411]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:617][411]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:628][412]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:628][412]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:641][413]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:641][413]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:652][414]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:652][414]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:664][415]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:664][415]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:675][416]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:675][416]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:685][417]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:685][417]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:696][418]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:696][418]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:708][419]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:708][419]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:717][420]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:718][420]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:728][421]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:728][421]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:739][422]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:739][422]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:748][423]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:748][423]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:758][424]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:758][424]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:767][425]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:767][425]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:778][426]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:778][426]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:789][427]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:789][427]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:798][428]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:798][428]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:810][429]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:810][429]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:819][430]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:820][430]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:830][431]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:830][431]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:841][432]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:841][432]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:850][433]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:850][433]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:861][434]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:861][434]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:872][435]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:872][435]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.27:880][436]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.27:880][436]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:632][801]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:632][801]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:643][802]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:643][802]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:653][803]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:653][803]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:663][804]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:663][804]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:673][805]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:673][805]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:684][806]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:684][806]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:693][807]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:693][807]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:703][808]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:703][808]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:713][809]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:713][809]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:725][810]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:725][810]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:735][811]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:735][811]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:746][812]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:746][812]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:756][813]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:756][813]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:766][814]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:766][814]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:775][815]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:775][815]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:785][816]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:785][816]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:794][817]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:794][817]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:807][818]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:807][818]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:819][819]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:819][819]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:828][820]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:828][820]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:839][821]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:839][821]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:849][822]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:850][822]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:859][823]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:859][823]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:870][824]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:870][824]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:880][825]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:880][825]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:892][826]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:892][826]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:903][827]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:903][827]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:915][828]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:915][828]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:925][829]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:925][829]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:936][830]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:937][830]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:946][831]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:946][831]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:956][832]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:956][832]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:966][833]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:967][833]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:976][834]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:976][834]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:987][835]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:987][835]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.31:997][836]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.31:997][836]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:008][837]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:008][837]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:019][838]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:019][838]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:029][839]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:029][839]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:041][840]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:041][840]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:055][841]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:055][841]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:067][842]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:067][842]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:085][843]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:085][843]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:097][844]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:097][844]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:108][845]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:108][845]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:119][846]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:119][846]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:128][847]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:129][847]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:141][848]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:141][848]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:152][849]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:152][849]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:188][850]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:188][850]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:198][851]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:198][851]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:207][852]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:207][852]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:218][853]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:218][853]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:230][854]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:230][854]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:240][855]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:240][855]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:251][856]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:251][856]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:260][857]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:260][857]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:271][858]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:271][858]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:281][859]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:281][859]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:291][860]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:291][860]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:303][861]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:303][861]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:313][862]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:313][862]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:323][863]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:323][863]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:334][864]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:334][864]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:343][865]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:343][865]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:354][866]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:354][866]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:365][867]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:365][867]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:375][868]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:375][868]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.32:386][869]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.32:386][869]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.34:162][ 25]LogBlueprintUserMessages: Player found
+[2015.03.21-16.23.35:180][125]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.35:180][125]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-16.23.37:166][324]LogBlueprintUserMessages: 1
+[2015.03.21-16.23.37:700][366]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.37:701][366]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-16.23.37:824][377]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.37:824][377]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-16.23.38:190][411]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.38:191][411]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-16.23.39:138][498]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.39:138][498]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-16.23.40:682][637]LogBlueprintUserMessages: Player found
+[2015.03.21-16.23.41:741][738]LogBlueprintUserMessages: Player found
+[2015.03.21-16.23.41:997][755]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.41:997][755]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-16.23.41:997][755]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.44:145][848]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.44:145][848]LogBlueprintUserMessages: Bird
+[2015.03.21-16.23.45:197][883]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC17FD02C0
+[2015.03.21-16.23.52:130][ 80]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Point_A_Sprite)
+[2015.03.21-16.23.57:811][304]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-16.23.57:834][304]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-16.23.58:566][304]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-16.23.58:751][304]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-16.23.59:057][304]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-16.23.59:234][304]LogPlayLevel: PIE:  Blueprint regeneration took 1422 ms (4 blueprints)
+[2015.03.21-16.23.59:234][304]PIE: New page: PIE session: Levelone (21 Mar 2015 16:23:59)
+[2015.03.21-16.23.59:249][304]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.23.59:249][304]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.23.59:250][304]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.23.59:250][304]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.23.59:251][304]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.23.59:251][304]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.23.59:251][304]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.23.59:251][304]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.23.59:252][304]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.23.59:252][304]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.23.59:256][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020856s)
+[2015.03.21-16.23.59:257][304]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2015.03.21-16.23.59:257][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.022200s)
+[2015.03.21-16.23.59:318][304]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-16.23.59:325][304]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-16.23.59:338][304]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 0) at 2015.03.21-16.23.59
+[2015.03.21-16.23.59:342][304]LogWorld: Bringing up level for play took: 0.015339
+[2015.03.21-16.23.59:347][304]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.59:347][304]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.23.59:349][304]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 2.44
+[2015.03.21-16.23.59:386][305]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-16.23.59:386][305]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-16.24.00:419][359]LogBlueprintUserMessages: Player found
+[2015.03.21-16.24.03:129][540]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.03:129][540]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.03:130][540]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.03:946][596]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.03:946][596]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.05:466][700]LogBlueprintUserMessages: Player found
+[2015.03.21-16.24.05:587][709]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.05:588][709]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.05:588][709]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.05:979][736]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.05:979][736]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.05:979][736]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.09:802][ 10]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.09:803][ 10]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.09:803][ 10]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.09:839][ 11]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.09:839][ 11]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.09:839][ 11]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.09:851][ 12]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.09:851][ 12]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.09:851][ 12]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.09:865][ 13]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.09:865][ 13]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.09:865][ 13]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.09:879][ 14]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.09:879][ 14]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.09:879][ 14]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.09:890][ 15]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.09:890][ 15]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.09:891][ 15]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.09:903][ 16]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.09:903][ 16]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.09:903][ 16]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.09:998][ 24]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.09:998][ 24]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.09:998][ 24]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.10:164][ 25]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC14347F60
+[2015.03.21-16.24.17:648][449]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-16.24.17:661][449]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-16.24.18:070][449]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-16.24.18:262][449]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-16.24.18:363][449]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-16.24.18:508][449]LogPlayLevel: PIE:  Blueprint regeneration took 860 ms (4 blueprints)
+[2015.03.21-16.24.18:508][449]PIE: New page: PIE session: Levelone (21 Mar 2015 16:24:18)
+[2015.03.21-16.24.18:518][449]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.18:518][449]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.18:519][449]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.18:519][449]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.18:519][449]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.18:519][449]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.18:520][449]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.18:520][449]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.18:520][449]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.18:520][449]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.18:523][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014349s)
+[2015.03.21-16.24.18:524][449]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2015.03.21-16.24.18:524][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.015374s)
+[2015.03.21-16.24.18:574][449]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-16.24.18:577][449]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-16.24.18:583][449]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 0) at 2015.03.21-16.24.18
+[2015.03.21-16.24.18:585][449]LogWorld: Bringing up level for play took: 0.007201
+[2015.03.21-16.24.18:587][449]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.18:587][449]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.18:620][449]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.711
+[2015.03.21-16.24.18:768][450]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-16.24.18:768][450]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-16.24.20:115][523]LogBlueprintUserMessages: Player found
+[2015.03.21-16.24.23:643][746]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.23:643][746]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.24:697][807]LogBlueprintUserMessages: Player found
+[2015.03.21-16.24.25:680][839]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.25:681][839]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.26:981][873]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC1B7C5800
+[2015.03.21-16.24.31:036][999]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-16.24.31:078][999]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-16.24.32:113][999]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-16.24.32:570][999]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-16.24.32:819][999]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-16.24.33:128][999]LogPlayLevel: PIE:  Blueprint regeneration took 2091 ms (4 blueprints)
+[2015.03.21-16.24.33:129][999]PIE: New page: PIE session: Levelone (21 Mar 2015 16:24:33)
+[2015.03.21-16.24.33:151][999]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.33:151][999]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.33:153][999]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.33:153][999]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.33:154][999]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.33:154][999]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.33:155][999]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.33:155][999]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.33:156][999]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.33:156][999]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-16.24.33:162][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032543s)
+[2015.03.21-16.24.33:164][999]LogPlayLevel: PIE: World Init took: (0.001506s)
+[2015.03.21-16.24.33:164][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.034462s)
+[2015.03.21-16.24.33:235][999]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-16.24.33:243][999]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-16.24.33:260][999]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 0) at 2015.03.21-16.24.33
+[2015.03.21-16.24.33:265][999]LogWorld: Bringing up level for play took: 0.020313
+[2015.03.21-16.24.33:272][999]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.33:273][999]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.33:327][999]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 2.418
+[2015.03.21-16.24.33:550][  0]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-16.24.33:550][  0]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-16.24.34:912][ 46]LogBlueprintUserMessages: Player found
+[2015.03.21-16.24.37:291][141]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.37:291][141]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.37:291][141]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.37:834][165]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.37:834][165]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.37:834][165]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.38:664][201]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.38:664][201]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.38:664][201]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.39:505][238]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.39:505][238]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.39:505][238]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.39:527][239]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.39:527][239]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.39:527][239]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.39:555][240]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.39:555][240]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.39:555][240]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.39:582][241]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.39:582][241]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.39:582][241]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.39:612][242]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.39:612][242]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.39:612][242]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.39:644][243]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.39:644][243]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.39:644][243]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.39:672][244]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.39:672][244]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.39:673][244]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.39:707][245]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.39:707][245]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.39:707][245]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.39:738][246]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.39:738][246]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.39:738][246]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.39:764][247]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.39:764][247]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.39:765][247]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.39:797][248]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.39:797][248]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.39:797][248]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.39:833][249]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.39:833][249]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.39:833][249]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.39:860][250]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.39:860][250]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.39:860][250]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.39:889][251]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.39:889][251]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.39:889][251]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.39:923][252]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.39:923][252]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.39:923][252]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.39:948][253]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.39:948][253]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.39:948][253]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.39:972][254]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.39:972][254]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.39:972][254]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.39:993][255]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.39:993][255]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.39:993][255]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.40:014][256]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.40:014][256]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.40:015][256]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.40:038][257]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.40:038][257]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.40:038][257]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.40:055][258]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.40:055][258]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.40:055][258]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.40:082][259]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.40:082][259]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.40:083][259]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.40:104][260]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.40:104][260]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.40:104][260]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.40:122][261]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.40:122][261]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.40:122][261]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.40:143][262]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.40:143][262]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.40:143][262]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.40:163][263]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.40:164][263]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.40:164][263]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.40:185][264]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.40:186][264]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.40:186][264]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.40:203][265]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.40:203][265]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.40:203][265]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.40:223][266]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.40:223][266]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.40:223][266]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.40:245][267]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.40:245][267]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.40:245][267]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.40:270][268]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.40:270][268]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.40:270][268]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.40:289][269]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.40:289][269]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.40:289][269]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.40:314][270]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.40:314][270]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.40:314][270]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.40:337][271]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.40:337][271]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.40:338][271]LogBlueprintUserMessages: Player found
+[2015.03.21-16.24.40:359][272]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.40:359][272]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.43:965][451]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.44:009][453]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.44:030][454]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.44:048][455]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.44:068][456]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.44:086][457]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.44:105][458]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.44:127][459]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.44:150][460]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.44:169][461]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.44:188][462]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.44:211][463]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.44:234][464]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.44:252][465]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.44:271][466]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.45:961][547]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.45:961][547]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.45:984][548]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.45:984][548]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:003][549]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:003][549]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:024][550]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:024][550]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:046][551]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:047][551]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:073][552]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:074][552]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:094][553]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:094][553]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:114][554]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:114][554]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:134][555]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:134][555]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:156][556]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:156][556]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:174][557]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:174][557]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:193][558]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:193][558]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:212][559]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:212][559]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:231][560]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:231][560]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:253][561]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:253][561]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:273][562]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:273][562]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:292][563]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:292][563]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:312][564]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:312][564]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:332][565]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:332][565]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:351][566]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:352][566]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:371][567]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:371][567]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:390][568]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:390][568]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:413][569]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:413][569]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:430][570]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:430][570]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:449][571]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:449][571]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:470][572]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:470][572]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:494][573]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:494][573]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:512][574]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:512][574]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:531][575]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:532][575]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:551][576]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:551][576]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:574][577]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:574][577]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:597][578]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:597][578]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:614][579]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:614][579]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:635][580]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:635][580]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:661][581]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:661][581]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:684][582]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:684][582]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:711][583]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:711][583]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:731][584]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:731][584]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:750][585]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:750][585]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:769][586]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:769][586]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:789][587]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:789][587]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:813][588]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:813][588]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:833][589]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:833][589]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:856][590]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:856][590]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:876][591]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:876][591]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:895][592]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:895][592]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:919][593]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:919][593]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:941][594]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:941][594]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:961][595]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:961][595]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.46:979][596]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.46:979][596]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:003][597]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:003][597]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:025][598]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:025][598]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:044][599]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:045][599]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:064][600]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:064][600]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:084][601]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:085][601]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:105][602]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:105][602]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:125][603]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:125][603]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:147][604]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:147][604]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:169][605]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:169][605]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:189][606]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:190][606]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:210][607]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:210][607]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:229][608]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:229][608]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:248][609]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:249][609]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:270][610]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:270][610]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:295][611]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:295][611]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:313][612]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:314][612]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:335][613]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:336][613]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:355][614]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:355][614]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:375][615]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:375][615]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:396][616]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:396][616]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:416][617]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:416][617]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:435][618]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:435][618]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:454][619]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:454][619]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:474][620]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:474][620]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:497][621]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:497][621]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:515][622]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:515][622]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:533][623]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:533][623]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:554][624]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:554][624]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:580][625]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:580][625]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:601][626]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:601][626]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:620][627]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:620][627]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:640][628]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:641][628]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:664][629]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:664][629]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:682][630]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:682][630]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.47:701][631]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.47:701][631]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.49:067][698]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.49:067][698]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.49:067][698]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.50:435][768]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.50:435][768]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.50:435][768]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.50:454][769]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.50:454][769]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.50:454][769]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-16.24.51:483][822]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:506][823]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:523][824]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:541][825]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:559][826]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:578][827]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:598][828]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:616][829]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:634][830]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:655][831]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:672][832]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:690][833]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:708][834]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:726][835]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:747][836]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:766][837]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:785][838]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:803][839]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:825][840]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:842][841]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:859][842]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:877][843]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:895][844]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:917][845]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:940][846]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:958][847]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:976][848]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.51:997][849]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.52:020][850]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.52:037][851]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.52:053][852]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.52:071][853]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.52:092][854]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.52:109][855]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.52:129][856]LogBlueprintUserMessages: Hello
+[2015.03.21-16.24.52:224][861]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.52:224][861]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.52:224][861]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-16.24.52:224][861]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.52:245][862]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.52:245][862]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.52:245][862]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-16.24.52:245][862]LogBlueprintUserMessages: Bird
+[2015.03.21-16.24.52:265][863]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-16.24.52:265][863]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-16.24.52:265][863]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-16.24.52:265][863]Lo
