@@ -993,4 +993,1550 @@ Target is User Widget'.
 [2015.03.21-02.10.39:018][119]BlueprintLog: New page: Pre-PIE auto-recompile
 [2015.03.21-02.10.39:040][119]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
 [2015.03.21-02.10.39:182][119]LogPlayLevel: [PIE] Compiling HUD before PIE...
-[2015.03.21-02.10.39:258][119]LogPlayLevel: PIE:  Blueprint regeneration to
+[2015.03.21-02.10.39:258][119]LogPlayLevel: PIE:  Blueprint regeneration took 240 ms (2 blueprints)
+[2015.03.21-02.10.39:258][119]PIE: New page: PIE session: Levelone (21 Mar 2015 02:10:39)
+[2015.03.21-02.10.39:262][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003743s)
+[2015.03.21-02.10.39:263][119]LogPlayLevel: PIE: World Init took: (0.000492s)
+[2015.03.21-02.10.39:263][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.004410s)
+[2015.03.21-02.10.39:302][119]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-02.10.39:304][119]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-02.10.39:308][119]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-02.10.39
+[2015.03.21-02.10.39:310][119]LogWorld: Bringing up level for play took: 0.005465
+[2015.03.21-02.10.39:322][119]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.66
+[2015.03.21-02.10.39:349][119]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.10.39:349][119]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.10.39:349][119]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.10.39:349][119]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.10.47:683][378]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001FECE7A0
+[2015.03.21-02.10.47:683][378]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.10.47:683][378]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.10.47:683][378]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.10.47:683][378]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.10.51:576][608]BlueprintLog: New page: Compile Icantspellchamerlan
+[2015.03.21-02.10.51:743][608]BlueprintEditorCompileResults: Info [0571.87] Compile of Icantspellchamerlan successful! [in 166 ms]
+[2015.03.21-02.10.52:810][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.21-02.10.52:905][657]LogSavePackage: Save=69.624466ms
+[2015.03.21-02.10.52:905][657]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/LeveloneE44952414F825A95AC84EA85C970089F.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.21-02.10.52:939][657]LogFileHelpers: Saving map 'Levelone' took 0.277
+[2015.03.21-02.10.52:944][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.21-02.10.53:114][657]LogSavePackage: Save=163.394928ms
+[2015.03.21-02.10.53:114][657]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/IcantspellchamerlanBBCD5FE240C64BF10A59E2BDEFD3A2CA.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.21-02.12.20:542][603]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-02.12.20:547][603]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-02.12.20:623][603]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-02.12.20:779][603]LogPlayLevel: PIE:  Blueprint regeneration took 236 ms (2 blueprints)
+[2015.03.21-02.12.20:779][603]PIE: New page: PIE session: Levelone (21 Mar 2015 02:12:20)
+[2015.03.21-02.12.20:783][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003464s)
+[2015.03.21-02.12.20:783][603]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2015.03.21-02.12.20:783][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.004125s)
+[2015.03.21-02.12.20:820][603]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-02.12.20:822][603]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-02.12.20:825][603]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-02.12.20
+[2015.03.21-02.12.20:827][603]LogWorld: Bringing up level for play took: 0.005119
+[2015.03.21-02.12.20:841][603]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.178
+[2015.03.21-02.12.20:869][603]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.12.20:869][603]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.12.20:869][603]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.12.20:869][603]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.12.23:943][701]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000BA5B060
+[2015.03.21-02.12.23:943][701]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.12.23:943][701]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.12.23:943][701]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.12.23:943][701]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.12.27:893][929]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-02.12.27:915][929]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-02.12.28:052][929]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-02.12.28:123][929]LogPlayLevel: PIE:  Blueprint regeneration took 229 ms (2 blueprints)
+[2015.03.21-02.12.28:124][929]PIE: New page: PIE session: Levelone (21 Mar 2015 02:12:28)
+[2015.03.21-02.12.28:127][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003491s)
+[2015.03.21-02.12.28:128][929]LogPlayLevel: PIE: World Init took: (0.000505s)
+[2015.03.21-02.12.28:128][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.004128s)
+[2015.03.21-02.12.28:167][929]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-02.12.28:170][929]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-02.12.28:174][929]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-02.12.28
+[2015.03.21-02.12.28:176][929]LogWorld: Bringing up level for play took: 0.005713
+[2015.03.21-02.12.28:188][929]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.476
+[2015.03.21-02.12.28:215][929]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.12.28:215][929]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.12.28:215][929]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.12.28:215][929]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.12.28:504][937]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:528][938]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:556][939]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:579][940]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:605][941]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:605][941]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:629][942]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:629][942]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:654][943]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:655][943]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:678][944]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:678][944]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:703][945]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:703][945]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:726][946]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:726][946]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:754][947]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:754][947]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:778][948]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:778][948]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:804][949]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:804][949]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:830][950]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:831][950]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:857][951]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:857][951]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:882][952]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:883][952]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:909][953]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:909][953]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:936][954]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:936][954]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:960][955]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:960][955]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:986][956]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.28:986][956]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:010][957]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:010][957]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:035][958]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:035][958]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:060][959]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:060][959]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:086][960]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:087][960]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:112][961]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:112][961]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:138][962]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:138][962]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:164][963]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:164][963]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:192][964]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:192][964]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:220][965]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:220][965]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:246][966]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:246][966]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:273][967]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:273][967]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:300][968]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:300][968]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:327][969]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:327][969]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:356][970]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:356][970]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:383][971]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:383][971]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:411][972]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:411][972]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:440][973]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:440][973]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:467][974]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:468][974]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:495][975]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:495][975]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:523][976]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:523][976]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:550][977]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:550][977]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:579][978]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:579][978]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:607][979]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:607][979]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:634][980]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:634][980]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:662][981]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:662][981]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:690][982]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:690][982]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:717][983]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:717][983]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:744][984]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:744][984]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:773][985]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:773][985]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:800][986]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:828][987]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:857][988]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.29:884][989]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.34:913][145]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.34:952][146]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.34:990][147]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:029][148]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:029][148]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:066][149]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:066][149]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:102][150]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:102][150]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:140][151]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:140][151]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:176][152]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:176][152]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:212][153]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:212][153]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:254][154]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:254][154]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:289][155]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:289][155]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:329][156]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:329][156]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:368][157]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:368][157]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:407][158]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:407][158]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:446][159]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:446][159]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:483][160]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:484][160]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:522][161]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:522][161]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:559][162]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:559][162]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:596][163]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:596][163]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:633][164]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:633][164]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:672][165]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:672][165]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:709][166]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:709][166]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:750][167]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:750][167]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:789][168]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:789][168]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:829][169]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:829][169]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:870][170]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:870][170]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:909][171]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:909][171]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:949][172]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:949][172]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:988][173]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.35:989][173]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.36:027][174]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.36:027][174]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.36:066][175]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.36:067][175]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.36:109][176]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.36:110][176]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.36:148][177]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.36:148][177]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.36:186][178]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.36:186][178]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.36:223][179]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.36:261][180]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.36:305][181]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:525][209]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:569][210]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:614][211]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:614][211]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:658][212]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:658][212]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:704][213]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:704][213]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:752][214]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:752][214]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:794][215]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:794][215]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:840][216]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:840][216]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:883][217]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:883][217]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:929][218]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:929][218]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:973][219]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.37:973][219]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:016][220]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:016][220]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:059][221]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:059][221]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:103][222]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:103][222]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:146][223]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:146][223]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:191][224]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:191][224]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:237][225]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:237][225]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:284][226]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:284][226]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:329][227]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:329][227]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:374][228]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:374][228]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:423][229]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:423][229]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:466][230]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:466][230]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:510][231]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:510][231]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:554][232]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:554][232]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:598][233]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:598][233]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:641][234]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:641][234]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:688][235]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:688][235]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:730][236]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:730][236]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:777][237]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:777][237]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:823][238]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.38:871][239]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.43:914][336]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.43:969][337]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:024][338]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:024][338]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:080][339]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:080][339]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:155][340]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:155][340]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:210][341]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:210][341]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:268][342]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:268][342]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:321][343]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:321][343]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:380][344]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:380][344]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:438][345]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:439][345]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:495][346]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:495][346]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:553][347]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:553][347]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:608][348]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:608][348]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:664][349]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:664][349]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:721][350]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:721][350]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:774][351]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:774][351]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:830][352]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:830][352]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:889][353]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:889][353]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:943][354]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.44:943][354]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.45:001][355]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.45:001][355]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.45:056][356]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.45:056][356]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.45:111][357]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.45:111][357]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.45:169][358]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.45:170][358]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.45:365][359]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001226ED40
+[2015.03.21-02.12.45:365][359]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.12.45:365][359]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.12.45:365][359]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.12.45:365][359]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.12.47:742][489]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-02.12.47:765][489]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-02.12.47:900][489]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-02.12.47:969][489]LogPlayLevel: PIE:  Blueprint regeneration took 227 ms (2 blueprints)
+[2015.03.21-02.12.47:970][489]PIE: New page: PIE session: Levelone (21 Mar 2015 02:12:47)
+[2015.03.21-02.12.47:973][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003259s)
+[2015.03.21-02.12.47:974][489]LogPlayLevel: PIE: World Init took: (0.000417s)
+[2015.03.21-02.12.47:974][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.003811s)
+[2015.03.21-02.12.48:007][489]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-02.12.48:008][489]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-02.12.48:012][489]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-02.12.48
+[2015.03.21-02.12.48:014][489]LogWorld: Bringing up level for play took: 0.005201
+[2015.03.21-02.12.48:016][489]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.648
+[2015.03.21-02.12.48:297][504]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:313][505]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:330][506]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:346][507]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:363][508]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:380][509]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:398][510]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:398][510]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:415][511]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:415][511]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:430][512]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:430][512]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:447][513]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:447][513]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:463][514]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:463][514]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:480][515]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:480][515]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:497][516]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:497][516]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:513][517]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:513][517]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:530][518]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:530][518]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:547][519]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:547][519]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:563][520]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:563][520]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:580][521]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:580][521]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:597][522]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:597][522]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:613][523]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:614][523]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:630][524]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:630][524]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:647][525]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:647][525]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:663][526]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:663][526]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:680][527]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:680][527]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:696][528]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:697][528]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:713][529]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:713][529]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:730][530]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:730][530]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:747][531]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:747][531]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:763][532]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:763][532]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:780][533]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:780][533]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:797][534]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:797][534]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:813][535]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:813][535]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:830][536]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:830][536]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:846][537]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:847][537]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:863][538]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:863][538]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:880][539]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:880][539]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:896][540]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:896][540]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:914][541]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:914][541]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:930][542]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:930][542]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:947][543]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:947][543]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:963][544]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:963][544]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:980][545]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:980][545]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:997][546]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.48:997][546]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:013][547]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:013][547]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:030][548]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:030][548]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:047][549]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:047][549]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:063][550]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:063][550]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:080][551]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:080][551]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:096][552]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:096][552]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:113][553]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:113][553]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:130][554]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:130][554]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:146][555]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:146][555]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:163][556]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:163][556]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:180][557]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:180][557]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:196][558]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:196][558]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:213][559]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:213][559]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:230][560]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:230][560]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:247][561]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:247][561]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:263][562]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:263][562]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:280][563]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:280][563]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:296][564]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:296][564]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:313][565]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:313][565]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:330][566]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:330][566]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:346][567]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:346][567]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:363][568]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:363][568]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:380][569]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:380][569]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:396][570]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:396][570]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:413][571]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:413][571]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:430][572]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:430][572]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:447][573]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:447][573]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:464][574]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:464][574]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:480][575]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:482][575]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:497][576]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:497][576]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:514][577]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:514][577]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:531][578]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:531][578]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:548][579]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:548][579]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:567][580]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:567][580]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:583][581]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:583][581]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:602][582]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:618][583]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:635][584]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:651][585]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:668][586]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.49:685][587]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.54:803][738]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.54:825][739]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.54:854][740]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.54:881][741]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.54:913][742]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.54:913][742]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.54:943][743]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.54:943][743]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.54:975][744]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.54:975][744]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:008][745]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:008][745]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:102][746]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:102][746]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:160][747]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:160][747]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:174][748]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:174][748]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:199][749]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:199][749]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:234][750]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:234][750]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:268][751]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:268][751]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:301][752]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:301][752]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:395][753]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:395][753]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:481][754]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:481][754]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:543][755]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:543][755]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:605][756]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:605][756]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:669][757]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:669][757]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:730][758]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:730][758]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:793][759]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:793][759]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:854][760]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:854][760]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:921][761]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:921][761]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:982][762]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.55:982][762]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.56:045][763]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.56:046][763]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.56:114][764]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.56:180][765]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:382][784]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:449][785]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:542][786]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:542][786]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:556][787]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:556][787]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:647][788]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:647][788]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:710][789]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:710][789]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:775][790]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:775][790]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:785][791]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:785][791]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:816][792]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:816][792]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:854][793]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:854][793]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:890][794]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:890][794]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:927][795]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:927][795]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:965][796]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.57:965][796]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:004][797]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:004][797]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:040][798]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:040][798]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:146][799]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:146][799]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:210][800]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:210][800]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:224][801]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:224][801]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:253][802]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:254][802]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:290][803]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:290][803]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:329][804]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:330][804]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:370][805]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:370][805]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:409][806]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:409][806]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:514][807]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:514][807]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:526][808]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:526][808]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:555][809]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:555][809]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:591][810]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:591][810]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:627][811]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:628][811]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:667][812]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:706][813]LogBlueprintUserMessages: Hello
+[2015.03.21-02.12.58:747][814]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.03:796][883]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.03:890][884]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.03:890][884]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.03:983][885]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.03:983][885]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:075][886]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:075][886]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:166][887]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:166][887]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:258][888]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:258][888]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:351][889]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:351][889]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:448][890]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:448][890]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:542][891]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:542][891]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:638][892]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:638][892]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:733][893]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:733][893]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:824][894]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:824][894]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:920][895]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.04:920][895]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.05:009][896]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.05:009][896]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.05:118][897]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.06:551][909]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.06:551][909]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.06:661][910]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.06:661][910]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.06:772][911]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.06:772][911]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.06:888][912]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.06:888][912]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.06:996][913]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.06:996][913]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.07:114][914]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.07:114][914]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.07:278][915]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.07:278][915]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.07:397][916]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.07:397][916]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.07:506][917]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.07:506][917]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.07:618][918]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.07:618][918]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.07:733][919]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.12:836][970]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.12:925][971]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.12:925][971]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.13:013][972]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.13:013][972]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.13:109][973]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.13:109][973]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.13:197][974]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.13:197][974]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.13:287][975]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.13:287][975]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.13:375][976]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.13:375][976]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.13:464][977]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.13:464][977]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.13:554][978]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.13:554][978]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.13:638][979]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.13:638][979]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.13:727][980]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.13:727][980]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.14:022][981]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.14:022][981]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.14:039][982]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.14:039][982]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.14:058][983]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.14:058][983]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.14:292][984]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.15:516][993]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.15:536][994]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.15:536][994]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.15:623][995]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.15:623][995]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.15:718][996]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.15:718][996]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.15:813][997]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.15:813][997]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.15:907][998]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.15:907][998]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.16:001][999]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.16:001][999]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.16:097][  0]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.16:097][  0]LogBlueprintUserMessages: Hello
+[2015.03.21-02.13.16:342][  1]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000228514E0
+[2015.03.21-02.13.22:979][381]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2015.03.21-02.14.11:827][585]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.14.11:827][585]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.14.11:827][585]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.14.11:828][585]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.15.21:593][157]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-02.15.21:617][157]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-02.15.21:748][157]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-02.15.21:821][157]LogPlayLevel: PIE:  Blueprint regeneration took 227 ms (2 blueprints)
+[2015.03.21-02.15.21:821][157]PIE: New page: PIE session: Levelone (21 Mar 2015 02:15:21)
+[2015.03.21-02.15.21:825][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003854s)
+[2015.03.21-02.15.21:826][157]LogPlayLevel: PIE: World Init took: (0.000499s)
+[2015.03.21-02.15.21:826][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.004507s)
+[2015.03.21-02.15.21:861][157]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-02.15.21:863][157]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-02.15.21:868][157]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-02.15.21
+[2015.03.21-02.15.21:870][157]LogWorld: Bringing up level for play took: 0.006097
+[2015.03.21-02.15.21:884][157]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.219
+[2015.03.21-02.15.21:910][157]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.15.21:910][157]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.15.21:910][157]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.15.21:910][157]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.15.21:980][157]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.22:027][158]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.22:069][159]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.22:109][160]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.22:145][161]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.22:171][162]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.22:204][163]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.22:235][164]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.22:270][165]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.22:301][166]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.22:328][167]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.22:615][177]LogBlueprintUserMessages: 1
+[2015.03.21-02.15.22:615][177]LogBlueprintUserMessages: 1
+[2015.03.21-02.15.22:615][177]LogBlueprintUserMessages: 1
+[2015.03.21-02.15.22:615][177]LogBlueprintUserMessages: 1
+[2015.03.21-02.15.23:627][216]LogBlueprintUserMessages: 2
+[2015.03.21-02.15.23:627][216]LogBlueprintUserMessages: 2
+[2015.03.21-02.15.23:627][216]LogBlueprintUserMessages: 2
+[2015.03.21-02.15.23:627][216]LogBlueprintUserMessages: 2
+[2015.03.21-02.15.24:637][253]LogBlueprintUserMessages: 3
+[2015.03.21-02.15.24:637][253]LogBlueprintUserMessages: 3
+[2015.03.21-02.15.24:637][253]LogBlueprintUserMessages: 3
+[2015.03.21-02.15.24:637][253]LogBlueprintUserMessages: 3
+[2015.03.21-02.15.25:643][287]LogBlueprintUserMessages: 4
+[2015.03.21-02.15.25:643][287]LogBlueprintUserMessages: 4
+[2015.03.21-02.15.25:643][287]LogBlueprintUserMessages: 4
+[2015.03.21-02.15.25:643][287]LogBlueprintUserMessages: 4
+[2015.03.21-02.15.26:261][303]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000BA5BEC0
+[2015.03.21-02.15.26:261][303]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.15.26:261][303]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.15.26:261][303]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.15.26:261][303]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.15.47:651][528]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-02.15.47:673][528]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-02.15.47:810][528]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-02.15.47:885][528]LogPlayLevel: PIE:  Blueprint regeneration took 234 ms (2 blueprints)
+[2015.03.21-02.15.47:885][528]PIE: New page: PIE session: Levelone (21 Mar 2015 02:15:47)
+[2015.03.21-02.15.47:889][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003458s)
+[2015.03.21-02.15.47:890][528]LogPlayLevel: PIE: World Init took: (0.000418s)
+[2015.03.21-02.15.47:890][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.004009s)
+[2015.03.21-02.15.47:928][528]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-02.15.47:930][528]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-02.15.47:936][528]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-02.15.47
+[2015.03.21-02.15.47:938][528]LogWorld: Bringing up level for play took: 0.006456
+[2015.03.21-02.15.47:951][528]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.285
+[2015.03.21-02.15.47:980][528]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.15.47:980][528]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.15.47:980][528]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.15.47:980][528]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.15.48:048][528]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.48:094][529]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.48:181][530]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.48:225][531]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.48:264][532]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.48:305][533]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.48:352][534]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.48:386][535]LogBlueprintUserMessages: Hello
+[2015.03.21-02.15.48:400][535]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.48:434][536]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.48:464][537]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.15.48:682][544]LogBlueprintUserMessages: 1
+[2015.03.21-02.15.48:682][544]LogBlueprintUserMessages: 1
+[2015.03.21-02.15.48:682][544]LogBlueprintUserMessages: 1
+[2015.03.21-02.15.48:682][544]LogBlueprintUserMessages: 1
+[2015.03.21-02.15.49:709][575]LogBlueprintUserMessages: 2
+[2015.03.21-02.15.49:709][575]LogBlueprintUserMessages: 2
+[2015.03.21-02.15.49:709][575]LogBlueprintUserMessages: 2
+[2015.03.21-02.15.49:709][575]LogBlueprintUserMessages: 2
+[2015.03.21-02.15.50:711][605]LogBlueprintUserMessages: 3
+[2015.03.21-02.15.50:711][605]LogBlueprintUserMessages: 3
+[2015.03.21-02.15.50:711][605]LogBlueprintUserMessages: 3
+[2015.03.21-02.15.50:711][605]LogBlueprintUserMessages: 3
+[2015.03.21-02.15.51:727][635]LogBlueprintUserMessages: 4
+[2015.03.21-02.15.51:727][635]LogBlueprintUserMessages: 4
+[2015.03.21-02.15.51:727][635]LogBlueprintUserMessages: 4
+[2015.03.21-02.15.51:727][635]LogBlueprintUserMessages: 4
+[2015.03.21-02.15.52:734][664]LogBlueprintUserMessages: 5
+[2015.03.21-02.15.52:734][664]LogBlueprintUserMessages: 5
+[2015.03.21-02.15.52:734][664]LogBlueprintUserMessages: 5
+[2015.03.21-02.15.52:734][664]LogBlueprintUserMessages: 5
+[2015.03.21-02.15.53:752][692]LogBlueprintUserMessages: 6
+[2015.03.21-02.15.53:752][692]LogBlueprintUserMessages: 6
+[2015.03.21-02.15.53:752][692]LogBlueprintUserMessages: 6
+[2015.03.21-02.15.53:752][692]LogBlueprintUserMessages: 6
+[2015.03.21-02.15.54:768][719]LogBlueprintUserMessages: 7
+[2015.03.21-02.15.54:768][719]LogBlueprintUserMessages: 7
+[2015.03.21-02.15.54:768][719]LogBlueprintUserMessages: 7
+[2015.03.21-02.15.54:768][719]LogBlueprintUserMessages: 7
+[2015.03.21-02.15.55:276][728]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002CCEEE80
+[2015.03.21-02.15.55:276][728]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.15.55:276][728]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.15.55:276][728]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.15.55:276][728]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.16.20:993][165]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.16.20:993][165]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.16.20:993][165]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.16.20:993][165]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.16.57:093][224]LogEditorTransaction: Undo Create Pin Link
+[2015.03.21-02.16.57:205][224]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.16.57:205][224]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.16.57:205][224]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.16.57:205][224]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.16.57:862][244]LogEditorTransaction: Undo Create Pin Link
+[2015.03.21-02.16.57:969][244]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.16.57:969][244]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.16.57:969][244]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.16.57:969][244]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.17.02:104][488]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-02.17.02:127][488]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-02.17.02:263][488]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-02.17.02:335][488]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-02.17.02:410][488]LogPlayLevel: PIE:  Blueprint regeneration took 305 ms (3 blueprints)
+[2015.03.21-02.17.02:410][488]PIE: New page: PIE session: Levelone (21 Mar 2015 02:17:02)
+[2015.03.21-02.17.02:414][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003674s)
+[2015.03.21-02.17.02:415][488]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2015.03.21-02.17.02:415][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.004329s)
+[2015.03.21-02.17.02:451][488]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-02.17.02:453][488]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-02.17.02:457][488]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-02.17.02
+[2015.03.21-02.17.02:459][488]LogWorld: Bringing up level for play took: 0.005356
+[2015.03.21-02.17.02:473][488]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.194
+[2015.03.21-02.17.02:499][488]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.17.02:499][488]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.17.02:499][488]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.17.02:499][488]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.17.02:569][488]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.02:616][489]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.02:702][490]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.02:745][491]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.02:782][492]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.02:814][493]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.02:845][494]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.02:875][495]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.02:903][496]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.02:935][497]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.02:964][498]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.03:192][506]LogBlueprintUserMessages: 1
+[2015.03.21-02.17.03:192][506]LogBlueprintUserMessages: 1
+[2015.03.21-02.17.03:192][506]LogBlueprintUserMessages: 1
+[2015.03.21-02.17.03:192][506]LogBlueprintUserMessages: 1
+[2015.03.21-02.17.04:201][545]LogBlueprintUserMessages: 2
+[2015.03.21-02.17.04:201][545]LogBlueprintUserMessages: 2
+[2015.03.21-02.17.04:201][545]LogBlueprintUserMessages: 2
+[2015.03.21-02.17.04:201][545]LogBlueprintUserMessages: 2
+[2015.03.21-02.17.05:224][582]LogBlueprintUserMessages: 3
+[2015.03.21-02.17.05:224][582]LogBlueprintUserMessages: 3
+[2015.03.21-02.17.05:224][582]LogBlueprintUserMessages: 3
+[2015.03.21-02.17.05:224][582]LogBlueprintUserMessages: 3
+[2015.03.21-02.17.06:211][609]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002B9F7F60
+[2015.03.21-02.17.06:211][609]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.17.06:211][609]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.17.06:211][609]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.17.06:211][609]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.17.36:651][600]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-02.17.36:672][600]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-02.17.36:811][600]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-02.17.36:885][600]LogPlayLevel: PIE:  Blueprint regeneration took 234 ms (2 blueprints)
+[2015.03.21-02.17.36:885][600]PIE: New page: PIE session: Levelone (21 Mar 2015 02:17:36)
+[2015.03.21-02.17.36:891][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004789s)
+[2015.03.21-02.17.36:891][600]LogPlayLevel: PIE: World Init took: (0.000468s)
+[2015.03.21-02.17.36:891][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.005398s)
+[2015.03.21-02.17.36:930][600]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-02.17.36:933][600]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-02.17.36:937][600]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-02.17.36
+[2015.03.21-02.17.36:939][600]LogWorld: Bringing up level for play took: 0.005146
+[2015.03.21-02.17.36:952][600]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.285
+[2015.03.21-02.17.36:981][600]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.17.36:981][600]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.17.36:981][600]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.17.36:981][600]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.17.37:036][600]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.37:083][601]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.37:126][602]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.37:159][603]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.37:192][604]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.37:224][605]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.37:253][606]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.37:286][607]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.37:316][608]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.37:347][609]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.37:379][610]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.17.37:660][620]LogBlueprintUserMessages: 1
+[2015.03.21-02.17.37:660][620]LogBlueprintUserMessages: 1
+[2015.03.21-02.17.37:660][620]LogBlueprintUserMessages: 1
+[2015.03.21-02.17.37:660][620]LogBlueprintUserMessages: 1
+[2015.03.21-02.17.38:663][658]LogBlueprintUserMessages: 2
+[2015.03.21-02.17.38:663][658]LogBlueprintUserMessages: 2
+[2015.03.21-02.17.38:663][658]LogBlueprintUserMessages: 2
+[2015.03.21-02.17.38:663][658]LogBlueprintUserMessages: 2
+[2015.03.21-02.17.39:691][694]LogBlueprintUserMessages: 3
+[2015.03.21-02.17.39:691][694]LogBlueprintUserMessages: 3
+[2015.03.21-02.17.39:691][694]LogBlueprintUserMessages: 3
+[2015.03.21-02.17.39:691][694]LogBlueprintUserMessages: 3
+[2015.03.21-02.17.40:705][727]LogBlueprintUserMessages: 4
+[2015.03.21-02.17.40:705][727]LogBlueprintUserMessages: 4
+[2015.03.21-02.17.40:705][727]LogBlueprintUserMessages: 4
+[2015.03.21-02.17.40:705][727]LogBlueprintUserMessages: 4
+[2015.03.21-02.17.41:713][759]LogBlueprintUserMessages: 5
+[2015.03.21-02.17.41:713][759]LogBlueprintUserMessages: 5
+[2015.03.21-02.17.41:713][759]LogBlueprintUserMessages: 5
+[2015.03.21-02.17.41:713][759]LogBlueprintUserMessages: 5
+[2015.03.21-02.17.42:742][790]LogBlueprintUserMessages: 6
+[2015.03.21-02.17.42:742][790]LogBlueprintUserMessages: 6
+[2015.03.21-02.17.42:742][790]LogBlueprintUserMessages: 6
+[2015.03.21-02.17.42:742][790]LogBlueprintUserMessages: 6
+[2015.03.21-02.17.43:777][819]LogBlueprintUserMessages: 7
+[2015.03.21-02.17.43:777][819]LogBlueprintUserMessages: 7
+[2015.03.21-02.17.43:777][819]LogBlueprintUserMessages: 7
+[2015.03.21-02.17.43:777][819]LogBlueprintUserMessages: 7
+[2015.03.21-02.17.44:794][845]LogBlueprintUserMessages: 8
+[2015.03.21-02.17.44:795][845]LogBlueprintUserMessages: 8
+[2015.03.21-02.17.44:795][845]LogBlueprintUserMessages: 8
+[2015.03.21-02.17.44:795][845]LogBlueprintUserMessages: 8
+[2015.03.21-02.17.45:823][871]LogBlueprintUserMessages: 9
+[2015.03.21-02.17.45:823][871]LogBlueprintUserMessages: 9
+[2015.03.21-02.17.45:823][871]LogBlueprintUserMessages: 9
+[2015.03.21-02.17.45:823][871]LogBlueprintUserMessages: 9
+[2015.03.21-02.17.46:841][895]LogBlueprintUserMessages: 10
+[2015.03.21-02.17.46:841][895]LogBlueprintUserMessages: 10
+[2015.03.21-02.17.46:841][895]LogBlueprintUserMessages: 10
+[2015.03.21-02.17.46:841][895]LogBlueprintUserMessages: 10
+[2015.03.21-02.17.47:854][918]LogBlueprintUserMessages: 11
+[2015.03.21-02.17.47:854][918]LogBlueprintUserMessages: 11
+[2015.03.21-02.17.47:854][918]LogBlueprintUserMessages: 11
+[2015.03.21-02.17.47:854][918]LogBlueprintUserMessages: 11
+[2015.03.21-02.17.48:889][941]LogBlueprintUserMessages: 12
+[2015.03.21-02.17.48:889][941]LogBlueprintUserMessages: 12
+[2015.03.21-02.17.48:889][941]LogBlueprintUserMessages: 12
+[2015.03.21-02.17.48:889][941]LogBlueprintUserMessages: 12
+[2015.03.21-02.17.49:896][963]LogBlueprintUserMessages: 13
+[2015.03.21-02.17.49:897][963]LogBlueprintUserMessages: 13
+[2015.03.21-02.17.49:897][963]LogBlueprintUserMessages: 13
+[2015.03.21-02.17.49:897][963]LogBlueprintUserMessages: 13
+[2015.03.21-02.17.50:896][985]LogBlueprintUserMessages: 14
+[2015.03.21-02.17.50:896][985]LogBlueprintUserMessages: 14
+[2015.03.21-02.17.50:896][985]LogBlueprintUserMessages: 14
+[2015.03.21-02.17.50:896][985]LogBlueprintUserMessages: 14
+[2015.03.21-02.17.51:925][  5]LogBlueprintUserMessages: 15
+[2015.03.21-02.17.51:925][  5]LogBlueprintUserMessages: 15
+[2015.03.21-02.17.51:925][  5]LogBlueprintUserMessages: 15
+[2015.03.21-02.17.51:925][  5]LogBlueprintUserMessages: 15
+[2015.03.21-02.17.52:958][ 24]LogBlueprintUserMessages: 16
+[2015.03.21-02.17.52:958][ 24]LogBlueprintUserMessages: 16
+[2015.03.21-02.17.52:958][ 24]LogBlueprintUserMessages: 16
+[2015.03.21-02.17.52:958][ 24]LogBlueprintUserMessages: 16
+[2015.03.21-02.17.54:000][ 43]LogBlueprintUserMessages: 17
+[2015.03.21-02.17.54:000][ 43]LogBlueprintUserMessages: 17
+[2015.03.21-02.17.54:000][ 43]LogBlueprintUserMessages: 17
+[2015.03.21-02.17.54:000][ 43]LogBlueprintUserMessages: 17
+[2015.03.21-02.17.55:051][ 62]LogBlueprintUserMessages: 18
+[2015.03.21-02.17.55:051][ 62]LogBlueprintUserMessages: 18
+[2015.03.21-02.17.55:051][ 62]LogBlueprintUserMessages: 18
+[2015.03.21-02.17.55:051][ 62]LogBlueprintUserMessages: 18
+[2015.03.21-02.17.56:055][ 80]LogBlueprintUserMessages: 19
+[2015.03.21-02.17.56:055][ 80]LogBlueprintUserMessages: 19
+[2015.03.21-02.17.56:055][ 80]LogBlueprintUserMessages: 19
+[2015.03.21-02.17.56:055][ 80]LogBlueprintUserMessages: 19
+[2015.03.21-02.17.57:092][ 98]LogBlueprintUserMessages: 20
+[2015.03.21-02.17.57:092][ 98]LogBlueprintUserMessages: 20
+[2015.03.21-02.17.57:092][ 98]LogBlueprintUserMessages: 20
+[2015.03.21-02.17.57:092][ 98]LogBlueprintUserMessages: 20
+[2015.03.21-02.17.58:109][116]LogBlueprintUserMessages: 21
+[2015.03.21-02.17.58:109][116]LogBlueprintUserMessages: 21
+[2015.03.21-02.17.58:109][116]LogBlueprintUserMessages: 21
+[2015.03.21-02.17.58:109][116]LogBlueprintUserMessages: 21
+[2015.03.21-02.17.59:112][134]LogBlueprintUserMessages: 22
+[2015.03.21-02.17.59:113][134]LogBlueprintUserMessages: 22
+[2015.03.21-02.17.59:113][134]LogBlueprintUserMessages: 22
+[2015.03.21-02.17.59:113][134]LogBlueprintUserMessages: 22
+[2015.03.21-02.18.00:146][150]LogBlueprintUserMessages: 23
+[2015.03.21-02.18.00:146][150]LogBlueprintUserMessages: 23
+[2015.03.21-02.18.00:146][150]LogBlueprintUserMessages: 23
+[2015.03.21-02.18.00:146][150]LogBlueprintUserMessages: 23
+[2015.03.21-02.18.01:150][165]LogBlueprintUserMessages: 24
+[2015.03.21-02.18.01:150][165]LogBlueprintUserMessages: 24
+[2015.03.21-02.18.01:150][165]LogBlueprintUserMessages: 24
+[2015.03.21-02.18.01:150][165]LogBlueprintUserMessages: 24
+[2015.03.21-02.18.02:167][180]LogBlueprintUserMessages: 25
+[2015.03.21-02.18.02:167][180]LogBlueprintUserMessages: 25
+[2015.03.21-02.18.02:167][180]LogBlueprintUserMessages: 25
+[2015.03.21-02.18.02:167][180]LogBlueprintUserMessages: 25
+[2015.03.21-02.18.03:180][195]LogBlueprintUserMessages: 26
+[2015.03.21-02.18.03:180][195]LogBlueprintUserMessages: 26
+[2015.03.21-02.18.03:180][195]LogBlueprintUserMessages: 26
+[2015.03.21-02.18.03:180][195]LogBlueprintUserMessages: 26
+[2015.03.21-02.18.04:212][210]LogBlueprintUserMessages: 27
+[2015.03.21-02.18.04:212][210]LogBlueprintUserMessages: 27
+[2015.03.21-02.18.04:213][210]LogBlueprintUserMessages: 27
+[2015.03.21-02.18.04:213][210]LogBlueprintUserMessages: 27
+[2015.03.21-02.18.05:251][225]LogBlueprintUserMessages: 28
+[2015.03.21-02.18.05:251][225]LogBlueprintUserMessages: 28
+[2015.03.21-02.18.05:251][225]LogBlueprintUserMessages: 28
+[2015.03.21-02.18.05:251][225]LogBlueprintUserMessages: 28
+[2015.03.21-02.18.06:297][240]LogBlueprintUserMessages: 29
+[2015.03.21-02.18.06:297][240]LogBlueprintUserMessages: 29
+[2015.03.21-02.18.06:297][240]LogBlueprintUserMessages: 29
+[2015.03.21-02.18.06:297][240]LogBlueprintUserMessages: 29
+[2015.03.21-02.18.07:343][255]LogBlueprintUserMessages: 30
+[2015.03.21-02.18.07:343][255]LogBlueprintUserMessages: 30
+[2015.03.21-02.18.07:343][255]LogBlueprintUserMessages: 30
+[2015.03.21-02.18.07:343][255]LogBlueprintUserMessages: 30
+[2015.03.21-02.18.08:389][269]LogBlueprintUserMessages: 31
+[2015.03.21-02.18.08:389][269]LogBlueprintUserMessages: 31
+[2015.03.21-02.18.08:389][269]LogBlueprintUserMessages: 31
+[2015.03.21-02.18.08:389][269]LogBlueprintUserMessages: 31
+[2015.03.21-02.18.09:116][276]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000248A4860
+[2015.03.21-02.18.09:116][276]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.18.09:116][276]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.18.09:116][276]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.18.09:116][276]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.22.30:068][894]LogSavePackage: Save=70.548622ms
+[2015.03.21-02.22.30:068][894]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Levelone_Auto178F9878B42EA29E4681E29AB87DC06D4.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Autosaves/Game/Maps/Levelone_Auto1.umap'
+[2015.03.21-02.22.30:077][894]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levelone' took 0.185
+[2015.03.21-02.22.30:077][894]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.185
+[2015.03.21-02.22.30:110][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Icantspellchamerlan] ([1] browsable assets)...
+[2015.03.21-02.22.30:110][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Icantspellchamerlan]
+[2015.03.21-02.22.30:478][894]LogSavePackage: Save=331.100586ms
+[2015.03.21-02.22.30:479][894]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Icantspellchamerlan_Auto1D063447248741C1902F245AF68359869.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Icantspellchamerlan_Auto1.uasset'
+[2015.03.21-02.22.30:526][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Bird] ([1] browsable assets)...
+[2015.03.21-02.22.30:526][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Bird]
+[2015.03.21-02.22.30:539][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Bird" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Bird_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2015.03.21-02.22.30:757][894]LogSavePackage: Save=207.673843ms
+[2015.03.21-02.22.30:758][894]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Bird_Auto1577184B4415CC9AE89F93590EB8238DB.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Bird_Auto1.uasset'
+[2015.03.21-02.22.30:772][894]LogFileHelpers: Auto-saving content packages took 0.695
+[2015.03.21-02.23.20:094][852]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-02.23.20:119][852]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-02.23.20:256][852]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-02.23.20:331][852]LogPlayLevel: PIE:  Blueprint regeneration took 237 ms (2 blueprints)
+[2015.03.21-02.23.20:331][852]PIE: New page: PIE session: Levelone (21 Mar 2015 02:23:20)
+[2015.03.21-02.23.20:335][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003664s)
+[2015.03.21-02.23.20:336][852]LogPlayLevel: PIE: World Init took: (0.000513s)
+[2015.03.21-02.23.20:336][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.004318s)
+[2015.03.21-02.23.20:374][852]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-02.23.20:376][852]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-02.23.20:380][852]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-02.23.20
+[2015.03.21-02.23.20:383][852]LogWorld: Bringing up level for play took: 0.006685
+[2015.03.21-02.23.20:396][852]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.275
+[2015.03.21-02.23.20:423][852]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.23.20:423][852]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.23.20:423][852]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.23.20:423][852]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.23.20:478][852]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.23.20:526][853]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.23.20:592][854]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.23.20:627][855]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.23.20:671][856]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.23.20:709][857]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.23.20:749][858]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.23.20:790][859]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.23.20:831][860]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.23.20:876][861]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.23.20:917][862]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.23.21:142][868]LogBlueprintUserMessages: 1
+[2015.03.21-02.23.21:142][868]LogBlueprintUserMessages: 1
+[2015.03.21-02.23.21:142][868]LogBlueprintUserMessages: 1
+[2015.03.21-02.23.21:142][868]LogBlueprintUserMessages: 1
+[2015.03.21-02.23.22:158][907]LogBlueprintUserMessages: 2
+[2015.03.21-02.23.22:158][907]LogBlueprintUserMessages: 2
+[2015.03.21-02.23.22:158][907]LogBlueprintUserMessages: 2
+[2015.03.21-02.23.22:158][907]LogBlueprintUserMessages: 2
+[2015.03.21-02.23.23:163][944]LogBlueprintUserMessages: 3
+[2015.03.21-02.23.23:163][944]LogBlueprintUserMessages: 3
+[2015.03.21-02.23.23:163][944]LogBlueprintUserMessages: 3
+[2015.03.21-02.23.23:163][944]LogBlueprintUserMessages: 3
+[2015.03.21-02.23.24:173][980]LogBlueprintUserMessages: 4
+[2015.03.21-02.23.24:173][980]LogBlueprintUserMessages: 4
+[2015.03.21-02.23.24:173][980]LogBlueprintUserMessages: 4
+[2015.03.21-02.23.24:173][980]LogBlueprintUserMessages: 4
+[2015.03.21-02.23.24:749][995]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002CCECFE0
+[2015.03.21-02.23.24:749][995]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.23.24:749][995]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.23.24:749][995]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.23.24:749][995]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.23.34:005][526]LogEditorViewport: Clicking on Actor (LMB): Icantspellchamerlan_C (Icantspellchamerlan3)
+[2015.03.21-02.25.33:324][649]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-02.25.33:348][649]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-02.25.33:523][649]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-02.25.33:596][649]LogPlayLevel: PIE:  Blueprint regeneration took 271 ms (2 blueprints)
+[2015.03.21-02.25.33:596][649]PIE: New page: PIE session: Levelone (21 Mar 2015 02:25:33)
+[2015.03.21-02.25.33:602][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004784s)
+[2015.03.21-02.25.33:603][649]LogPlayLevel: PIE: World Init took: (0.000501s)
+[2015.03.21-02.25.33:603][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.005447s)
+[2015.03.21-02.25.33:665][649]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-02.25.33:667][649]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-02.25.33:671][649]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-02.25.33
+[2015.03.21-02.25.33:673][649]LogWorld: Bringing up level for play took: 0.005710
+[2015.03.21-02.25.33:693][649]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.022
+[2015.03.21-02.25.33:722][649]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.25.33:723][649]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.25.33:723][649]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.25.33:723][649]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.25.33:777][649]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.25.33:833][650]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.25.33:899][651]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.25.33:943][652]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.25.33:982][653]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.25.34:020][654]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.25.34:049][655]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.25.34:080][656]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.25.34:112][657]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.25.34:144][658]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.25.34:177][659]LogConnectionDrawingPolicy:Warning: Looks like a wire-trace was not injected before the jump from 'Create HUD_C Widget' to 'Add to Viewport
+Target is User Widget'.
+[2015.03.21-02.25.34:417][668]LogBlueprintUserMessages: 1
+[2015.03.21-02.25.34:417][668]LogBlueprintUserMessages: 1
+[2015.03.21-02.25.34:417][668]LogBlueprintUserMessages: 1
+[2015.03.21-02.25.34:417][668]LogBlueprintUserMessages: 1
+[2015.03.21-02.25.35:433][707]LogBlueprintUserMessages: 2
+[2015.03.21-02.25.35:433][707]LogBlueprintUserMessages: 2
+[2015.03.21-02.25.35:433][707]LogBlueprintUserMessages: 2
+[2015.03.21-02.25.35:433][707]LogBlueprintUserMessages: 2
+[2015.03.21-02.25.36:441][743]LogBlueprintUserMessages: 3
+[2015.03.21-02.25.36:442][743]LogBlueprintUserMessages: 3
+[2015.03.21-02.25.36:442][743]LogBlueprintUserMessages: 3
+[2015.03.21-02.25.36:442][743]LogBlueprintUserMessages: 3
+[2015.03.21-02.25.37:461][778]LogBlueprintUserMessages: 4
+[2015.03.21-02.25.37:461][778]LogBlueprintUserMessages: 4
+[2015.03.21-02.25.37:461][778]LogBlueprintUserMessages: 4
+[2015.03.21-02.25.37:461][778]LogBlueprintUserMessages: 4
+[2015.03.21-02.25.38:493][812]LogBlueprintUserMessages: 5
+[2015.03.21-02.25.38:493][812]LogBlueprintUserMessages: 5
+[2015.03.21-02.25.38:493][812]LogBlueprintUserMessages: 5
+[2015.03.21-02.25.38:493][812]LogBlueprintUserMessages: 5
+[2015.03.21-02.25.39:523][844]LogBlueprintUserMessages: 6
+[2015.03.21-02.25.39:523][844]LogBlueprintUserMessages: 6
+[2015.03.21-02.25.39:523][844]LogBlueprintUserMessages: 6
+[2015.03.21-02.25.39:523][844]LogBlueprintUserMessages: 6
+[2015.03.21-02.25.40:529][873]LogBlueprintUserMessages: 7
+[2015.03.21-02.25.40:530][873]LogBlueprintUserMessages: 7
+[2015.03.21-02.25.40:530][873]LogBlueprintUserMessages: 7
+[2015.03.21-02.25.40:530][873]LogBlueprintUserMessages: 7
+[2015.03.21-02.25.41:547][900]LogBlueprintUserMessages: 8
+[2015.03.21-02.25.41:547][900]LogBlueprintUserMessages: 8
+[2015.03.21-02.25.41:547][900]LogBlueprintUserMessages: 8
+[2015.03.21-02.25.41:548][900]LogBlueprintUserMessages: 8
+[2015.03.21-02.25.42:550][926]LogBlueprintUserMessages: 9
+[2015.03.21-02.25.42:550][926]LogBlueprintUserMessages: 9
+[2015.03.21-02.25.42:550][926]LogBlueprintUserMessages: 9
+[2015.03.21-02.25.42:550][926]LogBlueprintUserMessages: 9
+[2015.03.21-02.25.43:573][950]LogBlueprintUserMessages: 10
+[2015.03.21-02.25.43:573][950]LogBlueprintUserMessages: 10
+[2015.03.21-02.25.43:573][950]LogBlueprintUserMessages: 10
+[2015.03.21-02.25.43:573][950]LogBlueprintUserMessages: 10
+[2015.03.21-02.25.44:585][970]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002F1D2480
+[2015.03.21-02.25.44:615][970]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.25.44:615][970]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.25.44:615][970]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.25.44:615][970]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.26.17:759][933]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-02.26.23:613][274]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
+[2015.03.21-02.26.35:663][981]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BirdPlaceholder_Sprite)
+[2015.03.21-02.26.46:164][604]LogEditorViewport: Clicking on Actor (LMB): Icantspellchamerlan_C (Icantspellchamerlan)
+[2015.03.21-02.26.52:029][947]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BirdPlaceholder_Sprite)
+[2015.03.21-02.26.59:677][374]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-02.26.59:704][374]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-02.26.59:845][374]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-02.26.59:918][374]LogPlayLevel: PIE:  Blueprint regeneration took 241 ms (2 blueprints)
+[2015.03.21-02.26.59:919][374]PIE: New page: PIE session: Levelone (21 Mar 2015 02:26:59)
+[2015.03.21-02.26.59:923][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003588s)
+[2015.03.21-02.26.59:923][374]LogPlayLevel: PIE: World Init took: (0.000437s)
+[2015.03.21-02.26.59:923][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.004161s)
+[2015.03.21-02.26.59:958][374]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-02.26.59:960][374]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-02.26.59:964][374]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-02.26.59
+[2015.03.21-02.26.59:966][374]LogWorld: Bringing up level for play took: 0.006329
+[2015.03.21-02.26.59:970][374]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.703
+[2015.03.21-02.27.00:656][414]LogBlueprintUserMessages: 1
+[2015.03.21-02.27.00:656][414]LogBlueprintUserMessages: 1
+[2015.03.21-02.27.00:656][414]LogBlueprintUserMessages: 1
+[2015.03.21-02.27.00:656][414]LogBlueprintUserMessages: 1
+[2015.03.21-02.27.01:658][474]LogBlueprintUserMessages: 2
+[2015.03.21-02.27.01:658][474]LogBlueprintUserMessages: 2
+[2015.03.21-02.27.01:658][474]LogBlueprintUserMessages: 2
+[2015.03.21-02.27.01:658][474]LogBlueprintUserMessages: 2
+[2015.03.21-02.27.02:144][496]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001E835BC0
+[2015.03.21-02.27.03:655][584]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-02.27.03:667][584]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-02.27.03:802][584]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-02.27.03:875][584]LogPlayLevel: PIE:  Blueprint regeneration took 220 ms (2 blueprints)
+[2015.03.21-02.27.03:876][584]PIE: New page: PIE session: Levelone (21 Mar 2015 02:27:03)
+[2015.03.21-02.27.03:880][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003745s)
+[2015.03.21-02.27.03:880][584]LogPlayLevel: PIE: World Init took: (0.000429s)
+[2015.03.21-02.27.03:880][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.004320s)
+[2015.03.21-02.27.03:916][584]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-02.27.03:919][584]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-02.27.03:922][584]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-02.27.03
+[2015.03.21-02.27.03:924][584]LogWorld: Bringing up level for play took: 0.005072
+[2015.03.21-02.27.03:927][584]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.254
+[2015.03.21-02.27.04:636][626]LogBlueprintUserMessages: 1
+[2015.03.21-02.27.04:636][626]LogBlueprintUserMessages: 1
+[2015.03.21-02.27.04:636][626]LogBlueprintUserMessages: 1
+[2015.03.21-02.27.04:636][626]LogBlueprintUserMessages: 1
+[2015.03.21-02.27.05:686][686]LogBlueprintUserMessages: 2
+[2015.03.21-02.27.05:686][686]LogBlueprintUserMessages: 2
+[2015.03.21-02.27.05:686][686]LogBlueprintUserMessages: 2
+[2015.03.21-02.27.05:686][686]LogBlueprintUserMessages: 2
+[2015.03.21-02.27.05:780][687]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002978A0C0
+[2015.03.21-02.27.11:327][ 18]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2015.03.21-02.27.13:095][123]LogEditorViewport: Clicking Background
+[2015.03.21-02.27.13:495][147]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BirdPlaceholder_Sprite)
+[2015.03.21-02.27.18:792][442]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-02.27.18:805][442]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-02.27.18:939][442]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-02.27.19:012][442]LogPlayLevel: PIE:  Blueprint regeneration took 218 ms (2 blueprints)
+[2015.03.21-02.27.19:012][442]PIE: New page: PIE session: Levelone (21 Mar 2015 02:27:19)
+[2015.03.21-02.27.19:018][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005308s)
+[2015.03.21-02.27.19:019][442]LogPlayLevel: PIE: World Init took: (0.000465s)
+[2015.03.21-02.27.19:019][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.005928s)
+[2015.03.21-02.27.19:054][442]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-02.27.19:056][442]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-02.27.19:060][442]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-02.27.19
+[2015.03.21-02.27.19:062][442]LogWorld: Bringing up level for play took: 0.005158
+[2015.03.21-02.27.19:066][442]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.393
+[2015.03.21-02.27.19:774][484]LogBlueprintUserMessages: 1
+[2015.03.21-02.27.19:774][484]LogBlueprintUserMessages: 1
+[2015.03.21-02.27.19:774][484]LogBlueprintUserMessages: 1
+[2015.03.21-02.27.19:774][484]LogBlueprintUserMessages: 1
+[2015.03.21-02.27.20:782][542]LogBlueprintUserMessages: 2
+[2015.03.21-02.27.20:782][542]LogBlueprintUserMessages: 2
+[2015.03.21-02.27.20:782][542]LogBlueprintUserMessages: 2
+[2015.03.21-02.27.20:782][542]LogBlueprintUserMessages: 2
+[2015.03.21-02.27.21:785][591]LogBlueprintUserMessages: 3
+[2015.03.21-02.27.21:786][591]LogBlueprintUserMessages: 3
+[2015.03.21-02.27.21:786][591]LogBlueprintUserMessages: 3
+[2015.03.21-02.27.21:786][591]LogBlueprintUserMessages: 3
+[2015.03.21-02.27.22:792][638]LogBlueprintUserMessages: 4
+[2015.03.21-02.27.22:792][638]LogBlueprintUserMessages: 4
+[2015.03.21-02.27.22:792][638]LogBlueprintUserMessages: 4
+[2015.03.21-02.27.22:792][638]LogBlueprintUserMessages: 4
+[2015.03.21-02.27.23:792][681]LogBlueprintUserMessages: 5
+[2015.03.21-02.27.23:792][681]LogBlueprintUserMessages: 5
+[2015.03.21-02.27.23:792][681]LogBlueprintUserMessages: 5
+[2015.03.21-02.27.23:792][681]LogBlueprintUserMessages: 5
+[2015.03.21-02.27.24:794][721]LogBlueprintUserMessages: 6
+[2015.03.21-02.27.24:795][721]LogBlueprintUserMessages: 6
+[2015.03.21-02.27.24:795][721]LogBlueprintUserMessages: 6
+[2015.03.21-02.27.24:795][721]LogBlueprintUserMessages: 6
+[2015.03.21-02.27.25:800][752]LogBlueprintUserMessages: 7
+[2015.03.21-02.27.25:800][752]LogBlueprintUserMessages: 7
+[2015.03.21-02.27.25:800][752]LogBlueprintUserMessages: 7
+[2015.03.21-02.27.25:800][752]LogBlueprintUserMessages: 7
+[2015.03.21-02.27.26:804][782]LogBlueprintUserMessages: 8
+[2015.03.21-02.27.26:804][782]LogBlueprintUserMessages: 8
+[2015.03.21-02.27.26:804][782]LogBlueprintUserMessages: 8
+[2015.03.21-02.27.26:804][782]LogBlueprintUserMessages: 8
+[2015.03.21-02.27.27:832][813]LogBlueprintUserMessages: 9
+[2015.03.21-02.27.27:833][813]LogBlueprintUserMessages: 9
+[2015.03.21-02.27.27:833][813]LogBlueprintUserMessages: 9
+[2015.03.21-02.27.27:833][813]LogBlueprintUserMessages: 9
+[2015.03.21-02.27.28:838][841]LogBlueprintUserMessages: 10
+[2015.03.21-02.27.28:838][841]LogBlueprintUserMessages: 10
+[2015.03.21-02.27.28:838][841]LogBlueprintUserMessages: 10
+[2015.03.21-02.27.28:838][841]LogBlueprintUserMessages: 10
+[2015.03.21-02.27.29:855][865]LogBlueprintUserMessages: 11
+[2015.03.21-02.27.29:855][865]LogBlueprintUserMessages: 11
+[2015.03.21-02.27.29:855][865]LogBlueprintUserMessages: 11
+[2015.03.21-02.27.29:855][865]LogBlueprintUserMessages: 11
+[2015.03.21-02.27.30:861][889]LogBlueprintUserMessages: 12
+[2015.03.21-02.27.30:861][889]LogBlueprintUserMessages: 12
+[2015.03.21-02.27.30:861][889]LogBlueprintUserMessages: 12
+[2015.03.21-02.27.30:861][889]LogBlueprintUserMessages: 12
+[2015.03.21-02.27.31:900][913]LogBlueprintUserMessages: 13
+[2015.03.21-02.27.31:900][913]LogBlueprintUserMessages: 13
+[2015.03.21-02.27.31:900][913]LogBlueprintUserMessages: 13
+[2015.03.21-02.27.31:900][913]LogBlueprintUserMessages: 13
+[2015.03.21-02.27.32:932][936]LogBlueprintUserMessages: 14
+[2015.03.21-02.27.32:932][936]LogBlueprintUserMessages: 14
+[2015.03.21-02.27.32:932][936]LogBlueprintUserMessages: 14
+[2015.03.21-02.27.32:932][936]LogBlueprintUserMessages: 14
+[2015.03.21-02.27.33:939][959]LogBlueprintUserMessages: 15
+[2015.03.21-02.27.33:939][959]LogBlueprintUserMessages: 15
+[2015.03.21-02.27.33:939][959]LogBlueprintUserMessages: 15
+[2015.03.21-02.27.33:939][959]LogBlueprintUserMessages: 15
+[2015.03.21-02.27.34:987][982]LogBlueprintUserMessages: 16
+[2015.03.21-02.27.34:987][982]LogBlueprintUserMessages: 16
+[2015.03.21-02.27.34:987][982]LogBlueprintUserMessages: 16
+[2015.03.21-02.27.34:987][982]LogBlueprintUserMessages: 16
+[2015.03.21-02.27.35:989][  0]LogBlueprintUserMessages: 17
+[2015.03.21-02.27.35:989][  0]LogBlueprintUserMessages: 17
+[2015.03.21-02.27.35:989][  0]LogBlueprintUserMessages: 17
+[2015.03.21-02.27.35:989][  0]LogBlueprintUserMessages: 17
+[2015.03.21-02.27.37:043][ 19]LogBlueprintUserMessages: 18
+[2015.03.21-02.27.37:043][ 19]LogBlueprintUserMessages: 18
+[2015.03.21-02.27.37:043][ 19]LogBlueprintUserMessages: 18
+[2015.03.21-02.27.37:098][ 20]LogBlueprintUserMessages: 18
+[2015.03.21-02.27.38:047][ 37]LogBlueprintUserMessages: 19
+[2015.03.21-02.27.38:047][ 37]LogBlueprintUserMessages: 19
+[2015.03.21-02.27.38:102][ 38]LogBlueprintUserMessages: 19
+[2015.03.21-02.27.38:102][ 38]LogBlueprintUserMessages: 19
+[2015.03.21-02.27.39:048][ 55]LogBlueprintUserMessages: 20
+[2015.03.21-02.27.39:102][ 56]LogBlueprintUserMessages: 20
+[2015.03.21-02.27.39:103][ 56]LogBlueprintUserMessages: 20
+[2015.03.21-02.27.39:103][ 56]LogBlueprintUserMessages: 20
+[2015.03.21-02.27.40:104][ 74]LogBlueprintUserMessages: 21
+[2015.03.21-02.27.40:104][ 74]LogBlueprintUserMessages: 21
+[2015.03.21-02.27.40:104][ 74]LogBlueprintUserMessages: 21
+[2015.03.21-02.27.40:104][ 74]LogBlueprintUserMessages: 21
+[2015.03.21-02.27.41:132][ 92]LogBlueprintUserMessages: 22
+[2015.03.21-02.27.41:132][ 92]LogBlueprintUserMessages: 22
+[2015.03.21-02.27.41:132][ 92]LogBlueprintUserMessages: 22
+[2015.03.21-02.27.41:132][ 92]LogBlueprintUserMessages: 22
+[2015.03.21-02.27.42:159][110]LogBlueprintUserMessages: 23
+[2015.03.21-02.27.42:159][110]LogBlueprintUserMessages: 23
+[2015.03.21-02.27.42:159][110]LogBlueprintUserMessages: 23
+[2015.03.21-02.27.42:159][110]LogBlueprintUserMessages: 23
+[2015.03.21-02.27.43:195][128]LogBlueprintUserMessages: 24
+[2015.03.21-02.27.43:195][128]LogBlueprintUserMessages: 24
+[2015.03.21-02.27.43:195][128]LogBlueprintUserMessages: 24
+[2015.03.21-02.27.43:195][128]LogBlueprintUserMessages: 24
+[2015.03.21-02.27.44:237][146]LogBlueprintUserMessages: 25
+[2015.03.21-02.27.44:237][146]LogBlueprintUserMessages: 25
+[2015.03.21-02.27.44:237][146]LogBlueprintUserMessages: 25
+[2015.03.21-02.27.44:237][146]LogBlueprintUserMessages: 25
+[2015.03.21-02.27.45:283][164]LogBlueprintUserMessages: 26
+[2015.03.21-02.27.45:284][164]LogBlueprintUserMessages: 26
+[2015.03.21-02.27.45:284][164]LogBlueprintUserMessages: 26
+[2015.03.21-02.27.45:284][164]LogBlueprintUserMessages: 26
+[2015.03.21-02.27.46:291][181]LogBlueprintUserMessages: 27
+[2015.03.21-02.27.46:291][181]LogBlueprintUserMessages: 27
+[2015.03.21-02.27.46:291][181]LogBlueprintUserMessages: 27
+[2015.03.21-02.27.46:291][181]LogBlueprintUserMessages: 27
+[2015.03.21-02.27.47:318][195]LogBlueprintUserMessages: 28
+[2015.03.21-02.27.47:318][195]LogBlueprintUserMessages: 28
+[2015.03.21-02.27.47:318][195]LogBlueprintUserMessages: 28
+[2015.03.21-02.27.47:318][195]LogBlueprintUserMessages: 28
+[2015.03.21-02.27.48:395][209]LogBlueprintUserMessages: 29
+[2015.03.21-02.27.48:395][209]LogBlueprintUserMessages: 29
+[2015.03.21-02.27.48:395][209]LogBlueprintUserMessages: 29
+[2015.03.21-02.27.48:396][209]LogBlueprintUserMessages: 29
+[2015.03.21-02.27.49:487][222]LogBlueprintUserMessages: 30
+[2015.03.21-02.27.49:487][222]LogBlueprintUserMessages: 30
+[2015.03.21-02.27.49:487][222]LogBlueprintUserMessages: 30
+[2015.03.21-02.27.49:487][222]LogBlueprintUserMessages: 30
+[2015.03.21-02.27.50:547][235]LogBlueprintUserMessages: 31
+[2015.03.21-02.27.50:547][235]LogBlueprintUserMessages: 31
+[2015.03.21-02.27.50:547][235]LogBlueprintUserMessages: 31
+[2015.03.21-02.27.50:547][235]LogBlueprintUserMessages: 31
+[2015.03.21-02.27.51:014][239]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002CCEEC00
+[2015.03.21-02.28.00:376][777]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.28.00:376][777]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.28.00:376][777]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.28.00:376][777]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.33.23:238][ 70]LogSavePackage: Save=70.423744ms
+[2015.03.21-02.33.23:238][ 70]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Levelone_Auto2C568303C4D43F2E5F5315C8A3D47E302.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Autosaves/Game/Maps/Levelone_Auto2.umap'
+[2015.03.21-02.33.23:247][ 70]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levelone' took 0.172
+[2015.03.21-02.33.23:247][ 70]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.172
+[2015.03.21-02.33.23:281][ 70]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Icantspellchamerlan] ([1] browsable assets)...
+[2015.03.21-02.33.23:281][ 70]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Icantspellchamerlan]
+[2015.03.21-02.33.23:615][ 70]LogSavePackage: Save=291.311127ms
+[2015.03.21-02.33.23:615][ 70]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Icantspellchamerlan_Auto2CA133BCB44C30375B90513BB2B8A3D49.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Icantspellchamerlan_Auto2.uasset'
+[2015.03.21-02.33.23:625][ 70]LogFileHelpers: Auto-saving content packages took 0.378
+[2015.03.21-02.34.23:146][624]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-02.34.23:169][624]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-02.34.23:314][624]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-02.34.23:383][624]LogPlayLevel: PIE:  Blueprint regeneration took 237 ms (2 blueprints)
+[2015.03.21-02.34.23:383][624]PIE: New page: PIE session: Levelone (21 Mar 2015 02:34:23)
+[2015.03.21-02.34.23:388][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003685s)
+[2015.03.21-02.34.23:388][624]LogPlayLevel: PIE: World Init took: (0.000508s)
+[2015.03.21-02.34.23:388][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.004338s)
+[2015.03.21-02.34.23:422][624]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-02.34.23:425][624]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-02.34.23:429][624]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-02.34.23
+[2015.03.21-02.34.23:431][624]LogWorld: Bringing up level for play took: 0.005833
+[2015.03.21-02.34.23:435][624]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.758
+[2015.03.21-02.34.24:111][664]LogBlueprintUserMessages: 1
+[2015.03.21-02.34.24:111][664]LogBlueprintUserMessages: 1
+[2015.03.21-02.34.24:111][664]LogBlueprintUserMessages: 1
+[2015.03.21-02.34.24:111][664]LogBlueprintUserMessages: 1
+[2015.03.21-02.34.25:111][724]LogBlueprintUserMessages: 2
+[2015.03.21-02.34.25:111][724]LogBlueprintUserMessages: 2
+[2015.03.21-02.34.25:111][724]LogBlueprintUserMessages: 2
+[2015.03.21-02.34.25:111][724]LogBlueprintUserMessages: 2
+[2015.03.21-02.34.26:121][783]LogBlueprintUserMessages: 3
+[2015.03.21-02.34.26:121][783]LogBlueprintUserMessages: 3
+[2015.03.21-02.34.26:121][783]LogBlueprintUserMessages: 3
+[2015.03.21-02.34.26:121][783]LogBlueprintUserMessages: 3
+[2015.03.21-02.34.27:137][832]LogBlueprintUserMessages: 4
+[2015.03.21-02.34.27:137][832]LogBlueprintUserMessages: 4
+[2015.03.21-02.34.27:137][832]LogBlueprintUserMessages: 4
+[2015.03.21-02.34.27:137][832]LogBlueprintUserMessages: 4
+[2015.03.21-02.34.28:164][871]LogBlueprintUserMessages: 5
+[2015.03.21-02.34.28:164][871]LogBlueprintUserMessages: 5
+[2015.03.21-02.34.28:164][871]LogBlueprintUserMessages: 5
+[2015.03.21-02.34.28:164][871]LogBlueprintUserMessages: 5
+[2015.03.21-02.34.29:181][905]LogBlueprintUserMessages: 6
+[2015.03.21-02.34.29:181][905]LogBlueprintUserMessages: 6
+[2015.03.21-02.34.29:181][905]LogBlueprintUserMessages: 6
+[2015.03.21-02.34.29:181][905]LogBlueprintUserMessages: 6
+[2015.03.21-02.34.30:188][933]LogBlueprintUserMessages: 7
+[2015.03.21-02.34.30:189][933]LogBlueprintUserMessages: 7
+[2015.03.21-02.34.30:189][933]LogBlueprintUserMessages: 7
+[2015.03.21-02.34.30:189][933]LogBlueprintUserMessages: 7
+[2015.03.21-02.34.31:203][960]LogBlueprintUserMessages: 8
+[2015.03.21-02.34.31:204][960]LogBlueprintUserMessages: 8
+[2015.03.21-02.34.31:204][960]LogBlueprintUserMessages: 8
+[2015.03.21-02.34.31:204][960]LogBlueprintUserMessages: 8
+[2015.03.21-02.34.32:237][986]LogBlueprintUserMessages: 9
+[2015.03.21-02.34.32:237][986]LogBlueprintUserMessages: 9
+[2015.03.21-02.34.32:237][986]LogBlueprintUserMessages: 9
+[2015.03.21-02.34.32:237][986]LogBlueprintUserMessages: 9
+[2015.03.21-02.34.33:255][ 11]LogBlueprintUserMessages: 10
+[2015.03.21-02.34.33:255][ 11]LogBlueprintUserMessages: 10
+[2015.03.21-02.34.33:255][ 11]LogBlueprintUserMessages: 10
+[2015.03.21-02.34.33:255][ 11]LogBlueprintUserMessages: 10
+[2015.03.21-02.34.34:289][ 32]LogBlueprintUserMessages: 11
+[2015.03.21-02.34.34:290][ 32]LogBlueprintUserMessages: 11
+[2015.03.21-02.34.34:290][ 32]LogBlueprintUserMessages: 11
+[2015.03.21-02.34.34:290][ 32]LogBlueprintUserMessages: 11
+[2015.03.21-02.34.35:290][ 51]LogBlueprintUserMessages: 12
+[2015.03.21-02.34.35:290][ 51]LogBlueprintUserMessages: 12
+[2015.03.21-02.34.35:290][ 51]LogBlueprintUserMessages: 12
+[2015.03.21-02.34.35:290][ 51]LogBlueprintUserMessages: 12
+[2015.03.21-02.34.36:307][ 71]LogBlueprintUserMessages: 13
+[2015.03.21-02.34.36:307][ 71]LogBlueprintUserMessages: 13
+[2015.03.21-02.34.36:307][ 71]LogBlueprintUserMessages: 13
+[2015.03.21-02.34.36:307][ 71]LogBlueprintUserMessages: 13
+[2015.03.21-02.34.37:338][ 91]LogBlueprintUserMessages: 14
+[2015.03.21-02.34.37:338][ 91]LogBlueprintUserMessages: 14
+[2015.03.21-02.34.37:338][ 91]LogBlueprintUserMessages: 14
+[2015.03.21-02.34.37:338][ 91]LogBlueprintUserMessages: 14
+[2015.03.21-02.34.38:378][111]LogBlueprintUserMessages: 15
+[2015.03.21-02.34.38:378][111]LogBlueprintUserMessages: 15
+[2015.03.21-02.34.38:378][111]LogBlueprintUserMessages: 15
+[2015.03.21-02.34.38:378][111]LogBlueprintUserMessages: 15
+[2015.03.21-02.34.39:383][130]LogBlueprintUserMessages: 16
+[2015.03.21-02.34.39:384][130]LogBlueprintUserMessages: 16
+[2015.03.21-02.34.39:384][130]LogBlueprintUserMessages: 16
+[2015.03.21-02.34.39:384][130]LogBlueprintUserMessages: 16
+[2015.03.21-02.34.40:385][148]LogBlueprintUserMessages: 17
+[2015.03.21-02.34.40:385][148]LogBlueprintUserMessages: 17
+[2015.03.21-02.34.40:385][148]LogBlueprintUserMessages: 17
+[2015.03.21-02.34.40:385][148]LogBlueprintUserMessages: 17
+[2015.03.21-02.34.41:433][166]LogBlueprintUserMessages: 18
+[2015.03.21-02.34.41:433][166]LogBlueprintUserMessages: 18
+[2015.03.21-02.34.41:433][166]LogBlueprintUserMessages: 18
+[2015.03.21-02.34.41:433][166]LogBlueprintUserMessages: 18
+[2015.03.21-02.34.42:486][180]LogBlueprintUserMessages: 19
+[2015.03.21-02.34.42:486][180]LogBlueprintUserMessages: 19
+[2015.03.21-02.34.42:486][180]LogBlueprintUserMessages: 19
+[2015.03.21-02.34.42:486][180]LogBlueprintUserMessages: 19
+[2015.03.21-02.34.43:028][185]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000019E64220
+[2015.03.21-02.35.16:925][191]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.35.16:925][191]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.35.16:925][191]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.35.16:925][191]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-02.35.19:388][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.21-02.35.19:492][314]LogSavePackage: Save=72.555580ms
+[2015.03.21-02.35.19:492][314]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Levelone6B9653A947ECB0D0ABAA80BF24FC6F36.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.21-02.35.19:534][314]LogFileHelpers: Saving map 'Levelone' took 0.373
+[2015.03.21-02.35.19:540][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.21-02.35.19:708][314]LogSavePackage: Save=161.660812ms
+[2015.03.21-02.35.19:708][314]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Icantspellchamerlan608B415145F2EADFB6ED16B80EF305FD.tmp' to '../../../../../../Users/TMoyniha
