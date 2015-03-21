@@ -1,0 +1,102 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 2 and 1 different commit each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# Changes to be committed:
+#	modified:   try_2/Config/DefaultEngine.ini
+#	modified:   try_2/Content/BluePrints/Bird.uasset
+#	new file:   try_2/Content/BluePrints/Bug.uasset
+#	modified:   try_2/Content/BluePrints/Icantspellchamerlan.uasset
+#	new file:   try_2/Content/BluePrints/Tongue.uasset
+#	modified:   try_2/Content/Maps/Levelone.umap
+#	modified:   try_2/Content/pngs/BirdPlaceholder.uasset
+#	modified:   try_2/Content/pngs/Bug.uasset
+#	new file:   try_2/Content/pngs/Bug_Sprite.uasset
+#	modified:   try_2/Content/pngs/Point_A.uasset
+#	modified:   try_2/Content/pngs/Point_B.uasset
+#	new file:   try_2/Content/pngs/tongue.png
+#	new file:   try_2/Content/pngs/tongue.uasset
+#	new file:   try_2/Content/pngs/tongue_Sprite.uasset
+#	new file:   try_2/Content/sprites/tongue_Sprite.uasset
+#	modified:   try_2/Intermediate/CachedAssetRegistry.bin
+#	modified:   try_2/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+#	modified:   try_2/Intermediate/Config/CoalescedSourceConfigs/Game.ini
+#	modified:   try_2/Intermediate/ReimportCache/3688439234.bin
+#	modified:   try_2/Saved/AutoScreenshot.png
+#	modified:   try_2/Saved/Autosaves/Game/BluePrints/Bird_Auto1.uasset
+#	modified:   try_2/Saved/Autosaves/Game/BluePrints/Bird_Auto2.uasset
+#	modified:   try_2/Saved/Autosaves/Game/pngs/BirdPlaceholder_Auto1.uasset
+#	modified:   try_2/Saved/Config/Windows/Editor.ini
+#	modified:   try_2/Saved/Config/Windows/EditorLayout.ini
+#	modified:   try_2/Saved/Config/Windows/EditorUserSettings.ini
+#	modified:   try_2/Saved/Config/Windows/Engine.ini
+#	modified:   try_2/Saved/Logs/try_2.log
+#
+# Changes not staged for commit:
+#	modified:   try_2/Config/DefaultEngine.ini
+#	modified:   try_2/Content/BluePrints/Bird.uasset
+#	deleted:    try_2/Content/BluePrints/Bug.uasset
+#	modified:   try_2/Content/BluePrints/Icantspellchamerlan.uasset
+#	deleted:    try_2/Content/BluePrints/Tongue.uasset
+#	modified:   try_2/Content/Maps/Levelone.umap
+#	modified:   try_2/Content/pngs/BirdPlaceholder.uasset
+#	modified:   try_2/Content/pngs/Bug.uasset
+#	deleted:    try_2/Content/pngs/Bug_Sprite.uasset
+#	modified:   try_2/Content/pngs/Point_A.uasset
+#	modified:   try_2/Content/pngs/Point_B.uasset
+#	deleted:    try_2/Content/pngs/tongue.png
+#	deleted:    try_2/Content/pngs/tongue.uasset
+#	deleted:    try_2/Content/pngs/tongue_Sprite.uasset
+#	deleted:    try_2/Content/sprites/tongue_Sprite.uasset
+#	modified:   try_2/Intermediate/CachedAssetRegistry.bin
+#	modified:   try_2/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+#	modified:   try_2/Intermediate/Config/CoalescedSourceConfigs/Game.ini
+#	modified:   try_2/Intermediate/ReimportCache/3688439234.bin
+#	modified:   try_2/Saved/AutoScreenshot.png
+#	modified:   try_2/Saved/Autosaves/Game/BluePrints/Bird_Auto1.uasset
+#	modified:   try_2/Saved/Autosaves/Game/BluePrints/Bird_Auto2.uasset
+#	modified:   try_2/Saved/Autosaves/Game/pngs/BirdPlaceholder_Auto1.uasset
+#	modified:   try_2/Saved/Config/Windows/Editor.ini
+#	modified:   try_2/Saved/Config/Windows/EditorLayout.ini
+#	modified:   try_2/Saved/Config/Windows/EditorUserSettings.ini
+#	modified:   try_2/Saved/Config/Windows/Engine.ini
+#	modified:   try_2/Saved/Logs/try_2.log
+#
+# Untracked files:
+#	iu4nerxn.wcy.txt
+#	try_2/Saved/Autosaves/Game/Maps/
+#	try_2/Saved/Autosaves/Game/pngs/Bug_Auto1.uasset
+#	try_2/Saved/Autosaves/Game/pngs/Point_A_Auto1.uasset
+#	try_2/Saved/Autosaves/Game/pngs/Point_B_Auto1.uasset
+#	try_2/Saved/Backup/BirdPlaceholder_2015-03-20-22-43-56.uasset
+#	try_2/Saved/Backup/BirdPlaceholder_2015-03-20-22-52-37.uasset
+#	try_2/Saved/Backup/BirdPlaceholder_2015-03-20-23-23-14.uasset
+#	try_2/Saved/Backup/BirdPlaceholder_2015-03-20-23-34-45.uasset
+#	try_2/Saved/Backup/Bird_2015-03-20-22-52-37.uasset
+#	try_2/Saved/Backup/Bird_2015-03-20-23-23-13.uasset
+#	try_2/Saved/Backup/Bird_2015-03-20-23-34-38.uasset
+#	try_2/Saved/Backup/Bird_2015-03-20-23-45-13.uasset
+#	try_2/Saved/Backup/Bug_2015-03-20-22-43-56.uasset
+#	try_2/Saved/Backup/Bug_2015-03-20-22-52-37.uasset
+#	try_2/Saved/Backup/Levelone_2015-03-20-22-52-37.umap
+#	try_2/Saved/Backup/Levelone_2015-03-20-23-23-13.umap
+#	try_2/Saved/Backup/Levelone_2015-03-20-23-34-37.umap
+#	try_2/Saved/Backup/Levelone_2015-03-20-23-45-13.umap
+#	try_2/Saved/Backup/Point_A_2015-03-20-22-43-56.uasset
+#	try_2/Saved/Backup/Point_A_2015-03-20-22-52-37.uasset
+#	try_2/Saved/Backup/Point_A_2015-03-20-23-23-14.uasset
+#	try_2/Saved/Backup/Point_A_2015-03-20-23-34-45.uasset
+#	try_2/Saved/Backup/Point_B_2015-03-20-22-43-56.uasset
+#	try_2/Saved/Backup/Point_B_2015-03-20-22-52-37.uasset
+#	try_2/Saved/Backup/Point_B_2015-03-20-23-23-14.uasset
+#	try_2/Saved/Backup/Point_B_2015-03-20-23-34-45.uasset
+#	try_2/Saved/Logs/try_2-backup-2015.03.20-22.33.16.log
+#	try_2/Saved/Logs/try_2-backup-2015.03.20-22.59.45.log
+#	try_2/Saved/Logs/try_2-backup-2015.03.20-23.12.33.log
+#	try_2/Saved/Logs/try_2_2.log
+#
+
