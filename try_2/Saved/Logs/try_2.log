@@ -2833,4 +2833,2103 @@ Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en
 [2015.03.21-13.26.45:495][307]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Menu756628A44553457D2F714D875E95F4B5.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Menu.uasset'
 [2015.03.21-13.26.45:514][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Settings" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Settings.uasset" SILENT=true
 [2015.03.21-13.26.45:708][307]LogSavePackage: Save=174.708374ms
-[2015.03.21-13.26.45:708][307]LogSav
+[2015.03.21-13.26.45:708][307]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Settings03BA9C194B5A3E20CA614D95DBF7C697.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Settings.uasset'
+[2015.03.21-13.26.54:690][818]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
+[2015.03.21-13.28.24:303][836]LogBlueprintUserMessages: Icantspellchamerlan106
+[2015.03.21-13.28.24:303][836]LogBlueprintUserMessages: Icantspellchamerlan106
+[2015.03.21-13.28.24:335][836]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-13.28.24:335][836]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-13.28.24:335][836]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-13.28.24:335][836]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-13.29.17:156][982]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-13.29.17:156][982]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-13.29.17:268][982]LogPlayLevel: PIE:  Blueprint regeneration took 111 ms (1 blueprints)
+[2015.03.21-13.29.17:269][982]PIE: New page: PIE session: Levelone (21 Mar 2015 13:29:17)
+[2015.03.21-13.29.17:277][982]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.17:277][982]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.17:278][982]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.17:279][982]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.17:279][982]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.17:279][982]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.17:279][982]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.17:279][982]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.17:280][982]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.17:280][982]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.17:282][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012834s)
+[2015.03.21-13.29.17:283][982]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2015.03.21-13.29.17:283][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013658s)
+[2015.03.21-13.29.17:323][982]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-13.29.17:325][982]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-13.29.17:332][982]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-13.29.17
+[2015.03.21-13.29.17:334][982]LogWorld: Bringing up level for play took: 0.007752
+[2015.03.21-13.29.17:336][982]LogBlueprintUserMessages: Icantspellchamerlan118
+[2015.03.21-13.29.17:336][982]LogBlueprintUserMessages: Icantspellchamerlan118
+[2015.03.21-13.29.17:345][982]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.436
+[2015.03.21-13.29.18:216][ 27]LogBlueprintUserMessages: 2
+[2015.03.21-13.29.19:387][ 97]LogBlueprintUserMessages: Hello
+[2015.03.21-13.29.19:403][ 98]LogBlueprintUserMessages: Hello
+[2015.03.21-13.29.21:243][202]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F79DDF6B60
+[2015.03.21-13.29.22:111][252]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-13.29.22:111][252]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-13.29.22:239][252]LogPlayLevel: PIE:  Blueprint regeneration took 127 ms (1 blueprints)
+[2015.03.21-13.29.22:239][252]PIE: New page: PIE session: Levelone (21 Mar 2015 13:29:22)
+[2015.03.21-13.29.22:249][252]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.22:249][252]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.22:250][252]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.22:250][252]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.22:251][252]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.22:251][252]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.22:251][252]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.22:251][252]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.22:251][252]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.22:251][252]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.29.22:254][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014358s)
+[2015.03.21-13.29.22:254][252]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2015.03.21-13.29.22:255][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.015190s)
+[2015.03.21-13.29.22:294][252]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-13.29.22:296][252]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-13.29.22:301][252]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-13.29.22
+[2015.03.21-13.29.22:303][252]LogWorld: Bringing up level for play took: 0.005907
+[2015.03.21-13.29.22:305][252]LogBlueprintUserMessages: Icantspellchamerlan119
+[2015.03.21-13.29.22:305][252]LogBlueprintUserMessages: Icantspellchamerlan119
+[2015.03.21-13.29.22:315][252]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.593
+[2015.03.21-13.29.25:306][428]LogBlueprintUserMessages: Player found
+[2015.03.21-13.29.25:339][430]LogBlueprintUserMessages: Hello
+[2015.03.21-13.29.25:522][441]LogBlueprintUserMessages: Hello
+[2015.03.21-13.29.25:572][444]LogBlueprintUserMessages: Hello
+[2015.03.21-13.29.27:806][578]LogBlueprintUserMessages: Hello
+[2015.03.21-13.29.27:856][581]LogBlueprintUserMessages: Hello
+[2015.03.21-13.29.29:822][699]LogBlueprintUserMessages: Hello
+[2015.03.21-13.29.31:855][821]LogBlueprintUserMessages: Bird
+[2015.03.21-13.29.31:872][822]LogBlueprintUserMessages: Bird
+[2015.03.21-13.29.31:888][823]LogBlueprintUserMessages: Bird
+[2015.03.21-13.29.31:905][824]LogBlueprintUserMessages: Bird
+[2015.03.21-13.29.31:922][825]LogBlueprintUserMessages: Bird
+[2015.03.21-13.29.31:938][826]LogBlueprintUserMessages: Bird
+[2015.03.21-13.29.31:955][827]LogBlueprintUserMessages: Bird
+[2015.03.21-13.29.31:972][828]LogBlueprintUserMessages: Bird
+[2015.03.21-13.29.31:988][829]LogBlueprintUserMessages: Bird
+[2015.03.21-13.29.32:005][830]LogBlueprintUserMessages: Bird
+[2015.03.21-13.29.32:022][831]LogBlueprintUserMessages: Bird
+[2015.03.21-13.29.32:038][832]LogBlueprintUserMessages: Bird
+[2015.03.21-13.29.32:059][833]LogBlueprintUserMessages: Bird
+[2015.03.21-13.29.32:071][834]LogBlueprintUserMessages: Bird
+[2015.03.21-13.29.34:322][969]LogBlueprintUserMessages: Hello
+[2015.03.21-13.29.34:472][973]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7A6371580
+[2015.03.21-13.29.36:796][109]LogBlueprintUserMessages: Icantspellchamerlan120
+[2015.03.21-13.29.36:796][109]LogBlueprintUserMessages: Icantspellchamerlan120
+[2015.03.21-13.29.41:724][396]LogEditorTransaction: Undo Modify Component(s)
+[2015.03.21-13.29.41:887][396]LogBlueprintUserMessages: Icantspellchamerlan638
+[2015.03.21-13.29.41:887][396]LogBlueprintUserMessages: Icantspellchamerlan638
+[2015.03.21-13.29.41:940][397]LogBlueprintUserMessages: Icantspellchamerlan650
+[2015.03.21-13.29.41:940][397]LogBlueprintUserMessages: Icantspellchamerlan650
+[2015.03.21-13.29.51:272][919]LogBlueprintUserMessages: Icantspellchamerlan662
+[2015.03.21-13.29.51:272][919]LogBlueprintUserMessages: Icantspellchamerlan662
+[2015.03.21-13.29.51:288][920]LogBlueprintUserMessages: Icantspellchamerlan674
+[2015.03.21-13.29.51:288][920]LogBlueprintUserMessages: Icantspellchamerlan674
+[2015.03.21-13.29.51:304][921]LogBlueprintUserMessages: Icantspellchamerlan686
+[2015.03.21-13.29.51:304][921]LogBlueprintUserMessages: Icantspellchamerlan686
+[2015.03.21-13.29.51:321][922]LogBlueprintUserMessages: Icantspellchamerlan698
+[2015.03.21-13.29.51:321][922]LogBlueprintUserMessages: Icantspellchamerlan698
+[2015.03.21-13.29.51:338][923]LogBlueprintUserMessages: Icantspellchamerlan710
+[2015.03.21-13.29.51:338][923]LogBlueprintUserMessages: Icantspellchamerlan710
+[2015.03.21-13.29.51:354][924]LogBlueprintUserMessages: Icantspellchamerlan722
+[2015.03.21-13.29.51:354][924]LogBlueprintUserMessages: Icantspellchamerlan722
+[2015.03.21-13.29.51:372][925]LogBlueprintUserMessages: Icantspellchamerlan734
+[2015.03.21-13.29.51:372][925]LogBlueprintUserMessages: Icantspellchamerlan734
+[2015.03.21-13.29.51:388][926]LogBlueprintUserMessages: Icantspellchamerlan746
+[2015.03.21-13.29.51:388][926]LogBlueprintUserMessages: Icantspellchamerlan746
+[2015.03.21-13.29.51:404][927]LogBlueprintUserMessages: Icantspellchamerlan758
+[2015.03.21-13.29.51:404][927]LogBlueprintUserMessages: Icantspellchamerlan758
+[2015.03.21-13.29.51:438][929]LogBlueprintUserMessages: Icantspellchamerlan770
+[2015.03.21-13.29.51:438][929]LogBlueprintUserMessages: Icantspellchamerlan770
+[2015.03.21-13.29.51:488][932]LogBlueprintUserMessages: Icantspellchamerlan782
+[2015.03.21-13.29.51:488][932]LogBlueprintUserMessages: Icantspellchamerlan782
+[2015.03.21-13.29.51:521][934]LogBlueprintUserMessages: Icantspellchamerlan794
+[2015.03.21-13.29.51:521][934]LogBlueprintUserMessages: Icantspellchamerlan794
+[2015.03.21-13.29.51:571][937]LogBlueprintUserMessages: Icantspellchamerlan806
+[2015.03.21-13.29.51:571][937]LogBlueprintUserMessages: Icantspellchamerlan806
+[2015.03.21-13.29.51:588][938]LogBlueprintUserMessages: Icantspellchamerlan818
+[2015.03.21-13.29.51:588][938]LogBlueprintUserMessages: Icantspellchamerlan818
+[2015.03.21-13.29.51:604][939]LogBlueprintUserMessages: Icantspellchamerlan830
+[2015.03.21-13.29.51:604][939]LogBlueprintUserMessages: Icantspellchamerlan830
+[2015.03.21-13.29.51:621][940]LogBlueprintUserMessages: Icantspellchamerlan842
+[2015.03.21-13.29.51:621][940]LogBlueprintUserMessages: Icantspellchamerlan842
+[2015.03.21-13.29.51:638][941]LogBlueprintUserMessages: Icantspellchamerlan854
+[2015.03.21-13.29.51:638][941]LogBlueprintUserMessages: Icantspellchamerlan854
+[2015.03.21-13.29.51:655][942]LogBlueprintUserMessages: Icantspellchamerlan866
+[2015.03.21-13.29.51:655][942]LogBlueprintUserMessages: Icantspellchamerlan866
+[2015.03.21-13.29.51:672][943]LogBlueprintUserMessages: Icantspellchamerlan878
+[2015.03.21-13.29.51:672][943]LogBlueprintUserMessages: Icantspellchamerlan878
+[2015.03.21-13.29.51:688][944]LogBlueprintUserMessages: Icantspellchamerlan890
+[2015.03.21-13.29.51:688][944]LogBlueprintUserMessages: Icantspellchamerlan890
+[2015.03.21-13.29.51:705][945]LogBlueprintUserMessages: Icantspellchamerlan902
+[2015.03.21-13.29.51:705][945]LogBlueprintUserMessages: Icantspellchamerlan902
+[2015.03.21-13.29.51:722][946]LogBlueprintUserMessages: Icantspellchamerlan914
+[2015.03.21-13.29.51:722][946]LogBlueprintUserMessages: Icantspellchamerlan914
+[2015.03.21-13.29.51:738][947]LogBlueprintUserMessages: Icantspellchamerlan926
+[2015.03.21-13.29.51:738][947]LogBlueprintUserMessages: Icantspellchamerlan926
+[2015.03.21-13.29.51:756][948]LogBlueprintUserMessages: Icantspellchamerlan938
+[2015.03.21-13.29.51:756][948]LogBlueprintUserMessages: Icantspellchamerlan938
+[2015.03.21-13.29.51:772][949]LogBlueprintUserMessages: Icantspellchamerlan950
+[2015.03.21-13.29.51:772][949]LogBlueprintUserMessages: Icantspellchamerlan950
+[2015.03.21-13.29.51:788][950]LogBlueprintUserMessages: Icantspellchamerlan962
+[2015.03.21-13.29.51:788][950]LogBlueprintUserMessages: Icantspellchamerlan962
+[2015.03.21-13.29.51:804][951]LogBlueprintUserMessages: Icantspellchamerlan974
+[2015.03.21-13.29.51:804][951]LogBlueprintUserMessages: Icantspellchamerlan974
+[2015.03.21-13.29.51:821][952]LogBlueprintUserMessages: Icantspellchamerlan986
+[2015.03.21-13.29.51:821][952]LogBlueprintUserMessages: Icantspellchamerlan986
+[2015.03.21-13.29.51:838][953]LogBlueprintUserMessages: Icantspellchamerlan998
+[2015.03.21-13.29.51:838][953]LogBlueprintUserMessages: Icantspellchamerlan998
+[2015.03.21-13.29.51:854][954]LogBlueprintUserMessages: Icantspellchamerlan1010
+[2015.03.21-13.29.51:854][954]LogBlueprintUserMessages: Icantspellchamerlan1010
+[2015.03.21-13.29.51:871][955]LogBlueprintUserMessages: Icantspellchamerlan1022
+[2015.03.21-13.29.51:871][955]LogBlueprintUserMessages: Icantspellchamerlan1022
+[2015.03.21-13.29.51:888][956]LogBlueprintUserMessages: Icantspellchamerlan1034
+[2015.03.21-13.29.51:888][956]LogBlueprintUserMessages: Icantspellchamerlan1034
+[2015.03.21-13.29.51:905][957]LogBlueprintUserMessages: Icantspellchamerlan1046
+[2015.03.21-13.29.51:905][957]LogBlueprintUserMessages: Icantspellchamerlan1046
+[2015.03.21-13.29.51:921][958]LogBlueprintUserMessages: Icantspellchamerlan1058
+[2015.03.21-13.29.51:921][958]LogBlueprintUserMessages: Icantspellchamerlan1058
+[2015.03.21-13.29.51:938][959]LogBlueprintUserMessages: Icantspellchamerlan1070
+[2015.03.21-13.29.51:938][959]LogBlueprintUserMessages: Icantspellchamerlan1070
+[2015.03.21-13.29.51:955][960]LogBlueprintUserMessages: Icantspellchamerlan1082
+[2015.03.21-13.29.51:955][960]LogBlueprintUserMessages: Icantspellchamerlan1082
+[2015.03.21-13.29.51:971][961]LogBlueprintUserMessages: Icantspellchamerlan1094
+[2015.03.21-13.29.51:971][961]LogBlueprintUserMessages: Icantspellchamerlan1094
+[2015.03.21-13.29.51:988][962]LogBlueprintUserMessages: Icantspellchamerlan1106
+[2015.03.21-13.29.51:988][962]LogBlueprintUserMessages: Icantspellchamerlan1106
+[2015.03.21-13.29.52:004][963]LogBlueprintUserMessages: Icantspellchamerlan1118
+[2015.03.21-13.29.52:004][963]LogBlueprintUserMessages: Icantspellchamerlan1118
+[2015.03.21-13.29.52:021][964]LogBlueprintUserMessages: Icantspellchamerlan1130
+[2015.03.21-13.29.52:021][964]LogBlueprintUserMessages: Icantspellchamerlan1130
+[2015.03.21-13.29.52:054][966]LogBlueprintUserMessages: Icantspellchamerlan1142
+[2015.03.21-13.29.52:055][966]LogBlueprintUserMessages: Icantspellchamerlan1142
+[2015.03.21-13.29.52:089][968]LogBlueprintUserMessages: Icantspellchamerlan1154
+[2015.03.21-13.29.52:089][968]LogBlueprintUserMessages: Icantspellchamerlan1154
+[2015.03.21-13.29.52:104][969]LogBlueprintUserMessages: Icantspellchamerlan1166
+[2015.03.21-13.29.52:104][969]LogBlueprintUserMessages: Icantspellchamerlan1166
+[2015.03.21-13.29.52:121][970]LogBlueprintUserMessages: Icantspellchamerlan1178
+[2015.03.21-13.29.52:121][970]LogBlueprintUserMessages: Icantspellchamerlan1178
+[2015.03.21-13.29.52:138][971]LogBlueprintUserMessages: Icantspellchamerlan1190
+[2015.03.21-13.29.52:138][971]LogBlueprintUserMessages: Icantspellchamerlan1190
+[2015.03.21-13.29.52:154][972]LogBlueprintUserMessages: Icantspellchamerlan1202
+[2015.03.21-13.29.52:154][972]LogBlueprintUserMessages: Icantspellchamerlan1202
+[2015.03.21-13.29.52:171][973]LogBlueprintUserMessages: Icantspellchamerlan1214
+[2015.03.21-13.29.52:171][973]LogBlueprintUserMessages: Icantspellchamerlan1214
+[2015.03.21-13.29.52:188][974]LogBlueprintUserMessages: Icantspellchamerlan1226
+[2015.03.21-13.29.52:188][974]LogBlueprintUserMessages: Icantspellchamerlan1226
+[2015.03.21-13.29.52:321][982]LogBlueprintUserMessages: Icantspellchamerlan1238
+[2015.03.21-13.29.52:321][982]LogBlueprintUserMessages: Icantspellchamerlan1238
+[2015.03.21-13.29.52:338][983]LogBlueprintUserMessages: Icantspellchamerlan1250
+[2015.03.21-13.29.52:338][983]LogBlueprintUserMessages: Icantspellchamerlan1250
+[2015.03.21-13.29.52:354][984]LogBlueprintUserMessages: Icantspellchamerlan1262
+[2015.03.21-13.29.52:354][984]LogBlueprintUserMessages: Icantspellchamerlan1262
+[2015.03.21-13.29.52:371][985]LogBlueprintUserMessages: Icantspellchamerlan1274
+[2015.03.21-13.29.52:371][985]LogBlueprintUserMessages: Icantspellchamerlan1274
+[2015.03.21-13.29.52:388][986]LogBlueprintUserMessages: Icantspellchamerlan1286
+[2015.03.21-13.29.52:388][986]LogBlueprintUserMessages: Icantspellchamerlan1286
+[2015.03.21-13.29.52:404][987]LogBlueprintUserMessages: Icantspellchamerlan1298
+[2015.03.21-13.29.52:404][987]LogBlueprintUserMessages: Icantspellchamerlan1298
+[2015.03.21-13.29.52:421][988]LogBlueprintUserMessages: Icantspellchamerlan1310
+[2015.03.21-13.29.52:421][988]LogBlueprintUserMessages: Icantspellchamerlan1310
+[2015.03.21-13.29.52:438][989]LogBlueprintUserMessages: Icantspellchamerlan1322
+[2015.03.21-13.29.52:438][989]LogBlueprintUserMessages: Icantspellchamerlan1322
+[2015.03.21-13.29.52:454][990]LogBlueprintUserMessages: Icantspellchamerlan1334
+[2015.03.21-13.29.52:454][990]LogBlueprintUserMessages: Icantspellchamerlan1334
+[2015.03.21-13.29.52:471][991]LogBlueprintUserMessages: Icantspellchamerlan1346
+[2015.03.21-13.29.52:471][991]LogBlueprintUserMessages: Icantspellchamerlan1346
+[2015.03.21-13.29.52:488][992]LogBlueprintUserMessages: Icantspellchamerlan1358
+[2015.03.21-13.29.52:488][992]LogBlueprintUserMessages: Icantspellchamerlan1358
+[2015.03.21-13.29.52:504][993]LogBlueprintUserMessages: Icantspellchamerlan1370
+[2015.03.21-13.29.52:504][993]LogBlueprintUserMessages: Icantspellchamerlan1370
+[2015.03.21-13.29.52:521][994]LogBlueprintUserMessages: Icantspellchamerlan1382
+[2015.03.21-13.29.52:521][994]LogBlueprintUserMessages: Icantspellchamerlan1382
+[2015.03.21-13.29.52:538][995]LogBlueprintUserMessages: Icantspellchamerlan1394
+[2015.03.21-13.29.52:538][995]LogBlueprintUserMessages: Icantspellchamerlan1394
+[2015.03.21-13.29.52:555][996]LogBlueprintUserMessages: Icantspellchamerlan1406
+[2015.03.21-13.29.52:555][996]LogBlueprintUserMessages: Icantspellchamerlan1406
+[2015.03.21-13.29.52:571][997]LogBlueprintUserMessages: Icantspellchamerlan1418
+[2015.03.21-13.29.52:571][997]LogBlueprintUserMessages: Icantspellchamerlan1418
+[2015.03.21-13.29.52:588][998]LogBlueprintUserMessages: Icantspellchamerlan1430
+[2015.03.21-13.29.52:588][998]LogBlueprintUserMessages: Icantspellchamerlan1430
+[2015.03.21-13.29.52:638][  1]LogBlueprintUserMessages: Icantspellchamerlan1442
+[2015.03.21-13.29.52:638][  1]LogBlueprintUserMessages: Icantspellchamerlan1442
+[2015.03.21-13.29.53:036][ 25]LogBlueprintUserMessages: Icantspellchamerlan1465
+[2015.03.21-13.29.53:036][ 25]LogBlueprintUserMessages: Icantspellchamerlan1465
+[2015.03.21-13.29.56:429][224]LogBlueprintUserMessages: Icantspellchamerlan1488
+[2015.03.21-13.29.56:429][224]LogBlueprintUserMessages: Icantspellchamerlan1488
+[2015.03.21-13.29.59:042][377]LogBlueprintUserMessages: Icantspellchamerlan1500
+[2015.03.21-13.29.59:042][377]LogBlueprintUserMessages: Icantspellchamerlan1500
+[2015.03.21-13.29.59:058][378]LogBlueprintUserMessages: Icantspellchamerlan1512
+[2015.03.21-13.29.59:058][378]LogBlueprintUserMessages: Icantspellchamerlan1512
+[2015.03.21-13.29.59:075][379]LogBlueprintUserMessages: Icantspellchamerlan1524
+[2015.03.21-13.29.59:075][379]LogBlueprintUserMessages: Icantspellchamerlan1524
+[2015.03.21-13.29.59:091][380]LogBlueprintUserMessages: Icantspellchamerlan1536
+[2015.03.21-13.29.59:091][380]LogBlueprintUserMessages: Icantspellchamerlan1536
+[2015.03.21-13.29.59:123][382]LogBlueprintUserMessages: Icantspellchamerlan1548
+[2015.03.21-13.29.59:123][382]LogBlueprintUserMessages: Icantspellchamerlan1548
+[2015.03.21-13.29.59:224][388]LogBlueprintUserMessages: Icantspellchamerlan1560
+[2015.03.21-13.29.59:224][388]LogBlueprintUserMessages: Icantspellchamerlan1560
+[2015.03.21-13.29.59:241][389]LogBlueprintUserMessages: Icantspellchamerlan1572
+[2015.03.21-13.29.59:241][389]LogBlueprintUserMessages: Icantspellchamerlan1572
+[2015.03.21-13.29.59:257][390]LogBlueprintUserMessages: Icantspellchamerlan1584
+[2015.03.21-13.29.59:257][390]LogBlueprintUserMessages: Icantspellchamerlan1584
+[2015.03.21-13.29.59:357][396]LogBlueprintUserMessages: Icantspellchamerlan1596
+[2015.03.21-13.29.59:357][396]LogBlueprintUserMessages: Icantspellchamerlan1596
+[2015.03.21-13.29.59:373][397]LogBlueprintUserMessages: Icantspellchamerlan1608
+[2015.03.21-13.29.59:373][397]LogBlueprintUserMessages: Icantspellchamerlan1608
+[2015.03.21-13.29.59:390][398]LogBlueprintUserMessages: Icantspellchamerlan1620
+[2015.03.21-13.29.59:390][398]LogBlueprintUserMessages: Icantspellchamerlan1620
+[2015.03.21-13.29.59:426][399]LogBlueprintUserMessages: Icantspellchamerlan1632
+[2015.03.21-13.29.59:426][399]LogBlueprintUserMessages: Icantspellchamerlan1632
+[2015.03.21-13.29.59:441][400]LogBlueprintUserMessages: Icantspellchamerlan1644
+[2015.03.21-13.29.59:441][400]LogBlueprintUserMessages: Icantspellchamerlan1644
+[2015.03.21-13.29.59:457][401]LogBlueprintUserMessages: Icantspellchamerlan1656
+[2015.03.21-13.29.59:457][401]LogBlueprintUserMessages: Icantspellchamerlan1656
+[2015.03.21-13.29.59:493][402]LogBlueprintUserMessages: Icantspellchamerlan1668
+[2015.03.21-13.29.59:493][402]LogBlueprintUserMessages: Icantspellchamerlan1668
+[2015.03.21-13.29.59:508][403]LogBlueprintUserMessages: Icantspellchamerlan1680
+[2015.03.21-13.29.59:508][403]LogBlueprintUserMessages: Icantspellchamerlan1680
+[2015.03.21-13.29.59:572][407]LogBlueprintUserMessages: Icantspellchamerlan1703
+[2015.03.21-13.29.59:572][407]LogBlueprintUserMessages: Icantspellchamerlan1703
+[2015.03.21-13.30.00:483][460]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-13.30.00:491][460]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-13.30.00:760][460]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-13.30.00:899][460]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-13.30.01:002][460]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-13.30.01:085][460]LogPlayLevel: [PIE] Compiling Settings before PIE...
+[2015.03.21-13.30.01:190][460]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-13.30.01:302][460]LogPlayLevel: PIE:  Blueprint regeneration took 819 ms (6 blueprints)
+[2015.03.21-13.30.01:302][460]PIE: New page: PIE session: Levelone (21 Mar 2015 13:30:01)
+[2015.03.21-13.30.01:311][460]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.01:311][460]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.01:312][460]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.01:312][460]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.01:312][460]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.01:312][460]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.01:313][460]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.01:313][460]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.01:313][460]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.01:313][460]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.01:315][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012759s)
+[2015.03.21-13.30.01:316][460]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2015.03.21-13.30.01:316][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013503s)
+[2015.03.21-13.30.01:351][460]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-13.30.01:354][460]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-13.30.01:358][460]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-13.30.01
+[2015.03.21-13.30.01:359][460]LogWorld: Bringing up level for play took: 0.004536
+[2015.03.21-13.30.01:360][460]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.30.01:360][460]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.30.01:374][460]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.466
+[2015.03.21-13.30.01:532][461]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-13.30.01:532][461]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-13.30.03:099][553]LogBlueprintUserMessages: Player found
+[2015.03.21-13.30.03:132][555]LogBlueprintUserMessages: Hello
+[2015.03.21-13.30.05:006][667]LogBlueprintUserMessages: 2
+[2015.03.21-13.30.06:363][743]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F79F973B00
+[2015.03.21-13.30.08:245][851]LogBlueprintUserMessages: Icantspellchamerlan24
+[2015.03.21-13.30.08:245][851]LogBlueprintUserMessages: Icantspellchamerlan24
+[2015.03.21-13.30.09:369][914]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-13.30.09:379][914]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-13.30.09:630][914]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-13.30.09:725][914]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-13.30.09:865][914]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-13.30.09:969][914]LogPlayLevel: PIE:  Blueprint regeneration took 600 ms (4 blueprints)
+[2015.03.21-13.30.09:969][914]PIE: New page: PIE session: Levelone (21 Mar 2015 13:30:09)
+[2015.03.21-13.30.09:979][914]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.09:979][914]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.09:980][914]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.09:980][914]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.09:980][914]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.09:980][914]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.09:981][914]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.09:981][914]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.09:981][914]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.09:981][914]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.09:984][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013961s)
+[2015.03.21-13.30.09:984][914]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2015.03.21-13.30.09:985][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.014718s)
+[2015.03.21-13.30.10:023][914]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-13.30.10:025][914]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-13.30.10:030][914]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-13.30.10
+[2015.03.21-13.30.10:031][914]LogWorld: Bringing up level for play took: 0.004989
+[2015.03.21-13.30.10:032][914]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.30.10:032][914]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.30.10:048][914]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.139
+[2015.03.21-13.30.10:150][915]LogBlueprintUserMessages: Icantspellchamerlan2
+[2015.03.21-13.30.10:150][915]LogBlueprintUserMessages: Icantspellchamerlan2
+[2015.03.21-13.30.10:502][933]LogBlueprintUserMessages: 2
+[2015.03.21-13.30.11:454][990]LogBlueprintUserMessages: 3
+[2015.03.21-13.30.11:571][997]LogBlueprintUserMessages: Player found
+[2015.03.21-13.30.11:604][999]LogBlueprintUserMessages: Hello
+[2015.03.21-13.30.14:546][174]LogBlueprintUserMessages: Hello
+[2015.03.21-13.30.14:596][177]LogBlueprintUserMessages: Hello
+[2015.03.21-13.30.16:097][266]LogBlueprintUserMessages: Hello
+[2015.03.21-13.30.20:607][536]LogBlueprintUserMessages: Hello
+[2015.03.21-13.30.21:607][596]LogBlueprintUserMessages: Player found
+[2015.03.21-13.30.25:119][805]LogBlueprintUserMessages: Hello
+[2015.03.21-13.30.25:302][816]LogBlueprintUserMessages: Player found
+[2015.03.21-13.30.29:627][ 74]LogBlueprintUserMessages: Hello
+[2015.03.21-13.30.34:129][343]LogBlueprintUserMessages: Player found
+[2015.03.21-13.30.34:129][343]LogBlueprintUserMessages: Hello
+[2015.03.21-13.30.34:163][345]LogBlueprintUserMessages: Player found
+[2015.03.21-13.30.38:635][613]LogBlueprintUserMessages: Hello
+[2015.03.21-13.30.40:923][750]LogBlueprintUserMessages: Bird
+[2015.03.21-13.30.43:142][883]LogBlueprintUserMessages: Hello
+[2015.03.21-13.30.45:371][ 11]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7FD0BE8E0
+[2015.03.21-13.30.46:097][ 51]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-13.30.46:107][ 51]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-13.30.46:365][ 51]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-13.30.46:452][ 51]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-13.30.46:590][ 51]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-13.30.46:683][ 51]LogPlayLevel: PIE:  Blueprint regeneration took 585 ms (4 blueprints)
+[2015.03.21-13.30.46:683][ 51]PIE: New page: PIE session: Levelone (21 Mar 2015 13:30:46)
+[2015.03.21-13.30.46:692][ 51]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.46:692][ 51]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.46:693][ 51]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.46:693][ 51]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.46:694][ 51]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.46:694][ 51]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.46:694][ 51]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.46:694][ 51]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.46:694][ 51]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.46:694][ 51]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.46:697][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012852s)
+[2015.03.21-13.30.46:697][ 51]LogPlayLevel: PIE: World Init took: (0.000548s)
+[2015.03.21-13.30.46:697][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013569s)
+[2015.03.21-13.30.46:737][ 51]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-13.30.46:739][ 51]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-13.30.46:743][ 51]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-13.30.46
+[2015.03.21-13.30.46:744][ 51]LogWorld: Bringing up level for play took: 0.004843
+[2015.03.21-13.30.46:746][ 51]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.30.46:746][ 51]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.30.46:760][ 51]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.149
+[2015.03.21-13.30.46:856][ 52]LogBlueprintUserMessages: Icantspellchamerlan2
+[2015.03.21-13.30.46:856][ 52]LogBlueprintUserMessages: Icantspellchamerlan2
+[2015.03.21-13.30.47:715][101]LogBlueprintUserMessages: Hello
+[2015.03.21-13.30.48:274][134]LogBlueprintUserMessages: Hello
+[2015.03.21-13.30.49:107][184]LogBlueprintUserMessages: Player found
+[2015.03.21-13.30.49:140][186]LogBlueprintUserMessages: Hello
+[2015.03.21-13.30.50:125][240]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7F8410900
+[2015.03.21-13.30.50:746][274]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-13.30.50:754][274]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-13.30.51:008][274]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-13.30.51:095][274]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-13.30.51:234][274]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-13.30.51:325][274]LogPlayLevel: PIE:  Blueprint regeneration took 579 ms (4 blueprints)
+[2015.03.21-13.30.51:325][274]PIE: New page: PIE session: Levelone (21 Mar 2015 13:30:51)
+[2015.03.21-13.30.51:334][274]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.51:334][274]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.51:335][274]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.51:335][274]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.51:336][274]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.51:336][274]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.51:336][274]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.51:336][274]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.51:336][274]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.51:336][274]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.30.51:339][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012803s)
+[2015.03.21-13.30.51:339][274]LogPlayLevel: PIE: World Init took: (0.000519s)
+[2015.03.21-13.30.51:339][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013482s)
+[2015.03.21-13.30.51:375][274]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-13.30.51:377][274]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-13.30.51:382][274]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-13.30.51
+[2015.03.21-13.30.51:383][274]LogWorld: Bringing up level for play took: 0.004835
+[2015.03.21-13.30.51:385][274]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.30.51:385][274]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.30.51:398][274]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.49
+[2015.03.21-13.30.51:499][275]LogBlueprintUserMessages: Icantspellchamerlan2
+[2015.03.21-13.30.51:499][275]LogBlueprintUserMessages: Icantspellchamerlan2
+[2015.03.21-13.30.52:179][313]LogBlueprintUserMessages: Hello
+[2015.03.21-13.30.52:479][331]LogBlueprintUserMessages: Hello
+[2015.03.21-13.30.57:827][651]LogBlueprintUserMessages: Player found
+[2015.03.21-13.30.57:860][653]LogBlueprintUserMessages: Hello
+[2015.03.21-13.31.02:347][922]LogBlueprintUserMessages: Hello
+[2015.03.21-13.31.02:380][924]LogBlueprintUserMessages: Player found
+[2015.03.21-13.31.04:034][ 23]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.06:856][192]LogBlueprintUserMessages: Hello
+[2015.03.21-13.31.08:061][264]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:077][265]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:094][266]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:111][267]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:128][268]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:144][269]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:161][270]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:177][271]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:194][272]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:211][273]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:227][274]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:245][275]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:261][276]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:278][277]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:294][278]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:311][279]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:328][280]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:344][281]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:361][282]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:378][283]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:394][284]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:411][285]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:428][286]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:444][287]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:461][288]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:478][289]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:494][290]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:511][291]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:528][292]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.08:544][293]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.09:816][369]LogBlueprintUserMessages: Player found
+[2015.03.21-13.31.11:365][462]LogBlueprintUserMessages: Hello
+[2015.03.21-13.31.11:399][464]LogBlueprintUserMessages: Player found
+[2015.03.21-13.31.12:517][531]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.15:866][732]LogBlueprintUserMessages: Hello
+[2015.03.21-13.31.15:900][734]LogBlueprintUserMessages: Player found
+[2015.03.21-13.31.17:018][801]LogBlueprintUserMessages: Bird
+[2015.03.21-13.31.20:373][  2]LogBlueprintUserMessages: Hello
+[2015.03.21-13.31.23:376][181]LogBlueprintUserMessages: Player found
+[2015.03.21-13.31.24:886][271]LogBlueprintUserMessages: Hello
+[2015.03.21-13.31.24:886][271]LogBlueprintUserMessages: 1
+[2015.03.21-13.31.24:919][273]LogBlueprintUserMessages: Player found
+[2015.03.21-13.31.27:886][450]LogBlueprintUserMessages: 2
+[2015.03.21-13.31.29:386][540]LogBlueprintUserMessages: Hello
+[2015.03.21-13.31.32:369][713]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7A16E8360
+[2015.03.21-13.32.01:188][ 15]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-13.32.01:196][ 15]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-13.32.01:443][ 15]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-13.32.01:533][ 15]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-13.32.01:674][ 15]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-13.32.01:771][ 15]LogPlayLevel: PIE:  Blueprint regeneration took 583 ms (4 blueprints)
+[2015.03.21-13.32.01:771][ 15]PIE: New page: PIE session: Levelone (21 Mar 2015 13:32:01)
+[2015.03.21-13.32.01:780][ 15]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.01:780][ 15]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.01:781][ 15]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.01:782][ 15]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.01:782][ 15]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.01:782][ 15]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.01:782][ 15]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.01:782][ 15]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.01:783][ 15]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.01:783][ 15]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.01:785][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012995s)
+[2015.03.21-13.32.01:785][ 15]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2015.03.21-13.32.01:786][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013749s)
+[2015.03.21-13.32.01:827][ 15]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-13.32.01:829][ 15]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-13.32.01:833][ 15]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-13.32.01
+[2015.03.21-13.32.01:834][ 15]LogWorld: Bringing up level for play took: 0.004867
+[2015.03.21-13.32.01:836][ 15]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.32.01:836][ 15]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.32.01:849][ 15]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.941
+[2015.03.21-13.32.01:951][ 16]LogBlueprintUserMessages: Icantspellchamerlan2
+[2015.03.21-13.32.01:951][ 16]LogBlueprintUserMessages: Icantspellchamerlan2
+[2015.03.21-13.32.02:820][ 65]LogBlueprintUserMessages: 2
+[2015.03.21-13.32.03:850][126]LogBlueprintUserMessages: Hello
+[2015.03.21-13.32.03:900][129]LogBlueprintUserMessages: Hello
+[2015.03.21-13.32.09:383][456]LogBlueprintUserMessages: 1
+[2015.03.21-13.32.10:285][510]LogBlueprintUserMessages: Player found
+[2015.03.21-13.32.10:318][512]LogBlueprintUserMessages: Hello
+[2015.03.21-13.32.14:804][781]LogBlueprintUserMessages: Hello
+[2015.03.21-13.32.19:314][ 51]LogBlueprintUserMessages: Hello
+[2015.03.21-13.32.23:829][321]LogBlueprintUserMessages: Hello
+[2015.03.21-13.32.28:345][591]LogBlueprintUserMessages: Hello
+[2015.03.21-13.32.32:853][861]LogBlueprintUserMessages: Hello
+[2015.03.21-13.32.37:365][131]LogBlueprintUserMessages: Hello
+[2015.03.21-13.32.41:880][401]LogBlueprintUserMessages: Hello
+[2015.03.21-13.32.42:089][408]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7A16EA200
+[2015.03.21-13.32.45:193][582]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-13.32.45:203][582]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-13.32.45:450][582]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-13.32.45:540][582]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-13.32.45:690][582]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-13.32.45:785][582]LogPlayLevel: PIE:  Blueprint regeneration took 591 ms (4 blueprints)
+[2015.03.21-13.32.45:785][582]PIE: New page: PIE session: Levelone (21 Mar 2015 13:32:45)
+[2015.03.21-13.32.45:794][582]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.45:794][582]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.45:796][582]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.45:796][582]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.45:796][582]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.45:796][582]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.45:796][582]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.45:796][582]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.45:797][582]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.45:797][582]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.32.45:799][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013653s)
+[2015.03.21-13.32.45:800][582]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2015.03.21-13.32.45:800][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.014391s)
+[2015.03.21-13.32.45:838][582]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-13.32.45:840][582]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-13.32.45:844][582]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-13.32.45
+[2015.03.21-13.32.45:845][582]LogWorld: Bringing up level for play took: 0.004835
+[2015.03.21-13.32.45:847][582]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.32.45:847][582]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.32.45:860][582]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.951
+[2015.03.21-13.32.45:959][583]LogBlueprintUserMessages: Icantspellchamerlan2
+[2015.03.21-13.32.45:959][583]LogBlueprintUserMessages: Icantspellchamerlan2
+[2015.03.21-13.32.47:384][664]LogBlueprintUserMessages: Player found
+[2015.03.21-13.32.47:417][666]LogBlueprintUserMessages: Hello
+[2015.03.21-13.32.48:384][724]LogBlueprintUserMessages: Hello
+[2015.03.21-13.32.48:434][727]LogBlueprintUserMessages: Hello
+[2015.03.21-13.32.51:902][935]LogBlueprintUserMessages: Hello
+[2015.03.21-13.32.51:936][937]LogBlueprintUserMessages: Player found
+[2015.03.21-13.32.53:369][ 23]LogBlueprintUserMessages: Hello
+[2015.03.21-13.32.53:810][ 49]LogBlueprintUserMessages: Hello
+[2015.03.21-13.32.54:091][ 66]LogBlueprintUserMessages: Bird
+[2015.03.21-13.32.56:408][205]LogBlueprintUserMessages: Hello
+[2015.03.21-13.32.56:441][207]LogBlueprintUserMessages: Player found
+[2015.03.21-13.32.57:607][277]LogBlueprintUserMessages: Bird
+[2015.03.21-13.32.58:536][327]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F79D8CC720
+[2015.03.21-13.33.02:482][555]LogBlueprintUserMessages: Icantspellchamerlan25
+[2015.03.21-13.33.02:482][555]LogBlueprintUserMessages: Icantspellchamerlan25
+[2015.03.21-13.33.05:860][753]LogBlueprintUserMessages: Icantspellchamerlan48
+[2015.03.21-13.33.05:860][753]LogBlueprintUserMessages: Icantspellchamerlan48
+[2015.03.21-13.33.07:738][864]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-13.33.07:747][864]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-13.33.07:992][864]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-13.33.08:080][864]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-13.33.08:219][864]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-13.33.08:310][864]LogPlayLevel: PIE:  Blueprint regeneration took 571 ms (4 blueprints)
+[2015.03.21-13.33.08:310][864]PIE: New page: PIE session: Levelone (21 Mar 2015 13:33:08)
+[2015.03.21-13.33.08:319][864]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.33.08:319][864]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.33.08:320][864]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.33.08:320][864]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.33.08:320][864]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.33.08:320][864]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.33.08:321][864]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.33.08:321][864]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.33.08:321][864]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.33.08:321][864]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.33.08:323][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012977s)
+[2015.03.21-13.33.08:324][864]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2015.03.21-13.33.08:324][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013671s)
+[2015.03.21-13.33.08:366][864]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-13.33.08:368][864]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-13.33.08:373][864]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-13.33.08
+[2015.03.21-13.33.08:374][864]LogWorld: Bringing up level for play took: 0.005065
+[2015.03.21-13.33.08:375][864]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.33.08:375][864]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.33.08:390][864]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.481
+[2015.03.21-13.33.08:491][865]LogBlueprintUserMessages: Icantspellchamerlan3
+[2015.03.21-13.33.08:491][865]LogBlueprintUserMessages: Icantspellchamerlan3
+[2015.03.21-13.33.09:827][937]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7AB3E2B60
+[2015.03.21-13.33.16:318][320]LogEditorTransaction: Undo Modify Component(s)
+[2015.03.21-13.33.16:453][320]LogBlueprintUserMessages: Icantspellchamerlan202
+[2015.03.21-13.33.16:453][320]LogBlueprintUserMessages: Icantspellchamerlan202
+[2015.03.21-13.33.16:494][321]LogBlueprintUserMessages: Icantspellchamerlan214
+[2015.03.21-13.33.16:494][321]LogBlueprintUserMessages: Icantspellchamerlan214
+[2015.03.21-13.33.21:944][613]LogBlueprintUserMessages: Icantspellchamerlan226
+[2015.03.21-13.33.21:944][613]LogBlueprintUserMessages: Icantspellchamerlan226
+[2015.03.21-13.33.21:961][614]LogBlueprintUserMessages: Icantspellchamerlan238
+[2015.03.21-13.33.21:961][614]LogBlueprintUserMessages: Icantspellchamerlan238
+[2015.03.21-13.33.21:977][615]LogBlueprintUserMessages: Icantspellchamerlan250
+[2015.03.21-13.33.21:977][615]LogBlueprintUserMessages: Icantspellchamerlan250
+[2015.03.21-13.33.21:994][616]LogBlueprintUserMessages: Icantspellchamerlan262
+[2015.03.21-13.33.21:994][616]LogBlueprintUserMessages: Icantspellchamerlan262
+[2015.03.21-13.33.22:011][617]LogBlueprintUserMessages: Icantspellchamerlan274
+[2015.03.21-13.33.22:011][617]LogBlueprintUserMessages: Icantspellchamerlan274
+[2015.03.21-13.33.22:029][618]LogBlueprintUserMessages: Icantspellchamerlan286
+[2015.03.21-13.33.22:029][618]LogBlueprintUserMessages: Icantspellchamerlan286
+[2015.03.21-13.33.22:079][621]LogBlueprintUserMessages: Icantspellchamerlan298
+[2015.03.21-13.33.22:079][621]LogBlueprintUserMessages: Icantspellchamerlan298
+[2015.03.21-13.33.22:095][622]LogBlueprintUserMessages: Icantspellchamerlan310
+[2015.03.21-13.33.22:095][622]LogBlueprintUserMessages: Icantspellchamerlan310
+[2015.03.21-13.33.22:111][623]LogBlueprintUserMessages: Icantspellchamerlan322
+[2015.03.21-13.33.22:111][623]LogBlueprintUserMessages: Icantspellchamerlan322
+[2015.03.21-13.33.22:129][624]LogBlueprintUserMessages: Icantspellchamerlan334
+[2015.03.21-13.33.22:129][624]LogBlueprintUserMessages: Icantspellchamerlan334
+[2015.03.21-13.33.22:393][640]LogBlueprintUserMessages: Icantspellchamerlan357
+[2015.03.21-13.33.22:393][640]LogBlueprintUserMessages: Icantspellchamerlan357
+[2015.03.21-13.33.23:679][717]LogBlueprintUserMessages: Icantspellchamerlan380
+[2015.03.21-13.33.23:679][717]LogBlueprintUserMessages: Icantspellchamerlan380
+[2015.03.21-13.33.24:929][792]LogBlueprintUserMessages: Icantspellchamerlan392
+[2015.03.21-13.33.24:929][792]LogBlueprintUserMessages: Icantspellchamerlan392
+[2015.03.21-13.33.24:962][794]LogBlueprintUserMessages: Icantspellchamerlan404
+[2015.03.21-13.33.24:963][794]LogBlueprintUserMessages: Icantspellchamerlan404
+[2015.03.21-13.33.25:046][799]LogBlueprintUserMessages: Icantspellchamerlan416
+[2015.03.21-13.33.25:046][799]LogBlueprintUserMessages: Icantspellchamerlan416
+[2015.03.21-13.33.25:079][801]LogBlueprintUserMessages: Icantspellchamerlan428
+[2015.03.21-13.33.25:079][801]LogBlueprintUserMessages: Icantspellchamerlan428
+[2015.03.21-13.33.25:095][802]LogBlueprintUserMessages: Icantspellchamerlan440
+[2015.03.21-13.33.25:095][802]LogBlueprintUserMessages: Icantspellchamerlan440
+[2015.03.21-13.33.25:112][803]LogBlueprintUserMessages: Icantspellchamerlan452
+[2015.03.21-13.33.25:112][803]LogBlueprintUserMessages: Icantspellchamerlan452
+[2015.03.21-13.33.25:145][805]LogBlueprintUserMessages: Icantspellchamerlan464
+[2015.03.21-13.33.25:145][805]LogBlueprintUserMessages: Icantspellchamerlan464
+[2015.03.21-13.33.25:478][825]LogBlueprintUserMessages: Icantspellchamerlan476
+[2015.03.21-13.33.25:478][825]LogBlueprintUserMessages: Icantspellchamerlan476
+[2015.03.21-13.33.25:562][830]LogBlueprintUserMessages: Icantspellchamerlan488
+[2015.03.21-13.33.25:562][830]LogBlueprintUserMessages: Icantspellchamerlan488
+[2015.03.21-13.33.25:711][839]LogBlueprintUserMessages: Icantspellchamerlan500
+[2015.03.21-13.33.25:711][839]LogBlueprintUserMessages: Icantspellchamerlan500
+[2015.03.21-13.33.25:911][851]LogBlueprintUserMessages: Icantspellchamerlan523
+[2015.03.21-13.33.25:911][851]LogBlueprintUserMessages: Icantspellchamerlan523
+[2015.03.21-13.33.26:961][914]LogBlueprintUserMessages: Icantspellchamerlan546
+[2015.03.21-13.33.26:961][914]LogBlueprintUserMessages: Icantspellchamerlan546
+[2015.03.21-13.33.30:789][140]LogBlueprintUserMessages: Icantspellchamerlan558
+[2015.03.21-13.33.30:789][140]LogBlueprintUserMessages: Icantspellchamerlan558
+[2015.03.21-13.33.30:822][142]LogBlueprintUserMessages: Icantspellchamerlan570
+[2015.03.21-13.33.30:822][142]LogBlueprintUserMessages: Icantspellchamerlan570
+[2015.03.21-13.33.30:855][144]LogBlueprintUserMessages: Icantspellchamerlan582
+[2015.03.21-13.33.30:855][144]LogBlueprintUserMessages: Icantspellchamerlan582
+[2015.03.21-13.33.30:872][145]LogBlueprintUserMessages: Icantspellchamerlan594
+[2015.03.21-13.33.30:872][145]LogBlueprintUserMessages: Icantspellchamerlan594
+[2015.03.21-13.33.30:889][146]LogBlueprintUserMessages: Icantspellchamerlan606
+[2015.03.21-13.33.30:889][146]LogBlueprintUserMessages: Icantspellchamerlan606
+[2015.03.21-13.33.30:905][147]LogBlueprintUserMessages: Icantspellchamerlan618
+[2015.03.21-13.33.30:905][147]LogBlueprintUserMessages: Icantspellchamerlan618
+[2015.03.21-13.33.31:006][153]LogBlueprintUserMessages: Icantspellchamerlan630
+[2015.03.21-13.33.31:006][153]LogBlueprintUserMessages: Icantspellchamerlan630
+[2015.03.21-13.33.31:171][163]LogBlueprintUserMessages: Icantspellchamerlan642
+[2015.03.21-13.33.31:172][163]LogBlueprintUserMessages: Icantspellchamerlan642
+[2015.03.21-13.33.31:188][164]LogBlueprintUserMessages: Icantspellchamerlan654
+[2015.03.21-13.33.31:188][164]LogBlueprintUserMessages: Icantspellchamerlan654
+[2015.03.21-13.33.31:205][165]LogBlueprintUserMessages: Icantspellchamerlan666
+[2015.03.21-13.33.31:205][165]LogBlueprintUserMessages: Icantspellchamerlan666
+[2015.03.21-13.33.31:221][166]LogBlueprintUserMessages: Icantspellchamerlan678
+[2015.03.21-13.33.31:221][166]LogBlueprintUserMessages: Icantspellchamerlan678
+[2015.03.21-13.33.31:238][167]LogBlueprintUserMessages: Icantspellchamerlan690
+[2015.03.21-13.33.31:238][167]LogBlueprintUserMessages: Icantspellchamerlan690
+[2015.03.21-13.33.31:255][168]LogBlueprintUserMessages: Icantspellchamerlan702
+[2015.03.21-13.33.31:255][168]LogBlueprintUserMessages: Icantspellchamerlan702
+[2015.03.21-13.33.31:274][169]LogBlueprintUserMessages: Icantspellchamerlan714
+[2015.03.21-13.33.31:274][169]LogBlueprintUserMessages: Icantspellchamerlan714
+[2015.03.21-13.33.31:290][170]LogBlueprintUserMessages: Icantspellchamerlan726
+[2015.03.21-13.33.31:290][170]LogBlueprintUserMessages: Icantspellchamerlan726
+[2015.03.21-13.33.31:307][171]LogBlueprintUserMessages: Icantspellchamerlan738
+[2015.03.21-13.33.31:307][171]LogBlueprintUserMessages: Icantspellchamerlan738
+[2015.03.21-13.33.31:373][175]LogBlueprintUserMessages: Icantspellchamerlan750
+[2015.03.21-13.33.31:373][175]LogBlueprintUserMessages: Icantspellchamerlan750
+[2015.03.21-13.33.31:389][176]LogBlueprintUserMessages: Icantspellchamerlan762
+[2015.03.21-13.33.31:389][176]LogBlueprintUserMessages: Icantspellchamerlan762
+[2015.03.21-13.33.31:407][177]LogBlueprintUserMessages: Icantspellchamerlan774
+[2015.03.21-13.33.31:407][177]LogBlueprintUserMessages: Icantspellchamerlan774
+[2015.03.21-13.33.31:473][181]LogBlueprintUserMessages: Icantspellchamerlan786
+[2015.03.21-13.33.31:473][181]LogBlueprintUserMessages: Icantspellchamerlan786
+[2015.03.21-13.33.31:506][183]LogBlueprintUserMessages: Icantspellchamerlan798
+[2015.03.21-13.33.31:506][183]LogBlueprintUserMessages: Icantspellchamerlan798
+[2015.03.21-13.33.31:523][184]LogBlueprintUserMessages: Icantspellchamerlan810
+[2015.03.21-13.33.31:523][184]LogBlueprintUserMessages: Icantspellchamerlan810
+[2015.03.21-13.33.31:556][186]LogBlueprintUserMessages: Icantspellchamerlan822
+[2015.03.21-13.33.31:556][186]LogBlueprintUserMessages: Icantspellchamerlan822
+[2015.03.21-13.33.31:573][187]LogBlueprintUserMessages: Icantspellchamerlan834
+[2015.03.21-13.33.31:573][187]LogBlueprintUserMessages: Icantspellchamerlan834
+[2015.03.21-13.33.31:590][188]LogBlueprintUserMessages: Icantspellchamerlan846
+[2015.03.21-13.33.31:590][188]LogBlueprintUserMessages: Icantspellchamerlan846
+[2015.03.21-13.33.31:606][189]LogBlueprintUserMessages: Icantspellchamerlan858
+[2015.03.21-13.33.31:606][189]LogBlueprintUserMessages: Icantspellchamerlan858
+[2015.03.21-13.33.31:640][191]LogBlueprintUserMessages: Icantspellchamerlan870
+[2015.03.21-13.33.31:640][191]LogBlueprintUserMessages: Icantspellchamerlan870
+[2015.03.21-13.33.31:656][192]LogBlueprintUserMessages: Icantspellchamerlan882
+[2015.03.21-13.33.31:656][192]LogBlueprintUserMessages: Icantspellchamerlan882
+[2015.03.21-13.33.31:673][193]LogBlueprintUserMessages: Icantspellchamerlan894
+[2015.03.21-13.33.31:673][193]LogBlueprintUserMessages: Icantspellchamerlan894
+[2015.03.21-13.33.31:690][194]LogBlueprintUserMessages: Icantspellchamerlan906
+[2015.03.21-13.33.31:690][194]LogBlueprintUserMessages: Icantspellchamerlan906
+[2015.03.21-13.33.31:707][195]LogBlueprintUserMessages: Icantspellchamerlan918
+[2015.03.21-13.33.31:707][195]LogBlueprintUserMessages: Icantspellchamerlan918
+[2015.03.21-13.33.31:723][196]LogBlueprintUserMessages: Icantspellchamerlan930
+[2015.03.21-13.33.31:723][196]LogBlueprintUserMessages: Icantspellchamerlan930
+[2015.03.21-13.33.31:740][197]LogBlueprintUserMessages: Icantspellchamerlan942
+[2015.03.21-13.33.31:740][197]LogBlueprintUserMessages: Icantspellchamerlan942
+[2015.03.21-13.33.31:756][198]LogBlueprintUserMessages: Icantspellchamerlan954
+[2015.03.21-13.33.31:756][198]LogBlueprintUserMessages: Icantspellchamerlan954
+[2015.03.21-13.33.31:790][200]LogBlueprintUserMessages: Icantspellchamerlan966
+[2015.03.21-13.33.31:790][200]LogBlueprintUserMessages: Icantspellchamerlan966
+[2015.03.21-13.33.31:806][201]LogBlueprintUserMessages: Icantspellchamerlan978
+[2015.03.21-13.33.31:806][201]LogBlueprintUserMessages: Icantspellchamerlan978
+[2015.03.21-13.33.31:823][202]LogBlueprintUserMessages: Icantspellchamerlan990
+[2015.03.21-13.33.31:823][202]LogBlueprintUserMessages: Icantspellchamerlan990
+[2015.03.21-13.33.31:839][203]LogBlueprintUserMessages: Icantspellchamerlan1002
+[2015.03.21-13.33.31:839][203]LogBlueprintUserMessages: Icantspellchamerlan1002
+[2015.03.21-13.33.31:856][204]LogBlueprintUserMessages: Icantspellchamerlan1014
+[2015.03.21-13.33.31:856][204]LogBlueprintUserMessages: Icantspellchamerlan1014
+[2015.03.21-13.33.31:873][205]LogBlueprintUserMessages: Icantspellchamerlan1026
+[2015.03.21-13.33.31:873][205]LogBlueprintUserMessages: Icantspellchamerlan1026
+[2015.03.21-13.33.31:906][207]LogBlueprintUserMessages: Icantspellchamerlan1038
+[2015.03.21-13.33.31:906][207]LogBlueprintUserMessages: Icantspellchamerlan1038
+[2015.03.21-13.33.31:923][208]LogBlueprintUserMessages: Icantspellchamerlan1050
+[2015.03.21-13.33.31:923][208]LogBlueprintUserMessages: Icantspellchamerlan1050
+[2015.03.21-13.33.31:939][209]LogBlueprintUserMessages: Icantspellchamerlan1062
+[2015.03.21-13.33.31:939][209]LogBlueprintUserMessages: Icantspellchamerlan1062
+[2015.03.21-13.33.31:956][210]LogBlueprintUserMessages: Icantspellchamerlan1074
+[2015.03.21-13.33.31:956][210]LogBlueprintUserMessages: Icantspellchamerlan1074
+[2015.03.21-13.33.31:972][211]LogBlueprintUserMessages: Icantspellchamerlan1086
+[2015.03.21-13.33.31:972][211]LogBlueprintUserMessages: Icantspellchamerlan1086
+[2015.03.21-13.33.32:039][215]LogBlueprintUserMessages: Icantspellchamerlan1098
+[2015.03.21-13.33.32:039][215]LogBlueprintUserMessages: Icantspellchamerlan1098
+[2015.03.21-13.33.32:057][216]LogBlueprintUserMessages: Icantspellchamerlan1110
+[2015.03.21-13.33.32:057][216]LogBlueprintUserMessages: Icantspellchamerlan1110
+[2015.03.21-13.33.32:074][217]LogBlueprintUserMessages: Icantspellchamerlan1122
+[2015.03.21-13.33.32:074][217]LogBlueprintUserMessages: Icantspellchamerlan1122
+[2015.03.21-13.33.32:090][218]LogBlueprintUserMessages: Icantspellchamerlan1134
+[2015.03.21-13.33.32:090][218]LogBlueprintUserMessages: Icantspellchamerlan1134
+[2015.03.21-13.33.32:107][219]LogBlueprintUserMessages: Icantspellchamerlan1146
+[2015.03.21-13.33.32:107][219]LogBlueprintUserMessages: Icantspellchamerlan1146
+[2015.03.21-13.33.32:124][220]LogBlueprintUserMessages: Icantspellchamerlan1158
+[2015.03.21-13.33.32:124][220]LogBlueprintUserMessages: Icantspellchamerlan1158
+[2015.03.21-13.33.32:140][221]LogBlueprintUserMessages: Icantspellchamerlan1170
+[2015.03.21-13.33.32:140][221]LogBlueprintUserMessages: Icantspellchamerlan1170
+[2015.03.21-13.33.32:157][222]LogBlueprintUserMessages: Icantspellchamerlan1182
+[2015.03.21-13.33.32:157][222]LogBlueprintUserMessages: Icantspellchamerlan1182
+[2015.03.21-13.33.32:173][223]LogBlueprintUserMessages: Icantspellchamerlan1194
+[2015.03.21-13.33.32:173][223]LogBlueprintUserMessages: Icantspellchamerlan1194
+[2015.03.21-13.33.32:190][224]LogBlueprintUserMessages: Icantspellchamerlan1206
+[2015.03.21-13.33.32:190][224]LogBlueprintUserMessages: Icantspellchamerlan1206
+[2015.03.21-13.33.32:207][225]LogBlueprintUserMessages: Icantspellchamerlan1218
+[2015.03.21-13.33.32:207][225]LogBlueprintUserMessages: Icantspellchamerlan1218
+[2015.03.21-13.33.32:223][226]LogBlueprintUserMessages: Icantspellchamerlan1230
+[2015.03.21-13.33.32:224][226]LogBlueprintUserMessages: Icantspellchamerlan1230
+[2015.03.21-13.33.32:257][228]LogBlueprintUserMessages: Icantspellchamerlan1242
+[2015.03.21-13.33.32:257][228]LogBlueprintUserMessages: Icantspellchamerlan1242
+[2015.03.21-13.33.32:274][229]LogBlueprintUserMessages: Icantspellchamerlan1254
+[2015.03.21-13.33.32:274][229]LogBlueprintUserMessages: Icantspellchamerlan1254
+[2015.03.21-13.33.32:290][230]LogBlueprintUserMessages: Icantspellchamerlan1266
+[2015.03.21-13.33.32:290][230]LogBlueprintUserMessages: Icantspellchamerlan1266
+[2015.03.21-13.33.32:307][231]LogBlueprintUserMessages: Icantspellchamerlan1278
+[2015.03.21-13.33.32:307][231]LogBlueprintUserMessages: Icantspellchamerlan1278
+[2015.03.21-13.33.32:324][232]LogBlueprintUserMessages: Icantspellchamerlan1290
+[2015.03.21-13.33.32:324][232]LogBlueprintUserMessages: Icantspellchamerlan1290
+[2015.03.21-13.33.32:340][233]LogBlueprintUserMessages: Icantspellchamerlan1302
+[2015.03.21-13.33.32:340][233]LogBlueprintUserMessages: Icantspellchamerlan1302
+[2015.03.21-13.33.32:357][234]LogBlueprintUserMessages: Icantspellchamerlan1314
+[2015.03.21-13.33.32:357][234]LogBlueprintUserMessages: Icantspellchamerlan1314
+[2015.03.21-13.33.32:373][235]LogBlueprintUserMessages: Icantspellchamerlan1326
+[2015.03.21-13.33.32:373][235]LogBlueprintUserMessages: Icantspellchamerlan1326
+[2015.03.21-13.33.32:390][236]LogBlueprintUserMessages: Icantspellchamerlan1338
+[2015.03.21-13.33.32:390][236]LogBlueprintUserMessages: Icantspellchamerlan1338
+[2015.03.21-13.33.32:407][237]LogBlueprintUserMessages: Icantspellchamerlan1350
+[2015.03.21-13.33.32:407][237]LogBlueprintUserMessages: Icantspellchamerlan1350
+[2015.03.21-13.33.32:423][238]LogBlueprintUserMessages: Icantspellchamerlan1362
+[2015.03.21-13.33.32:424][238]LogBlueprintUserMessages: Icantspellchamerlan1362
+[2015.03.21-13.33.32:457][240]LogBlueprintUserMessages: Icantspellchamerlan1374
+[2015.03.21-13.33.32:457][240]LogBlueprintUserMessages: Icantspellchamerlan1374
+[2015.03.21-13.33.32:473][241]LogBlueprintUserMessages: Icantspellchamerlan1386
+[2015.03.21-13.33.32:473][241]LogBlueprintUserMessages: Icantspellchamerlan1386
+[2015.03.21-13.33.32:490][242]LogBlueprintUserMessages: Icantspellchamerlan1398
+[2015.03.21-13.33.32:490][242]LogBlueprintUserMessages: Icantspellchamerlan1398
+[2015.03.21-13.33.32:507][243]LogBlueprintUserMessages: Icantspellchamerlan1410
+[2015.03.21-13.33.32:507][243]LogBlueprintUserMessages: Icantspellchamerlan1410
+[2015.03.21-13.33.32:523][244]LogBlueprintUserMessages: Icantspellchamerlan1422
+[2015.03.21-13.33.32:523][244]LogBlueprintUserMessages: Icantspellchamerlan1422
+[2015.03.21-13.33.32:540][245]LogBlueprintUserMessages: Icantspellchamerlan1434
+[2015.03.21-13.33.32:540][245]LogBlueprintUserMessages: Icantspellchamerlan1434
+[2015.03.21-13.33.32:573][247]LogBlueprintUserMessages: Icantspellchamerlan1446
+[2015.03.21-13.33.32:573][247]LogBlueprintUserMessages: Icantspellchamerlan1446
+[2015.03.21-13.33.32:590][248]LogBlueprintUserMessages: Icantspellchamerlan1458
+[2015.03.21-13.33.32:590][248]LogBlueprintUserMessages: Icantspellchamerlan1458
+[2015.03.21-13.33.32:607][249]LogBlueprintUserMessages: Icantspellchamerlan1470
+[2015.03.21-13.33.32:607][249]LogBlueprintUserMessages: Icantspellchamerlan1470
+[2015.03.21-13.33.32:623][250]LogBlueprintUserMessages: Icantspellchamerlan1482
+[2015.03.21-13.33.32:623][250]LogBlueprintUserMessages: Icantspellchamerlan1482
+[2015.03.21-13.33.32:640][251]LogBlueprintUserMessages: Icantspellchamerlan1494
+[2015.03.21-13.33.32:640][251]LogBlueprintUserMessages: Icantspellchamerlan1494
+[2015.03.21-13.33.32:657][252]LogBlueprintUserMessages: Icantspellchamerlan1506
+[2015.03.21-13.33.32:657][252]LogBlueprintUserMessages: Icantspellchamerlan1506
+[2015.03.21-13.33.32:673][253]LogBlueprintUserMessages: Icantspellchamerlan1518
+[2015.03.21-13.33.32:673][253]LogBlueprintUserMessages: Icantspellchamerlan1518
+[2015.03.21-13.33.32:707][255]LogBlueprintUserMessages: Icantspellchamerlan1530
+[2015.03.21-13.33.32:707][255]LogBlueprintUserMessages: Icantspellchamerlan1530
+[2015.03.21-13.33.32:723][256]LogBlueprintUserMessages: Icantspellchamerlan1542
+[2015.03.21-13.33.32:723][256]LogBlueprintUserMessages: Icantspellchamerlan1542
+[2015.03.21-13.33.32:740][257]LogBlueprintUserMessages: Icantspellchamerlan1554
+[2015.03.21-13.33.32:740][257]LogBlueprintUserMessages: Icantspellchamerlan1554
+[2015.03.21-13.33.32:758][258]LogBlueprintUserMessages: Icantspellchamerlan1566
+[2015.03.21-13.33.32:758][258]LogBlueprintUserMessages: Icantspellchamerlan1566
+[2015.03.21-13.33.32:789][260]LogBlueprintUserMessages: Icantspellchamerlan1578
+[2015.03.21-13.33.32:790][260]LogBlueprintUserMessages: Icantspellchamerlan1578
+[2015.03.21-13.33.32:840][263]LogBlueprintUserMessages: Icantspellchamerlan1590
+[2015.03.21-13.33.32:840][263]LogBlueprintUserMessages: Icantspellchamerlan1590
+[2015.03.21-13.33.32:857][264]LogBlueprintUserMessages: Icantspellchamerlan1602
+[2015.03.21-13.33.32:857][264]LogBlueprintUserMessages: Icantspellchamerlan1602
+[2015.03.21-13.33.32:873][265]LogBlueprintUserMessages: Icantspellchamerlan1614
+[2015.03.21-13.33.32:874][265]LogBlueprintUserMessages: Icantspellchamerlan1614
+[2015.03.21-13.33.32:890][266]LogBlueprintUserMessages: Icantspellchamerlan1626
+[2015.03.21-13.33.32:890][266]LogBlueprintUserMessages: Icantspellchamerlan1626
+[2015.03.21-13.33.32:907][267]LogBlueprintUserMessages: Icantspellchamerlan1638
+[2015.03.21-13.33.32:907][267]LogBlueprintUserMessages: Icantspellchamerlan1638
+[2015.03.21-13.33.32:925][268]LogBlueprintUserMessages: Icantspellchamerlan1650
+[2015.03.21-13.33.32:925][268]LogBlueprintUserMessages: Icantspellchamerlan1650
+[2015.03.21-13.33.32:941][269]LogBlueprintUserMessages: Icantspellchamerlan1662
+[2015.03.21-13.33.32:941][269]LogBlueprintUserMessages: Icantspellchamerlan1662
+[2015.03.21-13.33.32:957][270]LogBlueprintUserMessages: Icantspellchamerlan1674
+[2015.03.21-13.33.32:957][270]LogBlueprintUserMessages: Icantspellchamerlan1674
+[2015.03.21-13.33.32:974][271]LogBlueprintUserMessages: Icantspellchamerlan1686
+[2015.03.21-13.33.32:974][271]LogBlueprintUserMessages: Icantspellchamerlan1686
+[2015.03.21-13.33.32:992][272]LogBlueprintUserMessages: Icantspellchamerlan1698
+[2015.03.21-13.33.32:992][272]LogBlueprintUserMessages: Icantspellchamerlan1698
+[2015.03.21-13.33.33:010][273]LogBlueprintUserMessages: Icantspellchamerlan1710
+[2015.03.21-13.33.33:010][273]LogBlueprintUserMessages: Icantspellchamerlan1710
+[2015.03.21-13.33.33:026][274]LogBlueprintUserMessages: Icantspellchamerlan1722
+[2015.03.21-13.33.33:026][274]LogBlueprintUserMessages: Icantspellchamerlan1722
+[2015.03.21-13.33.33:044][275]LogBlueprintUserMessages: Icantspellchamerlan1734
+[2015.03.21-13.33.33:044][275]LogBlueprintUserMessages: Icantspellchamerlan1734
+[2015.03.21-13.33.33:059][276]LogBlueprintUserMessages: Icantspellchamerlan1746
+[2015.03.21-13.33.33:059][276]LogBlueprintUserMessages: Icantspellchamerlan1746
+[2015.03.21-13.33.33:076][277]LogBlueprintUserMessages: Icantspellchamerlan1758
+[2015.03.21-13.33.33:076][277]LogBlueprintUserMessages: Icantspellchamerlan1758
+[2015.03.21-13.33.33:093][278]LogBlueprintUserMessages: Icantspellchamerlan1770
+[2015.03.21-13.33.33:093][278]LogBlueprintUserMessages: Icantspellchamerlan1770
+[2015.03.21-13.33.33:109][279]LogBlueprintUserMessages: Icantspellchamerlan1782
+[2015.03.21-13.33.33:109][279]LogBlueprintUserMessages: Icantspellchamerlan1782
+[2015.03.21-13.33.33:126][280]LogBlueprintUserMessages: Icantspellchamerlan1794
+[2015.03.21-13.33.33:126][280]LogBlueprintUserMessages: Icantspellchamerlan1794
+[2015.03.21-13.33.33:143][281]LogBlueprintUserMessages: Icantspellchamerlan1806
+[2015.03.21-13.33.33:143][281]LogBlueprintUserMessages: Icantspellchamerlan1806
+[2015.03.21-13.33.33:159][282]LogBlueprintUserMessages: Icantspellchamerlan1818
+[2015.03.21-13.33.33:159][282]LogBlueprintUserMessages: Icantspellchamerlan1818
+[2015.03.21-13.33.33:176][283]LogBlueprintUserMessages: Icantspellchamerlan1830
+[2015.03.21-13.33.33:176][283]LogBlueprintUserMessages: Icantspellchamerlan1830
+[2015.03.21-13.33.33:193][284]LogBlueprintUserMessages: Icantspellchamerlan1842
+[2015.03.21-13.33.33:193][284]LogBlueprintUserMessages: Icantspellchamerlan1842
+[2015.03.21-13.33.33:226][286]LogBlueprintUserMessages: Icantspellchamerlan1854
+[2015.03.21-13.33.33:226][286]LogBlueprintUserMessages: Icantspellchamerlan1854
+[2015.03.21-13.33.33:243][287]LogBlueprintUserMessages: Icantspellchamerlan1866
+[2015.03.21-13.33.33:243][287]LogBlueprintUserMessages: Icantspellchamerlan1866
+[2015.03.21-13.33.33:259][288]LogBlueprintUserMessages: Icantspellchamerlan1878
+[2015.03.21-13.33.33:259][288]LogBlueprintUserMessages: Icantspellchamerlan1878
+[2015.03.21-13.33.33:277][289]LogBlueprintUserMessages: Icantspellchamerlan1890
+[2015.03.21-13.33.33:278][289]LogBlueprintUserMessages: Icantspellchamerlan1890
+[2015.03.21-13.33.33:293][290]LogBlueprintUserMessages: Icantspellchamerlan1902
+[2015.03.21-13.33.33:293][290]LogBlueprintUserMessages: Icantspellchamerlan1902
+[2015.03.21-13.33.33:326][292]LogBlueprintUserMessages: Icantspellchamerlan1914
+[2015.03.21-13.33.33:326][292]LogBlueprintUserMessages: Icantspellchamerlan1914
+[2015.03.21-13.33.33:359][294]LogBlueprintUserMessages: Icantspellchamerlan1926
+[2015.03.21-13.33.33:359][294]LogBlueprintUserMessages: Icantspellchamerlan1926
+[2015.03.21-13.33.33:377][295]LogBlueprintUserMessages: Icantspellchamerlan1938
+[2015.03.21-13.33.33:377][295]LogBlueprintUserMessages: Icantspellchamerlan1938
+[2015.03.21-13.33.33:395][296]LogBlueprintUserMessages: Icantspellchamerlan1950
+[2015.03.21-13.33.33:395][296]LogBlueprintUserMessages: Icantspellchamerlan1950
+[2015.03.21-13.33.33:414][297]LogBlueprintUserMessages: Icantspellchamerlan1962
+[2015.03.21-13.33.33:414][297]LogBlueprintUserMessages: Icantspellchamerlan1962
+[2015.03.21-13.33.33:448][299]LogBlueprintUserMessages: Icantspellchamerlan1974
+[2015.03.21-13.33.33:448][299]LogBlueprintUserMessages: Icantspellchamerlan1974
+[2015.03.21-13.33.33:613][309]LogBlueprintUserMessages: Icantspellchamerlan1997
+[2015.03.21-13.33.33:613][309]LogBlueprintUserMessages: Icantspellchamerlan1997
+[2015.03.21-13.33.37:362][532]LogBlueprintUserMessages: Icantspellchamerlan2020
+[2015.03.21-13.33.37:362][532]LogBlueprintUserMessages: Icantspellchamerlan2020
+[2015.03.21-13.33.42:197][822]LogBlueprintUserMessages: Icantspellchamerlan2043
+[2015.03.21-13.33.42:197][822]LogBlueprintUserMessages: Icantspellchamerlan2043
+[2015.03.21-13.33.46:455][ 77]LogBlueprintUserMessages: Icantspellchamerlan2066
+[2015.03.21-13.33.46:455][ 77]LogBlueprintUserMessages: Icantspellchamerlan2066
+[2015.03.21-13.33.51:046][351]LogBlueprintUserMessages: Icantspellchamerlan2089
+[2015.03.21-13.33.51:046][351]LogBlueprintUserMessages: Icantspellchamerlan2089
+[2015.03.21-13.33.55:512][619]LogBlueprintUserMessages: Icantspellchamerlan2112
+[2015.03.21-13.33.55:512][619]LogBlueprintUserMessages: Icantspellchamerlan2112
+[2015.03.21-13.33.57:879][761]LogBlueprintUserMessages: Icantspellchamerlan2135
+[2015.03.21-13.33.57:879][761]LogBlueprintUserMessages: Icantspellchamerlan2135
+[2015.03.21-13.34.00:480][917]LogBlueprintUserMessages: Icantspellchamerlan2158
+[2015.03.21-13.34.00:480][917]LogBlueprintUserMessages: Icantspellchamerlan2158
+[2015.03.21-13.34.06:716][290]LogBlueprintUserMessages: Icantspellchamerlan2181
+[2015.03.21-13.34.06:716][290]LogBlueprintUserMessages: Icantspellchamerlan2181
+[2015.03.21-13.34.15:900][836]LogEditorTransaction: Undo Modify Component(s)
+[2015.03.21-13.34.16:039][836]LogBlueprintUserMessages: Icantspellchamerlan2886
+[2015.03.21-13.34.16:039][836]LogBlueprintUserMessages: Icantspellchamerlan2886
+[2015.03.21-13.34.16:083][837]LogBlueprintUserMessages: Icantspellchamerlan2898
+[2015.03.21-13.34.16:083][837]LogBlueprintUserMessages: Icantspellchamerlan2898
+[2015.03.21-13.34.19:395][ 10]LogEditorTransaction: Undo Modify Component(s)
+[2015.03.21-13.34.19:555][ 10]LogBlueprintUserMessages: Icantspellchamerlan3086
+[2015.03.21-13.34.19:555][ 10]LogBlueprintUserMessages: Icantspellchamerlan3086
+[2015.03.21-13.34.19:598][ 11]LogBlueprintUserMessages: Icantspellchamerlan3098
+[2015.03.21-13.34.19:598][ 11]LogBlueprintUserMessages: Icantspellchamerlan3098
+[2015.03.21-13.34.22:080][135]LogEditorTransaction: Undo Modify Component(s)
+[2015.03.21-13.34.22:211][135]LogBlueprintUserMessages: Icantspellchamerlan3275
+[2015.03.21-13.34.22:211][135]LogBlueprintUserMessages: Icantspellchamerlan3275
+[2015.03.21-13.34.22:245][136]LogBlueprintUserMessages: Icantspellchamerlan3287
+[2015.03.21-13.34.22:245][136]LogBlueprintUserMessages: Icantspellchamerlan3287
+[2015.03.21-13.34.37:588][ 40]LogBlueprintUserMessages: Icantspellchamerlan3310
+[2015.03.21-13.34.37:588][ 40]LogBlueprintUserMessages: Icantspellchamerlan3310
+[2015.03.21-13.34.41:196][254]LogEditorTransaction: Undo Modify Component(s)
+[2015.03.21-13.34.41:340][254]LogBlueprintUserMessages: Icantspellchamerlan3751
+[2015.03.21-13.34.41:340][254]LogBlueprintUserMessages: Icantspellchamerlan3751
+[2015.03.21-13.34.41:384][255]LogBlueprintUserMessages: Icantspellchamerlan3763
+[2015.03.21-13.34.41:384][255]LogBlueprintUserMessages: Icantspellchamerlan3763
+[2015.03.21-13.34.46:535][539]LogEditorTransaction: Undo Modify Component(s)
+[2015.03.21-13.34.46:679][539]LogBlueprintUserMessages: Icantspellchamerlan3929
+[2015.03.21-13.34.46:679][539]LogBlueprintUserMessages: Icantspellchamerlan3929
+[2015.03.21-13.34.46:721][540]LogBlueprintUserMessages: Icantspellchamerlan3941
+[2015.03.21-13.34.46:721][540]LogBlueprintUserMessages: Icantspellchamerlan3941
+[2015.03.21-13.34.50:124][721]LogBlueprintUserMessages: Icantspellchamerlan3953
+[2015.03.21-13.34.50:124][721]LogBlueprintUserMessages: Icantspellchamerlan3953
+[2015.03.21-13.34.50:140][722]LogBlueprintUserMessages: Icantspellchamerlan3965
+[2015.03.21-13.34.50:140][722]LogBlueprintUserMessages: Icantspellchamerlan3965
+[2015.03.21-13.34.50:256][729]LogBlueprintUserMessages: Icantspellchamerlan3977
+[2015.03.21-13.34.50:256][729]LogBlueprintUserMessages: Icantspellchamerlan3977
+[2015.03.21-13.34.50:273][730]LogBlueprintUserMessages: Icantspellchamerlan3989
+[2015.03.21-13.34.50:273][730]LogBlueprintUserMessages: Icantspellchamerlan3989
+[2015.03.21-13.34.50:289][731]LogBlueprintUserMessages: Icantspellchamerlan4001
+[2015.03.21-13.34.50:289][731]LogBlueprintUserMessages: Icantspellchamerlan4001
+[2015.03.21-13.34.50:307][732]LogBlueprintUserMessages: Icantspellchamerlan4013
+[2015.03.21-13.34.50:307][732]LogBlueprintUserMessages: Icantspellchamerlan4013
+[2015.03.21-13.34.50:322][733]LogBlueprintUserMessages: Icantspellchamerlan4025
+[2015.03.21-13.34.50:323][733]LogBlueprintUserMessages: Icantspellchamerlan4025
+[2015.03.21-13.34.50:339][734]LogBlueprintUserMessages: Icantspellchamerlan4037
+[2015.03.21-13.34.50:339][734]LogBlueprintUserMessages: Icantspellchamerlan4037
+[2015.03.21-13.34.50:638][752]LogBlueprintUserMessages: Icantspellchamerlan4060
+[2015.03.21-13.34.50:638][752]LogBlueprintUserMessages: Icantspellchamerlan4060
+[2015.03.21-13.34.53:840][944]LogBlueprintUserMessages: Icantspellchamerlan4072
+[2015.03.21-13.34.53:840][944]LogBlueprintUserMessages: Icantspellchamerlan4072
+[2015.03.21-13.34.53:856][945]LogBlueprintUserMessages: Icantspellchamerlan4084
+[2015.03.21-13.34.53:856][945]LogBlueprintUserMessages: Icantspellchamerlan4084
+[2015.03.21-13.34.53:873][946]LogBlueprintUserMessages: Icantspellchamerlan4096
+[2015.03.21-13.34.53:873][946]LogBlueprintUserMessages: Icantspellchamerlan4096
+[2015.03.21-13.34.53:890][947]LogBlueprintUserMessages: Icantspellchamerlan4108
+[2015.03.21-13.34.53:890][947]LogBlueprintUserMessages: Icantspellchamerlan4108
+[2015.03.21-13.34.53:906][948]LogBlueprintUserMessages: Icantspellchamerlan4120
+[2015.03.21-13.34.53:906][948]LogBlueprintUserMessages: Icantspellchamerlan4120
+[2015.03.21-13.34.53:923][949]LogBlueprintUserMessages: Icantspellchamerlan4132
+[2015.03.21-13.34.53:923][949]LogBlueprintUserMessages: Icantspellchamerlan4132
+[2015.03.21-13.34.53:939][950]LogBlueprintUserMessages: Icantspellchamerlan4144
+[2015.03.21-13.34.53:939][950]LogBlueprintUserMessages: Icantspellchamerlan4144
+[2015.03.21-13.34.53:956][951]LogBlueprintUserMessages: Icantspellchamerlan4156
+[2015.03.21-13.34.53:956][951]LogBlueprintUserMessages: Icantspellchamerlan4156
+[2015.03.21-13.34.54:022][955]LogBlueprintUserMessages: Icantspellchamerlan4168
+[2015.03.21-13.34.54:022][955]LogBlueprintUserMessages: Icantspellchamerlan4168
+[2015.03.21-13.34.54:039][956]LogBlueprintUserMessages: Icantspellchamerlan4180
+[2015.03.21-13.34.54:039][956]LogBlueprintUserMessages: Icantspellchamerlan4180
+[2015.03.21-13.34.54:056][957]LogBlueprintUserMessages: Icantspellchamerlan4192
+[2015.03.21-13.34.54:056][957]LogBlueprintUserMessages: Icantspellchamerlan4192
+[2015.03.21-13.34.54:073][958]LogBlueprintUserMessages: Icantspellchamerlan4204
+[2015.03.21-13.34.54:073][958]LogBlueprintUserMessages: Icantspellchamerlan4204
+[2015.03.21-13.34.54:089][959]LogBlueprintUserMessages: Icantspellchamerlan4216
+[2015.03.21-13.34.54:089][959]LogBlueprintUserMessages: Icantspellchamerlan4216
+[2015.03.21-13.34.54:105][960]LogBlueprintUserMessages: Icantspellchamerlan4228
+[2015.03.21-13.34.54:105][960]LogBlueprintUserMessages: Icantspellchamerlan4228
+[2015.03.21-13.34.54:356][975]LogBlueprintUserMessages: Icantspellchamerlan4240
+[2015.03.21-13.34.54:356][975]LogBlueprintUserMessages: Icantspellchamerlan4240
+[2015.03.21-13.34.54:372][976]LogBlueprintUserMessages: Icantspellchamerlan4252
+[2015.03.21-13.34.54:372][976]LogBlueprintUserMessages: Icantspellchamerlan4252
+[2015.03.21-13.34.54:389][977]LogBlueprintUserMessages: Icantspellchamerlan4264
+[2015.03.21-13.34.54:389][977]LogBlueprintUserMessages: Icantspellchamerlan4264
+[2015.03.21-13.34.54:406][978]LogBlueprintUserMessages: Icantspellchamerlan4276
+[2015.03.21-13.34.54:406][978]LogBlueprintUserMessages: Icantspellchamerlan4276
+[2015.03.21-13.34.54:423][979]LogBlueprintUserMessages: Icantspellchamerlan4288
+[2015.03.21-13.34.54:423][979]LogBlueprintUserMessages: Icantspellchamerlan4288
+[2015.03.21-13.34.54:439][980]LogBlueprintUserMessages: Icantspellchamerlan4300
+[2015.03.21-13.34.54:439][980]LogBlueprintUserMessages: Icantspellchamerlan4300
+[2015.03.21-13.34.54:456][981]LogBlueprintUserMessages: Icantspellchamerlan4312
+[2015.03.21-13.34.54:456][981]LogBlueprintUserMessages: Icantspellchamerlan4312
+[2015.03.21-13.34.54:489][983]LogBlueprintUserMessages: Icantspellchamerlan4324
+[2015.03.21-13.34.54:489][983]LogBlueprintUserMessages: Icantspellchamerlan4324
+[2015.03.21-13.34.54:555][987]LogBlueprintUserMessages: Icantspellchamerlan4336
+[2015.03.21-13.34.54:555][987]LogBlueprintUserMessages: Icantspellchamerlan4336
+[2015.03.21-13.34.54:589][989]LogBlueprintUserMessages: Icantspellchamerlan4348
+[2015.03.21-13.34.54:589][989]LogBlueprintUserMessages: Icantspellchamerlan4348
+[2015.03.21-13.34.54:605][990]LogBlueprintUserMessages: Icantspellchamerlan4360
+[2015.03.21-13.34.54:605][990]LogBlueprintUserMessages: Icantspellchamerlan4360
+[2015.03.21-13.34.54:623][991]LogBlueprintUserMessages: Icantspellchamerlan4372
+[2015.03.21-13.34.54:623][991]LogBlueprintUserMessages: Icantspellchamerlan4372
+[2015.03.21-13.34.54:639][992]LogBlueprintUserMessages: Icantspellchamerlan4384
+[2015.03.21-13.34.54:639][992]LogBlueprintUserMessages: Icantspellchamerlan4384
+[2015.03.21-13.34.54:656][993]LogBlueprintUserMessages: Icantspellchamerlan4396
+[2015.03.21-13.34.54:656][993]LogBlueprintUserMessages: Icantspellchamerlan4396
+[2015.03.21-13.34.54:672][994]LogBlueprintUserMessages: Icantspellchamerlan4408
+[2015.03.21-13.34.54:672][994]LogBlueprintUserMessages: Icantspellchamerlan4408
+[2015.03.21-13.34.54:689][995]LogBlueprintUserMessages: Icantspellchamerlan4420
+[2015.03.21-13.34.54:689][995]LogBlueprintUserMessages: Icantspellchamerlan4420
+[2015.03.21-13.34.54:706][996]LogBlueprintUserMessages: Icantspellchamerlan4432
+[2015.03.21-13.34.54:706][996]LogBlueprintUserMessages: Icantspellchamerlan4432
+[2015.03.21-13.34.54:722][997]LogBlueprintUserMessages: Icantspellchamerlan4444
+[2015.03.21-13.34.54:722][997]LogBlueprintUserMessages: Icantspellchamerlan4444
+[2015.03.21-13.34.54:739][998]LogBlueprintUserMessages: Icantspellchamerlan4456
+[2015.03.21-13.34.54:739][998]LogBlueprintUserMessages: Icantspellchamerlan4456
+[2015.03.21-13.34.54:756][999]LogBlueprintUserMessages: Icantspellchamerlan4468
+[2015.03.21-13.34.54:756][999]LogBlueprintUserMessages: Icantspellchamerlan4468
+[2015.03.21-13.34.54:772][  0]LogBlueprintUserMessages: Icantspellchamerlan4480
+[2015.03.21-13.34.54:772][  0]LogBlueprintUserMessages: Icantspellchamerlan4480
+[2015.03.21-13.34.54:789][  1]LogBlueprintUserMessages: Icantspellchamerlan4492
+[2015.03.21-13.34.54:789][  1]LogBlueprintUserMessages: Icantspellchamerlan4492
+[2015.03.21-13.34.54:805][  2]LogBlueprintUserMessages: Icantspellchamerlan4504
+[2015.03.21-13.34.54:805][  2]LogBlueprintUserMessages: Icantspellchamerlan4504
+[2015.03.21-13.34.54:822][  3]LogBlueprintUserMessages: Icantspellchamerlan4516
+[2015.03.21-13.34.54:822][  3]LogBlueprintUserMessages: Icantspellchamerlan4516
+[2015.03.21-13.34.54:839][  4]LogBlueprintUserMessages: Icantspellchamerlan4528
+[2015.03.21-13.34.54:839][  4]LogBlueprintUserMessages: Icantspellchamerlan4528
+[2015.03.21-13.34.54:855][  5]LogBlueprintUserMessages: Icantspellchamerlan4540
+[2015.03.21-13.34.54:856][  5]LogBlueprintUserMessages: Icantspellchamerlan4540
+[2015.03.21-13.34.54:872][  6]LogBlueprintUserMessages: Icantspellchamerlan4552
+[2015.03.21-13.34.54:872][  6]LogBlueprintUserMessages: Icantspellchamerlan4552
+[2015.03.21-13.34.54:889][  7]LogBlueprintUserMessages: Icantspellchamerlan4564
+[2015.03.21-13.34.54:889][  7]LogBlueprintUserMessages: Icantspellchamerlan4564
+[2015.03.21-13.34.55:004][ 14]LogBlueprintUserMessages: Icantspellchamerlan4587
+[2015.03.21-13.34.55:004][ 14]LogBlueprintUserMessages: Icantspellchamerlan4587
+[2015.03.21-13.34.58:197][202]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-13.34.58:205][202]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-13.34.58:479][202]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-13.34.58:633][202]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-13.34.58:744][202]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-13.34.58:844][202]LogPlayLevel: [PIE] Compiling Settings before PIE...
+[2015.03.21-13.34.58:963][202]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-13.34.59:120][202]LogPlayLevel: PIE:  Blueprint regeneration took 922 ms (6 blueprints)
+[2015.03.21-13.34.59:120][202]PIE: New page: PIE session: Levelone (21 Mar 2015 13:34:59)
+[2015.03.21-13.34.59:130][202]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.34.59:130][202]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.34.59:131][202]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.34.59:131][202]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.34.59:132][202]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.34.59:132][202]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.34.59:132][202]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.34.59:132][202]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.34.59:133][202]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.34.59:133][202]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.34.59:136][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015965s)
+[2015.03.21-13.34.59:137][202]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2015.03.21-13.34.59:137][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.016950s)
+[2015.03.21-13.34.59:176][202]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-13.34.59:178][202]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-13.34.59:182][202]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-13.34.59
+[2015.03.21-13.34.59:183][202]LogWorld: Bringing up level for play took: 0.005159
+[2015.03.21-13.34.59:185][202]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.34.59:185][202]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.34.59:199][202]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.291
+[2015.03.21-13.34.59:361][203]LogBlueprintUserMessages: Icantspellchamerlan3
+[2015.03.21-13.34.59:361][203]LogBlueprintUserMessages: Icantspellchamerlan3
+[2015.03.21-13.35.00:883][292]LogBlueprintUserMessages: Player found
+[2015.03.21-13.35.00:917][294]LogBlueprintUserMessages: Hello
+[2015.03.21-13.35.02:550][392]LogBlueprintUserMessages: Hello
+[2015.03.21-13.35.02:550][392]LogBlueprintUserMessages: Hello
+[2015.03.21-13.35.05:403][563]LogBlueprintUserMessages: Hello
+[2015.03.21-13.35.05:928][594]LogBlueprintUserMessages: 2
+[2015.03.21-13.35.09:913][832]LogBlueprintUserMessages: Hello
+[2015.03.21-13.35.10:180][848]LogBlueprintUserMessages: Player found
+[2015.03.21-13.35.12:103][963]LogBlueprintUserMessages: 1
+[2015.03.21-13.35.14:421][102]LogBlueprintUserMessages: Hello
+[2015.03.21-13.35.18:928][372]LogBlueprintUserMessages: Hello
+[2015.03.21-13.35.23:436][642]LogBlueprintUserMessages: Hello
+[2015.03.21-13.35.27:945][912]LogBlueprintUserMessages: Hello
+[2015.03.21-13.35.32:446][182]LogBlueprintUserMessages: Hello
+[2015.03.21-13.35.36:952][452]LogBlueprintUserMessages: Hello
+[2015.03.21-13.35.39:354][590]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7E4C36AC0
+[2015.03.21-13.35.42:860][790]LogBlueprintUserMessages: Icantspellchamerlan26
+[2015.03.21-13.35.42:860][790]LogBlueprintUserMessages: Icantspellchamerlan26
+[2015.03.21-13.35.46:147][984]LogBlueprintUserMessages: Icantspellchamerlan38
+[2015.03.21-13.35.46:147][984]LogBlueprintUserMessages: Icantspellchamerlan38
+[2015.03.21-13.35.46:180][986]LogBlueprintUserMessages: Icantspellchamerlan50
+[2015.03.21-13.35.46:180][986]LogBlueprintUserMessages: Icantspellchamerlan50
+[2015.03.21-13.35.46:330][995]LogBlueprintUserMessages: Icantspellchamerlan62
+[2015.03.21-13.35.46:330][995]LogBlueprintUserMessages: Icantspellchamerlan62
+[2015.03.21-13.35.46:396][999]LogBlueprintUserMessages: Icantspellchamerlan74
+[2015.03.21-13.35.46:396][999]LogBlueprintUserMessages: Icantspellchamerlan74
+[2015.03.21-13.35.46:764][ 21]LogBlueprintUserMessages: Icantspellchamerlan86
+[2015.03.21-13.35.46:764][ 21]LogBlueprintUserMessages: Icantspellchamerlan86
+[2015.03.21-13.35.47:047][ 38]LogBlueprintUserMessages: Icantspellchamerlan98
+[2015.03.21-13.35.47:047][ 38]LogBlueprintUserMessages: Icantspellchamerlan98
+[2015.03.21-13.35.47:780][ 82]LogBlueprintUserMessages: Icantspellchamerlan121
+[2015.03.21-13.35.47:780][ 82]LogBlueprintUserMessages: Icantspellchamerlan121
+[2015.03.21-13.35.48:880][148]LogBlueprintUserMessages: Icantspellchamerlan133
+[2015.03.21-13.35.48:880][148]LogBlueprintUserMessages: Icantspellchamerlan133
+[2015.03.21-13.35.48:897][149]LogBlueprintUserMessages: Icantspellchamerlan145
+[2015.03.21-13.35.48:897][149]LogBlueprintUserMessages: Icantspellchamerlan145
+[2015.03.21-13.35.48:914][150]LogBlueprintUserMessages: Icantspellchamerlan157
+[2015.03.21-13.35.48:914][150]LogBlueprintUserMessages: Icantspellchamerlan157
+[2015.03.21-13.35.48:947][152]LogBlueprintUserMessages: Icantspellchamerlan169
+[2015.03.21-13.35.48:947][152]LogBlueprintUserMessages: Icantspellchamerlan169
+[2015.03.21-13.35.48:980][154]LogBlueprintUserMessages: Icantspellchamerlan181
+[2015.03.21-13.35.48:980][154]LogBlueprintUserMessages: Icantspellchamerlan181
+[2015.03.21-13.35.49:013][156]LogBlueprintUserMessages: Icantspellchamerlan193
+[2015.03.21-13.35.49:014][156]LogBlueprintUserMessages: Icantspellchamerlan193
+[2015.03.21-13.35.49:030][157]LogBlueprintUserMessages: Icantspellchamerlan205
+[2015.03.21-13.35.49:030][157]LogBlueprintUserMessages: Icantspellchamerlan205
+[2015.03.21-13.35.49:081][160]LogBlueprintUserMessages: Icantspellchamerlan217
+[2015.03.21-13.35.49:081][160]LogBlueprintUserMessages: Icantspellchamerlan217
+[2015.03.21-13.35.49:114][162]LogBlueprintUserMessages: Icantspellchamerlan229
+[2015.03.21-13.35.49:114][162]LogBlueprintUserMessages: Icantspellchamerlan229
+[2015.03.21-13.35.49:245][170]LogBlueprintUserMessages: Icantspellchamerlan252
+[2015.03.21-13.35.49:245][170]LogBlueprintUserMessages: Icantspellchamerlan252
+[2015.03.21-13.35.51:514][306]LogBlueprintUserMessages: Icantspellchamerlan264
+[2015.03.21-13.35.51:514][306]LogBlueprintUserMessages: Icantspellchamerlan264
+[2015.03.21-13.35.51:581][310]LogBlueprintUserMessages: Icantspellchamerlan276
+[2015.03.21-13.35.51:582][310]LogBlueprintUserMessages: Icantspellchamerlan276
+[2015.03.21-13.35.51:681][316]LogBlueprintUserMessages: Icantspellchamerlan288
+[2015.03.21-13.35.51:681][316]LogBlueprintUserMessages: Icantspellchamerlan288
+[2015.03.21-13.35.51:879][328]LogBlueprintUserMessages: Icantspellchamerlan311
+[2015.03.21-13.35.51:879][328]LogBlueprintUserMessages: Icantspellchamerlan311
+[2015.03.21-13.35.54:881][508]LogBlueprintUserMessages: Icantspellchamerlan323
+[2015.03.21-13.35.54:881][508]LogBlueprintUserMessages: Icantspellchamerlan323
+[2015.03.21-13.35.54:914][510]LogBlueprintUserMessages: Icantspellchamerlan335
+[2015.03.21-13.35.54:914][510]LogBlueprintUserMessages: Icantspellchamerlan335
+[2015.03.21-13.35.54:948][512]LogBlueprintUserMessages: Icantspellchamerlan347
+[2015.03.21-13.35.54:948][512]LogBlueprintUserMessages: Icantspellchamerlan347
+[2015.03.21-13.35.54:964][513]LogBlueprintUserMessages: Icantspellchamerlan359
+[2015.03.21-13.35.54:964][513]LogBlueprintUserMessages: Icantspellchamerlan359
+[2015.03.21-13.35.54:980][514]LogBlueprintUserMessages: Icantspellchamerlan371
+[2015.03.21-13.35.54:981][514]LogBlueprintUserMessages: Icantspellchamerlan371
+[2015.03.21-13.35.55:213][528]LogBlueprintUserMessages: Icantspellchamerlan394
+[2015.03.21-13.35.55:213][528]LogBlueprintUserMessages: Icantspellchamerlan394
+[2015.03.21-13.35.57:130][643]LogBlueprintUserMessages: Icantspellchamerlan417
+[2015.03.21-13.35.57:130][643]LogBlueprintUserMessages: Icantspellchamerlan417
+[2015.03.21-13.35.58:731][739]LogBlueprintUserMessages: Icantspellchamerlan441
+[2015.03.21-13.35.58:731][739]LogBlueprintUserMessages: Icantspellchamerlan441
+[2015.03.21-13.36.01:217][888]LogBlueprintUserMessages: Icantspellchamerlan453
+[2015.03.21-13.36.01:217][888]LogBlueprintUserMessages: Icantspellchamerlan453
+[2015.03.21-13.36.01:249][890]LogBlueprintUserMessages: Icantspellchamerlan465
+[2015.03.21-13.36.01:249][890]LogBlueprintUserMessages: Icantspellchamerlan465
+[2015.03.21-13.36.01:266][891]LogBlueprintUserMessages: Icantspellchamerlan477
+[2015.03.21-13.36.01:266][891]LogBlueprintUserMessages: Icantspellchamerlan477
+[2015.03.21-13.36.01:282][892]LogBlueprintUserMessages: Icantspellchamerlan489
+[2015.03.21-13.36.01:283][892]LogBlueprintUserMessages: Icantspellchamerlan489
+[2015.03.21-13.36.01:332][895]LogBlueprintUserMessages: Icantspellchamerlan501
+[2015.03.21-13.36.01:332][895]LogBlueprintUserMessages: Icantspellchamerlan501
+[2015.03.21-13.36.01:350][896]LogBlueprintUserMessages: Icantspellchamerlan513
+[2015.03.21-13.36.01:350][896]LogBlueprintUserMessages: Icantspellchamerlan513
+[2015.03.21-13.36.01:366][897]LogBlueprintUserMessages: Icantspellchamerlan525
+[2015.03.21-13.36.01:366][897]LogBlueprintUserMessages: Icantspellchamerlan525
+[2015.03.21-13.36.01:382][898]LogBlueprintUserMessages: Icantspellchamerlan537
+[2015.03.21-13.36.01:382][898]LogBlueprintUserMessages: Icantspellchamerlan537
+[2015.03.21-13.36.01:400][899]LogBlueprintUserMessages: Icantspellchamerlan549
+[2015.03.21-13.36.01:400][899]LogBlueprintUserMessages: Icantspellchamerlan549
+[2015.03.21-13.36.01:449][902]LogBlueprintUserMessages: Icantspellchamerlan561
+[2015.03.21-13.36.01:449][902]LogBlueprintUserMessages: Icantspellchamerlan561
+[2015.03.21-13.36.01:697][917]LogBlueprintUserMessages: Icantspellchamerlan584
+[2015.03.21-13.36.01:697][917]LogBlueprintUserMessages: Icantspellchamerlan584
+[2015.03.21-13.36.04:197][ 67]LogBlueprintUserMessages: Icantspellchamerlan607
+[2015.03.21-13.36.04:198][ 67]LogBlueprintUserMessages: Icantspellchamerlan607
+[2015.03.21-13.36.07:030][237]LogBlueprintUserMessages: Icantspellchamerlan631
+[2015.03.21-13.36.07:030][237]LogBlueprintUserMessages: Icantspellchamerlan631
+[2015.03.21-13.36.09:047][358]LogBlueprintUserMessages: Icantspellchamerlan655
+[2015.03.21-13.36.09:047][358]LogBlueprintUserMessages: Icantspellchamerlan655
+[2015.03.21-13.36.12:114][542]LogBlueprintUserMessages: Icantspellchamerlan679
+[2015.03.21-13.36.12:114][542]LogBlueprintUserMessages: Icantspellchamerlan679
+[2015.03.21-13.36.14:167][665]LogBlueprintUserMessages: Icantspellchamerlan691
+[2015.03.21-13.36.14:167][665]LogBlueprintUserMessages: Icantspellchamerlan691
+[2015.03.21-13.36.14:568][689]LogBlueprintUserMessages: Icantspellchamerlan703
+[2015.03.21-13.36.14:568][689]LogBlueprintUserMessages: Icantspellchamerlan703
+[2015.03.21-13.36.14:701][697]LogBlueprintUserMessages: Icantspellchamerlan715
+[2015.03.21-13.36.14:701][697]LogBlueprintUserMessages: Icantspellchamerlan715
+[2015.03.21-13.36.14:850][706]LogBlueprintUserMessages: Icantspellchamerlan727
+[2015.03.21-13.36.14:850][706]LogBlueprintUserMessages: Icantspellchamerlan727
+[2015.03.21-13.36.15:331][735]LogBlueprintUserMessages: Icantspellchamerlan751
+[2015.03.21-13.36.15:332][735]LogBlueprintUserMessages: Icantspellchamerlan751
+[2015.03.21-13.36.20:866][ 64]LogBlueprintUserMessages: Icantspellchamerlan763
+[2015.03.21-13.36.20:866][ 64]LogBlueprintUserMessages: Icantspellchamerlan763
+[2015.03.21-13.36.21:033][ 74]LogBlueprintUserMessages: Icantspellchamerlan775
+[2015.03.21-13.36.21:033][ 74]LogBlueprintUserMessages: Icantspellchamerlan775
+[2015.03.21-13.36.21:314][ 91]LogBlueprintUserMessages: Icantspellchamerlan799
+[2015.03.21-13.36.21:314][ 91]LogBlueprintUserMessages: Icantspellchamerlan799
+[2015.03.21-13.36.23:667][232]LogBlueprintUserMessages: Icantspellchamerlan811
+[2015.03.21-13.36.23:667][232]LogBlueprintUserMessages: Icantspellchamerlan811
+[2015.03.21-13.36.23:685][233]LogBlueprintUserMessages: Icantspellchamerlan823
+[2015.03.21-13.36.23:685][233]LogBlueprintUserMessages: Icantspellchamerlan823
+[2015.03.21-13.36.23:701][234]LogBlueprintUserMessages: Icantspellchamerlan835
+[2015.03.21-13.36.23:701][234]LogBlueprintUserMessages: Icantspellchamerlan835
+[2015.03.21-13.36.23:734][236]LogBlueprintUserMessages: Icantspellchamerlan847
+[2015.03.21-13.36.23:734][236]LogBlueprintUserMessages: Icantspellchamerlan847
+[2015.03.21-13.36.23:817][241]LogBlueprintUserMessages: Icantspellchamerlan859
+[2015.03.21-13.36.23:817][241]LogBlueprintUserMessages: Icantspellchamerlan859
+[2015.03.21-13.36.24:099][258]LogBlueprintUserMessages: Icantspellchamerlan883
+[2015.03.21-13.36.24:099][258]LogBlueprintUserMessages: Icantspellchamerlan883
+[2015.03.21-13.36.25:003][312]LogBlueprintUserMessages: Icantspellchamerlan895
+[2015.03.21-13.36.25:003][312]LogBlueprintUserMessages: Icantspellchamerlan895
+[2015.03.21-13.36.25:249][327]LogBlueprintUserMessages: Icantspellchamerlan919
+[2015.03.21-13.36.25:249][327]LogBlueprintUserMessages: Icantspellchamerlan919
+[2015.03.21-13.36.32:675][772]LogBlueprintUserMessages: Icantspellchamerlan931
+[2015.03.21-13.36.32:675][772]LogBlueprintUserMessages: Icantspellchamerlan931
+[2015.03.21-13.36.32:742][776]LogBlueprintUserMessages: Icantspellchamerlan943
+[2015.03.21-13.36.32:742][776]LogBlueprintUserMessages: Icantspellchamerlan943
+[2015.03.21-13.36.32:792][779]LogBlueprintUserMessages: Icantspellchamerlan955
+[2015.03.21-13.36.32:792][779]LogBlueprintUserMessages: Icantspellchamerlan955
+[2015.03.21-13.36.32:843][782]LogBlueprintUserMessages: Icantspellchamerlan967
+[2015.03.21-13.36.32:843][782]LogBlueprintUserMessages: Icantspellchamerlan967
+[2015.03.21-13.36.32:859][783]LogBlueprintUserMessages: Icantspellchamerlan979
+[2015.03.21-13.36.32:859][783]LogBlueprintUserMessages: Icantspellchamerlan979
+[2015.03.21-13.36.32:876][784]LogBlueprintUserMessages: Icantspellchamerlan991
+[2015.03.21-13.36.32:876][784]LogBlueprintUserMessages: Icantspellchamerlan991
+[2015.03.21-13.36.32:892][785]LogBlueprintUserMessages: Icantspellchamerlan1003
+[2015.03.21-13.36.32:892][785]LogBlueprintUserMessages: Icantspellchamerlan1003
+[2015.03.21-13.36.32:924][787]LogBlueprintUserMessages: Icantspellchamerlan1027
+[2015.03.21-13.36.32:924][787]LogBlueprintUserMessages: Icantspellchamerlan1027
+[2015.03.21-13.36.36:908][ 23]LogBlueprintUserMessages: Icantspellchamerlan1039
+[2015.03.21-13.36.36:908][ 23]LogBlueprintUserMessages: Icantspellchamerlan1039
+[2015.03.21-13.36.36:924][ 24]LogBlueprintUserMessages: Icantspellchamerlan1051
+[2015.03.21-13.36.36:924][ 24]LogBlueprintUserMessages: Icantspellchamerlan1051
+[2015.03.21-13.36.36:957][ 26]LogBlueprintUserMessages: Icantspellchamerlan1063
+[2015.03.21-13.36.36:957][ 26]LogBlueprintUserMessages: Icantspellchamerlan1063
+[2015.03.21-13.36.36:991][ 28]LogBlueprintUserMessages: Icantspellchamerlan1075
+[2015.03.21-13.36.36:991][ 28]LogBlueprintUserMessages: Icantspellchamerlan1075
+[2015.03.21-13.36.37:025][ 30]LogBlueprintUserMessages: Icantspellchamerlan1087
+[2015.03.21-13.36.37:025][ 30]LogBlueprintUserMessages: Icantspellchamerlan1087
+[2015.03.21-13.36.37:041][ 31]LogBlueprintUserMessages: Icantspellchamerlan1099
+[2015.03.21-13.36.37:041][ 31]LogBlueprintUserMessages: Icantspellchamerlan1099
+[2015.03.21-13.36.37:075][ 33]LogBlueprintUserMessages: Icantspellchamerlan1111
+[2015.03.21-13.36.37:075][ 33]LogBlueprintUserMessages: Icantspellchamerlan1111
+[2015.03.21-13.36.37:124][ 36]LogBlueprintUserMessages: Icantspellchamerlan1123
+[2015.03.21-13.36.37:124][ 36]LogBlueprintUserMessages: Icantspellchamerlan1123
+[2015.03.21-13.36.37:339][ 49]LogBlueprintUserMessages: Icantspellchamerlan1147
+[2015.03.21-13.36.37:339][ 49]LogBlueprintUserMessages: Icantspellchamerlan1147
+[2015.03.21-13.36.48:887][730]LogBlueprintUserMessages: Icantspellchamerlan1171
+[2015.03.21-13.36.48:887][730]LogBlueprintUserMessages: Icantspellchamerlan1171
+[2015.03.21-13.37.08:882][769]LogEditorTransaction: Undo Modify Component(s)
+[2015.03.21-13.37.09:018][769]LogBlueprintUserMessages: Icantspellchamerlan2470
+[2015.03.21-13.37.09:018][769]LogBlueprintUserMessages: Icantspellchamerlan2470
+[2015.03.21-13.37.09:062][770]LogBlueprintUserMessages: Icantspellchamerlan2482
+[2015.03.21-13.37.09:062][770]LogBlueprintUserMessages: Icantspellchamerlan2482
+[2015.03.21-13.37.56:043][  5]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-13.37.56:052][  5]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-13.37.56:323][  5]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-13.37.56:468][  5]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-13.37.56:572][  5]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-13.37.56:665][  5]LogPlayLevel: [PIE] Compiling Settings before PIE...
+[2015.03.21-13.37.56:774][  5]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-13.37.56:893][  5]LogPlayLevel: PIE:  Blueprint regeneration took 848 ms (6 blueprints)
+[2015.03.21-13.37.56:893][  5]PIE: New page: PIE session: Levelone (21 Mar 2015 13:37:56)
+[2015.03.21-13.37.56:902][  5]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.37.56:902][  5]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.37.56:903][  5]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.37.56:903][  5]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.37.56:904][  5]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.37.56:904][  5]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.37.56:904][  5]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.37.56:904][  5]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.37.56:904][  5]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.37.56:904][  5]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.37.56:907][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013209s)
+[2015.03.21-13.37.56:907][  5]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2015.03.21-13.37.56:907][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.014001s)
+[2015.03.21-13.37.56:950][  5]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-13.37.56:952][  5]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-13.37.56:957][  5]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-13.37.56
+[2015.03.21-13.37.56:958][  5]LogWorld: Bringing up level for play took: 0.005800
+[2015.03.21-13.37.56:960][  5]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.37.56:960][  5]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.37.56:972][  5]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.063
+[2015.03.21-13.37.57:066][  6]LogBlueprintUserMessages: Icantspellchamerlan4
+[2015.03.21-13.37.57:066][  6]LogBlueprintUserMessages: Icantspellchamerlan4
+[2015.03.21-13.37.59:424][146]LogBlueprintUserMessages: Player found
+[2015.03.21-13.37.59:451][148]LogBlueprintUserMessages: Hello
+[2015.03.21-13.38.00:619][213]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7E4F4DBC0
+[2015.03.21-13.38.08:446][676]LogBlueprintUserMessages: Icantspellchamerlan544
+[2015.03.21-13.38.08:446][676]LogBlueprintUserMessages: Icantspellchamerlan544
+[2015.03.21-13.38.10:728][813]LogBlueprintUserMessages: Icantspellchamerlan567
+[2015.03.21-13.38.10:728][813]LogBlueprintUserMessages: Icantspellchamerlan567
+[2015.03.21-13.38.11:563][863]LogBlueprintUserMessages: Icantspellchamerlan590
+[2015.03.21-13.38.11:563][863]LogBlueprintUserMessages: Icantspellchamerlan590
+[2015.03.21-13.38.15:229][ 83]LogBlueprintUserMessages: Icantspellchamerlan613
+[2015.03.21-13.38.15:229][ 83]LogBlueprintUserMessages: Icantspellchamerlan613
+[2015.03.21-13.38.17:512][218]LogEditorTransaction: Undo Modify Component(s)
+[2015.03.21-13.38.17:649][218]LogBlueprintUserMessages: Icantspellchamerlan625
+[2015.03.21-13.38.17:649][218]LogBlueprintUserMessages: Icantspellchamerlan625
+[2015.03.21-13.38.17:690][219]LogBlueprintUserMessages: Icantspellchamerlan637
+[2015.03.21-13.38.17:690][219]LogBlueprintUserMessages: Icantspellchamerlan637
+[2015.03.21-13.38.17:916][222]LogEditorTransaction: Undo Modify Component(s)
+[2015.03.21-13.38.18:048][222]LogBlueprintUserMessages: Icantspellchamerlan649
+[2015.03.21-13.38.18:048][222]LogBlueprintUserMessages: Icantspellchamerlan649
+[2015.03.21-13.38.18:139][223]LogBlueprintUserMessages: Icantspellchamerlan661
+[2015.03.21-13.38.18:139][223]LogBlueprintUserMessages: Icantspellchamerlan661
+[2015.03.21-13.38.18:360][236]LogEditorTransaction: Undo Modify Component(s)
+[2015.03.21-13.38.18:493][236]LogBlueprintUserMessages: Icantspellchamerlan673
+[2015.03.21-13.38.18:493][236]LogBlueprintUserMessages: Icantspellchamerlan673
+[2015.03.21-13.38.18:527][237]LogBlueprintUserMessages: Icantspellchamerlan685
+[2015.03.21-13.38.18:527][237]LogBlueprintUserMessages: Icantspellchamerlan685
+[2015.03.21-13.38.18:758][251]LogEditorTransaction: Undo Modify Component(s)
+[2015.03.21-13.38.18:889][251]LogBlueprintUserMessages: Icantspellchamerlan697
+[2015.03.21-13.38.18:889][251]LogBlueprintUserMessages: Icantspellchamerlan697
+[2015.03.21-13.38.18:923][252]LogBlueprintUserMessages: Icantspellchamerlan709
+[2015.03.21-13.38.18:923][252]LogBlueprintUserMessages: Icantspellchamerlan709
+[2015.03.21-13.38.19:322][276]LogEditorTransaction: Undo Modify Component(s)
+[2015.03.21-13.38.19:452][276]LogBlueprintUserMessages: Icantspellchamerlan721
+[2015.03.21-13.38.19:452][276]LogBlueprintUserMessages: Icantspellchamerlan721
+[2015.03.21-13.38.19:485][277]LogBlueprintUserMessages: Icantspellchamerlan733
+[2015.03.21-13.38.19:485][277]LogBlueprintUserMessages: Icantspellchamerlan733
+[2015.03.21-13.38.19:838][298]LogEditorTransaction: Undo Modify Component(s)
+[2015.03.21-13.38.19:978][298]LogBlueprintUserMessages: Icantspellchamerlan745
+[2015.03.21-13.38.19:978][298]LogBlueprintUserMessages: Icantspellchamerlan745
+[2015.03.21-13.38.20:010][299]LogBlueprintUserMessages: Icantspellchamerlan757
+[2015.03.21-13.38.20:010][299]LogBlueprintUserMessages: Icantspellchamerlan757
+[2015.03.21-13.38.24:944][593]LogBlueprintUserMessages: Icantspellchamerlan780
+[2015.03.21-13.38.24:944][593]LogBlueprintUserMessages: Icantspellchamerlan780
+[2015.03.21-13.38.27:563][750]LogBlueprintUserMessages: Icantspellchamerlan803
+[2015.03.21-13.38.27:563][750]LogBlueprintUserMessages: Icantspellchamerlan803
+[2015.03.21-13.38.33:968][133]LogBlueprintUserMessages: Icantspellchamerlan826
+[2015.03.21-13.38.33:968][133]LogBlueprintUserMessages: Icantspellchamerlan826
+[2015.03.21-13.38.34:928][190]LogUnrealMath: Expression Error : No value recognized
+[2015.03.21-13.38.34:928][190]LogUnrealMath: Expression Error : Error in expression
+[2015.03.21-13.38.34:928][190]LogUnrealMath: Expression Error : No value recognized
+[2015.03.21-13.38.34:928][190]LogUnrealMath: Expression Error : Error in expression
+[2015.03.21-13.38.37:509][345]LogEditorTransaction: Undo Modify Component(s)
+[2015.03.21-13.38.37:652][345]LogBlueprintUserMessages: Icantspellchamerlan838
+[2015.03.21-13.38.37:652][345]LogBlueprintUserMessages: Icantspellchamerlan838
+[2015.03.21-13.38.37:686][346]LogBlueprintUserMessages: Icantspellchamerlan850
+[2015.03.21-13.38.37:686][346]LogBlueprintUserMessages: Icantspellchamerlan850
+[2015.03.21-13.39.01:100][792]LogBlueprintUserMessages: Icantspellchamerlan862
+[2015.03.21-13.39.01:100][792]LogBlueprintUserMessages: Icantspellchamerlan862
+[2015.03.21-13.39.01:117][793]LogBlueprintUserMessages: Icantspellchamerlan874
+[2015.03.21-13.39.01:118][793]LogBlueprintUserMessages: Icantspellchamerlan874
+[2015.03.21-13.39.01:135][794]LogBlueprintUserMessages: Icantspellchamerlan886
+[2015.03.21-13.39.01:135][794]LogBlueprintUserMessages: Icantspellchamerlan886
+[2015.03.21-13.39.01:151][795]LogBlueprintUserMessages: Icantspellchamerlan898
+[2015.03.21-13.39.01:151][795]LogBlueprintUserMessages: Icantspellchamerlan898
+[2015.03.21-13.39.01:168][796]LogBlueprintUserMessages: Icantspellchamerlan910
+[2015.03.21-13.39.01:168][796]LogBlueprintUserMessages: Icantspellchamerlan910
+[2015.03.21-13.39.01:184][797]LogBlueprintUserMessages: Icantspellchamerlan922
+[2015.03.21-13.39.01:184][797]LogBlueprintUserMessages: Icantspellchamerlan922
+[2015.03.21-13.39.01:217][799]LogBlueprintUserMessages: Icantspellchamerlan934
+[2015.03.21-13.39.01:217][799]LogBlueprintUserMessages: Icantspellchamerlan934
+[2015.03.21-13.39.01:334][806]LogBlueprintUserMessages: Icantspellchamerlan946
+[2015.03.21-13.39.01:334][806]LogBlueprintUserMessages: Icantspellchamerlan946
+[2015.03.21-13.39.01:352][807]LogBlueprintUserMessages: Icantspellchamerlan958
+[2015.03.21-13.39.01:352][807]LogBlueprintUserMessages: Icantspellchamerlan958
+[2015.03.21-13.39.01:368][808]LogBlueprintUserMessages: Icantspellchamerlan970
+[2015.03.21-13.39.01:368][808]LogBlueprintUserMessages: Icantspellchamerlan970
+[2015.03.21-13.39.01:422][811]LogBlueprintUserMessages: Icantspellchamerlan982
+[2015.03.21-13.39.01:422][811]LogBlueprintUserMessages: Icantspellchamerlan982
+[2015.03.21-13.39.01:460][813]LogBlueprintUserMessages: Icantspellchamerlan994
+[2015.03.21-13.39.01:460][813]LogBlueprintUserMessages: Icantspellchamerlan994
+[2015.03.21-13.39.01:581][820]LogBlueprintUserMessages: Icantspellchamerlan1006
+[2015.03.21-13.39.01:581][820]LogBlueprintUserMessages: Icantspellchamerlan1006
+[2015.03.21-13.39.01:683][825]LogBlueprintUserMessages: Icantspellchamerlan1018
+[2015.03.21-13.39.01:683][825]LogBlueprintUserMessages: Icantspellchamerlan1018
+[2015.03.21-13.39.01:739][828]LogBlueprintUserMessages: Icantspellchamerlan1030
+[2015.03.21-13.39.01:739][828]LogBlueprintUserMessages: Icantspellchamerlan1030
+[2015.03.21-13.39.01:766][829]LogBlueprintUserMessages: Icantspellchamerlan1042
+[2015.03.21-13.39.01:766][829]LogBlueprintUserMessages: Icantspellchamerlan1042
+[2015.03.21-13.39.01:786][830]LogBlueprintUserMessages: Icantspellchamerlan1054
+[2015.03.21-13.39.01:786][830]LogBlueprintUserMessages: Icantspellchamerlan1054
+[2015.03.21-13.39.01:802][831]LogBlueprintUserMessages: Icantspellchamerlan1066
+[2015.03.21-13.39.01:803][831]LogBlueprintUserMessages: Icantspellchamerlan1066
+[2015.03.21-13.39.01:820][832]LogBlueprintUserMessages: Icantspellchamerlan1078
+[2015.03.21-13.39.01:820][832]LogBlueprintUserMessages: Icantspellchamerlan1078
+[2015.03.21-13.39.01:853][834]LogBlueprintUserMessages: Icantspellchamerlan1090
+[2015.03.21-13.39.01:853][834]LogBlueprintUserMessages: Icantspellchamerlan1090
+[2015.03.21-13.39.01:887][836]LogBlueprintUserMessages: Icantspellchamerlan1102
+[2015.03.21-13.39.01:887][836]LogBlueprintUserMessages: Icantspellchamerlan1102
+[2015.03.21-13.39.01:906][837]LogBlueprintUserMessages: Icantspellchamerlan1114
+[2015.03.21-13.39.01:906][837]LogBlueprintUserMessages: Icantspellchamerlan1114
+[2015.03.21-13.39.01:938][839]LogBlueprintUserMessages: Icantspellchamerlan1126
+[2015.03.21-13.39.01:938][839]LogBlueprintUserMessages: Icantspellchamerlan1126
+[2015.03.21-13.39.01:955][840]LogBlueprintUserMessages: Icantspellchamerlan1138
+[2015.03.21-13.39.01:955][840]LogBlueprintUserMessages: Icantspellchamerlan1138
+[2015.03.21-13.39.01:974][841]LogBlueprintUserMessages: Icantspellchamerlan1150
+[2015.03.21-13.39.01:974][841]LogBlueprintUserMessages: Icantspellchamerlan1150
+[2015.03.21-13.39.01:992][842]LogBlueprintUserMessages: Icantspellchamerlan1162
+[2015.03.21-13.39.01:992][842]LogBlueprintUserMessages: Icantspellchamerlan1162
+[2015.03.21-13.39.02:008][843]LogBlueprintUserMessages: Icantspellchamerlan1174
+[2015.03.21-13.39.02:009][843]LogBlueprintUserMessages: Icantspellchamerlan1174
+[2015.03.21-13.39.02:025][844]LogBlueprintUserMessages: Icantspellchamerlan1186
+[2015.03.21-13.39.02:025][844]LogBlueprintUserMessages: Icantspellchamerlan1186
+[2015.03.21-13.39.02:058][846]LogBlueprintUserMessages: Icantspellchamerlan1198
+[2015.03.21-13.39.02:058][846]LogBlueprintUserMessages: Icantspellchamerlan1198
+[2015.03.21-13.39.02:105][849]LogBlueprintUserMessages: Icantspellchamerlan1221
+[2015.03.21-13.39.02:105][849]LogBlueprintUserMessages: Icantspellchamerlan1221
+[2015.03.21-13.39.03:077][907]LogBlueprintUserMessages: Icantspellchamerlan1233
+[2015.03.21-13.39.03:077][907]LogBlueprintUserMessages: Icantspellchamerlan1233
+[2015.03.21-13.39.03:096][908]LogBlueprintUserMessages: Icantspellchamerlan1245
+[2015.03.21-13.39.03:096][908]LogBlueprintUserMessages: Icantspellchamerlan1245
+[2015.03.21-13.39.03:112][909]LogBlueprintUserMessages: Icantspellchamerlan1257
+[2015.03.21-13.39.03:112][909]LogBlueprintUserMessages: Icantspellchamerlan1257
+[2015.03.21-13.39.03:130][910]LogBlueprintUserMessages: Icantspellchamerlan1269
+[2015.03.21-13.39.03:130][910]LogBlueprintUserMessages: Icantspellchamerlan1269
+[2015.03.21-13.39.03:150][911]LogBlueprintUserMessages: Icantspellchamerlan1281
+[2015.03.21-13.39.03:150][911]LogBlueprintUserMessages: Icantspellchamerlan1281
+[2015.03.21-13.39.03:167][912]LogBlueprintUserMessages: Icantspellchamerlan1293
+[2015.03.21-13.39.03:167][912]LogBlueprintUserMessages: Icantspellchamerlan1293
+[2015.03.21-13.39.03:184][913]LogBlueprintUserMessages: Icantspellchamerlan1305
+[2015.03.21-13.39.03:184][913]LogBlueprintUserMessages: Icantspellchamerlan1305
+[2015.03.21-13.39.03:200][914]LogBlueprintUserMessages: Icantspellchamerlan1317
+[2015.03.21-13.39.03:200][914]LogBlueprintUserMessages: Icantspellchamerlan1317
+[2015.03.21-13.39.03:216][915]LogBlueprintUserMessages: Icantspellchamerlan1329
+[2015.03.21-13.39.03:216][915]LogBlueprintUserMessages: Icantspellchamerlan1329
+[2015.03.21-13.39.03:714][945]LogBlueprintUserMessages: Icantspellchamerlan1352
+[2015.03.21-13.39.03:714][945]LogBlueprintUserMessages: Icantspellchamerlan1352
+[2015.03.21-13.39.05:115][ 29]LogBlueprintUserMessages: Icantspellchamerlan1375
+[2015.03.21-13.39.05:116][ 29]LogBlueprintUserMessages: Icantspellchamerlan1375
+[2015.03.21-13.39.06:382][104]LogBlueprintUserMessages: Icantspellchamerlan1387
+[2015.03.21-13.39.06:382][104]LogBlueprintUserMessages: Icantspellchamerlan1387
+[2015.03.21-13.39.06:399][105]LogBlueprintUserMessages: Icantspellchamerlan1399
+[2015.03.21-13.39.06:399][105]LogBlueprintUserMessages: Icantspellchamerlan1399
+[2015.03.21-13.39.06:414][106]LogBlueprintUserMessages: Icantspellchamerlan1411
+[2015.03.21-13.39.06:414][106]LogBlueprintUserMessages: Icantspellchamerlan1411
+[2015.03.21-13.39.06:431][107]LogBlueprintUserMessages: Icantspellchamerlan1423
+[2015.03.21-13.39.06:431][107]LogBlueprintUserMessages: Icantspellchamerlan1423
+[2015.03.21-13.39.06:449][108]LogBlueprintUserMessages: Icantspellchamerlan1435
+[2015.03.21-13.39.06:449][108]LogBlueprintUserMessages: Icantspellchamerlan1435
+[2015.03.21-13.39.06:466][109]LogBlueprintUserMessages: Icantspellchamerlan1447
+[2015.03.21-13.39.06:466][109]LogBlueprintUserMessages: Icantspellchamerlan1447
+[2015.03.21-13.39.06:517][112]LogBlueprintUserMessages: Icantspellchamerlan1459
+[2015.03.21-13.39.06:517][112]LogBlueprintUserMessages: Icantspellchamerlan1459
+[2015.03.21-13.39.06:668][121]LogBlueprintUserMessages: Icantspellchamerlan1471
+[2015.03.21-13.39.06:668][121]LogBlueprintUserMessages: Icantspellchamerlan1471
+[2015.03.21-13.39.06:689][122]LogBlueprintUserMessages: Icantspellchamerlan1483
+[2015.03.21-13.39.06:689][122]LogBlueprintUserMessages: Icantspellchamerlan1483
+[2015.03.21-13.39.06:708][123]LogBlueprintUserMessages: Icantspellchamerlan1495
+[2015.03.21-13.39.06:708][123]LogBlueprintUserMessages: Icantspellchamerlan1495
+[2015.03.21-13.39.06:728][124]LogBlueprintUserMessages: Icantspellchamerlan1507
+[2015.03.21-13.39.06:728][124]LogBlueprintUserMessages: Icantspellchamerlan1507
+[2015.03.21-13.39.06:746][125]LogBlueprintUserMessages: Icantspellchamerlan1519
+[2015.03.21-13.39.06:747][125]LogBlueprintUserMessages: Icantspellchamerlan1519
+[2015.03.21-13.39.06:763][126]LogBlueprintUserMessages: Icantspellchamerlan1531
+[2015.03.21-13.39.06:763][126]LogBlueprintUserMessages: Icantspellchamerlan1531
+[2015.03.21-13.39.06:831][130]LogBlueprintUserMessages: Icantspellchamerlan1543
+[2015.03.21-13.39.06:831][130]LogBlueprintUserMessages: Icantspellchamerlan1543
+[2015.03.21-13.39.06:852][131]LogBlueprintUserMessages: Icantspellchamerlan1555
+[2015.03.21-13.39.06:852][131]LogBlueprintUserMessages: Icantspellchamerlan1555
+[2015.03.21-13.39.06:873][132]LogBlueprintUserMessages: Icantspellchamerlan1567
+[2015.03.21-13.39.06:873][132]LogBlueprintUserMessages: Icantspellchamerlan1567
+[2015.03.21-13.39.06:889][133]LogBlueprintUserMessages: Icantspellchamerlan1579
+[2015.03.21-13.39.06:889][133]LogBlueprintUserMessages: Icantspellchamerlan1579
+[2015.03.21-13.39.06:909][134]LogBlueprintUserMessages: Icantspellchamerlan1591
+[2015.03.21-13.39.06:909][134]LogBlueprintUserMessages: Icantspellchamerlan1591
+[2015.03.21-13.39.06:931][135]LogBlueprintUserMessages: Icantspellchamerlan1603
+[2015.03.21-13.39.06:931][135]LogBlueprintUserMessages: Icantspellchamerlan1603
+[2015.03.21-13.39.06:945][136]LogBlueprintUserMessages: Icantspellchamerlan1615
+[2015.03.21-13.39.06:945][136]LogBlueprintUserMessages: Icantspellchamerlan1615
+[2015.03.21-13.39.06:962][137]LogBlueprintUserMessages: Icantspellchamerlan1627
+[2015.03.21-13.39.06:962][137]LogBlueprintUserMessages: Icantspellchamerlan1627
+[2015.03.21-13.39.06:995][139]LogBlueprintUserMessages: Icantspellchamerlan1639
+[2015.03.21-13.39.06:995][139]LogBlueprintUserMessages: Icantspellchamerlan1639
+[2015.03.21-13.39.07:128][147]LogBlueprintUserMessages: Icantspellchamerlan1651
+[2015.03.21-13.39.07:128][147]LogBlueprintUserMessages: Icantspellchamerlan1651
+[2015.03.21-13.39.07:148][148]LogBlueprintUserMessages: Icantspellchamerlan1663
+[2015.03.21-13.39.07:148][148]LogBlueprintUserMessages: Icantspellchamerlan1663
+[2015.03.21-13.39.07:163][149]LogBlueprintUserMessages: Icantspellchamerlan1675
+[2015.03.21-13.39.07:163][149]LogBlueprintUserMessages: Icantspellchamerlan1675
+[2015.03.21-13.39.07:183][150]LogBlueprintUserMessages: Icantspellchamerlan1687
+[2015.03.21-13.39.07:183][150]LogBlueprintUserMessages: Icantspellchamerlan1687
+[2015.03.21-13.39.07:202][151]LogBlueprintUserMessages: Icantspellchamerlan1699
+[2015.03.21-13.39.07:202][151]LogBlueprintUserMessages: Icantspellchamerlan1699
+[2015.03.21-13.39.07:219][152]LogBlueprintUserMessages: Icantspellchamerlan1711
+[2015.03.21-13.39.07:219][152]LogBlueprintUserMessages: Icantspellchamerlan1711
+[2015.03.21-13.39.07:239][153]LogBlueprintUserMessages: Icantspellchamerlan1723
+[2015.03.21-13.39.07:239][153]LogBlueprintUserMessages: Icantspellchamerlan1723
+[2015.03.21-13.39.07:253][154]LogBlueprintUserMessages: Icantspellchamerlan1735
+[2015.03.21-13.39.07:253][154]LogBlueprintUserMessages: Icantspellchamerlan1735
+[2015.03.21-13.39.07:288][156]LogBlueprintUserMessages: Icantspellchamerlan1747
+[2015.03.21-13.39.07:288][156]LogBlueprintUserMessages: Icantspellchamerlan1747
+[2015.03.21-13.39.07:575][173]LogBlueprintUserMessages: Icantspellchamerlan1771
+[2015.03.21-13.39.07:575][173]LogBlueprintUserMessages: Icantspellchamerlan1771
+[2015.03.21-13.39.10:309][337]LogBlueprintUserMessages: Icantspellchamerlan1795
+[2015.03.21-13.39.10:309][337]LogBlueprintUserMessages: Icantspellchamerlan1795
+[2015.03.21-13.39.11:998][438]LogBlueprintUserMessages: Icantspellchamerlan1819
+[2015.03.21-13.39.11:998][438]LogBlueprintUserMessages: Icantspellchamerlan1819
+[2015.03.21-13.39.13:215][511]LogBlueprintUserMessages: Icantspellchamerlan1843
+[2015.03.21-13.39.13:215][511]LogBlueprintUserMessages: Icantspellchamerlan1843
+[2015.03.21-13.39.15:085][623]LogBlueprintUserMessages: Icantspellchamerlan1867
+[2015.03.21-13.39.15:085][623]LogBlueprintUserMessages: Icantspellchamerlan1867
+[2015.03.21-13.39.16:635][716]LogBlueprintUserMessages: Icantspellchamerlan1891
+[2015.03.21-13.39.16:635][716]LogBlueprintUserMessages: Icantspellchamerlan1891
+[2015.03.21-13.40.10:660][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Levelone_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2015.03.21-13.40.10:850][ 23]LogSavePackage: Save=173.405716ms
+[2015.03.21-13.40.10:851][ 23]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone_Auto3FA921765404426228589E3B77A94E854.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Levelone_Auto3.umap'
+[2015.03.21-13.40.10:871][ 23]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levelone' took 0.372
+[2015.03.21-13.40.10:871][ 23]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.372
+[2015.03.21-13.40.10:907][ 23]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Bird] ([1] browsable assets)...
+[2015.03.21-13.40.10:907][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Bird]
+[2015.03.21-13.40.10:967][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Bird" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Bird_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2015.03.21-13.40.11:379][ 23]LogSavePackage: Save=392.169006ms
+[2015.03.21-13.40.11:380][ 23]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Bird_Auto3D55EF59148D8D4800100DD867D4B4E5D.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Bird_Auto3.uasset'
+[2015.03.21-13.40.11:438][ 23]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Icantspellchamerlan] ([1] browsable assets)...
+[2015.03.21-13.40.11:438][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Icantspellchamerlan]
+[2015.03.21-13.40.11:965][ 23]LogSavePackage: Save=456.930206ms
+[2015.03.21-13.40.11:967][ 23]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Icantspellchamerlan_Auto3E0D36CC140DAE057774B96858A6A7DDC.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Icantspellchamerlan_Auto3.uasset'
+[2015.03.21-13.40.12:024][ 23]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Menu] ([1] browsable assets)...
+[2015.03.21-13.40.12:024][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Menu]
+[2015.03.21-13.40.12:074][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/Menu_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2015.03.21-13.40.12:243][ 23]LogSavePackage: Save=152.994583ms
+[2015.03.21-13.40.12:245][ 23]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Menu_Auto356733BBF458E8D5C1CBEBC825CA7D6BB.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/Menu_Auto3.uasset'
+[2015.03.21-13.40.12:298][ 23]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Settings] ([1] browsable assets)...
+[2015.03.21-13.40.12:298][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Settings]
+[2015.03.21-13.40.12:357][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Settings" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/Settings_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2015.03.21-13.40.12:687][ 23]LogSavePackage: Save=313.803101ms
+[2015.03.21-13.40.12:688][ 23]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Settings_Auto3AB6CE8734ED78C8E303E5EB7A03EA46B.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/Settings_Auto3.uasset'
+[2015.03.21-13.40.12:709][ 23]LogFileHelpers: Auto-saving content packages took 1.838
+[2015.03.21-13.40.14:897][154]LogBlueprintUserMessages: Icantspellchamerlan1915
+[2015.03.21-13.40.14:897][154]LogBlueprintUserMessages: Icantspellchamerlan1915
+[2015.03.21-13.40.16:478][247]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-13.40.16:488][247]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-13.40.16:753][247]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-13.40.16:893][247]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-13.40.16:994][247]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-13.40.17:077][247]LogPlayLevel: [PIE] Compiling Settings before PIE...
+[2015.03.21-13.40.17:176][247]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-13.40.17:276][247]LogPlayLevel: PIE:  Blueprint regeneration took 798 ms (6 blueprints)
+[2015.03.21-13.40.17:276][247]PIE: New page: PIE session: Levelone (21 Mar 2015 13:40:17)
+[2015.03.21-13.40.17:285][247]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.40.17:285][247]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.40.17:287][247]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.40.17:287][247]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.40.17:287][247]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.40.17:287][247]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.40.17:287][247]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.40.17:287][247]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.40.17:288][247]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.40.17:288][247]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.40.17:290][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012886s)
+[2015.03.21-13.40.17:290][247]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2015.03.21-13.40.17:290][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013652s)
+[2015.03.21-13.40.17:331][247]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-13.40.17:333][247]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-13.40.17:337][247]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-13.40.17
+[2015.03.21-13.40.17:338][247]LogWorld: Bringing up level for play took: 0.004784
+[2015.03.21-13.40.17:340][247]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.40.17:340][247]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.40.17:357][247]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.449
+[2015.03.21-13.40.17:458][248]LogBlueprintUserMessages: Icantspellchamerlan4
+[2015.03.21-13.40.17:458][248]LogBlueprintUserMessages: Icantspellchamerlan4
+[2015.03.21-13.40.18:910][332]LogBlueprintUserMessages: Hello
+[2015.03.21-13.40.18:960][335]LogBlueprintUserMessages: Hello
+[2015.03.21-13.40.19:918][392]LogBlueprintUserMessages: 2
+[2015.03.21-13.40.20:685][438]LogBlueprintUserMessages: 3
+[2015.03.21-13.40.23:750][621]LogBlueprintUserMessages: Player found
+[2015.03.21-13.40.23:783][623]LogBlueprintUserMessages: Hello
+[2015.03.21-13.40.24:753][681]LogBlueprintUserMessages: 1
+[2015.03.21-13.40.28:271][891]LogBlueprintUserMessages: Hello
+[2015.03.21-13.40.32:778][160]LogBlueprintUserMessages: Hello
+[2015.03.21-13.40.37:482][274]LogBlueprintUserMessages: Hello
+[2015.03.21-13.40.42:149][288]LogBlueprintUserMessages: Hello
+[2015.03.21-13.40.46:816][302]LogBlueprintUserMessages: Hello
+[2015.03.21-13.40.51:486][316]LogBlueprintUserMessages: Hello
+[2015.03.21-13.40.56:149][330]LogBlueprintUserMessages: Hello
+[2015.03.21-13.41.00:818][344]LogBlueprintUserMessages: Hello
+[2015.03.21-13.41.05:486][358]LogBlueprintUserMessages: Hello
+[2015.03.21-13.41.07:820][365]LogBlueprintUserMessages: Player found
+[2015.03.21-13.41.10:152][372]LogBlueprintUserMessages: Hello
+[2015.03.21-13.41.10:817][374]LogBlueprintUserMessages: Player found
+[2015.03.21-13.41.11:815][377]LogBlueprintUserMessages: Bird
+[2015.03.21-13.41.14:817][386]LogBlueprintUserMessages: Hello
+[2015.03.21-13.41.15:486][388]LogBlueprintUserMessages: Player found
+[2015.03.21-13.41.16:150][390]LogBlueprintUserMessages: Bird
+[2015.03.21-13.41.19:484][400]LogBlueprintUserMessages: Hello
+[2015.03.21-13.41.20:815][404]LogBlueprintUserMessages: Bird
+[2015.03.21-13.41.21:148][405]LogBlueprintUserMessages: Bird
+[2015.03.21-13.41.24:155][414]LogBlueprintUserMessages: Hello
+[2015.03.21-13.41.24:491][415]LogBlueprintUserMessages: Player found
+[2015.03.21-13.41.25:818][419]AssetReimport: New page: Outstanding source content changes 13:41:25
+[2015.03.21-13.41.25:819][419]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 1.png)
+[2015.03.21-13.41.25:829][419]0.000032 seconds to analyze Texture2D /Game/pngs/branch_1.branch_1
+
+[2015.03.21-13.41.26:147][420]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 2.png)
+[2015.03.21-13.41.26:161][420]0.000016 seconds to analyze Texture2D /Game/pngs/branch_2.branch_2
+
+[2015.03.21-13.41.26:481][421]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 3.png)
+[2015.03.21-13.41.26:491][421]0.000016 seconds to analyze Texture2D /Game/pngs/branch_3.branch_3
+
+[2015.03.21-13.41.26:814][422]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud1.png)
+[2015.03.21-13.41.26:824][422]0.000018 seconds to analyze Texture2D /Game/pngs/cloud1.cloud1
+
+[2015.03.21-13.41.26:950][422]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud2.png)
+[2015.03.21-13.41.26:959][422]0.000015 seconds to analyze Texture2D /Game/pngs/cloud2.cloud2
+
+[2015.03.21-13.41.27:147][423]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass 1.png)
+[2015.03.21-13.41.27:153][423]0.000016 seconds to analyze Texture2D /Game/pngs/grass_1.grass_1
+
+[2015.03.21-13.41.27:275][423]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass tuft.png)
+[2015.03.21-13.41.27:290][423]0.000028 seconds to analyze Texture2D /Game/pngs/grass_tuft.grass_tuft
+
+[2015.03.21-13.41.27:538][424]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/hollow log.png)
+[2015.03.21-13.41.27:564][424]0.000027 seconds to analyze Texture2D /Game/pngs/hollow_log.hollow_log
+
+[2015.03.21-13.41.28:064][425]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/stump.png)
+[2015.03.21-13.41.28:077][425]0.000016 seconds to analyze Texture2D /Game/pngs/stump.stump
+
+[2015.03.21-13.41.28:299][426]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/treebasetile.png)
+[2015.03.21-13.41.28:342][426]0.000025 seconds to analyze Texture2D /Game/pngs/treebasetile.treebasetile
+
+[2015.03.21-13.41.28:706][427]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/treetile.png)
+[2015.03.21-13.41.28:764][427]0.000050 seconds to analyze Texture2D /Game/pngs/treetile.treetile
+
+[2015.03.21-13.41.29:366][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/branch_1" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_1.uasset" SILENT=true
+[2015.03.21-13.41.29:730][428]LogSavePackage: Save=356.924011ms
+[2015.03.21-13.41.29:730][428]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/branch_1DF362FEE48C3C455CD49528D364C744F.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_1.uasset'
+[2015.03.21-13.41.29:757][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/branch_2" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_2.uasset" SILENT=true
+[2015.03.21-13.41.30:142][428]LogSavePackage: Save=379.502014ms
+[2015.03.21-13.41.30:142][428]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/branch_22BF50D074A73C7623B9AB7843D673D80.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_2.uasset'
+[2015.03.21-13.41.30:168][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/branch_3" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_3.uasset" SILENT=true
+[2015.03.21-13.41.30:507][428]LogSavePackage: Save=333.829559ms
+[2015.03.21-13.41.30:507][428]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/branch_34BC0377940B18EC95A09FCBA6E68A32A.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_3.uasset'
+[2015.03.21-13.41.30:538][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/cloud1" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud1.uasset" SILENT=true
+[2015.03.21-13.41.30:975][428]LogSavePackage: Save=429.788177ms
+[2015.03.21-13.41.30:975][428]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/cloud1AFDD437740CD431578B200A522D7612B.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud1.uasset'
+[2015.03.21-13.41.31:006][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/cloud2" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud2.uasset" SILENT=true
+[2015.03.21-13.41.31:382][428]LogSavePackage: Save=370.834961ms
+[2015.03.21-13.41.31:382][428]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/cloud2AD09BEEA480C9D9447D115950BFAE52E.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud2.uasset'
+[2015.03.21-13.41.31:402][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/grass_1" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass_1.uasset" SILENT=true
+[2015.03.21-13.41.31:633][428]LogSavePackage: Save=225.792648ms
+[2015.03.21-13.41.31:633][428]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/grass_1FE100A274454A6D587958785A42C71A1.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass_1.uasset'
+[2015.03.21-13.41.31:680][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/grass_tuft" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass_tuft.uasset" SILENT=true
+[2015.03.21-13.41.32:083][428]LogSavePackage: Save=396.786011ms
+[2015.03.21-13.41.32:083][428]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/grass_tuftEBC2007B4FEFCAE9A23470A4A26B73EC.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass_tuft.uasset'
+[2015.03.21-13.41.32:112][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/hollow_log" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/hollow_log.uasset" SILENT=true
+[2015.03.21-13.41.34:213][428]LogSavePackage: Save=2096.094482ms
+[2015.03.21-13.41.34:214][428]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/hollow_logB674DF174A5A5221B15907A6CFF84FC1.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/hollow_log.uasset'
+[2015.03.21-13.41.34:259][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/stump" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/stump.uasset" SILENT=true
+[2015.03.21-13.41.34:958][428]LogSavePackage: Save=693.532959ms
+[2015.03.21-13.41.34:958][428]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/stumpA4A21C4E412BC8CC1BF1AEA211257B53.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/stump.uasset'
+[2015.03.21-13.41.34:996][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/treebasetile" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/treebasetile.uasset" SILENT=true
+[2015.03.21-13.41.39:164][428]LogSavePackage: Save=4161.221191ms
+[2015.03.21-13.41.39:164][428]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/treebasetileB6908C4F472D7F85AA3CA7AB63FEC3DA.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/treebasetile.uasset'
+[2015.03.21-13.41.39:202][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/treetile" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/treetile.uasset" SILENT=true
+[2015.03.21-13.41.44:506][428]LogSavePackage: Save=5297.374512ms
+[2015.03.21-13.41.44:506][428]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/treetile8BE6FFF44FB34AFE8E488E8E17337404.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/treetile.uasset'
+[2015.03.21-13.41.44:568][429]AssetReimport: Info Creating new asset /Game/pngs/branch_1.
+[2015.03.21-13.41.44:568][429]AssetReimport: Info Creating new asset /Game/pngs/branch_2.
+[2015.03.21-13.41.44:568][429]AssetReimport: Info Creating new asset /Game/pngs/branch_3.
+[2015.03.21-13.41.44:568][429]AssetReimport: Info Creating new asset /Game/pngs/cloud1.
+[2015.03.21-13.41.44:568][429]AssetReimport: Info Creating new asset /Game/pngs/cloud2.
+[2015.03.21-13.41.44:568][429]AssetReimport: Info Creating new asset /Game/pngs/grass_1.
+[2015.03.21-13.41.44:568][429]AssetReimport: Info Creating new asset /Game/pngs/grass_tuft.
+[2015.03.21-13.41.44:568][429]AssetReimport: Info Creating new asset /Game/pngs/hollow_log.
+[2015.03.21-13.41.44:568][429]AssetReimport: Info Creating new asset /Game/pngs/stump.
+[2015.03.21-13.41.44:568][429]AssetReimport: Info Creating new asset /Game/pngs/treebasetile.
+[2015.03.21-13.41.44:568][429]AssetReimport: Info Creating new asset /Game/pngs/treetile.
+[2015.03.21-13.41.44:920][430]LogBlueprintUserMessages: Hello
+[2015.03.21-13.41.45:593][432]LogBlueprintUserMessages: Player found
+[2015.03.21-13.41.46:571][435]LogBlueprintUserMessages: Bird
+[2015.03.21-13.41.49:570][444]LogBlueprintUserMessages: Hello
+[2015.03.21-13.41.50:237][446]LogBlueprintUserMessages: Player found
+[2015.03.21-13.41.50:903][448]LogBlueprintUserMessages: Bird
+[2015.03.21-13.41.54:088][465]LogBlueprintUserMessages: Hello
+[2015.03.21-13.41.54:124][467]LogBlueprintUserMessages: Player found
+[2015.03.21-13.41.55:255][517]LogBlueprintUserMessages: Bird
+[2015.03.21-13.41.56:655][590]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7FC29A980
+[2015.03.21-13.42.02:266][851]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2015.03.21-13.42.02:589][870]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-13.42.20:373][880]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.21-13.42.20:374][880]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-13.42.20:374][880]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-13.42.20:374][880]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-13.42.20:374][880]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-13.42.20:375][880]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-13.42.20:375][880]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-13.42.20:375][880]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-13.42.20:375][880]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-13.42.20:376][880]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-13.42.20:376][880]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-13.42.20:376][880]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-13.42.26:080][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/branch_1_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/branch_1_Sprite.uasset" SILENT=true
+[2015.03.21-13.42.26:132][174]LogSavePackage: Save=29.020285ms
+[2015.03.21-13.42.26:132][174]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/branch_1_Sprite919BD187415F27A8F672ACA306B05F92.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/branch_1_Sprite.uasset'
+[2015.03.21-13.42.26:160][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/branch_2_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/branch_2_Sprite.uasset" SILENT=true
+[2015.03.21-13.42.26:195][174]LogSavePackage: Save=30.383299ms
+[2015.03.21-13.42.26:195][174]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/branch_2_Sprite7576459349BF5181C79BA4B6DC64F946.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/branch_2_Sprite.uasset'
+[2015.03.21-13.42.26:224][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/branch_3_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/branch_3_Sprite.uasset" SILENT=true
+[2015.03.21-13.42.26:260][174]LogSavePackage: Save=30.510569ms
+[2015.03.21-13.42.26:260][174]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/branch_3_Sprite5FCBE1F84F9F598F21F2B193F8EA8346.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/branch_3_Sprite.uasset'
+[2015.03.21-13.42.26:289][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/cloud1_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/cloud1_Sprite.uasset" SILENT=true
+[2015.03.21-13.42.26:346][174]LogSavePackage: Save=51.389309ms
+[2015.03.21-13.42.26:346][174]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/cloud1_Sprite6732FD844E26034C5C0661AADA006A7D.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/cloud1_Sprite.uasset'
+[2015.03.21-13.42.26:373][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/cloud2_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/cloud2_Sprite.uasset" SILENT=true
+[2015.03.21-13.42.26:417][174]LogSavePackage: Save=38.097874ms
+[2015.03.21-13.42.26:417][174]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/cloud2_Sprite4163058643303976FE82A1899B71F847.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/cloud2_Sprite.uasset'
+[2015.03.21-13.42.26:445][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/grass_1_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/grass_1_Sprite.uasset" SILENT=true
+[2015.03.21-13.42.26:470][174]LogSavePackage: Save=19.939001ms
+[2015.03.21-13.42.26:470][174]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/grass_1_Sprite94B1A21647623ECA75B637A3507095DC.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/grass_1_Sprite.uasset'
+[2015.03.21-13.42.26:497][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/grass_tuft_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/grass_tuft_Sprite.uasset" SILENT=true
+[2015.03.21-13.42.26:606][174]LogSavePackage: Save=103.884216ms
+[2015.03.21-13.42.26:606][174]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/grass_tuft_Sprite3E89002143BB71D1B8B47E893A883E6B.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/grass_tuft_Sprite.uasset'
+[2015.03.21-13.42.26:637][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/hollow_log_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/hollow_log_Sprite.uasset" SILENT=true
+[2015.03.21-13.42.26:755][174]LogSavePackage: Save=112.432617ms
+[2015.03.21-13.42.26:755][174]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/hollow_log_SpriteD1F3C5004C8E4CDB51A16DB457CDDB8C.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/hollow_log_Sprite.uasset'
+[2015.03.21-13.42.26:784][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/stump_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/stump_Sprite.uasset" SILENT=true
+[2015.03.21-13.42.26:832][174]LogSavePackage: Save=43.045368ms
+[2015.03.21-13.42.26:832][174]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/stump_SpriteA22E30EF45FD06370D6DA68F3DB5771E.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/stump_Sprite.uasset'
+[2015.03.21-13.42.26:862][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/treebasetile_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/treebasetile_Sprite.uasset" SILENT=true
+[2015.03.21-13.42.26:964][174]LogSavePackage: Save=96.730453ms
+[2015.03.21-13.42.26:964][174]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/treebasetile_Sprite8AF98E7A42A568934261A48EA47F4135.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/treebasetile_Sprite.uasset'
+[2015.03.21-13.42.26:992][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/treetile_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/treetile_Sprite.uasset" SILENT=true
+[2015.03.21-13.42.27:139][174]LogSavePackage: Save=141.009918ms
+[2015.03.21-13.42.27:139][174]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/treetile_Sprite4856BC9C4E42513A74A92FBA724499FF.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/treetile_Sprite.uasset'
+[2015.03.21-13.42.30:560][335]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
+[2015.03.21-13.42.40:527][914]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-13.42.40:535][914]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-13.42.40:798][914]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-13.42.40:887][914]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-13.42.41:032][914]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-13.42.41:124][914]LogPlayLevel: PIE:  Blueprint regeneration took 596 ms (4 blueprints)
+[2015.03.21-13.42.41:125][914]PIE: New page: PIE session: Levelone (21 Mar 2015 13:42:41)
+[2015.03.21-13.42.41:134][914]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.41:134][914]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.41:135][914]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.41:135][914]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.41:135][914]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.41:135][914]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.41:135][914]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.41:136][914]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.41:136][914]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.41:136][914]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.41:138][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013009s)
+[2015.03.21-13.42.41:139][914]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2015.03.21-13.42.41:139][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013927s)
+[2015.03.21-13.42.41:179][914]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-13.42.41:181][914]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-13.42.41:186][914]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-13.42.41
+[2015.03.21-13.42.41:187][914]LogWorld: Bringing up level for play took: 0.005054
+[2015.03.21-13.42.41:189][914]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.42.41:189][914]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.42.41:190][914]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.281
+[2015.03.21-13.42.42:651][999]LogBlueprintUserMessages: Player found
+[2015.03.21-13.42.42:685][  1]LogBlueprintUserMessages: Hello
+[2015.03.21-13.42.43:668][ 60]LogBlueprintUserMessages: Hello
+[2015.03.21-13.42.43:718][ 63]LogBlueprintUserMessages: Hello
+[2015.03.21-13.42.47:168][270]LogBlueprintUserMessages: Hello
+[2015.03.21-13.42.48:730][358]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7F510DB20
+[2015.03.21-13.42.57:621][889]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-13.42.57:627][889]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-13.42.57:870][889]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-13.42.57:962][889]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-13.42.58:106][889]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-13.42.58:200][889]LogPlayLevel: PIE:  Blueprint regeneration took 579 ms (4 blueprints)
+[2015.03.21-13.42.58:201][889]PIE: New page: PIE session: Levelone (21 Mar 2015 13:42:58)
+[2015.03.21-13.42.58:209][889]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.58:209][889]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.58:210][889]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.58:210][889]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.58:211][889]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.58:211][889]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.58:211][889]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.58:211][889]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.58:211][889]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.58:211][889]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.42.58:213][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012302s)
+[2015.03.21-13.42.58:214][889]LogPlayLevel: PIE: World Init took: (0.000537s)
+[2015.03.21-13.42.58:214][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013062s)
+[2015.03.21-13.42.58:248][889]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-13.42.58:250][889]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-13.42.58:255][889]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-13.42.58
+[2015.03.21-13.42.58:256][889]LogWorld: Bringing up level for play took: 0.004969
+[2015.03.21-13.42.58:257][889]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.42.58:257][889]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.42.58:258][889]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.35
+[2015.03.21-13.42.59:710][975]LogBlueprintUserMessages: Player found
+[2015.03.21-13.42.59:743][977]LogBlueprintUserMessages: Hello
+[2015.03.21-13.43.04:233][246]LogBlueprintUserMessages: Hello
+[2015.03.21-13.43.04:267][248]LogBlueprintUserMessages: Player found
+[2015.03.21-13.43.05:917][347]LogBlueprintUserMessages: Bird
+[2015.03.21-13.43.08:734][516]LogBlueprintUserMessages: Hello
+[2015.03.21-13.43.08:768][518]LogBlueprintUserMessages: Player found
+[2015.03.21-13.43.09:951][589]LogBlueprintUserMessages: Bird
+[2015.03.21-13.43.13:235][786]LogBlueprintUserMessages: Hello
+[2015.03.21-13.43.13:268][788]LogBlueprintUserMessages: Player found
+[2015.03.21-13.43.14:384][855]LogBlueprintUserMessages: Bird
+[2015.03.21-13.43.17:735][ 56]LogBlueprintUserMessages: Hello
+[2015.03.21-13.43.17:802][ 60]LogBlueprintUserMessages: Player found
+[2015.03.21-13.43.18:884][125]LogBlueprintUserMessages: Bird
+[2015.03.21-13.43.22:234][326]LogBlueprintUserMessages: Hello
+[2015.03.21-13.43.22:334][332]LogBlueprintUserMessages: Player found
+[2015.03.21-13.43.23:384][395]LogBlueprintUserMessages: Bird
+[2015.03.21-13.43.26:735][596]LogBlueprintUserMessages: Hello
+[2015.03.21-13.43.26:852][603]LogBlueprintUserMessages: Player found
+[2015.03.21-13.43.27:884][665]LogBlueprintUserMessages: Bird
+[2015.03.21-13.43.31:235][866]LogBlueprintUserMessages: Hello
+[2015.03.21-13.43.31:318][871]LogBlueprintUserMessages: Player found
+[2015.03.21-13.43.32:384][935]LogBlueprintUserMessages: Bird
+[2015.03.21-13.43.35:734][136]LogBlueprintUserMessages: Hello
+[2015.03.21-13.43.35:767][138]LogBlueprintUserMessages: Player found
+[2015.03.21-13.43.36:885][205]LogBlueprintUserMessages: Bird
+[2015.03.21-13.43.40:237][406]LogBlueprintUserMessages: Hello
+[2015.03.21-13.43.40:504][422]LogBlueprintUserMessages: Player found
+[2015.03.21-13.43.41:387][475]LogBlueprintUserMessages: Bird
+[2015.03.21-13.43.43:902][620]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7A54AD940
+[2015.03.21-13.43.53:266][170]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-13.43.53:272][170]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-13.43.53:520][170]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-13.43.53:613][170]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-13.43.53:758][170]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-13.43.53:854][170]LogPlayLevel: PIE:  Blueprint regeneration took 589 ms (4 blueprints)
+[2015.03.21-13.43.53:854][170]PIE: New page: PIE session: Levelone (21 Mar 2015 13:43:53)
+[2015.03.21-13.43.53:863][170]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.43.53:863][170]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.43.53:864][170]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.43.53:864][170]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.43.53:865][170]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.43.53:865][170]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.43.53:865][170]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.43.53:865][170]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.43.53:865][170]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.43.53:866][170]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.43.53:868][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012855s)
+[2015.03.21-13.43.53:868][170]LogPlayLevel: PIE: World Init took: (0.000537s)
+[2015.03.21-13.43.53:868][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013595s)
+[2015.03.21-13.43.53:902][170]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-13.43.53:905][170]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-13.43.53:909][170]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-13.43.53
+[2015.03.21-13.43.53:910][170]LogWorld: Bringing up level for play took: 0.005347
+[2015.03.21-13.43.53:913][170]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.43.53:913][170]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.43.53:914][170]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.006
+[2015.03.21-13.43.54:654][213]LogBlueprintUserMessages: Hello
+[2015.03.21-13.43.54:688][215]LogBlueprintUserMessages: Hello
+[2015.03.21-13.43.54:705][216]LogBlueprintUserMessages: Hello
+[2015.03.21-13.43.57:682][389]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7A653EFC0
+[2015.03.21-13.43.58:623][445]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treetile_Sprite)
+[2015.03.21-13.43.59:452][487]Cmd: DELETE
+[2015.03.21-13.43.59:452][487]Cmd: ACTOR DELETE
+[2015.03.21-13.43.59:453][487]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2015.03.21-13.43.59:478][487]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2015.03.21-13.44.00:315][537]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_tuft_Sprite)
+[2015.03.21-13.44.00:574][551]Cmd: DELETE
+[2015.03.21-13.44.00:574][551]Cmd: ACTOR DELETE
+[2015.03.21-13.44.00:575][551]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2015.03.21-13.44.00:601][551]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2015.03.21-13.46.49:222][661]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-13.46.49:229][661]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-13.46.49:477][661]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-13.46.49:566][661]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-13.46.49:708][661]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-13.46.49:802][661]LogPlayLevel: PIE:  Blueprint regeneration took 580 ms (4 blueprints)
+[2015.03.21-13.46.49:802][661]PIE: New page: PIE session: Levelone (21 Mar 2015 13:46:49)
+[2015.03.21-13.46.49:811][661]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.46.49:811][661]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.46.49:812][661]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.46.49:812][661]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.46.49:813][661]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.46.49:813][661]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.46.49:813][661]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.46.49:813][661]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.46.49:813][661]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.46.49:813][661]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-13.46.49:816][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012968s)
+[2015.03.21-13.46.49:816][661]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2015.03.21-13.46.49:816][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013783s)
+[2015.03.21-13.46.49:855][661]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-13.46.49:857][661]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-13.46.49:862][661]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-13.46.49
+[2015.03.21-13.46.49:863][661]LogWorld: Bringing up level for play took: 0.004787
+[2015.03.21-13.46.49:864][661]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.46.49:864][661]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-13.46.49:866][661]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.957
+[2015.03.21-13.46.50:922][723]LogBlueprintUserMessages: Hello
+[2015.03.21-13.46.50:972][726]LogBlueprintUserMessages: Hello
+[2015.03.21-13.46.54:829][953]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7C95785E0
+[2015.03.21-13.46.58:557][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Bird" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Bird.uasset" SILENT=true
+[2015.03.21-13.46.58:814][ 24]LogSavePackage: Save=239.900665ms
+[2015.03.21-13.46.58:814][ 24]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/BirdAC1D868149E0E89502B8EDAFA8998A61.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Bird.uasset'
+[2015.03.21-13.46.58:834][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.21-13.46.59:175][ 24]LogSavePackage: Save=324.087280ms
+[2015.03.21-13.46.59:175][ 24]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/IcantspellchamerlanBBA6AC28443E2D2A0B7C02AD58633487.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.21-13.46.59:410][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.21-13.46.59:629][ 24]LogSavePackage: Save=172.580521ms
+[2015.03.21-13.46.59:629][ 24]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone8465A3D94AD5D90D8F9351A43D574C28.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.21-13.46.59:678][ 24]LogFileHelpers: Saving map 'Levelone' took 0.486
+[2015.03.21-13.46.59:682][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/branch_1_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_1_Sprite.uasset" SILENT=true
+[2015.03.21-13.46.59:695][ 24]LogSavePackage: Save=5.672518ms
+[2015.03.21-13.46.59:695][ 24]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/branch_1_SpriteF446CEDE486250D0BEB5E192819F9A74.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_1_Sprite.uasset'
+[2015.03.21-13.46.59:711][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/branch_2_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_2_Sprite.uasset" SILENT=true
+[2015.03.21-13.46.59:722][ 24]LogSavePackage: Save=4.959399ms
+[2015.03.21-13.46.59:722][ 24]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/branch_2_Sprite35155D604A3953AF26D7B890A0FA6C9B.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_2_Sprite.uasset'
+[2015.03.21-13.46.59:737][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/branch_3_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_3_Sprite.uasset" SILENT=true
+[2015.03.21-13.46.59:748][ 24]LogSavePackage: Save=5.005791ms
+[2015.03.21-13.46.59:748][ 24]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/branch_3_Sprite54A800FF4403A605B776A38944AA72F3.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_3_Sprite.uasset'
+[2015.03.21-13.46.59:764][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/cloud1_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud1_Sprite.uasset" SILENT=true
+[2015.03.21-13.46.59:774][ 24]LogSavePackage: Save=4.783275ms
+[2015.03.21-13.46.59:774][ 24]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/cloud1_Sprite70F8F09A4C8A721F62D3CB800F6BCAFF.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud1_Sprite.uasset'
+[2015.03.21-13.46.59:793][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/cloud2_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud2_Sprite.uasset" SILENT=true
+[2015.03.21-13.46.59:856][ 24]LogSavePackage: Save=58.330006ms
+[2015.03.21-13.46.59:856][ 24]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/cloud2_SpriteCD98C58143F95D6839DEC79205B9D665.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud2_Sprite.uasset'
+[2015.03.21-13.46.59:874][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/grass_1_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass_1_Sprite.uasset" SILENT=true
+[2015.03.21-13.46.59:884][ 24]LogSavePackage: Save=4.734009ms
+[2015.03.21-13.46.59:884][ 24]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/grass_1_Sprite8D5BB5BF4FC8AF27CC0071B0839D073F.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass_1_Sprite.uasset'
+[2015.03.21-13.46.59:900][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/grass_tuft_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass_tuft_Sprite.uasset" SILENT=true
+[2015.03.21-13.46.59:910][ 24]LogSavePackage: Save=5.390472ms
+[2015.03.21-13.46.59:910][ 24]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/grass_tuft_SpriteFF7212E34B01A6054FDBC9A763940EF5.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass_tuft_Sprite.uasset'
+[2015.03.21-13.46.59:933][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/hollow_log_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/hollow_log_Sprite.uasset" SILENT=true
+[2015.03.21-13.46.59:943][ 24]LogSavePackage: Save=5.092005ms
+[2015.03.21-13.46.59:943][ 24]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/hollow_log_SpriteF8EB57E340F8115AE0604A85B123BA29.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/hollow_log_Sprite.uasset'
+[2015.03.21-13.46.59:960][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/stump_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/stump_Sprite.uasset" SILENT=true
+[2015.03.21-13.46.59:971][ 24]LogSavePackage: Save=5.050540ms
+[2015.03.21-13.46.59:971][ 24]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/stump_Sprite86D48529434C30E8F7E184A9572D8FC2.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/stump_Sprite.uasset'
+[2015.03.21-13.46.59:987][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/treebasetile_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/treebasetile_Sprite.uasset" SILENT=true
+[2015.03.21-13.46.59:998][ 24]LogSavePackage: Save=6.108929ms
+[2015.03.21-13.46.59:998][ 24]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/treebasetile_Sprite3BB31B1F4EA03AAF15016891D2E96293.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/treebasetile_Sprite.uasset'
+[2015.03.21-13.47.00:016][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/treetile_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/treetile_Sprite.uasset" SILENT=true
+[2015.03.21-13.47.00:027][ 24]LogSavePackage: Save=5.082973ms
+[2015.03.21-13.47.00:027][ 24]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/treetile_Sprite188BE7B54F28DB43F0035C993FE8D2CF.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/treetile_Sprite.uasset'
+[2015.03.21-13.47.00:051][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Menu.uasset" SILENT=true
+[2015.03.21-13.47.00:105][ 24]LogSavePackage: Save=34.838135ms
+[2015.03.21-13.47.00:105][ 24]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/MenuF70DC89B443313E8D3C667BB3A52F3B3.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Menu.uasset'
+[2015.03.21-13.47.00:124][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Settings" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Settings.uasset" SILENT=true
+[2015.03.21-13.47.00:322][ 24]LogSavePackage: Save=181.199524ms
+[2015.03.21-13.47.00:322][ 24]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/SettingsB1AAE89A44A314AAB880B8B9F81CB2FF.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Settings.uasset'
+[2015.03.21-13.47.00:944][ 25]Cmd: QUIT_EDITOR
+[2015.03.21-13.47.01:211][ 25]LogExit: Preparing to exit.
+[2015.03.21-13.47.01:524][ 25]LogExit: Editor shut down
+[2015.03.21-13.47.01:525][ 25]LogExit: Transaction tracking system shut down
+[2015.03.21-13.47.01:529][ 25]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7E0B05DA0
+[2015.03.21-13.47.01:529][ 25]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7E101AD40
+[2015.03.21-13.47.01:529][ 25]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7DEDDA8E0
+[2015.03.21-13.47.01:531][ 25]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7E92BE0C0
+[2015.03.21-13.47.01:532][ 25]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7EC023EC0
+[2015.03.21-13.47.01:532][ 25]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7EC023240
+[2015.03.21-13.47.01:533][ 25]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7EAF87A60
+[2015.03.21-13.47.01:533][ 25]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7EAF840E0
+[2015.03.21-13.47.01:534][ 25]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7FD6DD3A0
+[2015.03.21-13.47.01:534][ 25]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7A1C342C0
+[2015.03.21-13.47.01:534][ 25]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F7EBF59C60
+[2015.03.21-13.47.01:629][ 25]LogExit: Object subsystem successfully closed.
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module SequencerWidgets (178)
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module CrashTracker (177)
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module SuperSearch (176)
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module SceneOutliner (175)
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module EditorWidgets (174)
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module CollectionManager (173)
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module StatsViewer (172)
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module FoliageEdit (171)
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module LandscapeEditor (170)
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module MeshPaint (169)
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module ActorPickerMode (168)
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module GeometryMode (167)
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module TextureAlignMode (166)
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module BspMode (165)
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module PlacementMode (164)
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module AutomationWorker (163)
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module CharacterAI (162)
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module SmartSnapping (161)
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module ViewportSnapping (160)
+[2015.03.21-13.47.01:715][ 25]LogModuleManager: Shutting down and abandoning module LogVisualizer (159)
+[2015.03.21-13.47.01:716][ 25]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (158)
+[2015.03.21-13.47.01:716][ 25]LogModuleManager: Shutting down and abandoning module IntroTutorials (157)
+[2015.03.21-13.47.01:716][ 25]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (156)
+[2015.03.21-13.47.01:716][ 25]LogModuleManager: Shutting down and abandoning module HardwareTargeting (155)
+[2015.03.21-13.47.01:716][ 25]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (154)
+[2015.03.21-13.47.01:716][ 25]LogModuleManager: Shutting down and abandoning module UndoHistory (153)
+[2015.03.21-13.47.01:716][ 25]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (152)
+[2015.03.21-13.47.01:716][ 25]LogModuleManager: Shutting down and abandoning module UserFeedback (151)
+[2015.03.21-13.47.01:716][ 25]LogModuleManager: Shutting down and abandoning module XmlParser (150)
+[2015.03.21-13.47.01:716][ 25]LogModuleManager: Shutting down and abandoning module Blutility (149)
+[2015.03.21-13.47.01:716][ 25]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (148)
+[2015.03.21-13.47.01:716][ 25]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (147)
+[2015.03.21-13.47.01:716][ 25]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (146)
+[2015.03.21-13.47.01:975][ 25]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (145)
+[2015.03.21-13.47.01:975][ 25]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (144)
+[2015.03.21-13.47.01:975][ 25]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (143)
+[2015.03.21-13.47.01:975][ 25]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (142)
+[2015.03.21-13.47.01:975][ 25]LogModuleManager: Shutting down and abandoning module InputBindingEditor (141)
+[2015.03.21-13.47.01:976][ 25]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (140)
+[2015.03.21-13.47.01:976][ 25]LogModuleManager: Shutting down and abandoning module SettingsEditor (139)
+[2015.03.21-13.47.01:976][ 25]LogModuleManager: Shutting down and abandoning module ProjectLauncher (138)
+[2015.03.21-13.47.01:976][ 25]LogModuleManager: Shutting down and abandoning module SessionFrontend (137)
+[2015.03.21-13.47.01:976][ 25]LogModuleManager: Shutting down and abandoning module ProfilerClient (136)
+[2015.03.21-13.47.01:976][ 25]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (135)
+[2015.03.21-13.47.01:976][ 25]LogModuleManager: Shutting down and abandoning module DeviceManager (134)
+[2015.03.21-13.47.01:976][ 25]LogModuleManager: Shutting down and abandoning module AutomationController (133)
+[2015.03.21-13.47.01:976][ 25]LogModuleManager: Shutting down and abandoning module AutomationWindow (132)
+[2015.03.21-13.47.01:976][ 25]LogModuleManager: Shutting down and abandoning module Layers (131)
+[2015.03.21-13.47.01:977][ 25]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (130)
+[2015.03.21-13.47.01:977][ 25]LogModuleManager: Shutting down and abandoning module DetailCustomizations (129)
+[2015.03.21-13.47.01:977][ 25]LogModuleManager: Shutting down and abandoning module PackagesDialog (128)
+[2015.03.21-13.47.01:977][ 25]LogModuleManager: Shutting down and abandoning module AssetRegistry (127)
+[2015.03.21-13.47.02:131][ 25]LogModuleManager: Shutting down and abandoning module Persona (126)
+[2015.03.21-13.47.02:131][ 25]LogModuleManager: Shutting down and abandoning module SlateReflector (125)
+[2015.03.21-13.47.02:131][ 25]LogModuleManager: Shutting down and abandoning module LevelEditor (124)
+[2015.03.21-13.47.02:132][ 25]LogModuleManager: Shutting down and abandoning module Kismet (123)
+[2015.03.21-13.47.02:132][ 25]LogModuleManager: Shutting down and abandoning module GraphEditor (122)
+[2015.03.21-13.47.02:132][ 25]LogModuleManager: Shutting down and abandoning module ClassViewer (121)
+[2015.03.21-13.47.02:132][ 25]LogModuleManager: Shutting down and abandoning module Toolbox (120)
+[2015.03.21-13.47.02:132][ 25]LogModuleManager: Shutting down and abandoning module ModuleUI (119)
+[2015.03.21-13.47.02:132][ 25]LogModuleManager: Shutting down and abandoning module MovieSceneTools (118)
+[2015.03.21-13.47.02:132][ 25]LogModuleManager: Shutting down and abandoning module OutputLog (117)
+[2015.03.21-13.47.02:132][ 25]LogModuleManager: Shutting down and abandoning module GammaUI (116)
+[2015.03.21-13.47.02:132][ 25]LogModuleManager: Shutting down and abandoning module Documentation (115)
+[2015.03.21-13.47.02:133][ 25]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (114)
+[2015.03.21-13.47.02:133][ 25]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (113)
+[2015.03.21-13.47.02:133][ 25]LogModuleManager: Shutting down and abandoning module HTTP (112)
+[2015.03.21-13.47.02:133][ 25]LogModuleManager: Shutting down and abandoning module AnalyticsET (111)
+[2015.03.21-13.47.02:133][ 25]LogModuleManager: Shutting down and abandoning module Analytics (110)
+[2015.03.21-13.47.02:133][ 25]LogModuleManager: Shutting down and abandoning module AITestSuite (109)
+[2015.03.21-13.47.02:133][ 25]LogModuleManager: Shutting down and abandoning module GameplayDebugger (108)
+[2015.03.21-13.47.02:133][ 25]LogModuleManager: Shutting down and abandoning module AIModule (107)
+[2015.03.21-13.47.02:133][ 25]LogModuleManager: Shutting down and abandoning module ProfilerService (106)
+[2015.03.21-13.47.02:243][ 25]LogModuleManager: Shutting down and abandoning module TaskGraph (105)
+[2015.03.21-13.47.02:243][ 25]LogModuleManager: Shutting down and abandoning module SlateRemote (104)
+[2015.03.21-13.47.02:243][ 25]LogModuleManager: Shutting down and abandoning module ScriptEditorPlugin (103)
+[2015.03.21-13.47.02:243][ 25]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (102)
+[2015.03.21-13.47.02:243][ 25]LogModuleManager: Shutting down and abandoning module CableComponent (101)
+[2015.03.21-13.47.02:243][ 25]LogModuleManager: Shutting down and abandoning module MessagingDebugger (100)
+[2015.03.21-13.47.02:243][ 25]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (99)
+[2015.03.21-13.47.02:243][ 25]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (98)
+[2015.03.21-13.47.02:243][ 25]LogModuleManager: Shutting down and abandoning module PluginsEditor (97)
+[2015.03.21-13.47.02:243][ 25]LogModuleManager: Shutting down and abandoning module MainFrame (96)
+[2015.03.21-13.47.02:243][ 25]LogModuleManager: Shutting down and abandoning module EpicSurvey (95)
+[2015.03.21-13.47.02:243][ 25]LogModuleManager: Shutting down and abandoning module DesktopPlatform (94)
+[2015.03.21-13.47.02:243][ 25]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (93)
+[2015.03.21-13.47.02:245][ 25]LogModuleManager: Shutting down and abandoning module HotReload (92)
+[2015.03.21-13.47.02:245][ 25]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (91)
+[2015.03.21-13.47.02:245][ 25]LogModuleManager: Shutting down and abandoning module UObjectPlugin (90)
+[2015.03.21-13.47.02:245][ 25]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (89)
+[2015.03.21-13.47.02:245][ 25]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (88)
+[2015.03.21-13.47.02:245][ 25]LogModuleManager: Shutting down and abandoning module SourceControl (87)
+[2015.03.21-13.47.02:245][ 25]LogModuleManager: Shutting down and abandoning module GitSourceControl (86)
+[2015.03.21-13.47.02:245][ 25]LogModuleManager: Shutting down and abandoning module BlankPlugin (85)
+[2015.03.21-13.47.02:245][ 25]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (84)
+[2015.03.21-13.47.02:245][ 25]LogModuleManager: Shutting down and abandoning module PaperJsonImporter (83)
+[2015.03.21-13.47.02:245][ 25]LogModuleManager: Shutting down and abandoning module ContentBrowser (82)
+[2015.03.21-13.47.02:246][ 25]LogModuleManager: Shutting down and abandoning module Paper2DEditor (81)
+[2015.03.21-13.47.02:246][ 25]LogModuleManager: Shutting down and abandoning module ScriptPlugin (80)
+[2015.03.21-13.47.02:246][ 25]LogModuleManager: Shutting down and abandoning module UdpMessaging (79)
+[2015.03.21-13.47.02:348][ 25]LogModuleManager: Shutting down and abandoning module Paper2D (78)
+[2015.03.21-13.47.02:348][ 25]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (77)
+[2015.03.21-13.47.02:349][ 25]LogModuleManager: Shutting down and abandoning module Media (76)
+[2015.03.21-13.47.02:349][ 25]LogModuleManager: Shutting down and abandoning module WmfMedia (75)
+[2015.03.21-13.47.02:349][ 25]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2015.03.21-13.47.02:349][ 25]LogModuleManager: Shutting down and abandoning module PropertyEditor (73)
+[2015.03.21-13.47.02:350][ 25]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (72)
+[2015.03.21-13.47.02:350][ 25]LogModuleManager: Shutting down and abandoning module FunctionalTesting (71)
+[2015.03.21-13.47.02:350][ 25]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (70)
+[2015.03.21-13.47.02:350][ 25]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (69)
+[2015.03.21-13.47.02:350][ 25]LogModuleManager: Shutting down and abandoning module MessageLog (68)
+[2015.03.21-13.47.02:350][ 25]LogModuleManager: Shutting down and abandoning module Sequencer (67)
+[2015.03.21-13.47.02:350][ 25]LogModuleManager: Shutting down and abandoning module AssetTools (66)
+[2015.03.21-13.47.02:350][ 25]LogModuleManager: Shutting down and abandoning module UMGEditor (65)
+[2015.03.21-13.47.02:350][ 25]LogModuleManager: Shutting down and abandoning module UMG (64)
+[2015.03.21-13.47.02:350][ 25]LogModuleManager: Shutting down and abandoning module Slate (63)
+[2015.03.21-13.47.02:350][ 25]LogModuleManager: Shutting down and abandoning module EditorStyle (62)
+[2015.03.21-13.47.02:355][ 25]LogModuleManager: Shutting down and abandoning module SessionServices (61)
+[2015.03.21-13.47.02:355][ 25]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (60)
+[2015.03.21-13.47.02:355][ 25]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (59)
+[2015.03.21-13.47.02:355][ 25]LogModuleManager: Shutting down and abandoning module XAudio2 (58)
+[2015.03.21-13.47.02:355][ 25]LogModuleManager: Shutting down and abandoning module Networking (56)
+[2015.03.21-13.47.02:355][ 25]LogModuleManager: Shutting down and abandoning module Core (55)
+[2015.03.21-13.47.02:355][ 25]LogModuleManager: Shutting down and abandoning module KismetCompiler (54)
+[2015.03.21-13.47.02:355][ 25]LogModuleManager: Shutting down and abandoning module PhysXFormats (53)
+[2015.03.21-13.47.02:355][ 25]LogModuleManager: Shutting down and abandoning module MeshUtilities (52)
+[2015.03.21-13.47.02:355][ 25]LogModuleManager: Shutting down and abandoning module DerivedDataCache (51)
+[2015.03.21-13.47.02:436][ 25]LogDerivedDataCache: Shutdown
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (50)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (49)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (48)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (47)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (46)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (45)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (44)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module ImageWrapper (43)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (42)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (41)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (40)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (39)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (38)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (37)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (36)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (35)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module Messaging (34)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (33)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (32)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (31)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (30)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (29)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module Android_ES31TargetPlatform (28)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (27)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (26)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (25)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (24)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (23)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (22)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (21)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module TargetPlatform (20)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module InputCore (19)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module Settings (18)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (16)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module OculusRift (15)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (14)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module TextureCompressor (13)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module ShaderCore (12)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module Landscape (11)
+[2015.03.21-13.47.02:436][ 25]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (10)
+[2015.03.21-13.47.02:447][ 25]LogModuleManager: Shutting down and abandoning module OpenGLDrv (9)
+[2015.03.21-13.47.02:447][ 25]LogModuleManager: Shutting down and abandoning module D3D11RHI (8)
+[2015.03.21-13.47.02:447][ 25]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2015.03.21-13.47.02:447][ 25]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2015.03.21-13.47.02:447][ 25]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2015.03.21-13.47.02:447][ 25]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2015.03.21-13.47.02:447][ 25]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2015.03.21-13.47.02:447][ 25]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2015.03.21-13.47.02:447][ 25]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2015.03.21-13.47.02:448][ 25]LogExit: Exiting.
+[2015.03.21-13.47.02:469][ 25]Log file closed, 03/21/15 13:47:02
