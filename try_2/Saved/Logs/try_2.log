@@ -1,4 +1,4 @@
-﻿Log file open, 03/21/15 20:26:22
+﻿Log file open, 03/21/15 20:58:01
 LogInit:Display: Running engine for game: try_2
 LogInit: Version: 4.7.3-2479750+++depot+UE4-Releases+4.7
 LogInit: API Version: 2455222
@@ -9,839 +9,289 @@ LogInit: Branch Name: ++depot+UE4-Releases+4.7
 LogInit: Command line:  
 LogInit: Base directory: C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/
 LogInit: Rocket: 1
-[2015.03.21-20.26.22:097][  0]LogTaskGraph: Started task graph with 3 named threads and 6 total threads.
-[2015.03.21-20.26.22:156][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
-[2015.03.21-20.26.22:241][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
-[2015.03.21-20.26.22:249][  0]LogInit: Object subsystem initialized
-[2015.03.21-20.26.22:251][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'TranslucentSortAxis = (X=0.000000,Y=-1.000000,Z=0.000000)'
-[2015.03.21-20.26.22:251][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Alan/Desktop/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
-[2015.03.21-20.26.22:251][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
-[2015.03.21-20.26.22:251][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Alan/Desktop/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
-[2015.03.21-20.26.22:251][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=),ExternalCurve=None)'
-[2015.03.21-20.26.22:251][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Alan/Desktop/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
-[2015.03.21-20.26.22:251][  0]LogInit: Selected Device Profile: [Windows]
-[2015.03.21-20.26.22:251][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2015.03.21-20.26.22:331][  0]LogInit: Computer: LENOVO-PC
-[2015.03.21-20.26.22:331][  0]LogInit: User: Alan
-[2015.03.21-20.26.22:331][  0]LogInit: CPU Page size=4096, Cores=4
-[2015.03.21-20.26.22:331][  0]LogInit: High frequency timer resolution =2.435779 MHz
-[2015.03.21-20.26.22:331][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx) Virtual=131072.0GB
-[2015.03.21-20.26.22:331][  0]LogMemory: Platform Memory Stats for Windows
-[2015.03.21-20.26.22:331][  0]LogMemory: Process Physical Memory: 46.08 MB used, 46.08 MB peak
-[2015.03.21-20.26.22:331][  0]LogMemory: Process Virtual Memory: 26.43 MB used, 26.43 MB peak
-[2015.03.21-20.26.22:331][  0]LogMemory: Physical Memory: 6595.88 MB used, 12200.27 MB total
-[2015.03.21-20.26.22:331][  0]LogMemory: Virtual Memory: 292.70 MB used, 134217728.00 MB total
-[2015.03.21-20.26.22:491][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 860M   (Feature Level 11_0)
-[2015.03.21-20.26.22:491][  0]LogD3D11RHI: Adapter has 1972MB of dedicated video memory, 0MB of dedicated system memory, and 2048MB of shared system memory, 1 output[s]
-[2015.03.21-20.26.22:515][  0]LogD3D11RHI: Found D3D11 adapter 1: Intel(R) HD Graphics 4600 (Feature Level 11_0)
-[2015.03.21-20.26.22:515][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 1792MB of shared system memory, 0 output[s]
-[2015.03.21-20.26.22:516][  0]LogD3D11RHI: Found D3D11 adapter 2: Microsoft Basic Render Driver (Feature Level 11_0)
-[2015.03.21-20.26.22:516][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 256MB of shared system memory, 0 output[s]
-[2015.03.21-20.26.22:516][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
-[2015.03.21-20.26.22:521][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
-[2015.03.21-20.26.22:529][  0]LogD3D11RHI: Async texture creation enabled
-[2015.03.21-20.26.22:898][  0]LogTextLocalizationManager: The requested culture ('en_GB') has no localization data; parent culture's ('en') localization data will be used.
-[2015.03.21-20.26.23:019][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:UICommands, Key:Save_ToolTip):
+[2015.03.21-20.58.01:195][  0]LogTaskGraph: Started task graph with 3 named threads and 6 total threads.
+[2015.03.21-20.58.01:292][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2015.03.21-20.58.01:331][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.03.21-20.58.01:343][  0]LogInit: Object subsystem initialized
+[2015.03.21-20.58.01:346][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'TranslucentSortAxis = (X=0.000000,Y=-1.000000,Z=0.000000)'
+[2015.03.21-20.58.01:346][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Alan/Desktop/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.21-20.58.01:346][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2015.03.21-20.58.01:346][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Alan/Desktop/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.21-20.58.01:346][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=),ExternalCurve=None)'
+[2015.03.21-20.58.01:346][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Alan/Desktop/GameJam/try_2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.21-20.58.01:346][  0]LogInit: Selected Device Profile: [Windows]
+[2015.03.21-20.58.01:347][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2015.03.21-20.58.01:355][  0]LogInit: Computer: LENOVO-PC
+[2015.03.21-20.58.01:355][  0]LogInit: User: Alan
+[2015.03.21-20.58.01:355][  0]LogInit: CPU Page size=4096, Cores=4
+[2015.03.21-20.58.01:355][  0]LogInit: High frequency timer resolution =2.435779 MHz
+[2015.03.21-20.58.01:355][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx) Virtual=131072.0GB
+[2015.03.21-20.58.01:356][  0]LogMemory: Platform Memory Stats for Windows
+[2015.03.21-20.58.01:356][  0]LogMemory: Process Physical Memory: 46.15 MB used, 46.15 MB peak
+[2015.03.21-20.58.01:356][  0]LogMemory: Process Virtual Memory: 26.43 MB used, 26.43 MB peak
+[2015.03.21-20.58.01:356][  0]LogMemory: Physical Memory: 6530.99 MB used, 12200.27 MB total
+[2015.03.21-20.58.01:356][  0]LogMemory: Virtual Memory: 292.70 MB used, 134217728.00 MB total
+[2015.03.21-20.58.01:379][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 860M   (Feature Level 11_0)
+[2015.03.21-20.58.01:379][  0]LogD3D11RHI: Adapter has 1972MB of dedicated video memory, 0MB of dedicated system memory, and 2048MB of shared system memory, 1 output[s]
+[2015.03.21-20.58.01:385][  0]LogD3D11RHI: Found D3D11 adapter 1: Intel(R) HD Graphics 4600 (Feature Level 11_0)
+[2015.03.21-20.58.01:385][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 1792MB of shared system memory, 0 output[s]
+[2015.03.21-20.58.01:387][  0]LogD3D11RHI: Found D3D11 adapter 2: Microsoft Basic Render Driver (Feature Level 11_0)
+[2015.03.21-20.58.01:387][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 256MB of shared system memory, 0 output[s]
+[2015.03.21-20.58.01:387][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2015.03.21-20.58.01:392][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2015.03.21-20.58.01:400][  0]LogD3D11RHI: Async texture creation enabled
+[2015.03.21-20.58.01:457][  0]LogTextLocalizationManager: The requested culture ('en_GB') has no localization data; parent culture's ('en') localization data will be used.
+[2015.03.21-20.58.01:510][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:UICommands, Key:Save_ToolTip):
 Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-29098895) String: (Saves the current level to disk)
 Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Engine/en/Engine.locres) Hash: (-1280300587) String: (Save selected data to vlog file)
-[2015.03.21-20.26.23:019][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:ContentBrowser, Key:ImportAssetToolTip):
+[2015.03.21-20.58.01:510][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:ContentBrowser, Key:ImportAssetToolTip):
 Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-630476809) String: (Import to {0}...)
 Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (1271782899) String: (Imports an asset from file to this folder.)
-[2015.03.21-20.26.23:098][  0]LogContentStreaming: Texture pool size is 0.000000MB
-[2015.03.21-20.26.29:025][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2015.03.21-20.26.30:318][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2015.03.21-20.26.30:406][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
-[2015.03.21-20.26.30:929][  0]LogDerivedDataCache: Loaded boot cache 0.52s 39MB C:/Users/Alan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
-[2015.03.21-20.26.30:929][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Alan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc
-[2015.03.21-20.26.30:930][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alan/Desktop/GameJam/try_2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2015.03.21-20.26.30:930][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2015.03.21-20.26.31:136][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2015.03.21-20.26.31:152][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2015.03.21-20.26.36:602][  0]LogMeshUtilities: No automatic mesh reduction module available
-[2015.03.21-20.26.36:602][  0]LogMeshUtilities: No automatic mesh merging module available
-[2015.03.21-20.26.38:050][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2015.03.21-20.26.38:268][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf'
-[2015.03.21-20.26.57:581][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2015.03.21-20.26.58:165][  0]SourceControl: Info Source control is disabled
-[2015.03.21-20.26.58:166][  0]SourceControl: Info Source control is disabled
-[2015.03.21-20.26.58:166][  0]SourceControl: Info Source control is disabled
-[2015.03.21-20.26.58:166][  0]LogSourceControl: RunCommandInternalRaw: 'git version'
-[2015.03.21-20.26.58:166][  0]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
-[2015.03.21-20.26.58:177][  0]SourceControl: Info Source control is disabled
-[2015.03.21-20.26.58:908][  0]LogObj: 24231 objects as part of root set at end of initial load.
-[2015.03.21-20.26.58:908][  0]LogUObjectAllocator: 5136440 out of 0 bytes used by permanent object pool.
-[2015.03.21-20.26.59:100][  0]LogEngine: Initializing Engine...
-[2015.03.21-20.27.01:521][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2015.03.21-20.27.01:531][  0]LogInit: FAudioDevice initialized.
-[2015.03.21-20.27.01:622][  0]LogAIModule: Creating AISystem for world NewWorld
-[2015.03.21-20.27.01:643][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/Alan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
-[2015.03.21-20.27.01:646][  0]LogInit: Texture streaming: Enabled
-[2015.03.21-20.27.02:121][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
-[2015.03.21-20.27.02:121][  0]LogAnalytics: ET APIKey = Rocket.Release. APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.7.3-2479750+++depot+UE4-Releases+4.7
-[2015.03.21-20.27.02:121][  0]LogAnalytics: ET APIKey = Rocket.Release. DataRouterUploadURL = https://datarouter-public-service-gamedev.ol.epicgames.net/datarouter/api/v1/public/data. AppVersion = 4.7.3-2479750+++depot+UE4-Releases+4.7
-[2015.03.21-20.27.02:121][  0]LogAnalytics: SetUserId bf983d414061faadd9b540bc65654c89|cd1d82d73781485ab50acc24dc629692|7e7e8939-47f7-4fa5-92a0-b7ded3b067c9
-[2015.03.21-20.27.02:121][  0]LogAnalytics: AnalyticsET::StartSession [Rocket.Release]
-[2015.03.21-20.27.02:220][  0]LogInit: Transaction tracking system initialized
-[2015.03.21-20.27.02:690][  0]BlueprintLog: New page: Editor Load
-[2015.03.21-20.27.02:749][  0]LogAssetRegistry: FAssetRegistry took 0.0109 seconds to start up
-[2015.03.21-20.27.02:749][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
-[2015.03.21-20.27.04:188][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2015.03.21-20.27.04:668][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2015.03.21-20.27.05:266][  0]LogLinker:Warning: Asset '../../../Engine/Content/Tutorial/Mobile/SettingUpAndroidTutorial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
-[2015.03.21-20.27.05:373][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Regular.ttf'
-[2015.03.21-20.27.05:373][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Bold.ttf'
-[2015.03.21-20.27.05:472][  0]LogConsoleResponse:Display: 
-[2015.03.21-20.27.07:257][  0]LogCook:Display: Done creating registry. It took  0.00s.
-[2015.03.21-20.27.08:145][  0]SourceControl: Info Source control is disabled
-[2015.03.21-20.27.08:145][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2015.03.21-20.27.08:146][  0]LightingResults: New page: Lighting Build
-[2015.03.21-20.27.08:159][  0]MapCheck: New page: Map Check
-[2015.03.21-20.27.08:159][  0]LightingResults: New page: Lighting Build
-[2015.03.21-20.27.08:165][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F2B5706980
-[2015.03.21-20.27.10:292][  0]LogTexture:Display: Building textures: birdie (AutoDXT)
-[2015.03.21-20.27.10:447][  0]LogTexture:Display: Building textures: Point_A (BGRA8)
-[2015.03.21-20.27.10:449][  0]LogTexture:Display: Building textures: Point_B (BGRA8)
-[2015.03.21-20.27.10:504][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2015.03.21-20.27.10:504][  0]LogAIModule: Creating AISystem for world Levelone
-[2015.03.21-20.27.10:505][  0]Cmd: MAP CHECKDEP
-[2015.03.21-20.27.10:505][  0]MapCheck: New page: Levelone - 21 Mar 2015 20:27:10
-[2015.03.21-20.27.10:629][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 124.157ms to complete.
-[2015.03.21-20.27.10:629][  0]LogFileHelpers: Loading map 'Levelone' took 2.484
-[2015.03.21-20.27.10:842][  0]LogCollectionManager: Loaded 0 collections in 0.002109 seconds
-[2015.03.21-20.27.10:851][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 1696 classes and 261 folders.
-[2015.03.21-20.27.10:907][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0079 seconds. Added 1 classes and 2 folders.
-[2015.03.21-20.27.11:254][  0]LogCrashTracker: Crashtracker disabled due to settings.
-[2015.03.21-20.27.11:255][  0]LogSlate:Warning: Failed to load font data from 'Veranda'
-[2015.03.21-20.27.11:262][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
-[2015.03.21-20.27.11:312][  0]LogLoad: Full Startup: 54.37 seconds (BP compile: 0.56 seconds)
-[2015.03.21-20.27.11:719][  0]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
-[2015.03.21-20.27.12:009][  0]LogRenderer:Warning: Reallocating scene render targets to support 968x440 (Frame:2).
-[2015.03.21-20.27.12:617][  4]LogAssetRegistry: Asset discovery search completed in 9.8802 seconds
-[2015.03.21-20.27.12:639][  5]AssetReimport: New page: Outstanding source content changes 20:27:12
-[2015.03.21-20.27.12:701][  5]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 1.png]
-[2015.03.21-20.27.12:701][  5]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 1.png)
-[2015.03.21-20.27.13:173][  5]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.13:175][  5]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 1.png]
-[2015.03.21-20.27.13:175][  5]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 1.png)
-[2015.03.21-20.27.13:630][  5]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.13:842][  6]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 10.png]
-[2015.03.21-20.27.13:843][  6]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 10.png)
-[2015.03.21-20.27.14:344][  6]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.14:346][  6]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 10.png]
-[2015.03.21-20.27.14:346][  6]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 10.png)
-[2015.03.21-20.27.14:839][  6]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.14:956][  7]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 2.png]
-[2015.03.21-20.27.14:956][  7]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 2.png)
-[2015.03.21-20.27.15:439][  7]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.15:440][  7]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 2.png]
-[2015.03.21-20.27.15:440][  7]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 2.png)
-[2015.03.21-20.27.15:894][  7]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.15:958][  8]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 3.png]
-[2015.03.21-20.27.15:958][  8]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 3.png)
-[2015.03.21-20.27.16:413][  8]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.16:414][  8]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 3.png]
-[2015.03.21-20.27.16:414][  8]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 3.png)
-[2015.03.21-20.27.16:889][  8]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.17:003][  9]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 4.png]
-[2015.03.21-20.27.17:003][  9]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 4.png)
-[2015.03.21-20.27.17:479][  9]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.17:480][  9]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 4.png]
-[2015.03.21-20.27.17:480][  9]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 4.png)
-[2015.03.21-20.27.17:925][  9]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.18:009][ 10]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 5.png]
-[2015.03.21-20.27.18:009][ 10]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 5.png)
-[2015.03.21-20.27.18:467][ 10]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.18:469][ 10]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 5.png]
-[2015.03.21-20.27.18:469][ 10]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 5.png)
-[2015.03.21-20.27.18:960][ 10]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.19:028][ 11]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 6.png]
-[2015.03.21-20.27.19:028][ 11]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 6.png)
-[2015.03.21-20.27.19:482][ 11]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.19:484][ 11]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 6.png]
-[2015.03.21-20.27.19:484][ 11]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 6.png)
-[2015.03.21-20.27.19:961][ 11]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.20:051][ 12]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 7.png]
-[2015.03.21-20.27.20:051][ 12]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 7.png)
-[2015.03.21-20.27.20:513][ 12]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.20:514][ 12]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 7.png]
-[2015.03.21-20.27.20:514][ 12]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 7.png)
-[2015.03.21-20.27.20:966][ 12]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.21:026][ 13]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 8.png]
-[2015.03.21-20.27.21:026][ 13]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 8.png)
-[2015.03.21-20.27.21:495][ 13]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.21:497][ 13]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 8.png]
-[2015.03.21-20.27.21:497][ 13]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 8.png)
-[2015.03.21-20.27.22:011][ 13]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.22:089][ 14]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 9.png]
-[2015.03.21-20.27.22:089][ 14]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 9.png)
-[2015.03.21-20.27.22:578][ 14]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.22:579][ 14]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 9.png]
-[2015.03.21-20.27.22:579][ 14]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 9.png)
-[2015.03.21-20.27.23:058][ 14]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.23:097][ 15]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/background.png]
-[2015.03.21-20.27.23:097][ 15]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/background.png)
-[2015.03.21-20.27.24:594][ 15]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.24:634][ 16]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 1.png]
-[2015.03.21-20.27.24:634][ 16]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 1.png)
-[2015.03.21-20.27.24:834][ 16]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.24:859][ 17]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 2.png]
-[2015.03.21-20.27.24:859][ 17]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 2.png)
-[2015.03.21-20.27.25:063][ 17]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.25:076][ 18]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 3.png]
-[2015.03.21-20.27.25:076][ 18]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 3.png)
-[2015.03.21-20.27.25:231][ 18]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.25:262][ 19]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/Branch.png]
-[2015.03.21-20.27.25:262][ 19]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/Branch.png)
-[2015.03.21-20.27.25:286][ 19]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.25:316][ 20]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/Bug.png]
-[2015.03.21-20.27.25:316][ 20]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/Bug.png)
-[2015.03.21-20.27.25:326][ 20]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.25:369][ 21]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud1.png]
-[2015.03.21-20.27.25:369][ 21]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud1.png)
-[2015.03.21-20.27.25:456][ 21]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.25:485][ 22]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud2.png]
-[2015.03.21-20.27.25:485][ 22]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud2.png)
-[2015.03.21-20.27.25:554][ 22]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.25:583][ 23]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/DeadLog.png]
-[2015.03.21-20.27.25:583][ 23]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/DeadLog.png)
-[2015.03.21-20.27.25:607][ 23]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.25:621][ 24]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass 1.png]
-[2015.03.21-20.27.25:621][ 24]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass 1.png)
-[2015.03.21-20.27.25:726][ 24]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.25:739][ 25]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass tuft.png]
-[2015.03.21-20.27.25:739][ 25]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass tuft.png)
-[2015.03.21-20.27.25:972][ 25]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.25:988][ 26]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/hollow log.png]
-[2015.03.21-20.27.25:988][ 26]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/hollow log.png)
-[2015.03.21-20.27.26:406][ 26]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.26:450][ 27]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/Log.png]
-[2015.03.21-20.27.26:450][ 27]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/Log.png)
-[2015.03.21-20.27.26:490][ 27]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.26:505][ 28]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/menubg.png]
-[2015.03.21-20.27.26:505][ 28]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/menubg.png)
-[2015.03.21-20.27.27:019][ 28]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.27:027][ 29]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/soil.png]
-[2015.03.21-20.27.27:027][ 29]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/soil.png)
-[2015.03.21-20.27.27:063][ 29]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.27:072][ 30]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/stump.png]
-[2015.03.21-20.27.27:072][ 30]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/stump.png)
-[2015.03.21-20.27.27:263][ 30]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.27:273][ 31]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/tongue.png]
-[2015.03.21-20.27.27:273][ 31]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/tongue.png)
-[2015.03.21-20.27.27:281][ 31]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.27:282][ 31]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/treebasetile.png]
-[2015.03.21-20.27.27:282][ 31]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/treebasetile.png)
-[2015.03.21-20.27.27:616][ 31]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.27:625][ 32]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/treetile.png]
-[2015.03.21-20.27.27:625][ 32]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/treetile.png)
-[2015.03.21-20.27.28:032][ 32]LogEditorFactories: -- imported successfully
-[2015.03.21-20.27.28:040][ 33]AssetReimport: Info Reimported asset Frame_1 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 1.png.
-[2015.03.21-20.27.28:040][ 33]AssetReimport: Info Reimported asset Frame_1 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 1.png.
-[2015.03.21-20.27.28:040][ 33]AssetReimport: Info Reimported asset Frame_10 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 10.png.
-[2015.03.21-20.27.28:040][ 33]AssetReimport: Info Reimported asset Frame_10 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 10.png.
-[2015.03.21-20.27.28:040][ 33]AssetReimport: Info Reimported asset Frame_2 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 2.png.
-[2015.03.21-20.27.28:040][ 33]AssetReimport: Info Reimported asset Frame_2 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 2.png.
-[2015.03.21-20.27.28:040][ 33]AssetReimport: Info Reimported asset Frame_3 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 3.png.
-[2015.03.21-20.27.28:040][ 33]AssetReimport: Info Reimported asset Frame_3 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 3.png.
-[2015.03.21-20.27.28:040][ 33]AssetReimport: Info Reimported asset Frame_4 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 4.png.
-[2015.03.21-20.27.28:040][ 33]AssetReimport: Info Reimported asset Frame_4 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 4.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset Frame_5 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 5.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset Frame_5 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 5.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset Frame_6 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 6.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset Frame_6 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 6.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset Frame_7 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 7.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset Frame_7 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 7.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset Frame_8 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 8.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset Frame_8 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 8.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset Frame_9 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 9.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset Frame_9 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 9.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset background from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/background.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset branch_1 from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 1.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset branch_2 from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 2.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset branch_3 from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 3.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset Branch from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/Branch.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset Bug from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/Bug.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset cloud1 from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud1.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset cloud2 from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud2.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset DeadLog from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/DeadLog.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset grass_1 from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass 1.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset grass_tuft from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass tuft.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset hollow_log from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/hollow log.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset Log from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/Log.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset menubg from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/menubg.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset soil from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/soil.png.
-[2015.03.21-20.27.28:041][ 33]AssetReimport: Info Reimported asset stump from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/stump.png.
-[2015.03.21-20.27.28:042][ 33]AssetReimport: Info Reimported asset tongue from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/tongue.png.
-[2015.03.21-20.27.28:042][ 33]AssetReimport: Info Reimported asset treebasetile from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/treebasetile.png.
-[2015.03.21-20.27.28:042][ 33]AssetReimport: Info Reimported asset treetile from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/treetile.png.
-[2015.03.21-20.27.32:825][316]BlueprintLog: New page: Pre-PIE auto-recompile
-[2015.03.21-20.27.32:825][316]LogPlayLevel: [PIE] Compiling Levelone before PIE...
-[2015.03.21-20.27.32:905][316]LogPlayLevel: PIE:  Blueprint regeneration took 80 ms (1 blueprints)
-[2015.03.21-20.27.32:905][316]PIE: New page: PIE session: Levelone (21 Mar 2015 20:27:32)
-[2015.03.21-20.27.32:914][316]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.27.32:914][316]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.27.32:914][316]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.27.32:914][316]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.27.32:915][316]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.27.32:915][316]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.27.32:915][316]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.27.32:915][316]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.27.32:915][316]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.27.32:915][316]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.27.32:917][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011703s)
-[2015.03.21-20.27.32:917][316]LogPlayLevel: PIE: World Init took: (0.000413s)
-[2015.03.21-20.27.32:917][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.012262s)
-[2015.03.21-20.27.32:973][316]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.21-20.27.32:975][316]LogAIModule: Creating AISystem for world Levelone
-[2015.03.21-20.27.32:985][316]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.27.32
-[2015.03.21-20.27.32:987][316]LogWorld: Bringing up level for play took: 0.011139
-[2015.03.21-20.27.32:990][316]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.081
-[2015.03.21-20.27.35:938][485]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F2B88C6AC0
-[2015.03.21-20.27.37:423][574]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
-[2015.03.21-20.27.40:522][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_1" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_1.uasset" SILENT=true
-[2015.03.21-20.27.40:958][641]LogSavePackage: Save=407.011475ms
-[2015.03.21-20.27.40:958][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_101082108411583C4D0E260BE94E1DC1F.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_1.uasset'
-[2015.03.21-20.27.40:975][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_10" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_10.uasset" SILENT=true
-[2015.03.21-20.27.41:487][641]LogSavePackage: Save=403.186829ms
-[2015.03.21-20.27.41:487][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_106A2933304DD3B65B27E76B818F02F642.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_10.uasset'
-[2015.03.21-20.27.41:504][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_2" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_2.uasset" SILENT=true
-[2015.03.21-20.27.41:926][641]LogSavePackage: Save=396.360260ms
-[2015.03.21-20.27.41:926][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_2C18F10BE4BC85D86A8C3AE9208F440E6.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_2.uasset'
-[2015.03.21-20.27.41:942][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_3" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_3.uasset" SILENT=true
-[2015.03.21-20.27.42:428][641]LogSavePackage: Save=373.285095ms
-[2015.03.21-20.27.42:428][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_37CD8AC3146BEAAB75707C8B8EF767455.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_3.uasset'
-[2015.03.21-20.27.42:444][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_4" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_4.uasset" SILENT=true
-[2015.03.21-20.27.42:838][641]LogSavePackage: Save=372.691864ms
-[2015.03.21-20.27.42:838][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_4054BC1BF4778FB6C1B088FA04792FC83.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_4.uasset'
-[2015.03.21-20.27.42:854][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_5" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_5.uasset" SILENT=true
-[2015.03.21-20.27.43:269][641]LogSavePackage: Save=389.547668ms
-[2015.03.21-20.27.43:269][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_5747A63174798905ABF077FAAF4A884C6.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_5.uasset'
-[2015.03.21-20.27.43:286][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_6" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_6.uasset" SILENT=true
-[2015.03.21-20.27.43:747][641]LogSavePackage: Save=438.632568ms
-[2015.03.21-20.27.43:747][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_651EF78B043EE42144DAF4C8CCA3E237C.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_6.uasset'
-[2015.03.21-20.27.43:763][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_7" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_7.uasset" SILENT=true
-[2015.03.21-20.27.44:198][641]LogSavePackage: Save=416.930695ms
-[2015.03.21-20.27.44:198][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_7ECD6AED74BE98ADDC383F18E06ED5FB6.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_7.uasset'
-[2015.03.21-20.27.44:219][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_8" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_8.uasset" SILENT=true
-[2015.03.21-20.27.44:627][641]LogSavePackage: Save=382.264160ms
-[2015.03.21-20.27.44:627][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_8090438A446768405E8D5A7A115039B6C.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_8.uasset'
-[2015.03.21-20.27.44:643][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finished_Frames/Frame_9" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_9.uasset" SILENT=true
-[2015.03.21-20.27.45:043][641]LogSavePackage: Save=376.101440ms
-[2015.03.21-20.27.45:043][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_9FE63D7DD41C150CD0C2DE0B1CB17B09C.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Finished_Frames/Frame_9.uasset'
-[2015.03.21-20.27.45:062][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/background" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/background.uasset" SILENT=true
-[2015.03.21-20.27.45:242][641]LogSavePackage: Save=166.775803ms
-[2015.03.21-20.27.45:242][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/backgroundE53499484BFE76B3C238C88EB030C158.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/background.uasset'
-[2015.03.21-20.27.45:258][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Branch" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Branch.uasset" SILENT=true
-[2015.03.21-20.27.45:295][641]LogSavePackage: Save=24.164753ms
-[2015.03.21-20.27.45:295][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Branch7D506D1640A1EA2681B4D8AF9DFF35BC.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Branch.uasset'
-[2015.03.21-20.27.45:309][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/branch_1" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_1.uasset" SILENT=true
-[2015.03.21-20.27.45:581][641]LogSavePackage: Save=259.962830ms
-[2015.03.21-20.27.45:581][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/branch_194D7B5C94391EDB9FEF206AC8002C7D0.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_1.uasset'
-[2015.03.21-20.27.45:596][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/branch_2" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_2.uasset" SILENT=true
-[2015.03.21-20.27.45:920][641]LogSavePackage: Save=273.985443ms
-[2015.03.21-20.27.45:920][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/branch_2F4FD358B4B4D4F0A34D7EFA7FED2EADD.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_2.uasset'
-[2015.03.21-20.27.45:935][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/branch_3" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_3.uasset" SILENT=true
-[2015.03.21-20.27.46:228][641]LogSavePackage: Save=257.422363ms
-[2015.03.21-20.27.46:228][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/branch_33AE05BF641410710E993198F413DEA5F.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch_3.uasset'
-[2015.03.21-20.27.46:242][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Bug" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Bug.uasset" SILENT=true
-[2015.03.21-20.27.46:262][641]LogSavePackage: Save=6.548213ms
-[2015.03.21-20.27.46:262][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Bug612A8B614CB228B87F05BF8BBED72F3D.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Bug.uasset'
-[2015.03.21-20.27.46:282][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/cloud1" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud1.uasset" SILENT=true
-[2015.03.21-20.27.46:619][641]LogSavePackage: Save=324.428436ms
-[2015.03.21-20.27.46:619][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/cloud1E94129F840C33AA0E149F9A8E9DEBA96.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud1.uasset'
-[2015.03.21-20.27.46:643][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/cloud2" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud2.uasset" SILENT=true
-[2015.03.21-20.27.46:930][641]LogSavePackage: Save=270.322968ms
-[2015.03.21-20.27.46:930][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/cloud2EE73B34A4468156BF866D89D3E0E9880.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud2.uasset'
-[2015.03.21-20.27.46:946][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/DeadLog" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/DeadLog.uasset" SILENT=true
-[2015.03.21-20.27.46:988][641]LogSavePackage: Save=28.570736ms
-[2015.03.21-20.27.46:988][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/DeadLogB6EA38C34E61D71ADBAA5EBA44AA4778.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/DeadLog.uasset'
-[2015.03.21-20.27.47:003][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_1" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_1.uasset" SILENT=true
-[2015.03.21-20.27.47:419][641]LogSavePackage: Save=405.160736ms
-[2015.03.21-20.27.47:419][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_102D069B542D1AC890608DCB4C7590AEA.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_1.uasset'
-[2015.03.21-20.27.47:435][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_10" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_10.uasset" SILENT=true
-[2015.03.21-20.27.47:846][641]LogSavePackage: Save=402.116516ms
-[2015.03.21-20.27.47:847][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_10FEB7E8FC4CF8C34C36604694F9A2FBD6.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_10.uasset'
-[2015.03.21-20.27.47:864][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_2" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_2.uasset" SILENT=true
-[2015.03.21-20.27.48:274][641]LogSavePackage: Save=399.699219ms
-[2015.03.21-20.27.48:274][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_2291D045D497063752AB473933E6D2877.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_2.uasset'
-[2015.03.21-20.27.48:290][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_3" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_3.uasset" SILENT=true
-[2015.03.21-20.27.48:677][641]LogSavePackage: Save=375.707306ms
-[2015.03.21-20.27.48:677][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_3996F18EF4AF025EEB7706AB2FF8A2F64.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_3.uasset'
-[2015.03.21-20.27.48:694][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_4" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_4.uasset" SILENT=true
-[2015.03.21-20.27.49:075][641]LogSavePackage: Save=371.474579ms
-[2015.03.21-20.27.49:075][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_40DA0520D49AB7225DE2D0AA8F788E3C6.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_4.uasset'
-[2015.03.21-20.27.49:096][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_5" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_5.uasset" SILENT=true
-[2015.03.21-20.27.49:491][641]LogSavePackage: Save=385.993561ms
-[2015.03.21-20.27.49:491][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_50D49782D4E3D0F25677D268A6D084054.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_5.uasset'
-[2015.03.21-20.27.49:508][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_6" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_6.uasset" SILENT=true
-[2015.03.21-20.27.49:912][641]LogSavePackage: Save=391.209137ms
-[2015.03.21-20.27.49:912][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_68E90A8844BD2D19128160A98CE7837F8.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_6.uasset'
-[2015.03.21-20.27.49:930][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_7" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_7.uasset" SILENT=true
-[2015.03.21-20.27.50:335][641]LogSavePackage: Save=394.689331ms
-[2015.03.21-20.27.50:335][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_7F90EA79E4F3873C19E4F01816772124E.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_7.uasset'
-[2015.03.21-20.27.50:351][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_8" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_8.uasset" SILENT=true
-[2015.03.21-20.27.50:747][641]LogSavePackage: Save=384.998810ms
-[2015.03.21-20.27.50:747][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_8A80F32B2405F0D1B80A5C7811F8189A6.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_8.uasset'
-[2015.03.21-20.27.50:763][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Frame_9" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_9.uasset" SILENT=true
-[2015.03.21-20.27.51:154][641]LogSavePackage: Save=381.317841ms
-[2015.03.21-20.27.51:154][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Frame_9062510644AE6B55933508A95AFC95C5A.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Frame_9.uasset'
-[2015.03.21-20.27.51:168][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/grass_1" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass_1.uasset" SILENT=true
-[2015.03.21-20.27.51:366][641]LogSavePackage: Save=169.830261ms
-[2015.03.21-20.27.51:366][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/grass_1DAA5299348AA394AE0EAC1A5473CCF8F.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass_1.uasset'
-[2015.03.21-20.27.51:386][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/grass_tuft" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass_tuft.uasset" SILENT=true
-[2015.03.21-20.27.51:727][641]LogSavePackage: Save=298.715515ms
-[2015.03.21-20.27.51:727][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/grass_tuft3C6729F34A88E761E3AFE1AB63D6E9CB.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass_tuft.uasset'
-[2015.03.21-20.27.51:745][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/hollow_log" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/hollow_log.uasset" SILENT=true
-[2015.03.21-20.27.53:284][641]LogSavePackage: Save=1496.850098ms
-[2015.03.21-20.27.53:284][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/hollow_log9F71169441EA50795B97B1A217F648AC.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/hollow_log.uasset'
-[2015.03.21-20.27.53:301][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Log" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Log.uasset" SILENT=true
-[2015.03.21-20.27.53:356][641]LogSavePackage: Save=41.907333ms
-[2015.03.21-20.27.53:356][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/LogCB0A1CF745327A0EB97C9D915BBB6170.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/Log.uasset'
-[2015.03.21-20.27.53:375][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/menubg" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/menubg.uasset" SILENT=true
-[2015.03.21-20.27.57:755][641]LogSavePackage: Save=4366.942383ms
-[2015.03.21-20.27.57:755][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/menubgD14CEA36416EAB080AB508A45625FD2A.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/menubg.uasset'
-[2015.03.21-20.27.57:771][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/soil" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/soil.uasset" SILENT=true
-[2015.03.21-20.27.58:009][641]LogSavePackage: Save=225.606262ms
-[2015.03.21-20.27.58:010][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/soil853B55BB41CDDA019CAEEAA4B506A8B6.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/soil.uasset'
-[2015.03.21-20.27.58:029][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/stump" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/stump.uasset" SILENT=true
-[2015.03.21-20.27.58:590][641]LogSavePackage: Save=473.528992ms
-[2015.03.21-20.27.58:590][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/stump157A0296467D331ECFB36ABC56904D89.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/stump.uasset'
-[2015.03.21-20.27.58:603][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/tongue" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/tongue.uasset" SILENT=true
-[2015.03.21-20.27.58:622][641]LogSavePackage: Save=5.772281ms
-[2015.03.21-20.27.58:622][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/tongue526EA8744190DC95CC413398B6FC05D0.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/tongue.uasset'
-[2015.03.21-20.27.58:641][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/treebasetile" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/treebasetile.uasset" SILENT=true
-[2015.03.21-20.28.01:557][641]LogSavePackage: Save=2854.355713ms
-[2015.03.21-20.28.01:557][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/treebasetile0A29F145427D1E45253F0AB075B94BE8.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/treebasetile.uasset'
-[2015.03.21-20.28.01:579][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/treetile" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/treetile.uasset" SILENT=true
-[2015.03.21-20.28.05:356][641]LogSavePackage: Save=3722.993652ms
-[2015.03.21-20.28.05:356][641]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/treetile883BCBC2412A2F75C5F6E6A5CCCF0515.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/treetile.uasset'
-[2015.03.21-20.28.05:375][641]Cmd: MAP LOAD FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Settings.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2015.03.21-20.28.05:375][641]LightingResults: New page: Lighting Build
-[2015.03.21-20.28.05:410][641]LoadErrors: New page: Loading map: Settings.umap
-[2015.03.21-20.28.05:411][641]MapCheck: New page: Map Check
-[2015.03.21-20.28.05:411][641]LightingResults: New page: Lighting Build
-[2015.03.21-20.28.05:420][641]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F2AC3FA3E0
-[2015.03.21-20.28.05:425][641]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2015.03.21-20.28.05:426][641]LogAIModule: Creating AISystem for world Settings
-[2015.03.21-20.28.05:457][641]Cmd: MAP CHECKDEP
-[2015.03.21-20.28.05:457][641]MapCheck: New page: Settings - 21 Mar 2015 20:28:05
-[2015.03.21-20.28.05:593][641]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 136.173ms to complete.
-[2015.03.21-20.28.05:594][641]LogFileHelpers: Loading map 'Settings' took 0.220
-[2015.03.21-20.28.07:237][737]BlueprintLog: New page: Pre-PIE auto-recompile
-[2015.03.21-20.28.07:237][737]LogPlayLevel: [PIE] Compiling Settings before PIE...
-[2015.03.21-20.28.07:292][737]LogPlayLevel: PIE:  Blueprint regeneration took 55 ms (1 blueprints)
-[2015.03.21-20.28.07:293][737]PIE: New page: PIE session: Settings (21 Mar 2015 20:28:07)
-[2015.03.21-20.28.07:297][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004506s)
-[2015.03.21-20.28.07:298][737]LogPlayLevel: PIE: World Init took: (0.000429s)
-[2015.03.21-20.28.07:298][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Settings.Settings to /Game/Maps/UEDPIE_0_Settings.Settings (0.005061s)
-[2015.03.21-20.28.07:335][737]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.21-20.28.07:337][737]LogAIModule: Creating AISystem for world Settings
-[2015.03.21-20.28.07:338][737]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Settings.Settings up for play (max tick rate 60) at 2015.03.21-20.28.07
-[2015.03.21-20.28.07:339][737]LogWorld: Bringing up level for play took: 0.000996
-[2015.03.21-20.28.07:342][737]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Settings 0.433
-[2015.03.21-20.28.14:906][190]Cmd: g.ResolutionQuality 100
-[2015.03.21-20.28.14:906][190]Command not recognized: g.ResolutionQuality 100
-[2015.03.21-20.28.14:906][190]Cmd: sg.ViewDistanceQuality 4
-[2015.03.21-20.28.14:906][190]sg.ViewDistanceQuality = "4"
-[2015.03.21-20.28.14:906][190]Cmd: sg.AntiAliasingQuality 4
-[2015.03.21-20.28.14:906][190]sg.AntiAliasingQuality = "4"
-[2015.03.21-20.28.14:906][190]Cmd: sg.PostProcessQuality 4
-[2015.03.21-20.28.14:906][190]sg.PostProcessQuality = "4"
-[2015.03.21-20.28.14:906][190]Cmd: sg.ShadowQuality 4
-[2015.03.21-20.28.14:906][190]sg.ShadowQuality = "4"
-[2015.03.21-20.28.14:906][190]Cmd: sg.TextureQuality 4
-[2015.03.21-20.28.14:906][190]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
-[2015.03.21-20.28.14:906][190]sg.TextureQuality = "4"
-[2015.03.21-20.28.14:906][190]Cmd: sg.EffectsQuality 4
-[2015.03.21-20.28.14:906][190]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
-[2015.03.21-20.28.14:906][190]sg.EffectsQuality = "4"
-[2015.03.21-20.28.14:909][190]LogBlueprintUserMessages: Ultra
-[2015.03.21-20.28.14:920][191]LogRenderer:Warning: Reallocating scene render targets to support 968x440 (Frame:1160).
-[2015.03.21-20.28.16:358][268]LogPackageName: SearchForPackageOnDisk took   0.080s to resolve Menu.umap
-[2015.03.21-20.28.16:433][268]LogPackageName: SearchForPackageOnDisk took   0.075s to resolve Menu.umap
-[2015.03.21-20.28.16:433][268]LogNet: Browse: /Game/Maps/Menu
-[2015.03.21-20.28.16:433][268]LogLoad: LoadMap: /Game/Maps/Menu
-[2015.03.21-20.28.16:445][268]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F2AC8CDF80
-[2015.03.21-20.28.16:447][268]Cmd: MEM
-[2015.03.21-20.28.16:459][268]LogMemory: Platform Memory Stats for Windows
-[2015.03.21-20.28.16:459][268]LogMemory: Process Physical Memory: 509.68 MB used, 531.87 MB peak
-[2015.03.21-20.28.16:459][268]LogMemory: Process Virtual Memory: 419.00 MB used, 442.38 MB peak
-[2015.03.21-20.28.16:459][268]LogMemory: Physical Memory: 7180.19 MB used, 12200.27 MB total
-[2015.03.21-20.28.16:459][268]LogMemory: Virtual Memory: 973.58 MB used, 134217728.00 MB total
-[2015.03.21-20.28.16:459][268]LogMemory: 
-[2015.03.21-20.28.16:459][268]Allocator Stats for TBB: (not implemented)
-[2015.03.21-20.28.17:553][268]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.21-20.28.17:555][268]LogAIModule: Creating AISystem for world Menu
-[2015.03.21-20.28.17:556][268]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-20.28.17
-[2015.03.21-20.28.17:556][268]LogWorld: Bringing up level for play took: 0.001121
-[2015.03.21-20.28.17:557][268]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2015.03.21-20.28.19:431][375]LogPackageName: SearchForPackageOnDisk took   0.077s to resolve Settings.umap
-[2015.03.21-20.28.19:506][375]LogPackageName: SearchForPackageOnDisk took   0.075s to resolve Settings.umap
-[2015.03.21-20.28.19:506][375]LogNet: Browse: /Game/Maps/Settings
-[2015.03.21-20.28.19:507][375]LogLoad: LoadMap: /Game/Maps/Settings
-[2015.03.21-20.28.19:522][375]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F2ABE7CE00
-[2015.03.21-20.28.19:522][375]Cmd: MEM
-[2015.03.21-20.28.19:532][375]LogMemory: Platform Memory Stats for Windows
-[2015.03.21-20.28.19:532][375]LogMemory: Process Physical Memory: 544.20 MB used, 576.12 MB peak
-[2015.03.21-20.28.19:532][375]LogMemory: Process Virtual Memory: 452.54 MB used, 483.73 MB peak
-[2015.03.21-20.28.19:532][375]LogMemory: Physical Memory: 7217.70 MB used, 12200.27 MB total
-[2015.03.21-20.28.19:532][375]LogMemory: Virtual Memory: 1000.82 MB used, 134217728.00 MB total
-[2015.03.21-20.28.19:532][375]LogMemory: 
-[2015.03.21-20.28.19:532][375]Allocator Stats for TBB: (not implemented)
-[2015.03.21-20.28.19:537][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004622s)
-[2015.03.21-20.28.19:537][375]LogPlayLevel: PIE: World Init took: (0.000398s)
-[2015.03.21-20.28.19:537][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Settings.Settings to /Game/Maps/UEDPIE_0_Settings.Settings (0.005140s)
-[2015.03.21-20.28.19:539][375]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.21-20.28.19:541][375]LogAIModule: Creating AISystem for world Settings
-[2015.03.21-20.28.19:542][375]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Settings.Settings up for play (max tick rate 60) at 2015.03.21-20.28.19
-[2015.03.21-20.28.19:542][375]LogWorld: Bringing up level for play took: 0.000879
-[2015.03.21-20.28.19:543][375]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2015.03.21-20.28.23:875][635]Cmd: g.ResolutionQuality 100
-[2015.03.21-20.28.23:875][635]Command not recognized: g.ResolutionQuality 100
-[2015.03.21-20.28.23:875][635]Cmd: sg.ViewDistanceQuality 4
-[2015.03.21-20.28.23:875][635]sg.ViewDistanceQuality = "4"
-[2015.03.21-20.28.23:875][635]Cmd: sg.AntiAliasingQuality 4
-[2015.03.21-20.28.23:875][635]sg.AntiAliasingQuality = "4"
-[2015.03.21-20.28.23:875][635]Cmd: sg.PostProcessQuality 4
-[2015.03.21-20.28.23:875][635]sg.PostProcessQuality = "4"
-[2015.03.21-20.28.23:875][635]Cmd: sg.ShadowQuality 4
-[2015.03.21-20.28.23:875][635]sg.ShadowQuality = "4"
-[2015.03.21-20.28.23:875][635]Cmd: sg.TextureQuality 4
-[2015.03.21-20.28.23:876][635]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
-[2015.03.21-20.28.23:876][635]sg.TextureQuality = "4"
-[2015.03.21-20.28.23:876][635]Cmd: sg.EffectsQuality 4
-[2015.03.21-20.28.23:876][635]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
-[2015.03.21-20.28.23:876][635]sg.EffectsQuality = "4"
-[2015.03.21-20.28.23:876][635]LogBlueprintUserMessages: Ultra
-[2015.03.21-20.28.29:258][958]Cmd: g.ResolutionQuality 25
-[2015.03.21-20.28.29:258][958]Command not recognized: g.ResolutionQuality 25
-[2015.03.21-20.28.29:258][958]Cmd: sg.ViewDistanceQuality 1
-[2015.03.21-20.28.29:258][958]sg.ViewDistanceQuality = "1"
-[2015.03.21-20.28.29:258][958]Cmd: sg.AntiAliasingQuality 1
-[2015.03.21-20.28.29:259][958]sg.AntiAliasingQuality = "1"
-[2015.03.21-20.28.29:259][958]Cmd: sg.PostProcessQuality 1
-[2015.03.21-20.28.29:259][958]sg.PostProcessQuality = "1"
-[2015.03.21-20.28.29:259][958]Cmd: sg.ShadowQuality 1
-[2015.03.21-20.28.29:259][958]sg.ShadowQuality = "1"
-[2015.03.21-20.28.29:259][958]Cmd: sg.TextureQuality 1
-[2015.03.21-20.28.29:259][958]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
-[2015.03.21-20.28.29:259][958]sg.TextureQuality = "1"
-[2015.03.21-20.28.29:259][958]Cmd: sg.EffectsQuality 1
-[2015.03.21-20.28.29:259][958]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
-[2015.03.21-20.28.29:259][958]sg.EffectsQuality = "1"
-[2015.03.21-20.28.29:262][958]LogBlueprintUserMessages: Low
-[2015.03.21-20.28.29:270][959]LogRenderer:Warning: Reallocating scene render targets to support 968x440 (Frame:1928).
-[2015.03.21-20.28.30:143][  6]LogPackageName: SearchForPackageOnDisk took   0.077s to resolve Menu.umap
-[2015.03.21-20.28.30:220][  6]LogPackageName: SearchForPackageOnDisk took   0.076s to resolve Menu.umap
-[2015.03.21-20.28.30:220][  6]LogNet: Browse: /Game/Maps/Menu
-[2015.03.21-20.28.30:220][  6]LogLoad: LoadMap: /Game/Maps/Menu
-[2015.03.21-20.28.30:231][  6]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F2ACCA3E20
-[2015.03.21-20.28.30:233][  6]Cmd: MEM
-[2015.03.21-20.28.30:244][  6]LogMemory: Platform Memory Stats for Windows
-[2015.03.21-20.28.30:244][  6]LogMemory: Process Physical Memory: 545.29 MB used, 576.12 MB peak
-[2015.03.21-20.28.30:244][  6]LogMemory: Process Virtual Memory: 449.36 MB used, 483.73 MB peak
-[2015.03.21-20.28.30:244][  6]LogMemory: Physical Memory: 7308.08 MB used, 12200.27 MB total
-[2015.03.21-20.28.30:244][  6]LogMemory: Virtual Memory: 1010.46 MB used, 134217728.00 MB total
-[2015.03.21-20.28.30:244][  6]LogMemory: 
-[2015.03.21-20.28.30:244][  6]Allocator Stats for TBB: (not implemented)
-[2015.03.21-20.28.30:426][  6]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.21-20.28.30:428][  6]LogAIModule: Creating AISystem for world Menu
-[2015.03.21-20.28.30:429][  6]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-20.28.30
-[2015.03.21-20.28.30:430][  6]LogWorld: Bringing up level for play took: 0.001104
-[2015.03.21-20.28.30:430][  6]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2015.03.21-20.28.31:705][ 78]LogPackageName: SearchForPackageOnDisk took   0.078s to resolve Settings.umap
-[2015.03.21-20.28.31:782][ 78]LogPackageName: SearchForPackageOnDisk took   0.076s to resolve Settings.umap
-[2015.03.21-20.28.31:782][ 78]LogNet: Browse: /Game/Maps/Settings
-[2015.03.21-20.28.31:782][ 78]LogLoad: LoadMap: /Game/Maps/Settings
-[2015.03.21-20.28.31:799][ 78]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F2AC7D7100
-[2015.03.21-20.28.31:799][ 78]Cmd: MEM
-[2015.03.21-20.28.31:810][ 78]LogMemory: Platform Memory Stats for Windows
-[2015.03.21-20.28.31:810][ 78]LogMemory: Process Physical Memory: 547.41 MB used, 576.12 MB peak
-[2015.03.21-20.28.31:810][ 78]LogMemory: Process Virtual Memory: 453.63 MB used, 483.73 MB peak
-[2015.03.21-20.28.31:810][ 78]LogMemory: Physical Memory: 7318.83 MB used, 12200.27 MB total
-[2015.03.21-20.28.31:810][ 78]LogMemory: Virtual Memory: 1010.46 MB used, 134217728.00 MB total
-[2015.03.21-20.28.31:810][ 78]LogMemory: 
-[2015.03.21-20.28.31:810][ 78]Allocator Stats for TBB: (not implemented)
-[2015.03.21-20.28.31:815][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004568s)
-[2015.03.21-20.28.31:815][ 78]LogPlayLevel: PIE: World Init took: (0.000399s)
-[2015.03.21-20.28.31:815][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Settings.Settings to /Game/Maps/UEDPIE_0_Settings.Settings (0.005112s)
-[2015.03.21-20.28.31:817][ 78]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.21-20.28.31:818][ 78]LogAIModule: Creating AISystem for world Settings
-[2015.03.21-20.28.31:819][ 78]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Settings.Settings up for play (max tick rate 60) at 2015.03.21-20.28.31
-[2015.03.21-20.28.31:820][ 78]LogWorld: Bringing up level for play took: 0.000820
-[2015.03.21-20.28.31:820][ 78]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2015.03.21-20.28.33:299][167]Cmd: g.ResolutionQuality 25
-[2015.03.21-20.28.33:299][167]Command not recognized: g.ResolutionQuality 25
-[2015.03.21-20.28.33:299][167]Cmd: sg.ViewDistanceQuality 0
-[2015.03.21-20.28.33:299][167]sg.ViewDistanceQuality = "0"
-[2015.03.21-20.28.33:299][167]Cmd: sg.AntiAliasingQuality 0
-[2015.03.21-20.28.33:299][167]sg.AntiAliasingQuality = "0"
-[2015.03.21-20.28.33:299][167]Cmd: sg.PostProcessQuality 0
-[2015.03.21-20.28.33:299][167]sg.PostProcessQuality = "0"
-[2015.03.21-20.28.33:299][167]Cmd: sg.ShadowQuality 0
-[2015.03.21-20.28.33:300][167]sg.ShadowQuality = "0"
-[2015.03.21-20.28.33:300][167]Cmd: sg.TextureQuality 0
-[2015.03.21-20.28.33:300][167]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
-[2015.03.21-20.28.33:300][167]sg.TextureQuality = "0"
-[2015.03.21-20.28.33:300][167]Cmd: sg.EffectsQuality 0
-[2015.03.21-20.28.33:300][167]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
-[2015.03.21-20.28.33:300][167]sg.EffectsQuality = "0"
-[2015.03.21-20.28.33:302][167]LogBlueprintUserMessages: Console Pesent
-[2015.03.21-20.28.33:309][168]LogRenderer:Warning: Reallocating scene render targets to support 968x440 (Frame:2138).
-[2015.03.21-20.28.35:271][283]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F2AC410F40
-[2015.03.21-20.28.36:877][378]BlueprintLog: New page: Pre-PIE auto-recompile
-[2015.03.21-20.28.36:877][378]LogPlayLevel: [PIE] Compiling Settings before PIE...
-[2015.03.21-20.28.36:932][378]LogPlayLevel: PIE:  Blueprint regeneration took 55 ms (1 blueprints)
-[2015.03.21-20.28.36:932][378]PIE: New page: PIE session: Settings (21 Mar 2015 20:28:36)
-[2015.03.21-20.28.36:937][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004651s)
-[2015.03.21-20.28.36:938][378]LogPlayLevel: PIE: World Init took: (0.000417s)
-[2015.03.21-20.28.36:938][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Settings.Settings to /Game/Maps/UEDPIE_0_Settings.Settings (0.005190s)
-[2015.03.21-20.28.36:976][378]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.21-20.28.36:978][378]LogAIModule: Creating AISystem for world Settings
-[2015.03.21-20.28.36:979][378]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Settings.Settings up for play (max tick rate 60) at 2015.03.21-20.28.36
-[2015.03.21-20.28.36:979][378]LogWorld: Bringing up level for play took: 0.000898
-[2015.03.21-20.28.36:982][378]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Settings 0.074
-[2015.03.21-20.28.40:612][596]Cmd: g.ResolutionQuality 25
-[2015.03.21-20.28.40:612][596]Command not recognized: g.ResolutionQuality 25
-[2015.03.21-20.28.40:612][596]Cmd: sg.ViewDistanceQuality 0
-[2015.03.21-20.28.40:612][596]sg.ViewDistanceQuality = "0"
-[2015.03.21-20.28.40:612][596]Cmd: sg.AntiAliasingQuality 0
-[2015.03.21-20.28.40:612][596]sg.AntiAliasingQuality = "0"
-[2015.03.21-20.28.40:612][596]Cmd: sg.PostProcessQuality 0
-[2015.03.21-20.28.40:612][596]sg.PostProcessQuality = "0"
-[2015.03.21-20.28.40:612][596]Cmd: sg.ShadowQuality 0
-[2015.03.21-20.28.40:612][596]sg.ShadowQuality = "0"
-[2015.03.21-20.28.40:612][596]Cmd: sg.TextureQuality 0
-[2015.03.21-20.28.40:612][596]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
-[2015.03.21-20.28.40:612][596]sg.TextureQuality = "0"
-[2015.03.21-20.28.40:612][596]Cmd: sg.EffectsQuality 0
-[2015.03.21-20.28.40:613][596]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
-[2015.03.21-20.28.40:613][596]sg.EffectsQuality = "0"
-[2015.03.21-20.28.40:613][596]LogBlueprintUserMessages: Console Pesent
-[2015.03.21-20.28.42:305][693]LogPackageName: SearchForPackageOnDisk took   0.076s to resolve Menu.umap
-[2015.03.21-20.28.42:379][693]LogPackageName: SearchForPackageOnDisk took   0.073s to resolve Menu.umap
-[2015.03.21-20.28.42:379][693]LogNet: Browse: /Game/Maps/Menu
-[2015.03.21-20.28.42:379][693]LogLoad: LoadMap: /Game/Maps/Menu
-[2015.03.21-20.28.42:392][693]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F2AC7D6C00
-[2015.03.21-20.28.42:392][693]Cmd: MEM
-[2015.03.21-20.28.42:403][693]LogMemory: Platform Memory Stats for Windows
-[2015.03.21-20.28.42:403][693]LogMemory: Process Physical Memory: 544.64 MB used, 576.12 MB peak
-[2015.03.21-20.28.42:403][693]LogMemory: Process Virtual Memory: 449.43 MB used, 483.73 MB peak
-[2015.03.21-20.28.42:403][693]LogMemory: Physical Memory: 7154.66 MB used, 12200.27 MB total
-[2015.03.21-20.28.42:403][693]LogMemory: Virtual Memory: 1007.90 MB used, 134217728.00 MB total
-[2015.03.21-20.28.42:403][693]LogMemory: 
-[2015.03.21-20.28.42:403][693]Allocator Stats for TBB: (not implemented)
-[2015.03.21-20.28.42:591][693]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.21-20.28.42:593][693]LogAIModule: Creating AISystem for world Menu
-[2015.03.21-20.28.42:594][693]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-20.28.42
-[2015.03.21-20.28.42:595][693]LogWorld: Bringing up level for play took: 0.000984
-[2015.03.21-20.28.42:595][693]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2015.03.21-20.28.43:449][740]LogPackageName: SearchForPackageOnDisk took   0.075s to resolve Levelone.umap
-[2015.03.21-20.28.43:526][740]LogPackageName: SearchForPackageOnDisk took   0.076s to resolve Levelone.umap
-[2015.03.21-20.28.43:526][740]LogNet: Browse: /Game/Maps/Levelone
-[2015.03.21-20.28.43:526][740]LogLoad: LoadMap: /Game/Maps/Levelone
-[2015.03.21-20.28.43:540][740]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F2AC79D800
-[2015.03.21-20.28.43:540][740]Cmd: MEM
-[2015.03.21-20.28.43:552][740]LogMemory: Platform Memory Stats for Windows
-[2015.03.21-20.28.43:552][740]LogMemory: Process Physical Memory: 544.77 MB used, 576.12 MB peak
-[2015.03.21-20.28.43:552][740]LogMemory: Process Virtual Memory: 449.56 MB used, 483.73 MB peak
-[2015.03.21-20.28.43:552][740]LogMemory: Physical Memory: 7164.03 MB used, 12200.27 MB total
-[2015.03.21-20.28.43:552][740]LogMemory: Virtual Memory: 1007.90 MB used, 134217728.00 MB total
-[2015.03.21-20.28.43:552][740]LogMemory: 
-[2015.03.21-20.28.43:552][740]Allocator Stats for TBB: (not implemented)
-[2015.03.21-20.28.43:834][740]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.21-20.28.43:835][740]LogAIModule: Creating AISystem for world Levelone
-[2015.03.21-20.28.43:846][740]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.28.43
-[2015.03.21-20.28.43:847][740]LogWorld: Bringing up level for play took: 0.011698
-[2015.03.21-20.28.48:696][ 29]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F2AC79FB00
-[2015.03.21-20.28.49:685][ 87]BlueprintLog: New page: Pre-PIE auto-recompile
-[2015.03.21-20.28.49:685][ 87]LogPlayLevel: [PIE] Compiling Settings before PIE...
-[2015.03.21-20.28.49:730][ 87]LogPlayLevel: PIE:  Blueprint regeneration took 45 ms (1 blueprints)
-[2015.03.21-20.28.49:731][ 87]PIE: New page: PIE session: Settings (21 Mar 2015 20:28:49)
-[2015.03.21-20.28.49:735][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004174s)
-[2015.03.21-20.28.49:735][ 87]LogPlayLevel: PIE: World Init took: (0.000418s)
-[2015.03.21-20.28.49:736][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Settings.Settings to /Game/Maps/UEDPIE_0_Settings.Settings (0.004715s)
-[2015.03.21-20.28.49:771][ 87]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.21-20.28.49:772][ 87]LogAIModule: Creating AISystem for world Settings
-[2015.03.21-20.28.49:773][ 87]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Settings.Settings up for play (max tick rate 60) at 2015.03.21-20.28.49
-[2015.03.21-20.28.49:774][ 87]LogWorld: Bringing up level for play took: 0.001065
-[2015.03.21-20.28.49:777][ 87]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Settings 0.868
-[2015.03.21-20.28.54:521][372]Cmd: g.ResolutionQuality 100
-[2015.03.21-20.28.54:521][372]Command not recognized: g.ResolutionQuality 100
-[2015.03.21-20.28.54:521][372]Cmd: sg.ViewDistanceQuality 4
-[2015.03.21-20.28.54:521][372]sg.ViewDistanceQuality = "4"
-[2015.03.21-20.28.54:521][372]Cmd: sg.AntiAliasingQuality 4
-[2015.03.21-20.28.54:521][372]sg.AntiAliasingQuality = "4"
-[2015.03.21-20.28.54:521][372]Cmd: sg.PostProcessQuality 4
-[2015.03.21-20.28.54:521][372]sg.PostProcessQuality = "4"
-[2015.03.21-20.28.54:521][372]Cmd: sg.ShadowQuality 4
-[2015.03.21-20.28.54:521][372]sg.ShadowQuality = "4"
-[2015.03.21-20.28.54:521][372]Cmd: sg.TextureQuality 4
-[2015.03.21-20.28.54:521][372]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
-[2015.03.21-20.28.54:521][372]sg.TextureQuality = "4"
-[2015.03.21-20.28.54:521][372]Cmd: sg.EffectsQuality 4
-[2015.03.21-20.28.54:521][372]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
-[2015.03.21-20.28.54:521][372]sg.EffectsQuality = "4"
-[2015.03.21-20.28.54:525][372]LogBlueprintUserMessages: Ultra
-[2015.03.21-20.28.54:532][373]LogRenderer:Warning: Reallocating scene render targets to support 968x440 (Frame:3347).
-[2015.03.21-20.28.55:514][427]LogPackageName: SearchForPackageOnDisk took   0.076s to resolve Menu.umap
-[2015.03.21-20.28.55:589][427]LogPackageName: SearchForPackageOnDisk took   0.075s to resolve Menu.umap
-[2015.03.21-20.28.55:589][427]LogNet: Browse: /Game/Maps/Menu
-[2015.03.21-20.28.55:589][427]LogLoad: LoadMap: /Game/Maps/Menu
-[2015.03.21-20.28.55:601][427]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F2AC79CCC0
-[2015.03.21-20.28.55:601][427]Cmd: MEM
-[2015.03.21-20.28.55:614][427]LogMemory: Platform Memory Stats for Windows
-[2015.03.21-20.28.55:614][427]LogMemory: Process Physical Memory: 553.83 MB used, 576.12 MB peak
-[2015.03.21-20.28.55:614][427]LogMemory: Process Virtual Memory: 459.26 MB used, 483.73 MB peak
-[2015.03.21-20.28.55:614][427]LogMemory: Physical Memory: 7287.48 MB used, 12200.27 MB total
-[2015.03.21-20.28.55:614][427]LogMemory: Virtual Memory: 1017.27 MB used, 134217728.00 MB total
-[2015.03.21-20.28.55:614][427]LogMemory: 
-[2015.03.21-20.28.55:614][427]Allocator Stats for TBB: (not implemented)
-[2015.03.21-20.28.55:795][427]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.21-20.28.55:797][427]LogAIModule: Creating AISystem for world Menu
-[2015.03.21-20.28.55:798][427]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-20.28.55
-[2015.03.21-20.28.55:798][427]LogWorld: Bringing up level for play took: 0.001029
-[2015.03.21-20.28.55:799][427]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2015.03.21-20.28.56:695][476]LogPackageName: SearchForPackageOnDisk took   0.083s to resolve Credit.umap
-[2015.03.21-20.28.56:771][476]LogPackageName: SearchForPackageOnDisk took   0.076s to resolve Credit.umap
-[2015.03.21-20.28.56:771][476]LogNet: Browse: /Game/Maps/Credit
-[2015.03.21-20.28.56:771][476]LogLoad: LoadMap: /Game/Maps/Credit
-[2015.03.21-20.28.56:784][476]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F2BC254360
-[2015.03.21-20.28.56:784][476]Cmd: MEM
-[2015.03.21-20.28.56:795][476]LogMemory: Platform Memory Stats for Windows
-[2015.03.21-20.28.56:795][476]LogMemory: Process Physical Memory: 553.02 MB used, 576.12 MB peak
-[2015.03.21-20.28.56:795][476]LogMemory: Process Virtual Memory: 458.05 MB used, 483.73 MB peak
-[2015.03.21-20.28.56:795][476]LogMemory: Physical Memory: 7281.27 MB used, 12200.27 MB total
-[2015.03.21-20.28.56:795][476]LogMemory: Virtual Memory: 1022.09 MB used, 134217728.00 MB total
-[2015.03.21-20.28.56:795][476]LogMemory: 
-[2015.03.21-20.28.56:795][476]Allocator Stats for TBB: (not implemented)
-[2015.03.21-20.28.56:909][476]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.21-20.28.56:912][476]LogAIModule: Creating AISystem for world Credit
-[2015.03.21-20.28.56:913][476]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Credit.Credit up for play (max tick rate 60) at 2015.03.21-20.28.56
-[2015.03.21-20.28.56:914][476]LogWorld: Bringing up level for play took: 0.001336
-[2015.03.21-20.28.56:914][476]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2015.03.21-20.29.03:635][877]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F2BC82ACA0
-[2015.03.21-20.29.04:489][927]BlueprintLog: New page: Pre-PIE auto-recompile
-[2015.03.21-20.29.04:489][927]LogPlayLevel: [PIE] Compiling Settings before PIE...
-[2015.03.21-20.29.04:534][927]LogPlayLevel: PIE:  Blueprint regeneration took 45 ms (1 blueprints)
-[2015.03.21-20.29.04:534][927]PIE: New page: PIE session: Settings (21 Mar 2015 20:29:04)
-[2015.03.21-20.29.04:539][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004617s)
-[2015.03.21-20.29.04:540][927]LogPlayLevel: PIE: World Init took: (0.000423s)
-[2015.03.21-20.29.04:540][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Settings.Settings to /Game/Maps/UEDPIE_0_Settings.Settings (0.005172s)
-[2015.03.21-20.29.04:573][927]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.21-20.29.04:575][927]LogAIModule: Creating AISystem for world Settings
-[2015.03.21-20.29.04:576][927]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Settings.Settings up for play (max tick rate 60) at 2015.03.21-20.29.04
-[2015.03.21-20.29.04:577][927]LogWorld: Bringing up level for play took: 0.000990
-[2015.03.21-20.29.04:579][927]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Settings -0.329
-[2015.03.21-20.29.07:980][131]Cmd: g.ResolutionQuality 100
-[2015.03.21-20.29.07:980][131]Command not recognized: g.ResolutionQuality 100
-[2015.03.21-20.29.07:980][131]Cmd: sg.ViewDistanceQuality 4
-[2015.03.21-20.29.07:980][131]sg.ViewDistanceQuality = "4"
-[2015.03.21-20.29.07:980][131]Cmd: sg.AntiAliasingQuality 4
-[2015.03.21-20.29.07:980][131]sg.AntiAliasingQuality = "4"
-[2015.03.21-20.29.07:980][131]Cmd: sg.PostProcessQuality 4
-[2015.03.21-20.29.07:980][131]sg.PostProcessQuality = "4"
-[2015.03.21-20.29.07:980][131]Cmd: sg.ShadowQuality 4
-[2015.03.21-20.29.07:980][131]sg.ShadowQuality = "4"
-[2015.03.21-20.29.07:980][131]Cmd: sg.TextureQuality 4
-[2015.03.21-20.29.07:981][131]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
-[2015.03.21-20.29.07:981][131]sg.TextureQuality = "4"
-[2015.03.21-20.29.07:981][131]Cmd: sg.EffectsQuality 4
-[2015.03.21-20.29.07:981][131]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
-[2015.03.21-20.29.07:981][131]sg.EffectsQuality = "4"
-[2015.03.21-20.29.07:981][131]LogBlueprintUserMessages: Ultra
-[2015.03.21-20.29.08:755][173]LogPackageName: SearchForPackageOnDisk took   0.075s to resolve Menu.umap
-[2015.03.21-20.29.08:830][173]LogPackageName: SearchForPackageOnDisk took   0.075s to resolve Menu.umap
-[2015.03.21-20.29.08:830][173]LogNet: Browse: /Game/Maps/Menu
-[2015.03.21-20.29.08:831][173]LogLoad: LoadMap: /Game/Maps/Menu
-[2015.03.21-20.29.08:844][173]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F2B88C4D60
-[2015.03.21-20.29.08:844][173]Cmd: MEM
-[2015.03.21-20.29.08:854][173]LogMemory: Platform Memory Stats for Windows
-[2015.03.21-20.29.08:854][173]LogMemory: Process Physical Memory: 550.17 MB used, 576.12 MB peak
-[2015.03.21-20.29.08:854][173]LogMemory: Process Virtual Memory: 454.85 MB used, 483.73 MB peak
-[2015.03.21-20.29.08:854][173]LogMemory: Physical Memory: 7337.34 MB used, 12200.27 MB total
-[2015.03.21-20.29.08:854][173]LogMemory: Virtual Memory: 1018.03 MB used, 134217728.00 MB total
-[2015.03.21-20.29.08:854][173]LogMemory: 
-[2015.03.21-20.29.08:854][173]Allocator Stats for TBB: (not implemented)
-[2015.03.21-20.29.09:037][173]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.21-20.29.09:038][173]LogAIModule: Creating AISystem for world Menu
-[2015.03.21-20.29.09:039][173]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-20.29.09
-[2015.03.21-20.29.09:040][173]LogWorld: Bringing up level for play took: 0.001092
-[2015.03.21-20.29.09:040][173]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2015.03.21-20.29.09:696][208]LogPackageName: SearchForPackageOnDisk took   0.075s to resolve Levelone.umap
-[2015.03.21-20.29.09:771][208]LogPackageName: SearchForPackageOnDisk took   0.075s to resolve Levelone.umap
-[2015.03.21-20.29.09:771][208]LogNet: Browse: /Game/Maps/Levelone
-[2015.03.21-20.29.09:771][208]LogLoad: LoadMap: /Game/Maps/Levelone
-[2015.03.21-20.29.09:785][208]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F2AE3B27A0
-[2015.03.21-20.29.09:785][208]Cmd: MEM
-[2015.03.21-20.29.09:795][208]LogMemory: Platform Memory Stats for Windows
-[2015.03.21-20.29.09:795][208]LogMemory: Process Physical Memory: 551.31 MB used, 576.12 MB peak
-[2015.03.21-20.29.09:795][208]LogMemory: Process Virtual Memory: 456.70 MB used, 483.73 MB peak
-[2015.03.21-20.29.09:795][208]LogMemory: Physical Memory: 7338.71 MB used, 12200.27 MB total
-[2015.03.21-20.29.09:795][208]LogMemory: Virtual Memory: 1018.03 MB used, 134217728.00 MB total
-[2015.03.21-20.29.09:795][208]LogMemory: 
-[2015.03.21-20.29.09:795][208]Allocator Stats for TBB: (not implemented)
-[2015.03.21-20.29.10:079][208]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.21-20.29.10:081][208]LogAIModule: Creating AISystem for world Levelone
-[2015.03.21-20.29.10:090][208]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.29.10
-[2015.03.21-20.29.10:092][208]LogWorld: Bringing up level for play took: 0.011368
-[2015.03.21-20.29.14:830][490]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F2AC5FDA80
-[2015.03.21-20.29.24:029][798]Cmd: MAP LOAD FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2015.03.21-20.29.24:030][798]LightingResults: New page: Lighting Build
-[2015.03.21-20.29.24:080][798]LoadErrors: New page: Loading map: Levelone.umap
-[2015.03.21-20.29.24:081][798]MapCheck: New page: Map Check
-[2015.03.21-20.29.24:081][798]LightingResults: New page: Lighting Build
-[2015.03.21-20.29.24:091][798]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F2B88C5E40
-[2015.03.21-20.29.24:098][798]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2015.03.21-20.29.24:099][798]LogAIModule: Creating AISystem for world Levelone
-[2015.03.21-20.29.24:126][798]Cmd: MAP CHECKDEP
-[2015.03.21-20.29.24:126][798]MapCheck: New page: Levelone - 21 Mar 2015 20:29:24
-[2015.03.21-20.29.24:256][798]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 130.094ms to complete.
-[2015.03.21-20.29.24:257][798]LogFileHelpers: Loading map 'Levelone' took 0.232
-[2015.03.21-20.29.44:107][986]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2015.03.21-20.29.44:107][986]Can't find target actor or component.
-[2015.03.21-20.29.44:641][ 18]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treebasetile_Sprite7)
-[2015.03.21-20.29.44:931][ 22]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2015.03.21-20.29.54:925][621]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_3_Sprite2)
-[2015.03.21-20.30.21:588][212]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treebasetile_Sprite3)
-[2015.03.21-20.30.22:119][242]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_3_Sprite3)
-[2015.03.21-20.30.29:007][651]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treebasetile_Sprite3)
-[2015.03.21-20.30.33:367][908]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_3_Sprite3)
-[2015.03.21-20.30.41:635][399]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_3_Sprite3)
-[2015.03.21-20.30.44:493][568]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_3_Sprite)
-[2015.03.21-20.30.45:307][616]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treebasetile_Sprite3)
-[2015.03.21-20.30.55:321][215]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_2_Sprite2)
-[2015.03.21-20.30.55:690][236]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_2_Sprite2)
-[2015.03.21-20.31.02:683][649]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
-[2015.03.21-20.31.03:942][720]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites/Enviroment'
-[2015.03.21-20.31.23:366][865]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_2_Sprite2)
-[2015.03.21-20.31.24:297][920]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_1_Sprite)
-[2015.03.21-20.31.45:919][196]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_3_Sprite4)
-[2015.03.21-20.32.00:840][ 90]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_1_Sprite)
-[2015.03.21-20.32.01:824][148]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_3_Sprite4)
-[2015.03.21-20.32.04:640][309]BlueprintLog: New page: Pre-PIE auto-recompile
-[2015.03.21-20.32.04:640][309]LogPlayLevel: [PIE] Compiling Levelone before PIE...
-[2015.03.21-20.32.04:699][309]LogPlayLevel: PIE:  Blueprint regeneration took 58 ms (1 blueprints)
-[2015.03.21-20.32.04:699][309]PIE: New page: PIE session: Levelone (21 Mar 2015 20:32:04)
-[2015.03.21-20.32.04:707][309]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.32.04:707][309]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.32.04:707][309]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.32.04:707][309]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.32.04:708][309]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.32.04:708][309]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.32.04:708][309]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.32.04:708][309]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.32.04:708][309]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.32.04:708][309]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
-[2015.03.21-20.32.04:708][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009441s)
-[2015.03.21-20.32.04:710][309]LogPlayLevel: PIE: World Init took: (0.000466s)
-[2015.03.21-20.32.04:710][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.010046s)
-[2015.03.21-20.32.04:751][309]LogWorld: Game class is 'TwinStickGameMode_C'
-[2015.03.21-20.32.04:754][309]LogAIModule: Creating AISystem for world Levelone
-[2015.03.21-20.32.04:765][309]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.32.04
-[2015.03.21-20.32.04:767][309]LogWorld: Bringing up level for play took: 0.012652
-[2015.03.21-20.32.04:769][309]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.14
-[2015.03.21-20.32.40:645][458]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000F2AC4ABCE0
-[2015.03.21-20.33.35:649][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2015.03.21-20.33.35:817][743]LogSavePackage: Save=141.982498ms
-[2015.03.21-20.33.35:817][743]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone0A0518474F58A5766D4183
+[2015.03.21-20.58.01:582][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2015.03.21-20.58.03:813][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.21-20.58.04:385][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.21-20.58.04:448][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2015.03.21-20.58.04:488][  0]LogDerivedDataCache: Loaded boot cache 0.04s 39MB C:/Users/Alan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
+[2015.03.21-20.58.04:488][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Alan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc
+[2015.03.21-20.58.04:488][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alan/Desktop/GameJam/try_2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2015.03.21-20.58.04:488][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2015.03.21-20.58.04:594][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2015.03.21-20.58.04:608][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2015.03.21-20.58.04:925][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2015.03.21-20.58.04:925][  0]LogMeshUtilities: No automatic mesh merging module available
+[2015.03.21-20.58.05:389][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2015.03.21-20.58.05:481][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf'
+[2015.03.21-20.58.06:393][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2015.03.21-20.58.06:747][  0]SourceControl: Info Source control is disabled
+[2015.03.21-20.58.06:747][  0]SourceControl: Info Source control is disabled
+[2015.03.21-20.58.06:747][  0]SourceControl: Info Source control is disabled
+[2015.03.21-20.58.06:747][  0]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.03.21-20.58.06:747][  0]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.03.21-20.58.06:757][  0]SourceControl: Info Source control is disabled
+[2015.03.21-20.58.06:967][  0]LogObj: 24231 objects as part of root set at end of initial load.
+[2015.03.21-20.58.06:967][  0]LogUObjectAllocator: 5136440 out of 0 bytes used by permanent object pool.
+[2015.03.21-20.58.07:048][  0]LogEngine: Initializing Engine...
+[2015.03.21-20.58.09:290][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.03.21-20.58.09:298][  0]LogInit: FAudioDevice initialized.
+[2015.03.21-20.58.09:373][  0]LogAIModule: Creating AISystem for world NewWorld
+[2015.03.21-20.58.09:392][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/Alan/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
+[2015.03.21-20.58.09:395][  0]LogInit: Texture streaming: Enabled
+[2015.03.21-20.58.09:484][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
+[2015.03.21-20.58.09:484][  0]LogAnalytics: ET APIKey = Rocket.Release. APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.7.3-2479750+++depot+UE4-Releases+4.7
+[2015.03.21-20.58.09:484][  0]LogAnalytics: ET APIKey = Rocket.Release. DataRouterUploadURL = https://datarouter-public-service-gamedev.ol.epicgames.net/datarouter/api/v1/public/data. AppVersion = 4.7.3-2479750+++depot+UE4-Releases+4.7
+[2015.03.21-20.58.09:484][  0]LogAnalytics: SetUserId bf983d414061faadd9b540bc65654c89|cd1d82d73781485ab50acc24dc629692|7e7e8939-47f7-4fa5-92a0-b7ded3b067c9
+[2015.03.21-20.58.09:484][  0]LogAnalytics: AnalyticsET::StartSession [Rocket.Release]
+[2015.03.21-20.58.09:512][  0]LogInit: Transaction tracking system initialized
+[2015.03.21-20.58.09:690][  0]BlueprintLog: New page: Editor Load
+[2015.03.21-20.58.09:727][  0]LogAssetRegistry: FAssetRegistry took 0.0110 seconds to start up
+[2015.03.21-20.58.09:727][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2015.03.21-20.58.10:314][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.21-20.58.10:723][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.21-20.58.11:198][  0]LogLinker:Warning: Asset '../../../Engine/Content/Tutorial/Mobile/SettingUpAndroidTutorial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2015.03.21-20.58.11:240][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Regular.ttf'
+[2015.03.21-20.58.11:241][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Bold.ttf'
+[2015.03.21-20.58.11:285][  0]LogConsoleResponse:Display: 
+[2015.03.21-20.58.11:431][  0]LogCook:Display: Done creating registry. It took  0.00s.
+[2015.03.21-20.58.11:586][  0]SourceControl: Info Source control is disabled
+[2015.03.21-20.58.38:798][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2015.03.21-20.58.38:812][  0]LightingResults: New page: Lighting Build
+[2015.03.21-20.58.38:863][  0]MapCheck: New page: Map Check
+[2015.03.21-20.58.38:863][  0]LightingResults: New page: Lighting Build
+[2015.03.21-20.58.38:885][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000BC6684A980
+[2015.03.21-20.58.42:381][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2015.03.21-20.58.42:383][  0]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.58.42:384][  0]Cmd: MAP CHECKDEP
+[2015.03.21-20.58.42:384][  0]MapCheck: New page: Levelone - 21 Mar 2015 20:58:42
+[2015.03.21-20.58.42:652][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 267.822ms to complete.
+[2015.03.21-20.58.42:653][  0]LogFileHelpers: Loading map 'Levelone' took 3.855
+[2015.03.21-20.58.42:852][  0]LogStats:Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_3698_0///////STATCAT_Advanced//// old //STATGROUP_Threads//SplashScreenThread///Thread_5c80_0///////STATCAT_Advanced////
+[2015.03.21-20.58.42:852][  0]LogCollectionManager: Loaded 0 collections in 0.003717 seconds
+[2015.03.21-20.58.42:871][  0]LogContentBrowser: Native class hierarchy populated in 0.0181 seconds. Added 1696 classes and 261 folders.
+[2015.03.21-20.58.42:940][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0041 seconds. Added 1 classes and 2 folders.
+[2015.03.21-20.58.43:044][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2015.03.21-20.58.43:046][  0]LogSlate:Warning: Failed to load font data from 'Veranda'
+[2015.03.21-20.58.43:057][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2015.03.21-20.58.43:100][  0]LogLoad: Full Startup: 43.83 seconds (BP compile: 1.22 seconds)
+[2015.03.21-20.58.43:148][  0]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
+[2015.03.21-20.58.43:492][  0]LogRenderer:Warning: Reallocating scene render targets to support 968x440 (Frame:2).
+[2015.03.21-20.58.44:059][  9]LogAssetRegistry: Asset discovery search completed in 34.3429 seconds
+[2015.03.21-20.58.44:474][ 20]AssetReimport: New page: Outstanding source content changes 20:58:44
+[2015.03.21-20.58.44:480][ 20]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 1.png]
+[2015.03.21-20.58.44:480][ 20]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 1.png)
+[2015.03.21-20.58.45:453][ 20]LogEditorFactories: -- imported successfully
+[2015.03.21-20.58.45:455][ 20]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 1.png]
+[2015.03.21-20.58.45:455][ 20]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 1.png)
+[2015.03.21-20.58.46:398][ 20]LogEditorFactories: -- imported successfully
+[2015.03.21-20.58.46:582][ 21]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 10.png]
+[2015.03.21-20.58.46:582][ 21]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 10.png)
+[2015.03.21-20.58.47:455][ 21]LogEditorFactories: -- imported successfully
+[2015.03.21-20.58.47:457][ 21]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 10.png]
+[2015.03.21-20.58.47:457][ 21]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 10.png)
+[2015.03.21-20.58.48:283][ 21]LogEditorFactories: -- imported successfully
+[2015.03.21-20.58.48:369][ 22]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 2.png]
+[2015.03.21-20.58.48:369][ 22]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 2.png)
+[2015.03.21-20.58.49:182][ 22]LogEditorFactories: -- imported successfully
+[2015.03.21-20.58.49:184][ 22]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 2.png]
+[2015.03.21-20.58.49:184][ 22]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 2.png)
+[2015.03.21-20.58.49:938][ 22]LogEditorFactories: -- imported successfully
+[2015.03.21-20.58.49:968][ 23]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 3.png]
+[2015.03.21-20.58.49:968][ 23]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 3.png)
+[2015.03.21-20.58.50:791][ 23]LogEditorFactories: -- imported successfully
+[2015.03.21-20.58.50:792][ 23]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 3.png]
+[2015.03.21-20.58.50:792][ 23]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 3.png)
+[2015.03.21-20.58.51:587][ 23]LogEditorFactories: -- imported successfully
+[2015.03.21-20.58.51:614][ 24]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 4.png]
+[2015.03.21-20.58.51:614][ 24]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 4.png)
+[2015.03.21-20.58.52:433][ 24]LogEditorFactories: -- imported successfully
+[2015.03.21-20.58.52:435][ 24]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 4.png]
+[2015.03.21-20.58.52:435][ 24]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 4.png)
+[2015.03.21-20.58.53:221][ 24]LogEditorFactories: -- imported successfully
+[2015.03.21-20.58.53:242][ 25]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 5.png]
+[2015.03.21-20.58.53:242][ 25]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 5.png)
+[2015.03.21-20.58.53:975][ 25]LogEditorFactories: -- imported successfully
+[2015.03.21-20.58.53:976][ 25]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 5.png]
+[2015.03.21-20.58.53:976][ 25]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 5.png)
+[2015.03.21-20.58.54:738][ 25]LogEditorFactories: -- imported successfully
+[2015.03.21-20.58.54:760][ 26]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 6.png]
+[2015.03.21-20.58.54:760][ 26]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 6.png)
+[2015.03.21-20.58.55:467][ 26]LogEditorFactories: -- imported successfully
+[2015.03.21-20.58.55:469][ 26]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 6.png]
+[2015.03.21-20.58.55:469][ 26]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 6.png)
+[2015.03.21-20.58.56:203][ 26]LogEditorFactories: -- imported successfully
+[2015.03.21-20.58.56:261][ 27]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 7.png]
+[2015.03.21-20.58.56:262][ 27]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 7.png)
+[2015.03.21-20.58.56:957][ 27]LogEditorFactories: -- imported successfully
+[2015.03.21-20.58.56:959][ 27]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 7.png]
+[2015.03.21-20.58.56:959][ 27]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 7.png)
+[2015.03.21-20.58.57:638][ 27]LogEditorFactories: -- imported successfully
+[2015.03.21-20.58.57:658][ 28]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 8.png]
+[2015.03.21-20.58.57:658][ 28]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 8.png)
+[2015.03.21-20.58.58:340][ 28]LogEditorFactories: -- imported successfully
+[2015.03.21-20.58.58:341][ 28]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 8.png]
+[2015.03.21-20.58.58:341][ 28]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 8.png)
+[2015.03.21-20.58.59:031][ 28]LogEditorFactories: -- imported successfully
+[2015.03.21-20.58.59:046][ 29]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 9.png]
+[2015.03.21-20.58.59:047][ 29]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 9.png)
+[2015.03.21-20.58.59:706][ 29]LogEditorFactories: -- imported successfully
+[2015.03.21-20.58.59:707][ 29]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 9.png]
+[2015.03.21-20.58.59:707][ 29]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 9.png)
+[2015.03.21-20.59.00:382][ 29]LogEditorFactories: -- imported successfully
+[2015.03.21-20.59.00:457][ 30]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/background.png]
+[2015.03.21-20.59.00:457][ 30]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/background.png)
+[2015.03.21-20.59.04:015][ 30]LogEditorFactories: -- imported successfully
+[2015.03.21-20.59.04:031][ 31]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 1.png]
+[2015.03.21-20.59.04:031][ 31]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 1.png)
+[2015.03.21-20.59.04:322][ 31]LogEditorFactories: -- imported successfully
+[2015.03.21-20.59.04:329][ 32]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 2.png]
+[2015.03.21-20.59.04:330][ 32]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 2.png)
+[2015.03.21-20.59.04:633][ 32]LogEditorFactories: -- imported successfully
+[2015.03.21-20.59.04:642][ 33]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 3.png]
+[2015.03.21-20.59.04:643][ 33]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 3.png)
+[2015.03.21-20.59.04:813][ 33]LogEditorFactories: -- imported successfully
+[2015.03.21-20.59.04:829][ 34]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/Branch.png]
+[2015.03.21-20.59.04:829][ 34]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/Branch.png)
+[2015.03.21-20.59.04:860][ 34]LogEditorFactories: -- imported successfully
+[2015.03.21-20.59.04:873][ 35]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/Bug.png]
+[2015.03.21-20.59.04:873][ 35]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/Bug.png)
+[2015.03.21-20.59.04:883][ 35]LogEditorFactories: -- imported successfully
+[2015.03.21-20.59.04:887][ 35]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud1.png]
+[2015.03.21-20.59.04:887][ 35]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud1.png)
+[2015.03.21-20.59.04:986][ 35]LogEditorFactories: -- imported successfully
+[2015.03.21-20.59.05:001][ 36]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud2.png]
+[2015.03.21-20.59.05:001][ 36]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud2.png)
+[2015.03.21-20.59.05:095][ 36]LogEditorFactories: -- imported successfully
+[2015.03.21-20.59.05:108][ 37]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/DeadLog.png]
+[2015.03.21-20.59.05:108][ 37]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/DeadLog.png)
+[2015.03.21-20.59.05:139][ 37]LogEditorFactories: -- imported successfully
+[2015.03.21-20.59.05:149][ 38]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass 1.png]
+[2015.03.21-20.59.05:150][ 38]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass 1.png)
+[2015.03.21-20.59.05:254][ 38]LogEditorFactories: -- imported successfully
+[2015.03.21-20.59.05:264][ 39]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass tuft.png]
+[2015.03.21-20.59.05:264][ 39]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass tuft.png)
+[2015.03.21-20.59.05:497][ 39]LogEditorFactories: -- imported successfully
+[2015.03.21-20.59.05:509][ 40]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/hollow log.png]
+[2015.03.21-20.59.05:510][ 40]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/hollow log.png)
+[2015.03.21-20.59.06:036][ 40]LogEditorFactories: -- imported successfully
+[2015.03.21-20.59.06:050][ 41]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/Log.png]
+[2015.03.21-20.59.06:050][ 41]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/Log.png)
+[2015.03.21-20.59.06:082][ 41]LogEditorFactories: -- imported successfully
+[2015.03.21-20.59.06:094][ 42]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/stump.png]
+[2015.03.21-20.59.06:094][ 42]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/stump.png)
+[2015.03.21-20.59.06:332][ 42]LogEditorFactories: -- imported successfully
+[2015.03.21-20.59.06:345][ 43]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/tongue.png]
+[2015.03.21-20.59.06:346][ 43]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/tongue.png)
+[2015.03.21-20.59.06:361][ 43]LogEditorFactories: -- imported successfully
+[2015.03.21-20.59.06:378][ 44]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/treebasetile.png]
+[2015.03.21-20.59.06:378][ 44]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/treebasetile.png)
+[2015.03.21-20.59.06:824][ 44]LogEditorFactories: -- imported successfully
+[2015.03.21-20.59.06:832][ 45]LogEditorFactories: Performing atomic reimport of [C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/treetile.png]
+[2015.03.21-20.59.06:833][ 45]LogFactory: FactoryCreateBinary: Texture2D with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/treetile.png)
+[2015.03.21-20.59.07:310][ 45]LogEditorFactories: -- imported successfully
+[2015.03.21-20.59.07:320][ 46]AssetReimport: Info Reimported asset Frame_1 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 1.png.
+[2015.03.21-20.59.07:320][ 46]AssetReimport: Info Reimported asset Frame_1 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 1.png.
+[2015.03.21-20.59.07:320][ 46]AssetReimport: Info Reimported asset Frame_10 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 10.png.
+[2015.03.21-20.59.07:320][ 46]AssetReimport: Info Reimported asset Frame_10 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 10.png.
+[2015.03.21-20.59.07:320][ 46]AssetReimport: Info Reimported asset Frame_2 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 2.png.
+[2015.03.21-20.59.07:320][ 46]AssetReimport: Info Reimported asset Frame_2 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 2.png.
+[2015.03.21-20.59.07:320][ 46]AssetReimport: Info Reimported asset Frame_3 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 3.png.
+[2015.03.21-20.59.07:320][ 46]AssetReimport: Info Reimported asset Frame_3 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 3.png.
+[2015.03.21-20.59.07:320][ 46]AssetReimport: Info Reimported asset Frame_4 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 4.png.
+[2015.03.21-20.59.07:320][ 46]AssetReimport: Info Reimported asset Frame_4 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 4.png.
+[2015.03.21-20.59.07:320][ 46]AssetReimport: Info Reimported asset Frame_5 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 5.png.
+[2015.03.21-20.59.07:320][ 46]AssetReimport: Info Reimported asset Frame_5 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 5.png.
+[2015.03.21-20.59.07:320][ 46]AssetReimport: Info Reimported asset Frame_6 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 6.png.
+[2015.03.21-20.59.07:320][ 46]AssetReimport: Info Reimported asset Frame_6 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 6.png.
+[2015.03.21-20.59.07:320][ 46]AssetReimport: Info Reimported asset Frame_7 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 7.png.
+[2015.03.21-20.59.07:320][ 46]AssetReimport: Info Reimported asset Frame_7 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 7.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset Frame_8 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 8.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset Frame_8 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 8.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset Frame_9 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 9.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset Frame_9 from C:/Users/Alan/Desktop/GameJam/try_2/Content/Finished Frames/Frame 9.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset background from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/background.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset branch_1 from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 1.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset branch_2 from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 2.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset branch_3 from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/branch 3.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset Branch from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/Branch.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset Bug from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/Bug.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset cloud1 from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud1.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset cloud2 from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/cloud2.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset DeadLog from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/DeadLog.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset grass_1 from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass 1.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset grass_tuft from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/grass tuft.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset hollow_log from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/hollow log.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset Log from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/Log.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset stump from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/stump.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset tongue from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/tongue.png.
+[2015.03.21-20.59.07:321][ 46]AssetReimport: Info Reimported asset treebasetile from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/treebasetile.png.
+[2015.03.21-20.59.07:322][ 46]AssetReimport: Info Reimported asset treetile from C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/treetile.png.
+[2015.03.21-21.00.30:600][984]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treebasetile_Sprite3)
+[2015.03.21-21.00.32:443][ 89]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_2_Sprite2)
+[2015.03.21-21.00.34:018][179]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treebasetile_Sprite3)
+[2015.03.21-21.00.35:509][265]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (plainstile_Sprite)
+[2015.03.21-21.00.56:891][511]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treebasetile_Sprite3)
+[2015.03.21-21.00.59:893][682]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (plainstile_Sprite)
+[2015.03.21-21.01.06:940][100]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-21.01.06:940][100]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-21.01.07:018][100]LogPlayLevel: PIE:  Blueprint regeneration took 76 ms (1 blueprints)
+[2015.03.21-21.01.07:018][100]PIE: New page: PIE session: Levelone (21 Mar 2015 21:01:07)
+[2015.03.21-21.01.07:025][100]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-21.01.07:025][100]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-21.01.07:026][100]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-21.01.07:026][100]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-21.01.07:026][100]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-21.01.07:026][100]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-21.01.07:027][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009082s)
+[2015.03.21-21.01.07:029][100]LogPlayLevel: PIE: World Init took: (0.001303s)
+[2015.03.21-21.01.07:029][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.011159s)
+[2015.03.21-21.01.07:097][100]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-21.01.07:100][100]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-21.01.07:117][100]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-21.01.07
+[2015.03.21-21.01.07:132][100]LogWorld: Bringing up level for play took: 0.031562
+[2015.03.21-21.01.07:141][100]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.231
+[2015.03.21-21.01.09:395][224]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000BC708B3D80
+[2015.03.21-21.01.14:791][491]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.21-21.01.14:791][491]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.21-21.01.15:191][515]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.21-21.01.15:191][515]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.21-21.01.15:481][530]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.21-21.01.15:481][530]LogConsoleManager:Warning: Console varia
