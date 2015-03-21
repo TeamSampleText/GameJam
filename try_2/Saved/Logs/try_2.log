@@ -35434,4 +35434,1004 @@ Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en
 [2015.03.21-09.02.44:990][697]LogBlueprintUserMessages: Player found
 [2015.03.21-09.02.45:006][698]LogBlueprintUserMessages: Player found
 [2015.03.21-09.02.45:344][714]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093E60B3420
-[2015.03.21-09.04.56:404][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIR
+[2015.03.21-09.04.56:404][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.21-09.04.56:574][554]LogSavePackage: Save=133.950577ms
+[2015.03.21-09.04.56:574][554]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone5093670C463BA85207E6F6B3F82F052F.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.21-09.04.56:615][554]LogFileHelpers: Saving map 'Levelone' took 0.336
+[2015.03.21-09.05.46:076][397]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.05.46:082][397]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.05.46:174][397]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.05.46:375][397]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-09.05.46:441][397]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.05.46:521][397]LogPlayLevel: PIE:  Blueprint regeneration took 445 ms (4 blueprints)
+[2015.03.21-09.05.46:522][397]PIE: New page: PIE session: Levelone (21 Mar 2015 09:05:46)
+[2015.03.21-09.05.46:528][397]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.05.46:528][397]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.05.46:529][397]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.05.46:529][397]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.05.46:530][397]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.05.46:530][397]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.05.46:530][397]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.05.46:530][397]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.05.46:532][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009682s)
+[2015.03.21-09.05.46:532][397]LogPlayLevel: PIE: World Init took: (0.000486s)
+[2015.03.21-09.05.46:532][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.010300s)
+[2015.03.21-09.05.46:565][397]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.05.46:567][397]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-09.05.46:574][397]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-09.05.46
+[2015.03.21-09.05.46:575][397]LogWorld: Bringing up level for play took: 0.007260
+[2015.03.21-09.05.46:578][397]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.05.46:578][397]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.05.46:580][397]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.329
+[2015.03.21-09.05.46:605][398]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.05.46:605][398]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.05.48:019][482]LogBlueprintUserMessages: Player found
+[2015.03.21-09.05.48:035][483]LogBlueprintUserMessages: Player found
+[2015.03.21-09.05.48:136][485]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093E2AB8720
+[2015.03.21-09.05.54:083][833]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2015.03.21-09.05.56:963][971]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2015.03.21-09.06.08:924][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.21-09.06.08:957][315]LogSavePackage: Save=8.967973ms
+[2015.03.21-09.06.08:957][315]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/MenuC198BDFF47045ACA8EA5B4BBBD1953C4.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Menu.umap'
+[2015.03.21-09.06.08:966][315]LogFileHelpers: Saving map 'Menu' took 0.169
+[2015.03.21-09.06.08:972][315]Cmd: MAP LOAD FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2015.03.21-09.06.08:973][315]LightingResults: New page: Lighting Build
+[2015.03.21-09.06.09:009][315]LoadErrors: New page: Loading map: Menu.umap
+[2015.03.21-09.06.09:483][315]MapCheck: New page: Map Check
+[2015.03.21-09.06.09:483][315]LightingResults: New page: Lighting Build
+[2015.03.21-09.06.09:500][315]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000938139AFC0
+[2015.03.21-09.06.09:543][315]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2015.03.21-09.06.09:543][315]LogAIModule: Creating AISystem for world Menu
+[2015.03.21-09.06.09:632][315]Cmd: MAP CHECKDEP
+[2015.03.21-09.06.09:632][315]MapCheck: New page: Menu - 21 Mar 2015 09:06:09
+[2015.03.21-09.06.09:756][315]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 123.317ms to complete.
+[2015.03.21-09.06.09:756][315]LogFileHelpers: Loading map 'Menu' took 0.789
+[2015.03.21-09.06.39:788][117]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/UI'
+[2015.03.21-09.06.55:180][962]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/UI'
+[2015.03.21-09.07.32:493][130]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.07.32:498][130]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.07.32:587][130]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.07.32:790][130]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.07.32:873][130]LogPlayLevel: PIE:  Blueprint regeneration took 379 ms (3 blueprints)
+[2015.03.21-09.07.32:873][130]PIE: New page: PIE session: Menu (21 Mar 2015 09:07:32)
+[2015.03.21-09.07.32:874][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000368s)
+[2015.03.21-09.07.32:875][130]LogPlayLevel: PIE: World Init took: (0.000504s)
+[2015.03.21-09.07.32:875][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.001010s)
+[2015.03.21-09.07.32:909][130]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.07.32:911][130]LogAIModule: Creating AISystem for world Menu
+[2015.03.21-09.07.32:912][130]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-09.07.32
+[2015.03.21-09.07.32:913][130]LogWorld: Bringing up level for play took: 0.000748
+[2015.03.21-09.07.32:913][130]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.21-09.07.32:914][130]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.07.32:914][130]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.07.32:924][130]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.015
+[2015.03.21-09.07.32:939][130]LogPropertyNode: Object is invalid Slot
+[2015.03.21-09.07.32:939][130]LogPropertyNode: Object is invalid Navigation
+[2015.03.21-09.07.32:970][131]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.07.32:970][131]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.07.35:017][247]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093E9FFAAC0
+[2015.03.21-09.07.44:940][788]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2015.03.21-09.09.27:300][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Menu.uasset" SILENT=true
+[2015.03.21-09.09.27:315][187]LogSavePackage: Save=10.068647ms
+[2015.03.21-09.09.27:315][187]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/MenuA05EC0884A6622ECA820F6B7F13F9417.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Menu.uasset'
+[2015.03.21-09.09.27:330][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Blueprints/Menu.uasset" SILENT=true
+[2015.03.21-09.09.27:347][187]LogSavePackage: Save=12.508114ms
+[2015.03.21-09.09.27:347][187]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/MenuAC2493994B4A3AB11B10D0B2B797C438.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Blueprints/Menu.uasset'
+[2015.03.21-09.12.19:719][343]LogUObjectHash:Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/Menu.SKEL_Menu_C or BlueprintGeneratedClass /Game/Blueprints/Menu.SKEL_Menu_C
+[2015.03.21-09.12.19:719][343]LogUObjectHash:Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Blueprints/Menu.Menu_C or WidgetBlueprintGeneratedClass /Game/UI/Menu.Menu_C
+[2015.03.21-09.12.26:035][685]LogUObjectHash:Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/Menu.SKEL_Menu_C or BlueprintGeneratedClass /Game/Blueprints/Menu.SKEL_Menu_C
+[2015.03.21-09.12.26:035][685]LogUObjectHash:Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Blueprints/Menu.Menu_C or WidgetBlueprintGeneratedClass /Game/UI/Menu.Menu_C
+[2015.03.21-09.12.26:437][686]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0067 seconds. Added 1 classes and 2 folders.
+[2015.03.21-09.12.30:378][911]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2015.03.21-09.12.32:647][ 38]LogUObjectHash:Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/Menu.SKEL_Menu_C or BlueprintGeneratedClass /Game/Blueprints/Menu.SKEL_Menu_C
+[2015.03.21-09.12.32:647][ 38]LogUObjectHash:Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Blueprints/Menu.Menu_C or WidgetBlueprintGeneratedClass /Game/UI/Menu.Menu_C
+[2015.03.21-09.12.35:463][183]LogTexture:Display: Building textures: T_Wood_Walnut_D (AutoDXT)
+[2015.03.21-09.12.46:996][594]LogUObjectHash:Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/Menu.SKEL_Menu_C or BlueprintGeneratedClass /Game/Blueprints/Menu.SKEL_Menu_C
+[2015.03.21-09.12.46:996][594]LogUObjectHash:Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Blueprints/Menu.Menu_C or WidgetBlueprintGeneratedClass /Game/UI/Menu.Menu_C
+[2015.03.21-09.14.37:830][119]LogUObjectHash:Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/Menu.SKEL_Menu_C or BlueprintGeneratedClass /Game/Blueprints/Menu.SKEL_Menu_C
+[2015.03.21-09.14.37:830][119]LogUObjectHash:Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Blueprints/Menu.Menu_C or WidgetBlueprintGeneratedClass /Game/UI/Menu.Menu_C
+[2015.03.21-09.15.24:301][858]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-09.15.25:081][903]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2015.03.21-09.15.39:057][646]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.15.39:065][646]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.15.39:186][646]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.15.39:448][646]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-09.15.39:536][646]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.15.39:657][646]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.15.39:768][646]LogPlayLevel: PIE:  Blueprint regeneration took 710 ms (5 blueprints)
+[2015.03.21-09.15.39:768][646]PIE: New page: PIE session: Menu (21 Mar 2015 09:15:39)
+[2015.03.21-09.15.39:769][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000426s)
+[2015.03.21-09.15.39:770][646]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2015.03.21-09.15.39:770][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.001229s)
+[2015.03.21-09.15.39:808][646]LogWorld: Game class is 'Menu_C'
+[2015.03.21-09.15.39:810][646]LogAIModule: Creating AISystem for world Menu
+[2015.03.21-09.15.39:811][646]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-09.15.39
+[2015.03.21-09.15.39:811][646]LogWorld: Bringing up level for play took: 0.000951
+[2015.03.21-09.15.39:812][646]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.21-09.15.39:823][646]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.914
+[2015.03.21-09.15.40:093][647]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.15.40:093][647]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.15.41:033][697]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093D8CF7EC0
+[2015.03.21-09.16.14:611][450]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2015.03.21-09.16.37:696][718]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.16.37:703][718]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.16.37:818][718]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.16.38:068][718]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-09.16.38:148][718]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.16.38:206][718]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.16.38:310][718]LogPlayLevel: PIE:  Blueprint regeneration took 613 ms (5 blueprints)
+[2015.03.21-09.16.38:310][718]PIE: New page: PIE session: Menu (21 Mar 2015 09:16:38)
+[2015.03.21-09.16.38:313][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002987s)
+[2015.03.21-09.16.38:314][718]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2015.03.21-09.16.38:314][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.003737s)
+[2015.03.21-09.16.38:350][718]LogWorld: Game class is 'Menu_C'
+[2015.03.21-09.16.38:353][718]LogAIModule: Creating AISystem for world Menu
+[2015.03.21-09.16.38:354][718]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-09.16.38
+[2015.03.21-09.16.38:354][718]LogWorld: Bringing up level for play took: 0.001041
+[2015.03.21-09.16.38:355][718]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.21-09.16.38:364][718]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 1.455
+[2015.03.21-09.16.38:412][719]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.16.38:412][719]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.16.41:730][910]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093DA0016C0
+[2015.03.21-09.16.57:873][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Menu_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2015.03.21-09.16.57:981][766]LogSavePackage: Save=80.941254ms
+[2015.03.21-09.16.57:981][766]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Menu_Auto5D40BA2A74A23519AE0B13488B0674549.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Menu_Auto5.umap'
+[2015.03.21-09.16.58:001][766]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.244
+[2015.03.21-09.16.58:001][766]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.244
+[2015.03.21-09.16.58:035][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Menu] ([1] browsable assets)...
+[2015.03.21-09.16.58:035][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Menu]
+[2015.03.21-09.16.58:086][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/Menu_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2015.03.21-09.16.58:268][766]LogSavePackage: Save=154.997238ms
+[2015.03.21-09.16.58:269][766]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Menu_Auto525B66B1E416B6D4B80260195C7E88745.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/Menu_Auto5.uasset'
+[2015.03.21-09.16.58:329][766]LogFileHelpers: Auto-saving content packages took 0.329
+[2015.03.21-09.18.10:956][649]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
+[2015.03.21-09.18.18:064][ 69]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2015.03.21-09.21.32:350][122]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2015.03.21-09.21.34:922][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Blueprints/Menu.uasset" SILENT=true
+[2015.03.21-09.21.34:956][184]LogSavePackage: Save=15.855708ms
+[2015.03.21-09.21.34:956][184]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Menu0CEB6FED4BBA2C9E2A2A3E86A0EB3320.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Blueprints/Menu.uasset'
+[2015.03.21-09.21.35:110][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.21-09.21.35:216][184]LogSavePackage: Save=66.574181ms
+[2015.03.21-09.21.35:216][184]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/MenuDD063BD2445D812D2F28148581133926.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Menu.umap'
+[2015.03.21-09.21.35:254][184]LogFileHelpers: Saving map 'Menu' took 0.287
+[2015.03.21-09.21.35:257][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Menu.uasset" SILENT=true
+[2015.03.21-09.21.35:291][184]LogSavePackage: Save=18.821083ms
+[2015.03.21-09.21.35:291][184]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Menu0B22A65443092480D654FCA8ED82C2F2.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Menu.uasset'
+[2015.03.21-09.21.35:332][184]Cmd: MAP LOAD FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2015.03.21-09.21.35:332][184]LightingResults: New page: Lighting Build
+[2015.03.21-09.21.35:365][184]LoadErrors: New page: Loading map: Levelone.umap
+[2015.03.21-09.21.35:390][184]MapCheck: New page: Map Check
+[2015.03.21-09.21.35:390][184]LightingResults: New page: Lighting Build
+[2015.03.21-09.21.35:409][184]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093D8B44E00
+[2015.03.21-09.21.35:409][184]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093B85F84A0
+[2015.03.21-09.21.35:422][184]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2015.03.21-09.21.35:422][184]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-09.21.35:449][184]Cmd: MAP CHECKDEP
+[2015.03.21-09.21.35:449][184]MapCheck: New page: Levelone - 21 Mar 2015 09:21:35
+[2015.03.21-09.21.35:572][184]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 122.984ms to complete.
+[2015.03.21-09.21.35:573][184]LogFileHelpers: Loading map 'Levelone' took 0.244
+[2015.03.21-09.21.36:883][261]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.21.36:889][261]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.21.36:986][261]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.21.37:185][261]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-09.21.37:250][261]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.21.37:437][261]LogPlayLevel: PIE:  Blueprint regeneration took 553 ms (4 blueprints)
+[2015.03.21-09.21.37:437][261]PIE: New page: PIE session: Levelone (21 Mar 2015 09:21:37)
+[2015.03.21-09.21.37:445][261]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.21.37:445][261]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.21.37:445][261]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.21.37:445][261]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.21.37:446][261]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.21.37:446][261]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.21.37:446][261]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.21.37:446][261]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.21.37:448][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010395s)
+[2015.03.21-09.21.37:448][261]LogPlayLevel: PIE: World Init took: (0.000474s)
+[2015.03.21-09.21.37:448][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.011007s)
+[2015.03.21-09.21.37:490][261]LogWorld: Game class is 'Menu_C'
+[2015.03.21-09.21.37:492][261]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-09.21.37:496][261]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-09.21.37
+[2015.03.21-09.21.37:497][261]LogWorld: Bringing up level for play took: 0.004480
+[2015.03.21-09.21.37:508][261]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.6
+[2015.03.21-09.21.37:550][262]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.21.37:550][262]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.21.39:833][384]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000939F7A6480
+[2015.03.21-09.21.45:075][666]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2015.03.21-09.21.50:170][868]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.21.50:176][868]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.21.50:267][868]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.21.50:461][868]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-09.21.50:525][868]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.21.50:611][868]LogPlayLevel: PIE:  Blueprint regeneration took 441 ms (4 blueprints)
+[2015.03.21-09.21.50:611][868]PIE: New page: PIE session: Levelone (21 Mar 2015 09:21:50)
+[2015.03.21-09.21.50:618][868]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.21.50:618][868]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.21.50:619][868]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.21.50:619][868]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.21.50:619][868]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.21.50:619][868]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.21.50:619][868]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.21.50:619][868]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.21.50:621][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009462s)
+[2015.03.21-09.21.50:622][868]LogPlayLevel: PIE: World Init took: (0.000477s)
+[2015.03.21-09.21.50:622][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.010072s)
+[2015.03.21-09.21.50:660][868]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.21.50:662][868]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-09.21.50:665][868]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-09.21.50
+[2015.03.21-09.21.50:666][868]LogWorld: Bringing up level for play took: 0.003788
+[2015.03.21-09.21.50:667][868]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.21.50:667][868]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.21.50:668][868]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.24
+[2015.03.21-09.21.50:685][869]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.21.50:685][869]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.21.52:193][959]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:209][960]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:226][961]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:243][962]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:259][963]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:276][964]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:293][965]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:309][966]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:326][967]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:343][968]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:359][969]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:376][970]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:393][971]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:410][972]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:427][973]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:443][974]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:460][975]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:477][976]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:494][977]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:510][978]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:527][979]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:543][980]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:560][981]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:577][982]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:594][983]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:610][984]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:627][985]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:643][986]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:660][987]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:677][988]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:694][989]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:710][990]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:727][991]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:743][992]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:760][993]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:777][994]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:794][995]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:810][996]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:827][997]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:843][998]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:860][999]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:877][  0]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:893][  1]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:910][  2]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:926][  3]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:943][  4]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:960][  5]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:977][  6]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.52:994][  7]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:011][  8]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:027][  9]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:044][ 10]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:060][ 11]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:077][ 12]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:094][ 13]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:110][ 14]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:127][ 15]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:143][ 16]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:160][ 17]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:177][ 18]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:193][ 19]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:210][ 20]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:227][ 21]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:244][ 22]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:261][ 23]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:277][ 24]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:293][ 25]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:310][ 26]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:327][ 27]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:343][ 28]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:360][ 29]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:377][ 30]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:393][ 31]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:410][ 32]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:427][ 33]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:443][ 34]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:460][ 35]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:477][ 36]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:493][ 37]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:510][ 38]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:526][ 39]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:543][ 40]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:560][ 41]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:576][ 42]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:593][ 43]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:610][ 44]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:626][ 45]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:644][ 46]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:660][ 47]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:677][ 48]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:693][ 49]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:710][ 50]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:727][ 51]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:743][ 52]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:760][ 53]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:777][ 54]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:793][ 55]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:810][ 56]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:827][ 57]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:843][ 58]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:860][ 59]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.53:877][ 60]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:093][ 73]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:110][ 74]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:128][ 75]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:144][ 76]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:161][ 77]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:177][ 78]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:194][ 79]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:210][ 80]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:228][ 81]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:243][ 82]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:261][ 83]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:277][ 84]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:294][ 85]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:311][ 86]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:327][ 87]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:343][ 88]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:360][ 89]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:377][ 90]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:427][ 93]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:443][ 94]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:461][ 95]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:478][ 96]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:494][ 97]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:511][ 98]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:527][ 99]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:543][100]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:560][101]LogBlueprintUserMessages: Player found
+[2015.03.21-09.21.54:577][102]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:162][597]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:179][598]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:196][599]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:212][600]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:229][601]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:245][602]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:262][603]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:279][604]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:296][605]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:312][606]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:329][607]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:345][608]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:362][609]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:378][610]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:395][611]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:411][612]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:428][613]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:444][614]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:461][615]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:478][616]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:494][617]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:511][618]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:528][619]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:544][620]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:561][621]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:577][622]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:594][623]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:611][624]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:628][625]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:644][626]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:661][627]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:677][628]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:694][629]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:711][630]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:727][631]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:744][632]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:761][633]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:777][634]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:794][635]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:811][636]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:828][637]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:845][638]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:862][639]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:878][640]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:895][641]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:912][642]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:928][643]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:945][644]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:962][645]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:978][646]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.36:995][647]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.37:011][648]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.37:028][649]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:512][ 38]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:529][ 39]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:545][ 40]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:562][ 41]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:579][ 42]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:596][ 43]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:613][ 44]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:629][ 45]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:645][ 46]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:662][ 47]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:679][ 48]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:695][ 49]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:712][ 50]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:729][ 51]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:745][ 52]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:761][ 53]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:778][ 54]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:795][ 55]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:812][ 56]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:828][ 57]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:844][ 58]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:862][ 59]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:878][ 60]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:895][ 61]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:911][ 62]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:928][ 63]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:944][ 64]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:961][ 65]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:978][ 66]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.43:995][ 67]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:011][ 68]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:028][ 69]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:044][ 70]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:061][ 71]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:078][ 72]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:095][ 73]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:111][ 74]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:128][ 75]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:145][ 76]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:161][ 77]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:179][ 78]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:195][ 79]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:212][ 80]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:229][ 81]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:246][ 82]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:262][ 83]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:279][ 84]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:295][ 85]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:312][ 86]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:328][ 87]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:345][ 88]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:362][ 89]LogBlueprintUserMessages: Player found
+[2015.03.21-09.22.44:378][ 90]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:162][596]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:179][597]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:195][598]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:212][599]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:229][600]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:245][601]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:262][602]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:278][603]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:296][604]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:313][605]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:329][606]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:346][607]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:363][608]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:379][609]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:396][610]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:413][611]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:429][612]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:446][613]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:463][614]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:479][615]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:496][616]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:512][617]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:529][618]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:546][619]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:563][620]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:579][621]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:595][622]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:612][623]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:629][624]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:645][625]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:662][626]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:679][627]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:695][628]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:712][629]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:729][630]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:746][631]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:762][632]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:779][633]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:796][634]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:813][635]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:829][636]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:845][637]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:862][638]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:879][639]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:895][640]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:912][641]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:929][642]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:945][643]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:962][644]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:978][645]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.26:995][646]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.27:012][647]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.27:029][648]LogBlueprintUserMessages: Player found
+[2015.03.21-09.23.28:854][754]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009405BCC4A0
+[2015.03.21-09.24.16:385][598]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.24.16:391][598]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.24.16:484][598]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.24.16:683][598]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-09.24.16:748][598]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.24.16:940][598]LogPlayLevel: PIE:  Blueprint regeneration took 554 ms (4 blueprints)
+[2015.03.21-09.24.16:940][598]PIE: New page: PIE session: Levelone (21 Mar 2015 09:24:16)
+[2015.03.21-09.24.16:947][598]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.24.16:947][598]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.24.16:948][598]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.24.16:948][598]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.24.16:948][598]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.24.16:948][598]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.24.16:949][598]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.24.16:949][598]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-09.24.16:950][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010004s)
+[2015.03.21-09.24.16:951][598]LogPlayLevel: PIE: World Init took: (0.000542s)
+[2015.03.21-09.24.16:951][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.010722s)
+[2015.03.21-09.24.16:988][598]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.24.16:990][598]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-09.24.16:993][598]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-09.24.16
+[2015.03.21-09.24.16:994][598]LogWorld: Bringing up level for play took: 0.003917
+[2015.03.21-09.24.16:995][598]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.24.16:995][598]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.24.17:006][598]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.097
+[2015.03.21-09.24.17:050][599]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.24.17:050][599]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.24.18:036][648]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093E1C48C20
+[2015.03.21-09.24.21:593][761]Cmd: MAP LOAD FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2015.03.21-09.24.21:594][761]LightingResults: New page: Lighting Build
+[2015.03.21-09.24.21:628][761]LoadErrors: New page: Loading map: Menu.umap
+[2015.03.21-09.24.21:629][761]MapCheck: New page: Map Check
+[2015.03.21-09.24.21:629][761]LightingResults: New page: Lighting Build
+[2015.03.21-09.24.21:646][761]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000938F311F80
+[2015.03.21-09.24.21:652][761]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2015.03.21-09.24.21:653][761]LogAIModule: Creating AISystem for world Menu
+[2015.03.21-09.24.21:679][761]Cmd: MAP CHECKDEP
+[2015.03.21-09.24.21:680][761]MapCheck: New page: Menu - 21 Mar 2015 09:24:21
+[2015.03.21-09.24.21:802][761]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 122.926ms to complete.
+[2015.03.21-09.24.21:803][761]LogFileHelpers: Loading map 'Menu' took 0.214
+[2015.03.21-09.24.25:252][868]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
+[2015.03.21-09.24.34:929][966]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
+[2015.03.21-09.25.46:198][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Menu.uasset" SILENT=true
+[2015.03.21-09.25.46:256][342]LogSavePackage: Save=21.396851ms
+[2015.03.21-09.25.46:256][342]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Menu99CE40A5457B9AC38C2A19A7EA405707.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Menu.uasset'
+[2015.03.21-09.25.46:271][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/playercontroler2" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/playercontroler2.uasset" SILENT=true
+[2015.03.21-09.25.46:289][342]LogSavePackage: Save=14.156457ms
+[2015.03.21-09.25.46:289][342]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/playercontroler2135496354D638A2913DA82B92F1FF53C.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/playercontroler2.uasset'
+[2015.03.21-09.26.00:404][ 95]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.26.00:409][ 95]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.26.00:498][ 95]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.26.00:692][ 95]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.26.00:741][ 95]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.26.00:828][ 95]LogPlayLevel: PIE:  Blueprint regeneration took 423 ms (4 blueprints)
+[2015.03.21-09.26.00:829][ 95]PIE: New page: PIE session: Menu (21 Mar 2015 09:26:00)
+[2015.03.21-09.26.00:832][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002826s)
+[2015.03.21-09.26.00:832][ 95]LogPlayLevel: PIE: World Init took: (0.000478s)
+[2015.03.21-09.26.00:832][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.003438s)
+[2015.03.21-09.26.00:868][ 95]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.26.00:870][ 95]LogAIModule: Creating AISystem for world Menu
+[2015.03.21-09.26.00:871][ 95]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-09.26.00
+[2015.03.21-09.26.00:871][ 95]LogWorld: Bringing up level for play took: 0.000864
+[2015.03.21-09.26.00:872][ 95]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.26.00:873][ 95]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.26.00:874][ 95]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu -0.035
+[2015.03.21-09.26.00:900][ 96]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.26.00:900][ 96]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.26.13:657][856]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093D26898A0
+[2015.03.21-09.26.18:782][155]LogBlueprintUserMessages: Icantspellchamerlan13
+[2015.03.21-09.26.18:782][155]LogBlueprintUserMessages: Icantspellchamerlan13
+[2015.03.21-09.26.24:068][458]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/UI'
+[2015.03.21-09.26.28:670][717]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.26.28:674][717]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.26.28:757][717]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.26.28:945][717]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.26.28:992][717]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.26.29:067][717]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093FEC867A0
+[2015.03.21-09.26.29:068][717]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093FEC85BC0
+[2015.03.21-09.26.29:069][717]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000939B029B20
+[2015.03.21-09.26.29:069][717]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093954C2020
+[2015.03.21-09.26.29:069][717]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000938EF96DE0
+[2015.03.21-09.26.29:070][717]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093866F2DE0
+[2015.03.21-09.26.29:070][717]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093CDA47060
+[2015.03.21-09.26.29:070][717]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093E5B87D80
+[2015.03.21-09.26.29:076][717]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093D94A9440
+[2015.03.21-09.26.29:076][717]LogPlayLevel: PIE:  Blueprint regeneration took 406 ms (4 blueprints)
+[2015.03.21-09.26.29:076][717]PIE: New page: PIE session: Menu (21 Mar 2015 09:26:29)
+[2015.03.21-09.26.29:080][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002701s)
+[2015.03.21-09.26.29:080][717]LogPlayLevel: PIE: World Init took: (0.000520s)
+[2015.03.21-09.26.29:080][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.003359s)
+[2015.03.21-09.26.29:120][717]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.26.29:122][717]LogAIModule: Creating AISystem for world Menu
+[2015.03.21-09.26.29:122][717]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-09.26.29
+[2015.03.21-09.26.29:123][717]LogWorld: Bringing up level for play took: 0.000777
+[2015.03.21-09.26.29:123][717]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.21-09.26.29:124][717]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.26.29:124][717]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.26.29:133][717]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.224
+[2015.03.21-09.26.41:867][230]LogRenderer:Warning: Reallocating scene render targets to support 1296x792 (Frame:237105).
+[2015.03.21-09.27.07:296][630]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093D55776A0
+[2015.03.21-09.28.48:889][560]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.28.48:893][560]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.28.48:981][560]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.28.49:173][560]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.28.49:250][560]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.28.49:337][560]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.28.49:413][560]LogPlayLevel: PIE:  Blueprint regeneration took 522 ms (5 blueprints)
+[2015.03.21-09.28.49:413][560]PIE: New page: PIE session: Menu (21 Mar 2015 09:28:49)
+[2015.03.21-09.28.49:416][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002967s)
+[2015.03.21-09.28.49:417][560]LogPlayLevel: PIE: World Init took: (0.000490s)
+[2015.03.21-09.28.49:417][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.003591s)
+[2015.03.21-09.28.49:453][560]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.28.49:455][560]LogAIModule: Creating AISystem for world Menu
+[2015.03.21-09.28.49:456][560]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-09.28.49
+[2015.03.21-09.28.49:457][560]LogWorld: Bringing up level for play took: 0.000869
+[2015.03.21-09.28.49:457][560]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.21-09.28.49:458][560]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.28.49:458][560]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.28.49:468][560]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.559
+[2015.03.21-09.28.49:482][560]LogPropertyNode: Object is invalid Slot
+[2015.03.21-09.28.49:482][560]LogPropertyNode: Object is invalid Navigation
+[2015.03.21-09.28.55:741][914]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093EA99EA20
+[2015.03.21-09.29.00:201][175]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.29.00:205][175]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.29.00:290][175]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.29.00:488][175]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.29.00:563][175]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.29.00:645][175]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.29.00:722][175]LogPlayLevel: PIE:  Blueprint regeneration took 520 ms (5 blueprints)
+[2015.03.21-09.29.00:722][175]PIE: New page: PIE session: Menu (21 Mar 2015 09:29:00)
+[2015.03.21-09.29.00:725][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002824s)
+[2015.03.21-09.29.00:725][175]LogPlayLevel: PIE: World Init took: (0.000423s)
+[2015.03.21-09.29.00:725][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.003375s)
+[2015.03.21-09.29.00:765][175]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.29.00:767][175]LogAIModule: Creating AISystem for world Menu
+[2015.03.21-09.29.00:768][175]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-09.29.00
+[2015.03.21-09.29.00:768][175]LogWorld: Bringing up level for play took: 0.000805
+[2015.03.21-09.29.00:769][175]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.21-09.29.00:770][175]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.29.00:770][175]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.29.00:778][175]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu -0.131
+[2015.03.21-09.29.00:794][175]LogPropertyNode: Object is invalid Slot
+[2015.03.21-09.29.00:794][175]LogPropertyNode: Object is invalid Navigation
+[2015.03.21-09.29.02:803][276]LogPackageName: SearchForPackageOnDisk took   0.115s to resolve Levelone.umap
+[2015.03.21-09.29.02:973][276]LogPackageName: SearchForPackageOnDisk took   0.104s to resolve Levelone.umap
+[2015.03.21-09.29.02:973][276]LogNet: Browse: /Game/Maps/Levelone
+[2015.03.21-09.29.03:022][276]LogLoad: LoadMap: /Game/Maps/Levelone
+[2015.03.21-09.29.03:046][276]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093EDBBEAC0
+[2015.03.21-09.29.03:051][276]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093FD7CEE80
+[2015.03.21-09.29.03:070][276]Cmd: MEM
+[2015.03.21-09.29.03:103][276]LogMemory: Platform Memory Stats for Windows
+[2015.03.21-09.29.03:103][276]LogMemory: Process Physical Memory: 1962.94 MB used, 2037.82 MB peak
+[2015.03.21-09.29.03:103][276]LogMemory: Process Virtual Memory: 1946.86 MB used, 2013.49 MB peak
+[2015.03.21-09.29.03:103][276]LogMemory: Physical Memory: 7844.26 MB used, 12200.27 MB total
+[2015.03.21-09.29.03:103][276]LogMemory: Virtual Memory: 2509.57 MB used, 134217728.00 MB total
+[2015.03.21-09.29.03:103][276]LogMemory: 
+[2015.03.21-09.29.03:103][276]Allocator Stats for TBB: (not implemented)
+[2015.03.21-09.29.04:823][276]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.29.04:825][276]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-09.29.04:829][276]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-09.29.04
+[2015.03.21-09.29.04:830][276]LogWorld: Bringing up level for play took: 0.004807
+[2015.03.21-09.29.04:854][276]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.29.04:854][276]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.29.04:943][277]LogPackageName: SearchForPackageOnDisk took   0.073s to resolve Levelone.umap
+[2015.03.21-09.29.05:015][277]LogPackageName: SearchForPackageOnDisk took   0.071s to resolve Levelone.umap
+[2015.03.21-09.29.05:096][278]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093E6311C60
+[2015.03.21-09.29.06:449][358]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.29.06:453][358]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.29.06:535][358]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.29.06:743][358]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.29.06:790][358]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.29.06:866][358]LogPlayLevel: PIE:  Blueprint regeneration took 417 ms (4 blueprints)
+[2015.03.21-09.29.06:866][358]PIE: New page: PIE session: Menu (21 Mar 2015 09:29:06)
+[2015.03.21-09.29.06:869][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002940s)
+[2015.03.21-09.29.06:870][358]LogPlayLevel: PIE: World Init took: (0.000440s)
+[2015.03.21-09.29.06:870][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.003510s)
+[2015.03.21-09.29.06:910][358]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.29.06:911][358]LogAIModule: Creating AISystem for world Menu
+[2015.03.21-09.29.06:913][358]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-09.29.06
+[2015.03.21-09.29.06:913][358]LogWorld: Bringing up level for play took: 0.001029
+[2015.03.21-09.29.06:914][358]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.21-09.29.06:915][358]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.29.06:915][358]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.29.06:926][358]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.018
+[2015.03.21-09.29.06:941][358]LogPropertyNode: Object is invalid Slot
+[2015.03.21-09.29.06:941][358]LogPropertyNode: Object is invalid Navigation
+[2015.03.21-09.29.07:931][410]LogPackageName: SearchForPackageOnDisk took   0.075s to resolve Levelone.umap
+[2015.03.21-09.29.08:003][410]LogPackageName: SearchForPackageOnDisk took   0.071s to resolve Levelone.umap
+[2015.03.21-09.29.08:003][410]LogNet: Browse: /Game/Maps/Levelone
+[2015.03.21-09.29.08:003][410]LogLoad: LoadMap: /Game/Maps/Levelone
+[2015.03.21-09.29.08:024][410]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093E6A30720
+[2015.03.21-09.29.08:024][410]Cmd: MEM
+[2015.03.21-09.29.08:043][410]LogMemory: Platform Memory Stats for Windows
+[2015.03.21-09.29.08:043][410]LogMemory: Process Physical Memory: 1995.21 MB used, 2037.82 MB peak
+[2015.03.21-09.29.08:043][410]LogMemory: Process Virtual Memory: 1979.30 MB used, 2013.49 MB peak
+[2015.03.21-09.29.08:043][410]LogMemory: Physical Memory: 7874.39 MB used, 12200.27 MB total
+[2015.03.21-09.29.08:043][410]LogMemory: Virtual Memory: 2541.50 MB used, 134217728.00 MB total
+[2015.03.21-09.29.08:043][410]LogMemory: 
+[2015.03.21-09.29.08:043][410]Allocator Stats for TBB: (not implemented)
+[2015.03.21-09.29.08:294][410]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.29.08:295][410]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-09.29.08:299][410]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-09.29.08
+[2015.03.21-09.29.08:300][410]LogWorld: Bringing up level for play took: 0.004449
+[2015.03.21-09.29.08:302][410]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.29.08:302][410]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.29.11:670][612]LogBlueprintUserMessages: Hello
+[2015.03.21-09.29.12:753][677]LogBlueprintUserMessages: Hello
+[2015.03.21-09.29.12:803][680]LogBlueprintUserMessages: Hello
+[2015.03.21-09.29.21:698][210]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093E1C674C0
+[2015.03.21-09.31.08:907][536]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.31.08:911][536]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.31.08:997][536]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.31.09:187][536]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.31.09:238][536]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.31.09:313][536]LogPlayLevel: PIE:  Blueprint regeneration took 406 ms (4 blueprints)
+[2015.03.21-09.31.09:313][536]PIE: New page: PIE session: Menu (21 Mar 2015 09:31:09)
+[2015.03.21-09.31.09:318][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003901s)
+[2015.03.21-09.31.09:318][536]LogPlayLevel: PIE: World Init took: (0.000487s)
+[2015.03.21-09.31.09:318][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.004527s)
+[2015.03.21-09.31.09:361][536]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.31.09:365][536]LogAIModule: Creating AISystem for world Menu
+[2015.03.21-09.31.09:367][536]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-09.31.09
+[2015.03.21-09.31.09:367][536]LogWorld: Bringing up level for play took: 0.001370
+[2015.03.21-09.31.09:368][536]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.21-09.31.09:369][536]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.31.09:370][536]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.31.09:375][536]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.466
+[2015.03.21-09.31.10:147][574]LogPackageName: SearchForPackageOnDisk took   0.073s to resolve Levelone.umap
+[2015.03.21-09.31.10:220][574]LogPackageName: SearchForPackageOnDisk took   0.072s to resolve Levelone.umap
+[2015.03.21-09.31.10:220][574]LogNet: Browse: /Game/Maps/Levelone
+[2015.03.21-09.31.10:220][574]LogLoad: LoadMap: /Game/Maps/Levelone
+[2015.03.21-09.31.10:242][574]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093EC0734C0
+[2015.03.21-09.31.10:242][574]Cmd: MEM
+[2015.03.21-09.31.10:261][574]LogMemory: Platform Memory Stats for Windows
+[2015.03.21-09.31.10:262][574]LogMemory: Process Physical Memory: 1995.27 MB used, 2037.82 MB peak
+[2015.03.21-09.31.10:262][574]LogMemory: Process Virtual Memory: 1979.29 MB used, 2013.49 MB peak
+[2015.03.21-09.31.10:262][574]LogMemory: Physical Memory: 7769.47 MB used, 12200.27 MB total
+[2015.03.21-09.31.10:262][574]LogMemory: Virtual Memory: 2541.50 MB used, 134217728.00 MB total
+[2015.03.21-09.31.10:262][574]LogMemory: 
+[2015.03.21-09.31.10:262][574]Allocator Stats for TBB: (not implemented)
+[2015.03.21-09.31.10:512][574]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.31.10:514][574]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-09.31.10:518][574]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-09.31.10
+[2015.03.21-09.31.10:519][574]LogWorld: Bringing up level for play took: 0.004784
+[2015.03.21-09.31.10:520][574]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.31.10:520][574]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.32.38:306][834]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093A514EB60
+[2015.03.21-09.32.39:383][896]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.32.39:387][896]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.32.39:472][896]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.32.39:663][896]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.32.39:715][896]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.32.39:805][896]LogPlayLevel: PIE:  Blueprint regeneration took 421 ms (4 blueprints)
+[2015.03.21-09.32.39:805][896]PIE: New page: PIE session: Menu (21 Mar 2015 09:32:39)
+[2015.03.21-09.32.39:809][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003825s)
+[2015.03.21-09.32.39:810][896]LogPlayLevel: PIE: World Init took: (0.000524s)
+[2015.03.21-09.32.39:810][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.004527s)
+[2015.03.21-09.32.39:843][896]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.32.39:846][896]LogAIModule: Creating AISystem for world Menu
+[2015.03.21-09.32.39:846][896]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-09.32.39
+[2015.03.21-09.32.39:847][896]LogWorld: Bringing up level for play took: 0.000799
+[2015.03.21-09.32.39:847][896]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.21-09.32.39:848][896]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.32.39:848][896]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.32.39:854][896]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.945
+[2015.03.21-09.32.42:122][ 14]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093A514FEC0
+[2015.03.21-09.33.20:176][227]LogEditorViewport: Clicking Background
+[2015.03.21-09.33.25:252][514]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2015.03.21-09.34.15:360][401]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.34.15:364][401]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.34.15:451][401]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.34.15:641][401]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.34.15:656][401]LogBlueprint:Error: [compiler] Error This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2015.03.21-09.34.15:733][401]LogBlueprint:Warning: [compiler] Warning [8337.72] Compile of Menu failed. 1 Fatal Issue(s) 0 Warning(s) [in 90 ms]
+[2015.03.21-09.34.15:734][401]LogBlueprint:Warning: [compiler] Warning [8337.73] Compile of Menu failed. 1 Fatal Issue(s) 1 Warning(s) [in 0 ms]
+[2015.03.21-09.34.15:734][401]LogBlueprint:Warning: [compiler] Warning [8337.73] Compile of Menu failed. 1 Fatal Issue(s) 2 Warning(s) [in 0 ms]
+[2015.03.21-09.34.15:735][401]LogBlueprint:Warning: [compiler] Warning [8337.73] Compile of Menu failed. 1 Fatal Issue(s) 3 Warning(s) [in 0 ms]
+[2015.03.21-09.34.15:735][401]LogBlueprint:Warning: [compiler] Warning [8337.73] Compile of Menu failed. 1 Fatal Issue(s) 4 Warning(s) [in 0 ms]
+[2015.03.21-09.34.15:735][401]LogBlueprint:Warning: [compiler] Warning [8337.73] Compile of Menu failed. 1 Fatal Issue(s) 5 Warning(s) [in 0 ms]
+[2015.03.21-09.34.15:738][401]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.34.15:816][401]LogPlayLevel: PIE:  Blueprint regeneration took 456 ms (4 blueprints)
+[2015.03.21-09.34.17:041][401]BlueprintLog: Info Blueprint Menu failed to compile
+[2015.03.21-09.34.25:884][915]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.34.25:888][915]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.34.25:974][915]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.34.26:166][915]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.34.26:219][915]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.34.26:292][915]LogPlayLevel: PIE:  Blueprint regeneration took 408 ms (4 blueprints)
+[2015.03.21-09.34.26:293][915]PIE: New page: PIE session: Menu (21 Mar 2015 09:34:26)
+[2015.03.21-09.34.26:298][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004969s)
+[2015.03.21-09.34.26:298][915]LogPlayLevel: PIE: World Init took: (0.000477s)
+[2015.03.21-09.34.26:299][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.005596s)
+[2015.03.21-09.34.26:362][915]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.34.26:364][915]LogAIModule: Creating AISystem for world Menu
+[2015.03.21-09.34.26:365][915]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-09.34.26
+[2015.03.21-09.34.26:366][915]LogWorld: Bringing up level for play took: 0.001062
+[2015.03.21-09.34.26:366][915]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.21-09.34.26:367][915]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.34.26:367][915]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.34.26:373][915]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 1.464
+[2015.03.21-09.34.28:298][ 22]LogPackageName: SearchForPackageOnDisk took   0.074s to resolve Levelone.umap
+[2015.03.21-09.34.28:370][ 22]LogPackageName: SearchForPackageOnDisk took   0.071s to resolve Levelone.umap
+[2015.03.21-09.34.28:370][ 22]LogNet: Browse: /Game/Maps/Levelone
+[2015.03.21-09.34.28:370][ 22]LogLoad: LoadMap: /Game/Maps/Levelone
+[2015.03.21-09.34.28:393][ 22]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000939F7A5300
+[2015.03.21-09.34.28:393][ 22]Cmd: MEM
+[2015.03.21-09.34.28:412][ 22]LogMemory: Platform Memory Stats for Windows
+[2015.03.21-09.34.28:412][ 22]LogMemory: Process Physical Memory: 2024.92 MB used, 2037.82 MB peak
+[2015.03.21-09.34.28:412][ 22]LogMemory: Process Virtual Memory: 2015.18 MB used, 2019.25 MB peak
+[2015.03.21-09.34.28:412][ 22]LogMemory: Physical Memory: 7800.60 MB used, 12200.27 MB total
+[2015.03.21-09.34.28:412][ 22]LogMemory: Virtual Memory: 2574.96 MB used, 134217728.00 MB total
+[2015.03.21-09.34.28:412][ 22]LogMemory: 
+[2015.03.21-09.34.28:412][ 22]Allocator Stats for TBB: (not implemented)
+[2015.03.21-09.34.28:674][ 22]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.34.28:675][ 22]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-09.34.28:681][ 22]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-09.34.28
+[2015.03.21-09.34.28:681][ 22]LogWorld: Bringing up level for play took: 0.005048
+[2015.03.21-09.34.28:683][ 22]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.34.28:683][ 22]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.34.29:873][ 86]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093DA001DA0
+[2015.03.21-09.35.22:912][267]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.35.22:918][267]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.35.23:002][267]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.35.23:194][267]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.35.23:251][267]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.35.23:328][267]LogPlayLevel: PIE:  Blueprint regeneration took 415 ms (4 blueprints)
+[2015.03.21-09.35.23:328][267]PIE: New page: PIE session: Menu (21 Mar 2015 09:35:23)
+[2015.03.21-09.35.23:334][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005055s)
+[2015.03.21-09.35.23:334][267]LogPlayLevel: PIE: World Init took: (0.000484s)
+[2015.03.21-09.35.23:334][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.005712s)
+[2015.03.21-09.35.23:394][267]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.35.23:396][267]LogAIModule: Creating AISystem for world Menu
+[2015.03.21-09.35.23:397][267]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-09.35.23
+[2015.03.21-09.35.23:398][267]LogWorld: Bringing up level for play took: 0.001044
+[2015.03.21-09.35.23:398][267]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.21-09.35.23:399][267]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.35.23:399][267]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.35.23:404][267]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.495
+[2015.03.21-09.35.26:691][452]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000939F7A4A40
+[2015.03.21-09.37.16:000][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Menu_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2015.03.21-09.37.16:132][908]LogSavePackage: Save=90.233963ms
+[2015.03.21-09.37.16:132][908]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Menu_Auto6EE05CBDA442B7B5E034768A5C24631F4.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Menu_Auto6.umap'
+[2015.03.21-09.37.16:145][908]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.251
+[2015.03.21-09.37.16:145][908]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.251
+[2015.03.21-09.37.16:179][908]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Menu] ([1] browsable assets)...
+[2015.03.21-09.37.16:179][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Menu]
+[2015.03.21-09.37.16:227][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/Menu_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2015.03.21-09.37.16:374][908]LogSavePackage: Save=125.947388ms
+[2015.03.21-09.37.16:375][908]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Menu_Auto6E910229E46DBAA18A76376ACD669F0A6.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/Menu_Auto6.uasset'
+[2015.03.21-09.37.16:388][908]LogFileHelpers: Auto-saving content packages took 0.245
+[2015.03.21-09.37.21:281][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.21-09.37.21:401][188]LogSavePackage: Save=85.074631ms
+[2015.03.21-09.37.21:401][188]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Menu91C08F574B90B8F1AC053FA7DD776704.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Menu.umap'
+[2015.03.21-09.37.21:436][188]LogFileHelpers: Saving map 'Menu' took 0.280
+[2015.03.21-09.37.21:441][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Menu.uasset" SILENT=true
+[2015.03.21-09.37.21:481][188]LogSavePackage: Save=22.444565ms
+[2015.03.21-09.37.21:481][188]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Menu185329FF4BA4043FF411E9AE67B468EC.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Menu.uasset'
+[2015.03.21-09.45.00:326][346]Cmd: TRANSACTION UNDO
+[2015.03.21-09.45.00:326][346]LogEditorTransaction: Undo Edit Color and Opacity
+[2015.03.21-09.45.01:981][424]Cmd: TRANSACTION UNDO
+[2015.03.21-09.45.01:981][424]LogEditorTransaction: Undo Edit Color and Opacity
+[2015.03.21-09.45.02:508][452]Cmd: TRANSACTION UNDO
+[2015.03.21-09.45.02:508][452]LogEditorTransaction: Undo Edit Color and Opacity
+[2015.03.21-09.45.03:052][481]Cmd: TRANSACTION UNDO
+[2015.03.21-09.45.03:052][481]LogEditorTransaction: Undo Edit Color and Opacity
+[2015.03.21-09.46.50:661][ 65]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.46.50:665][ 65]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.46.50:756][ 65]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.46.50:951][ 65]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.46.51:037][ 65]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.46.51:124][ 65]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.46.51:200][ 65]LogPlayLevel: PIE:  Blueprint regeneration took 540 ms (5 blueprints)
+[2015.03.21-09.46.51:200][ 65]PIE: New page: PIE session: Menu (21 Mar 2015 09:46:51)
+[2015.03.21-09.46.51:206][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005048s)
+[2015.03.21-09.46.51:207][ 65]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2015.03.21-09.46.51:207][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.005790s)
+[2015.03.21-09.46.51:269][ 65]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.46.51:271][ 65]LogAIModule: Creating AISystem for world Menu
+[2015.03.21-09.46.51:272][ 65]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-09.46.51
+[2015.03.21-09.46.51:272][ 65]LogWorld: Bringing up level for play took: 0.000831
+[2015.03.21-09.46.51:273][ 65]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.21-09.46.51:274][ 65]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.46.51:274][ 65]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.46.51:282][ 65]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.373
+[2015.03.21-09.46.51:297][ 65]LogPropertyNode: Object is invalid Slot
+[2015.03.21-09.46.51:297][ 65]LogPropertyNode: Object is invalid Navigation
+[2015.03.21-09.46.55:226][288]LogPackageName: SearchForPackageOnDisk took   0.078s to resolve Levelone.umap
+[2015.03.21-09.46.55:299][288]LogPackageName: SearchForPackageOnDisk took   0.072s to resolve Levelone.umap
+[2015.03.21-09.46.55:299][288]LogNet: Browse: /Game/Maps/Levelone
+[2015.03.21-09.46.55:299][288]LogLoad: LoadMap: /Game/Maps/Levelone
+[2015.03.21-09.46.55:321][288]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000939CB1A7A0
+[2015.03.21-09.46.55:321][288]Cmd: MEM
+[2015.03.21-09.46.55:340][288]LogMemory: Platform Memory Stats for Windows
+[2015.03.21-09.46.55:340][288]LogMemory: Process Physical Memory: 2038.46 MB used, 2044.75 MB peak
+[2015.03.21-09.46.55:340][288]LogMemory: Process Virtual Memory: 2029.55 MB used, 2036.09 MB peak
+[2015.03.21-09.46.55:340][288]LogMemory: Physical Memory: 8183.70 MB used, 12200.27 MB total
+[2015.03.21-09.46.55:340][288]LogMemory: Virtual Memory: 2593.90 MB used, 134217728.00 MB total
+[2015.03.21-09.46.55:340][288]LogMemory: 
+[2015.03.21-09.46.55:340][288]Allocator Stats for TBB: (not implemented)
+[2015.03.21-09.46.55:597][288]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.46.55:600][288]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-09.46.55:604][288]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-09.46.55
+[2015.03.21-09.46.55:604][288]LogWorld: Bringing up level for play took: 0.004548
+[2015.03.21-09.46.55:606][288]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.46.55:606][288]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-09.46.56:467][335]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093D4647560
+[2015.03.21-09.47.27:601][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Menu_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2015.03.21-09.47.27:708][481]LogSavePackage: Save=84.572533ms
+[2015.03.21-09.47.27:708][481]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Menu_Auto771BCE1F64E8F1D3988054FAD5DA0B8B6.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Menu_Auto7.umap'
+[2015.03.21-09.47.27:722][481]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.219
+[2015.03.21-09.47.27:722][481]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.219
+[2015.03.21-09.47.27:754][481]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Menu] ([1] browsable assets)...
+[2015.03.21-09.47.27:754][481]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Menu]
+[2015.03.21-09.47.27:780][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/Menu_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2015.03.21-09.47.27:957][481]LogSavePackage: Save=155.862259ms
+[2015.03.21-09.47.27:959][481]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Menu_Auto752BDE13C474596F7EB1B21AC3D35CE6C.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/Menu_Auto7.uasset'
+[2015.03.21-09.47.27:971][481]LogFileHelpers: Auto-saving content packages took 0.250
+[2015.03.21-09.56.41:638][897]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.56.41:642][897]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.56.41:729][897]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.56.41:929][897]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.56.42:011][897]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.56.42:091][897]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.56.42:172][897]LogPlayLevel: PIE:  Blueprint regeneration took 534 ms (5 blueprints)
+[2015.03.21-09.56.42:172][897]PIE: New page: PIE session: Menu (21 Mar 2015 09:56:42)
+[2015.03.21-09.56.42:178][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005284s)
+[2015.03.21-09.56.42:178][897]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2015.03.21-09.56.42:179][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.006487s)
+[2015.03.21-09.56.42:249][897]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.56.42:251][897]LogAIModule: Creating AISystem for world Menu
+[2015.03.21-09.56.42:252][897]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-09.56.42
+[2015.03.21-09.56.42:252][897]LogWorld: Bringing up level for play took: 0.000959
+[2015.03.21-09.56.42:253][897]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.21-09.56.42:254][897]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.56.42:254][897]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.56.42:262][897]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 1.354
+[2015.03.21-09.56.42:278][897]LogPropertyNode: Object is invalid Slot
+[2015.03.21-09.56.42:278][897]LogPropertyNode: Object is invalid Navigation
+[2015.03.21-09.56.45:455][ 78]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093D46462A0
+[2015.03.21-09.57.22:834][301]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-09.57.22:838][301]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-09.57.22:923][301]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-09.57.23:115][301]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.57.23:199][301]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.21-09.57.23:282][301]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-09.57.23:364][301]LogPlayLevel: PIE:  Blueprint regeneration took 530 ms (5 blueprints)
+[2015.03.21-09.57.23:364][301]PIE: New page: PIE session: Menu (21 Mar 2015 09:57:23)
+[2015.03.21-09.57.23:369][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005239s)
+[2015.03.21-09.57.23:370][301]LogPlayLevel: PIE: World Init took: (0.000461s)
+[2015.03.21-09.57.23:370][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.005911s)
+[2015.03.21-09.57.23:434][301]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-09.57.23:436][301]LogAIModule: Creating AISystem for world Menu
+[2015.03.21-09.57.23:437][301]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.21-09.57.23
+[2015.03.21-09.57.23:438][301]LogWorld: Bringing up level for play took: 0.001005
+[2015.03.21-09.57.23:438][301]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.21-09.57.23:440][301]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.57.23:440][301]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-09.57.23:447][301]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.538
+[2015.03.21-09.57.23:462][301]LogPropertyNode: Object is invalid Slot
+[2015.03.21-09.57.23:462][301]LogPropertyNode: Object is invalid Navigation
+[2015.03.21-09.57.27:350][525]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000093E05458A0
+[2015.03.21-09.57.37:472][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Menu_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2015.03.21-09.57.37:577][ 49]LogSavePackage: Save=82.474640ms
+[2015.03.21-09.57.37:577][ 49]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Menu_Auto8664487B5453FB42106E2A2BF3A477A6E.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Menu_Auto8.umap'
+[2015.03.21-09.57.37:593][ 49]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.238
+[2015.03.21-09.57.37:593][ 49]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.238
+[2015.03.21-09.57.37:627][ 49]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Menu] ([1] browsable assets)...
+[2015.03.21-09.57.37:627][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Menu]
+[2015.03.21-09.57.37:653][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/Menu_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2015.03.21-09.57.37:836][ 49]LogSavePackage: Save=161.430908ms
+[2015.03.21-09.57.37:837][ 49]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Menu_Auto881014EFC4A188BD835EAC78B18B5D37F.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/Menu_Auto8.uasset'
+[2015.03.21-09.57.37:851][ 49]LogFileHelpers: Auto-saving content packages took 0.258
+[2015.03.21-09.58.13:998][ 88]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2015.03.21-09.58.15:748][175]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2015.03.21-09.58.27:645][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Settings" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Settings.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.21-09.58.27:677][828]LogSavePackage: Save=8.701529ms
+[2015.03.21-09.58.27:677][828]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Settings884DFE634BB138FD8D414E9840D12434.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Settings.umap'
+[2015.03.21-09.58.27:687][828]LogFileHelpers: Saving map 'Settings' took 0.470
+[2015.03.21-09.58.27:812][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.21-09.58.28:020][828]LogSavePackage: Save=82.326843ms
+[2015.03.21-09.58.28:020][828]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Men
