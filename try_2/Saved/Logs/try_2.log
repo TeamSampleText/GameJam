@@ -22867,4 +22867,1423 @@ Make sure 'Icantspellchamerlan_C' has been compiled for  Set Visibility
 [2015.03.21-19.21.46:642][267]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
 [2015.03.21-19.24.44:491][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Levelone_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
 [2015.03.21-19.24.44:659][896]LogSavePackage: Save=139.719162ms
-[2015.03.21-19.24.44:659][896]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone_Auto520D573FF46B2284B7D8B9DB924F4B071.tmp' to '../../../..
+[2015.03.21-19.24.44:659][896]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone_Auto520D573FF46B2284B7D8B9DB924F4B071.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Levelone_Auto5.umap'
+[2015.03.21-19.24.44:675][896]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levelone' took 0.295
+[2015.03.21-19.24.44:675][896]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.295
+[2015.03.21-19.24.44:714][896]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Bird] ([1] browsable assets)...
+[2015.03.21-19.24.44:714][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Bird]
+[2015.03.21-19.24.44:739][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Bird" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Bird_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2015.03.21-19.24.45:116][896]LogSavePackage: Save=348.479492ms
+[2015.03.21-19.24.45:116][896]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Bird_Auto5F5F2720542CB3F1C847E4AB8738CB0CB.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Bird_Auto5.uasset'
+[2015.03.21-19.24.45:170][896]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Icantspellchamerlan] ([1] browsable assets)...
+[2015.03.21-19.24.45:170][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Icantspellchamerlan]
+[2015.03.21-19.24.45:730][896]LogSavePackage: Save=454.472687ms
+[2015.03.21-19.24.45:731][896]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Icantspellchamerlan_Auto5F79C28D04A1BC3812283B989B761EA07.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Icantspellchamerlan_Auto5.uasset'
+[2015.03.21-19.24.45:748][896]LogFileHelpers: Auto-saving content packages took 1.073
+[2015.03.21-19.24.53:516][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.21-19.24.53:693][348]LogSavePackage: Save=135.288956ms
+[2015.03.21-19.24.53:693][348]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone415708EC44073C8FA3AA499BC8D904B7.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.21-19.24.53:730][348]LogFileHelpers: Saving map 'Levelone' took 0.352
+[2015.03.21-19.24.53:735][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Bird" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Bird.uasset" SILENT=true
+[2015.03.21-19.24.53:950][348]LogSavePackage: Save=192.157410ms
+[2015.03.21-19.24.53:950][348]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Bird792FC87F4F67FED8AD1B9C989990F0D7.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Bird.uasset'
+[2015.03.21-19.24.53:968][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.21-19.24.54:328][348]LogSavePackage: Save=335.324768ms
+[2015.03.21-19.24.54:328][348]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Icantspellchamerlan71350A0A41D0FDD5A277F690936B4720.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.21-19.46.50:039][505]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-19.46.50:068][505]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-19.46.50:298][505]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-19.46.50:367][505]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-19.46.50:493][505]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-19.46.50:592][505]LogPlayLevel: PIE:  Blueprint regeneration took 551 ms (4 blueprints)
+[2015.03.21-19.46.50:592][505]PIE: New page: PIE session: Levelone (21 Mar 2015 19:46:50)
+[2015.03.21-19.46.50:599][505]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.46.50:599][505]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.46.50:600][505]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.46.50:600][505]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.46.50:600][505]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.46.50:600][505]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.46.50:600][505]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.46.50:600][505]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.46.50:600][505]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.46.50:600][505]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.46.50:602][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009389s)
+[2015.03.21-19.46.50:603][505]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2015.03.21-19.46.50:603][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.010278s)
+[2015.03.21-19.46.50:637][505]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-19.46.50:639][505]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-19.46.50:646][505]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-19.46.50
+[2015.03.21-19.46.50:647][505]LogWorld: Bringing up level for play took: 0.007554
+[2015.03.21-19.46.50:657][505]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.252
+[2015.03.21-19.46.50:688][505]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.46.50:688][505]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.46.50:688][505]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.46.50:688][505]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.47.02:440][836]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:441][836]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:457][837]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:474][838]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:490][839]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:507][840]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:525][841]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:541][842]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:558][843]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:575][844]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:591][845]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:608][846]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:625][847]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:641][848]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:658][849]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:675][850]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:691][851]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:708][852]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:725][853]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:741][854]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:758][855]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:775][856]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:791][857]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:813][858]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:830][859]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:846][860]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:863][861]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:879][862]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:896][863]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:913][864]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:930][865]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:946][866]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:963][867]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:980][868]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.02:996][869]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.03:013][870]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.03:029][871]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.03:046][872]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.03:063][873]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.03:079][874]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.03:097][875]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.03:113][876]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.03:130][877]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.03:157][878]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.03:175][879]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-19.47.04:025][922]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC4E8E4540
+[2015.03.21-19.47.09:522][199]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.47.09:523][199]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.47.09:523][199]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.47.09:523][199]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.47.10:906][266]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.47.10:906][266]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.47.10:906][266]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.47.10:906][266]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.47.16:923][613]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2015.03.21-19.47.21:461][868]LogBlueprint:Warning: Reparenting blueprint Blueprint /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan from Pawn to Character...
+[2015.03.21-19.47.21:461][868]BlueprintLog: New page: Compile Icantspellchamerlan
+[2015.03.21-19.47.21:832][868]BlueprintEditorCompileResults: Info [4193.66] Compile of Icantspellchamerlan successful! [in 370 ms]
+[2015.03.21-19.47.23:414][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Levelone_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2015.03.21-19.47.23:582][945]LogSavePackage: Save=136.833847ms
+[2015.03.21-19.47.23:582][945]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone_Auto69B481D1840A6C0C1CF25B8AC8DE0D2A2.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Levelone_Auto6.umap'
+[2015.03.21-19.47.23:598][945]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levelone' took 0.309
+[2015.03.21-19.47.23:598][945]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.309
+[2015.03.21-19.47.23:633][945]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Icantspellchamerlan] ([1] browsable assets)...
+[2015.03.21-19.47.23:633][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Icantspellchamerlan]
+[2015.03.21-19.47.24:161][945]LogSavePackage: Save=471.445465ms
+[2015.03.21-19.47.24:162][945]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Icantspellchamerlan_Auto6BA595821452282055773E593F4527245.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Icantspellchamerlan_Auto6.uasset'
+[2015.03.21-19.47.24:176][945]LogFileHelpers: Auto-saving content packages took 0.579
+[2015.03.21-19.47.24:738][978]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-19.47.24:745][978]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-19.47.24:866][978]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-19.47.24:938][978]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-19.47.25:024][978]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-19.47.25:388][978]LogPlayLevel: PIE:  Blueprint regeneration took 650 ms (4 blueprints)
+[2015.03.21-19.47.25:389][978]PIE: New page: PIE session: Levelone (21 Mar 2015 19:47:25)
+[2015.03.21-19.47.25:396][978]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.47.25:396][978]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.47.25:396][978]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.47.25:396][978]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.47.25:396][978]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.47.25:396][978]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.47.25:396][978]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.47.25:396][978]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.47.25:397][978]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.47.25:397][978]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.47.25:398][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009496s)
+[2015.03.21-19.47.25:399][978]LogPlayLevel: PIE: World Init took: (0.000471s)
+[2015.03.21-19.47.25:399][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.010110s)
+[2015.03.21-19.47.25:435][978]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-19.47.25:437][978]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-19.47.25:443][978]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-19.47.25
+[2015.03.21-19.47.25:444][978]LogWorld: Bringing up level for play took: 0.006713
+[2015.03.21-19.47.25:583][978]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.675
+[2015.03.21-19.47.25:655][978]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.47.25:655][978]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.47.25:655][978]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.47.25:655][978]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.47.46:373][199]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC924682C0
+[2015.03.21-19.48.10:636][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.21-19.48.10:842][ 15]LogSavePackage: Save=151.587646ms
+[2015.03.21-19.48.10:842][ 15]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone8ACD1BEC46E76416014353A5561EA3AF.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.21-19.48.10:880][ 15]LogFileHelpers: Saving map 'Levelone' took 0.601
+[2015.03.21-19.48.10:887][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.21-19.48.11:241][ 15]LogSavePackage: Save=323.257965ms
+[2015.03.21-19.48.11:241][ 15]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/IcantspellchamerlanF9D3B8B247E9459A9D858B8574450CEA.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.21-19.48.14:849][231]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treebasetile_Sprite8)
+[2015.03.21-19.48.28:182][ 21]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-19.48.28:191][ 21]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-19.48.28:323][ 21]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-19.48.28:392][ 21]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-19.48.28:486][ 21]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-19.48.28:747][ 21]LogPlayLevel: PIE:  Blueprint regeneration took 566 ms (4 blueprints)
+[2015.03.21-19.48.28:747][ 21]PIE: New page: PIE session: Levelone (21 Mar 2015 19:48:28)
+[2015.03.21-19.48.28:754][ 21]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.48.28:754][ 21]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.48.28:754][ 21]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.48.28:754][ 21]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.48.28:754][ 21]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.48.28:754][ 21]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.48.28:755][ 21]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.48.28:755][ 21]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.48.28:755][ 21]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.48.28:755][ 21]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.48.28:756][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008490s)
+[2015.03.21-19.48.28:757][ 21]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2015.03.21-19.48.28:757][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.009320s)
+[2015.03.21-19.48.28:795][ 21]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-19.48.28:798][ 21]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-19.48.28:805][ 21]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-19.48.28
+[2015.03.21-19.48.28:807][ 21]LogWorld: Bringing up level for play took: 0.008506
+[2015.03.21-19.48.28:810][ 21]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.098
+[2015.03.21-19.48.31:978][205]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC4E8DA200
+[2015.03.21-19.48.34:713][322]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.48.34:713][322]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.48.34:713][322]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.48.34:713][322]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.48.37:923][504]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2015.03.21-19.49.05:755][789]LogBlueprint:Warning: Reparenting blueprint Blueprint /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan from Character to Pawn...
+[2015.03.21-19.49.05:755][789]BlueprintLog: New page: Compile Icantspellchamerlan
+[2015.03.21-19.49.05:953][789]LogBlueprint:Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'CollisionCylinder' for 'Arrow' in BlueprintGeneratedClass 'Icantspellchamerlan_C' (it may have been removed)
+[2015.03.21-19.49.06:005][789]LogProperty:Warning: Serialized BlueprintGeneratedClass /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan_C for a property of Class /Script/Engine.Character. Reference will be NULLed.
+    Property = ObjectProperty /Script/Engine.CharacterMovementComponent:CharacterOwner
+    Item = Icantspellchamerlan_C /Engine/Transient.World_4:PersistentLevel.Icantspellchamerlan_C_0
+[2015.03.21-19.49.06:061][789]BlueprintEditorCompileResults: Info [4297.89] Compile of Icantspellchamerlan successful! [in 306 ms]
+[2015.03.21-19.49.06:817][832]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-19.49.06:824][832]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-19.49.06:953][832]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-19.49.07:026][832]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-19.49.07:117][832]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-19.49.07:375][832]LogPlayLevel: PIE:  Blueprint regeneration took 558 ms (4 blueprints)
+[2015.03.21-19.49.07:376][832]PIE: New page: PIE session: Levelone (21 Mar 2015 19:49:07)
+[2015.03.21-19.49.07:382][832]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.49.07:382][832]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.49.07:383][832]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.49.07:383][832]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.49.07:383][832]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.49.07:383][832]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.49.07:383][832]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.49.07:383][832]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.49.07:383][832]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.49.07:383][832]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.49.07:385][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009071s)
+[2015.03.21-19.49.07:386][832]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2015.03.21-19.49.07:386][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.010055s)
+[2015.03.21-19.49.07:425][832]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-19.49.07:427][832]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-19.49.07:434][832]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-19.49.07
+[2015.03.21-19.49.07:435][832]LogWorld: Bringing up level for play took: 0.007310
+[2015.03.21-19.49.07:448][832]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.54
+[2015.03.21-19.49.07:479][832]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.49.07:479][832]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.49.07:479][832]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.49.07:479][832]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-19.49.13:735][190]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC4E8DA520
+[2015.03.21-19.49.33:870][385]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_3_Sprite2)
+[2015.03.21-19.49.37:356][592]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_3_Sprite)
+[2015.03.21-19.49.38:348][650]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_3_Sprite2)
+[2015.03.21-19.49.38:811][676]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treebasetile_Sprite5)
+[2015.03.21-19.49.39:209][697]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treebasetile_Sprite5)
+[2015.03.21-19.49.39:668][722]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_2_Sprite)
+[2015.03.21-19.49.51:758][436]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_2_Sprite)
+[2015.03.21-19.50.07:977][394]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_3_Sprite3)
+[2015.03.21-19.50.13:238][707]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_3_Sprite3)
+[2015.03.21-19.50.18:612][ 16]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-19.50.18:621][ 16]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-19.50.18:787][ 16]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-19.50.18:872][ 16]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-19.50.18:986][ 16]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-19.50.19:320][ 16]LogPlayLevel: PIE:  Blueprint regeneration took 707 ms (4 blueprints)
+[2015.03.21-19.50.19:321][ 16]PIE: New page: PIE session: Levelone (21 Mar 2015 19:50:19)
+[2015.03.21-19.50.19:329][ 16]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.50.19:329][ 16]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.50.19:329][ 16]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.50.19:330][ 16]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.50.19:330][ 16]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.50.19:330][ 16]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.50.19:330][ 16]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.50.19:330][ 16]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.50.19:330][ 16]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.50.19:330][ 16]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.50.19:332][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011021s)
+[2015.03.21-19.50.19:333][ 16]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2015.03.21-19.50.19:333][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.011928s)
+[2015.03.21-19.50.19:387][ 16]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-19.50.19:391][ 16]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-19.50.19:402][ 16]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-19.50.19
+[2015.03.21-19.50.19:404][ 16]LogWorld: Bringing up level for play took: 0.012516
+[2015.03.21-19.50.19:409][ 16]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.5
+[2015.03.21-19.50.20:250][ 65]LogSelection:Warning: PIE object was selected: "PaperSpriteActor /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.branch_3_Sprite3_93"
+[2015.03.21-19.50.23:445][251]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treebasetile_Sprite3)
+[2015.03.21-19.50.23:445][251]LogSelection:Warning: PIE object was selected: "PaperSpriteActor /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.treebasetile_Sprite3"
+[2015.03.21-19.50.23:883][275]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_tuft_Sprite)
+[2015.03.21-19.50.23:883][275]LogSelection:Warning: PIE object was selected: "PaperSpriteActor /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.grass_tuft_Sprite_51"
+[2015.03.21-19.50.25:728][382]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_3_Sprite3)
+[2015.03.21-19.50.25:728][382]LogSelection:Warning: PIE object was selected: "PaperSpriteActor /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.branch_3_Sprite3_93"
+[2015.03.21-19.50.29:341][596]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:341][596]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:358][597]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:358][597]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:373][598]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:373][598]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:557][609]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:557][609]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:573][610]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:573][610]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:590][611]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:590][611]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:673][616]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:673][616]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:691][617]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:691][617]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:707][618]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:707][618]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:724][619]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:724][619]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:873][628]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:873][628]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:891][629]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:891][629]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:906][630]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.29:906][630]PIE:Warning: Warning Mobility of branch_3_Sprite3_93 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-19.50.30:931][686]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC8C02F740
+[2015.03.21-19.50.45:887][546]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_3_Sprite3)
+[2015.03.21-19.50.47:165][621]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treebasetile_Sprite4)
+[2015.03.21-19.50.47:729][651]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_3_Sprite2)
+[2015.03.21-19.50.48:047][668]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_3_Sprite2)
+[2015.03.21-19.50.48:787][711]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_3_Sprite3)
+[2015.03.21-19.50.49:569][756]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treebasetile_Sprite4)
+[2015.03.21-19.50.49:903][773]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_3_Sprite2)
+[2015.03.21-19.50.50:867][829]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (branch_3_Sprite3)
+[2015.03.21-19.51.09:833][961]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-19.51.09:842][961]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-19.51.10:008][961]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-19.51.10:095][961]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-19.51.10:181][961]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-19.51.10:504][961]LogPlayLevel: PIE:  Blueprint regeneration took 671 ms (4 blueprints)
+[2015.03.21-19.51.10:504][961]PIE: New page: PIE session: Levelone (21 Mar 2015 19:51:10)
+[2015.03.21-19.51.10:513][961]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.51.10:513][961]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.51.10:514][961]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.51.10:514][961]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.51.10:514][961]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.51.10:514][961]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.51.10:514][961]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.51.10:514][961]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.51.10:514][961]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.51.10:515][961]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.51.10:516][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011418s)
+[2015.03.21-19.51.10:517][961]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2015.03.21-19.51.10:517][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.012290s)
+[2015.03.21-19.51.10:569][961]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-19.51.10:572][961]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-19.51.10:582][961]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-19.51.10
+[2015.03.21-19.51.10:584][961]LogWorld: Bringing up level for play took: 0.010403
+[2015.03.21-19.51.10:587][961]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.679
+[2015.03.21-19.51.21:863][636]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-19.51.26:396][855]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0043 seconds. Added 1 classes and 2 folders.
+[2015.03.21-19.51.53:961][474]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC07B25E40
+[2015.03.21-19.51.56:783][635]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treebasetile_Sprite5)
+[2015.03.21-19.51.58:610][742]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
+[2015.03.21-19.52.05:332][134]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite9)
+[2015.03.21-19.52.05:732][156]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite9)
+[2015.03.21-19.52.07:659][270]Cmd: DUPLICATE
+[2015.03.21-19.52.07:659][270]Cmd: ACTOR DUPLICATE
+[2015.03.21-19.52.10:527][438]Cmd: DUPLICATE
+[2015.03.21-19.52.10:527][438]Cmd: ACTOR DUPLICATE
+[2015.03.21-19.52.12:401][546]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite11)
+[2015.03.21-19.52.14:890][694]Cmd: DUPLICATE
+[2015.03.21-19.52.14:890][694]Cmd: ACTOR DUPLICATE
+[2015.03.21-19.52.16:836][807]Cmd: DUPLICATE
+[2015.03.21-19.52.16:836][807]Cmd: ACTOR DUPLICATE
+[2015.03.21-19.52.19:207][945]Cmd: TRANSACTION UNDO
+[2015.03.21-19.52.19:207][945]LogEditorTransaction: Undo Rotate Actors
+[2015.03.21-19.52.28:356][460]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treetile_Sprite7)
+[2015.03.21-19.52.29:464][521]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treetile_Sprite9)
+[2015.03.21-19.52.31:647][645]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treetile_Sprite9)
+[2015.03.21-19.52.34:417][808]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite13)
+[2015.03.21-19.52.47:266][576]Cmd: DUPLICATE
+[2015.03.21-19.52.47:266][576]Cmd: ACTOR DUPLICATE
+[2015.03.21-19.52.49:923][731]Cmd: DUPLICATE
+[2015.03.21-19.52.49:923][731]Cmd: ACTOR DUPLICATE
+[2015.03.21-19.52.57:429][174]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites/Enviroment'
+[2015.03.21-19.54.52:009][ 25]Cmd: DELETE
+[2015.03.21-19.54.52:009][ 25]Cmd: ACTOR DELETE
+[2015.03.21-19.54.52:011][ 25]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2015.03.21-19.54.52:046][ 25]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2015.03.21-19.54.54:457][170]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (stump_Sprite)
+[2015.03.21-19.54.55:152][210]Cmd: EDIT COPY
+[2015.03.21-19.55.00:177][501]Cmd: EDIT PASTE
+[2015.03.21-19.55.14:619][364]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite15)
+[2015.03.21-19.55.15:354][406]Cmd: DUPLICATE
+[2015.03.21-19.55.15:354][406]Cmd: ACTOR DUPLICATE
+[2015.03.21-19.55.17:794][549]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (stump_Sprite2)
+[2015.03.21-19.55.19:179][630]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite16)
+[2015.03.21-19.55.42:948][ 54]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite15)
+[2015.03.21-19.55.44:262][131]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite14)
+[2015.03.21-19.55.47:323][313]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite15)
+[2015.03.21-19.55.48:383][375]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (stump_Sprite2)
+[2015.03.21-19.55.48:871][398]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite15)
+[2015.03.21-19.55.49:146][412]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (stump_Sprite2)
+[2015.03.21-19.55.56:214][834]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite16)
+[2015.03.21-19.56.00:803][103]Cmd: DUPLICATE
+[2015.03.21-19.56.00:803][103]Cmd: ACTOR DUPLICATE
+[2015.03.21-19.56.00:824][103]Warning: Unknown property in Bird_C: spring arm="  spring arm" 
+[2015.03.21-19.56.05:045][340]LogEditorViewport: Clicking on Actor (LMB): Bird_C (Bird2)
+[2015.03.21-19.56.06:351][417]Cmd: DELETE
+[2015.03.21-19.56.06:351][417]Cmd: ACTOR DELETE
+[2015.03.21-19.56.06:352][417]LogEditorActor: Deleted Actor: Bird_C
+[2015.03.21-19.56.06:386][417]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2015.03.21-19.56.24:355][483]LogEditorViewport: Clicking Background
+[2015.03.21-19.56.24:673][502]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (stump_Sprite2)
+[2015.03.21-19.56.29:676][797]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (hollow_log_Sprite2)
+[2015.03.21-19.56.30:793][862]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (hollow_log_Sprite2)
+[2015.03.21-19.56.33:440][  3]EditorErrors: New page: Actor Reattachment
+[2015.03.21-19.56.37:172][225]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_tuft_Sprite)
+[2015.03.21-19.56.39:788][380]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite19)
+[2015.03.21-19.57.00:384][607]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (hollow_log_Sprite2)
+[2015.03.21-19.57.10:257][196]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite8)
+[2015.03.21-19.57.10:958][236]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite8)
+[2015.03.21-19.57.11:951][294]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite8)
+[2015.03.21-19.57.12:512][326]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite8)
+[2015.03.21-19.57.20:165][782]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2015.03.21-19.57.22:893][945]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2015.03.21-19.57.25:072][ 75]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2015.03.21-19.57.25:901][123]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-19.57.25:914][123]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-19.57.26:236][123]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-19.57.26:425][123]LogPlayLevel: [PIE] Compiling Log before PIE...
+[2015.03.21-19.57.26:511][123]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-19.57.26:613][123]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-19.57.26:737][123]LogPlayLevel: PIE:  Blueprint regeneration took 835 ms (5 blueprints)
+[2015.03.21-19.57.26:737][123]PIE: New page: PIE session: Levelone (21 Mar 2015 19:57:26)
+[2015.03.21-19.57.26:746][123]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.26:746][123]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.26:747][123]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.26:747][123]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.26:747][123]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.26:747][123]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.26:747][123]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.26:747][123]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.26:748][123]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.26:748][123]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.26:750][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011896s)
+[2015.03.21-19.57.26:750][123]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2015.03.21-19.57.26:750][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.012789s)
+[2015.03.21-19.57.26:791][123]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-19.57.26:794][123]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-19.57.26:806][123]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-19.57.26
+[2015.03.21-19.57.26:809][123]LogWorld: Bringing up level for play took: 0.014482
+[2015.03.21-19.57.26:813][123]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.904
+[2015.03.21-19.57.33:529][520]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC9D331760
+[2015.03.21-19.57.34:691][589]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2015.03.21-19.57.35:792][655]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (hollow_log_Sprite2)
+[2015.03.21-19.57.42:239][  2]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2015.03.21-19.57.46:750][265]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-19.57.46:760][265]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-19.57.47:075][265]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-19.57.47:175][265]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-19.57.47:348][265]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-19.57.47:464][265]LogPlayLevel: PIE:  Blueprint regeneration took 713 ms (4 blueprints)
+[2015.03.21-19.57.47:464][265]PIE: New page: PIE session: Levelone (21 Mar 2015 19:57:47)
+[2015.03.21-19.57.47:474][265]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.47:474][265]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.47:475][265]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.47:475][265]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.47:475][265]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.47:475][265]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.47:475][265]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.47:475][265]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.47:476][265]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.47:476][265]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.57.47:477][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013101s)
+[2015.03.21-19.57.47:478][265]LogPlayLevel: PIE: World Init took: (0.000597s)
+[2015.03.21-19.57.47:478][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013872s)
+[2015.03.21-19.57.47:515][265]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-19.57.47:517][265]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-19.57.47:527][265]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-19.57.47
+[2015.03.21-19.57.47:530][265]LogWorld: Bringing up level for play took: 0.011687
+[2015.03.21-19.57.47:533][265]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.625
+[2015.03.21-19.57.50:894][460]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC9D3337E0
+[2015.03.21-19.58.00:290][ 22]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite19)
+[2015.03.21-19.58.03:332][203]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite20)
+[2015.03.21-19.58.04:028][243]Cmd: DELETE
+[2015.03.21-19.58.04:028][243]Cmd: ACTOR DELETE
+[2015.03.21-19.58.04:030][243]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2015.03.21-19.58.04:077][243]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2015.03.21-19.58.05:172][308]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-19.58.05:183][308]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-19.58.05:465][308]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-19.58.05:558][308]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-19.58.05:721][308]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-19.58.05:831][308]LogPlayLevel: PIE:  Blueprint regeneration took 659 ms (4 blueprints)
+[2015.03.21-19.58.05:831][308]PIE: New page: PIE session: Levelone (21 Mar 2015 19:58:05)
+[2015.03.21-19.58.05:840][308]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.05:840][308]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.05:841][308]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.05:841][308]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.05:841][308]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.05:841][308]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.05:841][308]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.05:841][308]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.05:842][308]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.05:842][308]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.05:844][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011736s)
+[2015.03.21-19.58.05:844][308]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2015.03.21-19.58.05:845][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.012556s)
+[2015.03.21-19.58.05:885][308]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-19.58.05:888][308]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-19.58.05:898][308]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-19.58.05
+[2015.03.21-19.58.05:900][308]LogWorld: Bringing up level for play took: 0.011395
+[2015.03.21-19.58.05:904][308]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.995
+[2015.03.21-19.58.12:680][709]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC07EE4D60
+[2015.03.21-19.58.23:567][353]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-19.58.23:577][353]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-19.58.23:871][353]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-19.58.23:969][353]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-19.58.24:133][353]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-19.58.24:251][353]LogPlayLevel: PIE:  Blueprint regeneration took 684 ms (4 blueprints)
+[2015.03.21-19.58.24:252][353]PIE: New page: PIE session: Levelone (21 Mar 2015 19:58:24)
+[2015.03.21-19.58.24:260][353]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.24:260][353]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.24:261][353]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.24:261][353]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.24:261][353]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.24:261][353]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.24:261][353]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.24:261][353]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.24:262][353]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.24:262][353]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.58.24:264][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011560s)
+[2015.03.21-19.58.24:264][353]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2015.03.21-19.58.24:264][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.012289s)
+[2015.03.21-19.58.24:300][353]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-19.58.24:303][353]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-19.58.24:313][353]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-19.58.24
+[2015.03.21-19.58.24:315][353]LogWorld: Bringing up level for play took: 0.011630
+[2015.03.21-19.58.24:319][353]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.41
+[2015.03.21-19.58.29:054][630]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC7D6ABF60
+[2015.03.21-19.59.05:202][762]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-19.59.05:212][762]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-19.59.05:499][762]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-19.59.05:593][762]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-19.59.05:761][762]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-19.59.05:885][762]LogPlayLevel: PIE:  Blueprint regeneration took 683 ms (4 blueprints)
+[2015.03.21-19.59.05:885][762]PIE: New page: PIE session: Levelone (21 Mar 2015 19:59:05)
+[2015.03.21-19.59.05:895][762]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.05:895][762]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.05:895][762]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.05:895][762]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.05:896][762]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.05:896][762]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.05:896][762]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.05:896][762]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.05:896][762]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.05:896][762]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.05:898][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012148s)
+[2015.03.21-19.59.05:899][762]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2015.03.21-19.59.05:899][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013284s)
+[2015.03.21-19.59.05:938][762]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-19.59.05:941][762]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-19.59.05:951][762]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-19.59.05
+[2015.03.21-19.59.05:953][762]LogWorld: Bringing up level for play took: 0.011179
+[2015.03.21-19.59.05:956][762]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.048
+[2015.03.21-19.59.08:784][925]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC07B262A0
+[2015.03.21-19.59.12:482][140]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-19.59.12:491][140]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-19.59.12:781][140]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-19.59.12:872][140]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-19.59.13:042][140]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-19.59.13:159][140]LogPlayLevel: PIE:  Blueprint regeneration took 677 ms (4 blueprints)
+[2015.03.21-19.59.13:160][140]PIE: New page: PIE session: Levelone (21 Mar 2015 19:59:13)
+[2015.03.21-19.59.13:168][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.13:168][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.13:169][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.13:169][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.13:169][140]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.13:169][140]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.13:169][140]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.13:169][140]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.13:170][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.13:170][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.13:172][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011412s)
+[2015.03.21-19.59.13:172][140]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2015.03.21-19.59.13:172][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.012144s)
+[2015.03.21-19.59.13:208][140]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-19.59.13:211][140]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-19.59.13:220][140]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-19.59.13
+[2015.03.21-19.59.13:223][140]LogWorld: Bringing up level for play took: 0.011635
+[2015.03.21-19.59.13:227][140]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.318
+[2015.03.21-19.59.18:978][478]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC07B254E0
+[2015.03.21-19.59.26:871][948]LogEditorViewport: Clicking Background
+[2015.03.21-19.59.27:321][975]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (stump_Sprite2)
+[2015.03.21-19.59.33:682][348]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (stump_Sprite3)
+[2015.03.21-19.59.37:297][562]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite19)
+[2015.03.21-19.59.37:591][578]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite19)
+[2015.03.21-19.59.38:286][618]Cmd: DUPLICATE
+[2015.03.21-19.59.38:286][618]Cmd: ACTOR DUPLICATE
+[2015.03.21-19.59.40:917][771]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-19.59.40:927][771]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-19.59.41:242][771]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-19.59.41:341][771]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-19.59.41:516][771]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-19.59.41:649][771]LogPlayLevel: PIE:  Blueprint regeneration took 732 ms (4 blueprints)
+[2015.03.21-19.59.41:649][771]PIE: New page: PIE session: Levelone (21 Mar 2015 19:59:41)
+[2015.03.21-19.59.41:658][771]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.41:658][771]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.41:659][771]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.41:659][771]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.41:659][771]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.41:659][771]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.41:660][771]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.41:660][771]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.41:660][771]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.41:660][771]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-19.59.41:662][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012189s)
+[2015.03.21-19.59.41:663][771]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2015.03.21-19.59.41:663][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.012999s)
+[2015.03.21-19.59.41:702][771]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-19.59.41:705][771]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-19.59.41:714][771]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-19.59.41
+[2015.03.21-19.59.41:717][771]LogWorld: Bringing up level for play took: 0.011348
+[2015.03.21-19.59.41:721][771]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.812
+[2015.03.21-19.59.45:639][999]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC07B26660
+[2015.03.21-19.59.48:944][193]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (stump_Sprite3)
+[2015.03.21-19.59.58:492][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Levelone_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2015.03.21-19.59.58:746][701]LogSavePackage: Save=209.360123ms
+[2015.03.21-19.59.58:746][701]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone_Auto7349781E44217943E3F6C238A1B8AA791.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Levelone_Auto7.umap'
+[2015.03.21-19.59.58:769][701]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levelone' took 0.415
+[2015.03.21-19.59.58:769][701]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.415
+[2015.03.21-19.59.58:809][701]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Bird] ([1] browsable assets)...
+[2015.03.21-19.59.58:809][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Bird]
+[2015.03.21-19.59.58:852][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Bird" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Bird_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2015.03.21-19.59.59:380][701]LogSavePackage: Save=407.047180ms
+[2015.03.21-19.59.59:382][701]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Bird_Auto75FBFFD404A16CCCFB6AC76BF246CE308.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Bird_Auto7.uasset'
+[2015.03.21-19.59.59:446][701]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Icantspellchamerlan] ([1] browsable assets)...
+[2015.03.21-19.59.59:446][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Icantspellchamerlan]
+[2015.03.21-20.00.00:099][701]LogSavePackage: Save=559.348389ms
+[2015.03.21-20.00.00:100][701]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Icantspellchamerlan_Auto7A3A3B2D74D53DB8B7A9FB78F1EA06993.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Icantspellchamerlan_Auto7.uasset'
+[2015.03.21-20.00.00:242][701]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Log] ([1] browsable assets)...
+[2015.03.21-20.00.00:242][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Log]
+[2015.03.21-20.00.00:329][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Log" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Blueprints/Log_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2015.03.21-20.00.00:525][701]LogSavePackage: Save=156.359833ms
+[2015.03.21-20.00.00:527][701]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Log_Auto71207CCB3402B1E9A8C4E91BB7B8CA17D.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Blueprints/Log_Auto7.uasset'
+[2015.03.21-20.00.00:550][701]LogFileHelpers: Auto-saving content packages took 1.781
+[2015.03.21-20.00.17:893][697]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.00.17:903][697]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.00.18:213][697]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.00.18:310][697]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.00.18:491][697]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.00.18:601][697]LogPlayLevel: PIE:  Blueprint regeneration took 707 ms (4 blueprints)
+[2015.03.21-20.00.18:601][697]PIE: New page: PIE session: Levelone (21 Mar 2015 20:00:18)
+[2015.03.21-20.00.18:611][697]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.18:611][697]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.18:612][697]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.18:612][697]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.18:612][697]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.18:612][697]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.18:612][697]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.18:612][697]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.18:613][697]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.18:613][697]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.18:615][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012917s)
+[2015.03.21-20.00.18:615][697]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2015.03.21-20.00.18:615][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013700s)
+[2015.03.21-20.00.18:655][697]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.00.18:657][697]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.00.18:667][697]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.00.18
+[2015.03.21-20.00.18:669][697]LogWorld: Bringing up level for play took: 0.011361
+[2015.03.21-20.00.18:672][697]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.763
+[2015.03.21-20.00.35:881][716]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC2DCF99E0
+[2015.03.21-20.00.36:590][757]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite20)
+[2015.03.21-20.00.37:267][796]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (stump_Sprite3)
+[2015.03.21-20.00.44:239][211]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.00.44:250][211]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.00.44:543][211]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.00.44:637][211]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.00.44:800][211]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.00.44:918][211]LogPlayLevel: PIE:  Blueprint regeneration took 678 ms (4 blueprints)
+[2015.03.21-20.00.44:919][211]PIE: New page: PIE session: Levelone (21 Mar 2015 20:00:44)
+[2015.03.21-20.00.44:930][211]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.44:930][211]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.44:931][211]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.44:931][211]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.44:931][211]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.44:931][211]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.44:931][211]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.44:931][211]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.44:931][211]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.44:932][211]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.00.44:933][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013832s)
+[2015.03.21-20.00.44:934][211]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2015.03.21-20.00.44:934][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.014584s)
+[2015.03.21-20.00.44:976][211]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.00.44:978][211]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.00.44:988][211]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.00.44
+[2015.03.21-20.00.44:990][211]LogWorld: Bringing up level for play took: 0.011345
+[2015.03.21-20.00.44:994][211]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.085
+[2015.03.21-20.00.50:277][521]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC2F5402C0
+[2015.03.21-20.01.00:891][151]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.01.00:902][151]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.01.01:188][151]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.01.01:286][151]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.01.01:460][151]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.01.01:580][151]LogPlayLevel: PIE:  Blueprint regeneration took 689 ms (4 blueprints)
+[2015.03.21-20.01.01:581][151]PIE: New page: PIE session: Levelone (21 Mar 2015 20:01:01)
+[2015.03.21-20.01.01:590][151]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.01.01:590][151]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.01.01:590][151]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.01.01:590][151]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.01.01:591][151]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.01.01:591][151]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.01.01:591][151]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.01.01:591][151]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.01.01:591][151]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.01.01:591][151]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.01.01:593][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012099s)
+[2015.03.21-20.01.01:594][151]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2015.03.21-20.01.01:594][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.012876s)
+[2015.03.21-20.01.01:630][151]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.01.01:632][151]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.01.01:643][151]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.01.01
+[2015.03.21-20.01.01:645][151]LogWorld: Bringing up level for play took: 0.011990
+[2015.03.21-20.01.01:649][151]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.74
+[2015.03.21-20.01.05:950][408]LogBlueprintUserMessages: 2
+[2015.03.21-20.01.11:304][729]LogSelection:Warning: PIE object was selected: "Bird_C /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.Bird_C_0"
+[2015.03.21-20.01.11:304][729]LogSelection:Warning: PIE object was selected: "PaperSpriteActor /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.stump_Sprite3_125"
+[2015.03.21-20.01.15:121][946]LogEditorViewport: Clicking Background
+[2015.03.21-20.01.15:638][977]LogEditorViewport: Clicking Background
+[2015.03.21-20.01.16:138][  7]LogEditorViewport: Clicking Background
+[2015.03.21-20.01.16:622][ 36]LogEditorViewport: Clicking Background
+[2015.03.21-20.01.30:688][742]Cmd: SELECT NONE
+[2015.03.21-20.01.31:320][775]Cmd: SELECT NONE
+[2015.03.21-20.01.31:915][805]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC62384220
+[2015.03.21-20.01.47:138][716]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (hollow_log_Sprite3)
+[2015.03.21-20.02.02:718][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.21-20.02.02:993][621]LogSavePackage: Save=207.684280ms
+[2015.03.21-20.02.02:993][621]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone879AA70D4AB1A06259D790AE421908B5.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.21-20.02.03:046][621]LogFileHelpers: Saving map 'Levelone' took 0.511
+[2015.03.21-20.02.03:055][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Bird" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Bird.uasset" SILENT=true
+[2015.03.21-20.02.03:346][621]LogSavePackage: Save=258.439697ms
+[2015.03.21-20.02.03:346][621]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Bird7FC6CB7E4B4050CAA1C1C786BB57BF71.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Bird.uasset'
+[2015.03.21-20.02.03:369][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.21-20.02.03:807][621]LogSavePackage: Save=407.599365ms
+[2015.03.21-20.02.03:807][621]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Icantspellchamerlan03C667364E0EEB8B4E8D3B8B829F51E6.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.21-20.02.03:830][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Log" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Blueprints/Log.uasset" SILENT=true
+[2015.03.21-20.02.03:890][621]LogSavePackage: Save=29.702612ms
+[2015.03.21-20.02.03:890][621]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Log1AE21CA443D38A263D2BFE89B9CE2C37.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Blueprints/Log.uasset'
+[2015.03.21-20.02.17:167][416]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite20)
+[2015.03.21-20.02.18:684][504]Cmd: DUPLICATE
+[2015.03.21-20.02.18:684][504]Cmd: ACTOR DUPLICATE
+[2015.03.21-20.02.22:849][750]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite22)
+[2015.03.21-20.02.26:117][933]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.02.26:128][933]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.02.26:444][933]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.02.26:554][933]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.02.26:725][933]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.02.26:847][933]LogPlayLevel: PIE:  Blueprint regeneration took 730 ms (4 blueprints)
+[2015.03.21-20.02.26:848][933]PIE: New page: PIE session: Levelone (21 Mar 2015 20:02:26)
+[2015.03.21-20.02.26:858][933]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.26:858][933]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.26:858][933]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.26:858][933]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.26:859][933]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.26:859][933]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.26:859][933]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.26:859][933]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.26:859][933]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.26:859][933]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.26:861][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012918s)
+[2015.03.21-20.02.26:862][933]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2015.03.21-20.02.26:862][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013826s)
+[2015.03.21-20.02.26:902][933]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.02.26:905][933]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.02.26:915][933]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.02.26
+[2015.03.21-20.02.26:918][933]LogWorld: Bringing up level for play took: 0.012317
+[2015.03.21-20.02.26:921][933]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.012
+[2015.03.21-20.02.47:746][181]LogSelection:Warning: PIE object was selected: "PaperSpriteActor /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.grass_1_Sprite22"
+[2015.03.21-20.02.48:606][227]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC0EA3AD40
+[2015.03.21-20.02.48:970][246]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-20.02.48:970][246]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-20.02.48:970][246]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-20.02.48:970][246]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-20.02.58:314][791]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.02.58:353][791]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.02.58:662][791]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.02.58:754][791]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.02.58:927][791]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.02.59:045][791]LogPlayLevel: PIE:  Blueprint regeneration took 731 ms (4 blueprints)
+[2015.03.21-20.02.59:045][791]PIE: New page: PIE session: Levelone (21 Mar 2015 20:02:59)
+[2015.03.21-20.02.59:056][791]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.59:056][791]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.59:056][791]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.59:056][791]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.59:057][791]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.59:057][791]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.59:057][791]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.59:057][791]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.59:057][791]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.59:057][791]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.02.59:060][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013173s)
+[2015.03.21-20.02.59:060][791]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2015.03.21-20.02.59:060][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013947s)
+[2015.03.21-20.02.59:098][791]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.02.59:101][791]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.02.59:113][791]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.02.59
+[2015.03.21-20.02.59:115][791]LogWorld: Bringing up level for play took: 0.013364
+[2015.03.21-20.02.59:127][791]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.218
+[2015.03.21-20.02.59:164][791]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-20.02.59:164][791]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-20.02.59:164][791]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-20.02.59:164][791]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-20.03.39:621][189]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC97D493A0
+[2015.03.21-20.03.44:656][490]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites/Char'
+[2015.03.21-20.03.58:174][275]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.03.58:210][275]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.03.58:498][275]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.03.58:591][275]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.03.58:758][275]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.03.58:876][275]LogPlayLevel: PIE:  Blueprint regeneration took 701 ms (4 blueprints)
+[2015.03.21-20.03.58:876][275]PIE: New page: PIE session: Levelone (21 Mar 2015 20:03:58)
+[2015.03.21-20.03.58:886][275]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.03.58:886][275]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.03.58:886][275]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.03.58:886][275]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.03.58:887][275]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.03.58:887][275]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.03.58:887][275]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.03.58:887][275]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.03.58:887][275]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.03.58:887][275]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.03.58:890][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012627s)
+[2015.03.21-20.03.58:891][275]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2015.03.21-20.03.58:891][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013614s)
+[2015.03.21-20.03.58:939][275]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.03.58:944][275]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.03.58:964][275]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.03.58
+[2015.03.21-20.03.58:967][275]LogWorld: Bringing up level for play took: 0.021012
+[2015.03.21-20.03.58:972][275]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.063
+[2015.03.21-20.04.06:506][720]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC4F5EA340
+[2015.03.21-20.04.13:754][139]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.04.13:763][139]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.04.14:096][139]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.04.14:188][139]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.04.14:360][139]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.04.14:476][139]LogPlayLevel: PIE:  Blueprint regeneration took 723 ms (4 blueprints)
+[2015.03.21-20.04.14:476][139]PIE: New page: PIE session: Levelone (21 Mar 2015 20:04:14)
+[2015.03.21-20.04.14:486][139]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.04.14:486][139]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.04.14:486][139]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.04.14:486][139]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.04.14:486][139]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.04.14:486][139]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.04.14:487][139]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.04.14:487][139]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.04.14:487][139]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.04.14:487][139]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.04.14:489][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011595s)
+[2015.03.21-20.04.14:490][139]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2015.03.21-20.04.14:490][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.012413s)
+[2015.03.21-20.04.14:535][139]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.04.14:537][139]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.04.14:547][139]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.04.14
+[2015.03.21-20.04.14:550][139]LogWorld: Bringing up level for play took: 0.012357
+[2015.03.21-20.04.14:561][139]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.653
+[2015.03.21-20.04.34:811][342]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC4E8DBEC0
+[2015.03.21-20.04.36:099][417]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-20.04.36:099][417]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-20.04.36:099][417]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-20.04.36:099][417]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-20.04.41:077][707]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (hollow_log_Sprite3)
+[2015.03.21-20.05.02:955][991]AssetReimport: New page: Outstanding source content changes 20:05:02
+[2015.03.21-20.05.02:956][991]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/soil.png)
+[2015.03.21-20.05.02:969][991]0.000056 seconds to analyze Texture2D /Game/pngs/soil.soil
+
+[2015.03.21-20.05.03:293][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/soil" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/soil.uasset" SILENT=true
+[2015.03.21-20.05.03:598][991]LogSavePackage: Save=301.230530ms
+[2015.03.21-20.05.03:598][991]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/soil78B20B3B4EBD37CB9241DC88630774AA.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/soil.uasset'
+[2015.03.21-20.05.03:623][992]AssetReimport: Info Creating new asset /Game/pngs/soil.
+[2015.03.21-20.05.05:057][ 78]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-20.05.11:114][399]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.21-20.05.11:115][399]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-20.05.15:123][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/Enviroment/soil_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/Enviroment/soil_Sprite.uasset" SILENT=true
+[2015.03.21-20.05.15:160][604]LogSavePackage: Save=30.643585ms
+[2015.03.21-20.05.15:160][604]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/soil_SpriteAECD627C41C71A94B4FD96858D8A8FBE.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/Enviroment/soil_Sprite.uasset'
+[2015.03.21-20.05.16:962][702]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites/Enviroment'
+[2015.03.21-20.05.22:245][  6]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite22)
+[2015.03.21-20.05.23:047][ 52]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (soil_Sprite)
+[2015.03.21-20.05.23:939][104]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite22)
+[2015.03.21-20.05.24:701][148]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (soil_Sprite)
+[2015.03.21-20.06.03:742][449]Cmd: DUPLICATE
+[2015.03.21-20.06.03:742][449]Cmd: ACTOR DUPLICATE
+[2015.03.21-20.06.13:964][880]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (soil_Sprite2)
+[2015.03.21-20.06.14:745][924]Cmd: DUPLICATE
+[2015.03.21-20.06.14:745][924]Cmd: ACTOR DUPLICATE
+[2015.03.21-20.06.24:088][474]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (soil_Sprite2)
+[2015.03.21-20.06.27:590][682]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (soil_Sprite)
+[2015.03.21-20.06.31:168][887]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.06.31:210][887]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.06.31:528][887]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.06.31:634][887]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.06.31:824][887]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.06.31:952][887]LogPlayLevel: PIE:  Blueprint regeneration took 783 ms (4 blueprints)
+[2015.03.21-20.06.31:952][887]PIE: New page: PIE session: Levelone (21 Mar 2015 20:06:31)
+[2015.03.21-20.06.31:961][887]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.06.31:961][887]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.06.31:961][887]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.06.31:961][887]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.06.31:962][887]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.06.31:962][887]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.06.31:962][887]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.06.31:962][887]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.06.31:962][887]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.06.31:962][887]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.06.31:964][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011812s)
+[2015.03.21-20.06.31:965][887]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2015.03.21-20.06.31:965][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.012855s)
+[2015.03.21-20.06.32:007][887]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.06.32:009][887]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.06.32:021][887]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.06.32
+[2015.03.21-20.06.32:023][887]LogWorld: Bringing up level for play took: 0.013505
+[2015.03.21-20.06.32:027][887]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.118
+[2015.03.21-20.06.42:976][531]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC938716C0
+[2015.03.21-20.07.05:036][811]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.07.05:045][811]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.07.05:338][811]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.07.05:431][811]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.07.05:603][811]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.07.05:717][811]LogPlayLevel: PIE:  Blueprint regeneration took 681 ms (4 blueprints)
+[2015.03.21-20.07.05:717][811]PIE: New page: PIE session: Levelone (21 Mar 2015 20:07:05)
+[2015.03.21-20.07.05:727][811]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.05:727][811]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.05:728][811]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.05:728][811]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.05:728][811]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.05:728][811]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.05:728][811]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.05:728][811]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.05:728][811]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.05:728][811]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.05:730][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012585s)
+[2015.03.21-20.07.05:731][811]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2015.03.21-20.07.05:731][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013574s)
+[2015.03.21-20.07.05:768][811]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.07.05:770][811]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.07.05:781][811]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.07.05
+[2015.03.21-20.07.05:783][811]LogWorld: Bringing up level for play took: 0.012136
+[2015.03.21-20.07.05:786][811]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.878
+[2015.03.21-20.07.16:403][441]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC6E380180
+[2015.03.21-20.07.26:062][ 10]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.07.26:071][ 10]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.07.26:363][ 10]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.07.26:456][ 10]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.07.26:628][ 10]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.07.26:741][ 10]LogPlayLevel: PIE:  Blueprint regeneration took 679 ms (4 blueprints)
+[2015.03.21-20.07.26:741][ 10]PIE: New page: PIE session: Levelone (21 Mar 2015 20:07:26)
+[2015.03.21-20.07.26:750][ 10]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.26:750][ 10]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.26:751][ 10]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.26:751][ 10]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.26:751][ 10]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.26:751][ 10]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.26:751][ 10]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.26:751][ 10]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.26:752][ 10]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.26:752][ 10]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.26:753][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011520s)
+[2015.03.21-20.07.26:754][ 10]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2015.03.21-20.07.26:754][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.012248s)
+[2015.03.21-20.07.26:790][ 10]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.07.26:792][ 10]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.07.26:803][ 10]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.07.26
+[2015.03.21-20.07.26:806][ 10]LogWorld: Bringing up level for play took: 0.012892
+[2015.03.21-20.07.26:810][ 10]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.099
+[2015.03.21-20.07.29:018][136]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC6FDDF4C0
+[2015.03.21-20.07.31:479][280]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.07.31:489][280]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.07.31:783][280]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.07.31:877][280]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.07.32:048][280]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.07.32:161][280]LogPlayLevel: PIE:  Blueprint regeneration took 681 ms (4 blueprints)
+[2015.03.21-20.07.32:161][280]PIE: New page: PIE session: Levelone (21 Mar 2015 20:07:32)
+[2015.03.21-20.07.32:170][280]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.32:170][280]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.32:171][280]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.32:171][280]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.32:171][280]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.32:171][280]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.32:171][280]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.32:171][280]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.32:171][280]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.32:171][280]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.32:173][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011410s)
+[2015.03.21-20.07.32:174][280]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2015.03.21-20.07.32:174][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.012130s)
+[2015.03.21-20.07.32:213][280]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.07.32:215][280]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.07.32:226][280]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.07.32
+[2015.03.21-20.07.32:229][280]LogWorld: Bringing up level for play took: 0.012633
+[2015.03.21-20.07.32:232][280]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.323
+[2015.03.21-20.07.36:075][504]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC4E8D9F80
+[2015.03.21-20.07.45:874][ 88]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.07.45:883][ 88]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.07.46:181][ 88]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.07.46:276][ 88]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.07.46:448][ 88]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.07.46:564][ 88]LogPlayLevel: PIE:  Blueprint regeneration took 690 ms (4 blueprints)
+[2015.03.21-20.07.46:565][ 88]PIE: New page: PIE session: Levelone (21 Mar 2015 20:07:46)
+[2015.03.21-20.07.46:575][ 88]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.46:575][ 88]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.46:576][ 88]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.46:576][ 88]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.46:576][ 88]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.46:576][ 88]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.46:576][ 88]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.46:576][ 88]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.46:577][ 88]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.46:577][ 88]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.46:579][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013520s)
+[2015.03.21-20.07.46:580][ 88]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2015.03.21-20.07.46:580][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.014305s)
+[2015.03.21-20.07.46:617][ 88]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.07.46:619][ 88]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.07.46:630][ 88]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.07.46
+[2015.03.21-20.07.46:632][ 88]LogWorld: Bringing up level for play took: 0.011716
+[2015.03.21-20.07.46:635][ 88]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.726
+[2015.03.21-20.07.49:788][263]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC924685E0
+[2015.03.21-20.07.51:805][382]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.07.51:815][382]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.07.52:111][382]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.07.52:205][382]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.07.52:377][382]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.07.52:490][382]LogPlayLevel: PIE:  Blueprint regeneration took 685 ms (4 blueprints)
+[2015.03.21-20.07.52:490][382]PIE: New page: PIE session: Levelone (21 Mar 2015 20:07:52)
+[2015.03.21-20.07.52:499][382]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.52:499][382]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.52:500][382]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.52:500][382]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.52:500][382]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.52:500][382]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.52:500][382]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.52:500][382]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.52:501][382]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.52:501][382]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.07.52:502][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011602s)
+[2015.03.21-20.07.52:503][382]LogPlayLevel: PIE: World Init took: (0.000571s)
+[2015.03.21-20.07.52:503][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.012339s)
+[2015.03.21-20.07.52:541][382]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.07.52:543][382]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.07.52:554][382]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.07.52
+[2015.03.21-20.07.52:556][382]LogWorld: Bringing up level for play took: 0.012306
+[2015.03.21-20.07.52:560][382]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.651
+[2015.03.21-20.07.58:775][748]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC97633CE0
+[2015.03.21-20.08.03:659][ 34]Cmd: DUPLICATE
+[2015.03.21-20.08.03:659][ 34]Cmd: ACTOR DUPLICATE
+[2015.03.21-20.08.38:124][ 91]Cmd: DUPLICATE
+[2015.03.21-20.08.38:124][ 91]Cmd: ACTOR DUPLICATE
+[2015.03.21-20.08.38:146][ 91]Warning: Unknown property in Bird_C: spring arm="  spring arm" 
+[2015.03.21-20.08.45:940][555]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.08.45:950][555]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.08.46:263][555]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.08.46:362][555]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.08.46:545][555]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.08.46:668][555]LogPlayLevel: PIE:  Blueprint regeneration took 729 ms (4 blueprints)
+[2015.03.21-20.08.46:670][555]PIE: New page: PIE session: Levelone (21 Mar 2015 20:08:46)
+[2015.03.21-20.08.46:679][555]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.08.46:679][555]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.08.46:680][555]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.08.46:680][555]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.08.46:680][555]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.08.46:680][555]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.08.46:680][555]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.08.46:680][555]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.08.46:680][555]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.08.46:680][555]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.08.46:682][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012201s)
+[2015.03.21-20.08.46:683][555]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2015.03.21-20.08.46:683][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013013s)
+[2015.03.21-20.08.46:723][555]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.08.46:725][555]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.08.46:737][555]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.08.46
+[2015.03.21-20.08.46:740][555]LogWorld: Bringing up level for play took: 0.013934
+[2015.03.21-20.08.46:743][555]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.166
+[2015.03.21-20.08.58:791][266]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC4F3D7CE0
+[2015.03.21-20.09.09:235][885]Cmd: DUPLICATE
+[2015.03.21-20.09.09:235][885]Cmd: ACTOR DUPLICATE
+[2015.03.21-20.09.09:262][885]Warning: Unknown property in Bird_C: spring arm="  spring arm" 
+[2015.03.21-20.09.20:894][579]LogEditorViewport: Clicking on Actor (LMB): Bird_C (Bird2)
+[2015.03.21-20.09.21:883][637]Cmd: DELETE
+[2015.03.21-20.09.21:883][637]Cmd: ACTOR DELETE
+[2015.03.21-20.09.21:884][637]LogEditorActor: Deleted Actor: Bird_C
+[2015.03.21-20.09.21:916][637]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2015.03.21-20.09.23:317][720]Cmd: DELETE
+[2015.03.21-20.09.23:318][720]Cmd: ACTOR DELETE
+[2015.03.21-20.09.26:194][720]LogEditorActor: Deleted Actor: Bird_C
+[2015.03.21-20.09.26:232][720]LogEditorActor: Deleted 1 Actors (2.915 secs)
+[2015.03.21-20.09.27:771][812]LogEditorViewport: Clicking on Actor (LMB): Bird_C (Bird)
+[2015.03.21-20.09.49:495][ 48]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.09.49:507][ 48]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.09.49:801][ 48]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.09.49:896][ 48]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.09.50:081][ 48]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.09.50:188][ 48]LogPlayLevel: PIE:  Blueprint regeneration took 693 ms (4 blueprints)
+[2015.03.21-20.09.50:188][ 48]PIE: New page: PIE session: Levelone (21 Mar 2015 20:09:50)
+[2015.03.21-20.09.50:199][ 48]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.50:200][ 48]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.50:200][ 48]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.50:200][ 48]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.50:200][ 48]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.50:200][ 48]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.50:201][ 48]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.50:201][ 48]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.50:201][ 48]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.50:201][ 48]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.50:203][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014468s)
+[2015.03.21-20.09.50:204][ 48]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2015.03.21-20.09.50:204][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.015643s)
+[2015.03.21-20.09.50:245][ 48]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.09.50:247][ 48]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.09.50:260][ 48]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.09.50
+[2015.03.21-20.09.50:262][ 48]LogWorld: Bringing up level for play took: 0.014405
+[2015.03.21-20.09.50:266][ 48]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.358
+[2015.03.21-20.09.53:988][263]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC9E77D620
+[2015.03.21-20.09.54:528][293]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.09.54:538][293]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.09.54:829][293]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.09.54:924][293]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.09.55:109][293]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.09.55:228][293]LogPlayLevel: PIE:  Blueprint regeneration took 699 ms (4 blueprints)
+[2015.03.21-20.09.55:228][293]PIE: New page: PIE session: Levelone (21 Mar 2015 20:09:55)
+[2015.03.21-20.09.55:239][293]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.55:239][293]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.55:240][293]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.55:240][293]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.55:240][293]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.55:240][293]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.55:240][293]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.55:240][293]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.55:241][293]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.55:241][293]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.09.55:242][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013540s)
+[2015.03.21-20.09.55:243][293]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2015.03.21-20.09.55:243][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.014297s)
+[2015.03.21-20.09.55:298][293]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.09.55:301][293]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.09.55:319][293]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.09.55
+[2015.03.21-20.09.55:322][293]LogWorld: Bringing up level for play took: 0.019839
+[2015.03.21-20.09.55:326][293]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.417
+[2015.03.21-20.10.19:287][893]AssetReimport: New page: Outstanding source content changes 20:10:19
+[2015.03.21-20.10.19:288][893]LogFactory: FactoryCreateBinary: Texture with ReimportTextureFactory (0 0 C:/Users/Alan/Desktop/GameJam/try_2/Content/pngs/menubg.png)
+[2015.03.21-20.10.19:338][893]0.000036 seconds to analyze Texture2D /Game/pngs/menubg.menubg
+
+[2015.03.21-20.10.20:161][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/menubg" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/menubg.uasset" SILENT=true
+[2015.03.21-20.10.25:997][894]LogSavePackage: Save=5830.770996ms
+[2015.03.21-20.10.25:997][894]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/menubgE57670624E5707FC17AE2BBF66383E21.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/pngs/menubg.uasset'
+[2015.03.21-20.10.26:128][895]AssetReimport: Info Creating new asset /Game/pngs/menubg.
+[2015.03.21-20.10.47:180][ 49]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC07B14AE0
+[2015.03.21-20.10.48:406][121]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
+[2015.03.21-20.10.49:131][162]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-20.11.08:142][225]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.03.21-20.11.08:143][225]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/pngs'
+[2015.03.21-20.11.12:206][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprites/menubg_Sprite" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/menubg_Sprite.uasset" SILENT=true
+[2015.03.21-20.11.12:380][433]LogSavePackage: Save=169.427933ms
+[2015.03.21-20.11.12:380][433]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/menubg_Sprite156AF79548F3AD219E7341B5A96AE5A4.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/sprites/menubg_Sprite.uasset'
+[2015.03.21-20.11.16:442][667]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
+[2015.03.21-20.11.26:817][272]Cmd: DELETE
+[2015.03.21-20.11.26:817][272]Cmd: ACTOR DELETE
+[2015.03.21-20.11.26:818][272]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2015.03.21-20.11.26:844][272]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2015.03.21-20.11.35:141][756]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2015.03.21-20.12.57:382][655]LogUnrealMath: Expression Error : No value recognized
+[2015.03.21-20.12.57:382][655]LogUnrealMath: Expression Error : Error in expression
+[2015.03.21-20.12.57:382][655]LogUnrealMath: Expression Error : No value recognized
+[2015.03.21-20.12.57:382][655]LogUnrealMath: Expression Error : Error in expression
+[2015.03.21-20.12.57:431][658]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (treebasetile_Sprite4)
+[2015.03.21-20.13.10:732][440]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (menubg_Sprite)
+[2015.03.21-20.13.16:841][794]LogUnrealMath: Expression Error : No value recognized
+[2015.03.21-20.13.16:841][794]LogUnrealMath: Expression Error : Error in expression
+[2015.03.21-20.13.16:841][794]LogUnrealMath: Expression Error : No value recognized
+[2015.03.21-20.13.16:842][794]LogUnrealMath: Expression Error : Error in expression
+[2015.03.21-20.13.16:907][798]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (menubg_Sprite)
+[2015.03.21-20.14.01:012][398]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.14.01:026][398]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.14.01:336][398]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.14.01:434][398]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.14.01:619][398]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.14.01:752][398]LogPlayLevel: PIE:  Blueprint regeneration took 740 ms (4 blueprints)
+[2015.03.21-20.14.01:752][398]PIE: New page: PIE session: Levelone (21 Mar 2015 20:14:01)
+[2015.03.21-20.14.01:761][398]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.14.01:761][398]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.14.01:762][398]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.14.01:762][398]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.14.01:762][398]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.14.01:762][398]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.14.01:763][398]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.14.01:763][398]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.14.01:763][398]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.14.01:763][398]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.14.01:765][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012359s)
+[2015.03.21-20.14.01:766][398]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2015.03.21-20.14.01:766][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013253s)
+[2015.03.21-20.14.01:806][398]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.14.01:808][398]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.14.01:821][398]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.14.01
+[2015.03.21-20.14.01:824][398]LogWorld: Bringing up level for play took: 0.014519
+[2015.03.21-20.14.01:827][398]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.919
+[2015.03.21-20.14.05:617][624]LogSelection:Warning: PIE object was selected: "PaperSpriteActor /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.menubg_Sprite_166"
+[2015.03.21-20.14.07:204][691]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2015.03.21-20.14.13:570][988]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_1_Sprite16)
+[2015.03.21-20.14.13:570][988]LogSelection:Warning: PIE object was selected: "PaperSpriteActor /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.grass_1_Sprite16"
+[2015.03.21-20.14.22:674][389]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:674][389]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:701][390]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:701][390]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:726][391]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:726][391]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:750][392]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:750][392]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:782][393]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:782][393]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:810][394]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:810][394]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:835][395]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:835][395]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:863][396]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:863][396]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:892][397]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:892][397]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:918][398]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:918][398]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:945][399]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:945][399]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:970][400]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:970][400]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:997][401]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.22:997][401]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:022][402]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:022][402]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:047][403]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:047][403]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:073][404]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:073][404]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:103][405]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:103][405]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:131][406]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:131][406]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:159][407]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:159][407]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:183][408]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:183][408]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:207][409]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:207][409]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:234][410]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:234][410]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:259][411]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:259][411]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:286][412]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:286][412]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:315][413]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:315][413]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:338][414]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:338][414]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:365][415]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:365][415]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:389][416]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:389][416]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:415][417]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:415][417]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:445][418]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:445][418]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:476][419]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:476][419]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:500][420]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:500][420]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:526][421]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:526][421]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:551][422]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:551][422]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:584][423]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:584][423]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:611][424]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:611][424]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:636][425]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:636][425]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:817][432]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:817][432]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:842][433]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:842][433]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:872][434]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:872][434]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:904][435]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.23:904][435]PIE:Warning: Warning Mobility of sgrass_1_Sprite16 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.26:125][533]LogEditorViewport: Clicking on Actor (LMB): Icantspellchamerlan_C (Icantspellchamerlan)
+[2015.03.21-20.14.26:125][533]LogSelection:Warning: PIE object was selected: "Icantspellchamerlan_C /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.Icantspellchamerlan_C_0"
+[2015.03.21-20.14.26:591][540]LogEditorViewport: Clicking on Actor (LMB): Icantspellchamerlan_C (Icantspellchamerlan)
+[2015.03.21-20.14.26:591][540]LogSelection:Warning: PIE object was selected: "Icantspellchamerlan_C /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.Icantspellchamerlan_C_0"
+[2015.03.21-20.14.38:580][184]LogSelection:Warning: PIE object was selected: "PaperSpriteActor /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.menubg_Sprite_166"
+[2015.03.21-20.14.46:065][511]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.46:065][511]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.46:087][512]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.46:087][512]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.46:343][523]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.46:343][523]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.46:367][524]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.46:367][524]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.46:391][525]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.46:391][525]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.46:439][527]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.46:439][527]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.47:075][557]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.47:075][557]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.47:097][558]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.47:097][558]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.47:120][559]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.47:120][559]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.47:144][560]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.47:144][560]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.47:168][561]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.47:168][561]PIE:Warning: Warning Mobility of menubg_Sprite_166 : RenderComponent has to be 'Movable' if you'd like to move. 
+[2015.03.21-20.14.48:459][629]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC6FDDD760
+[2015.03.21-20.15.03:329][483]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2015.03.21-20.15.06:087][648]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2015.03.21-20.15.07:404][727]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2015.03.21-20.15.08:166][771]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.15.08:177][771]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.15.08:473][771]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.15.08:568][771]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.15.08:735][771]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.15.08:849][771]LogPlayLevel: PIE:  Blueprint regeneration took 682 ms (4 blueprints)
+[2015.03.21-20.15.08:849][771]PIE: New page: PIE session: Levelone (21 Mar 2015 20:15:08)
+[2015.03.21-20.15.08:860][771]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.08:860][771]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.08:860][771]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.08:860][771]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.08:861][771]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.08:861][771]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.08:861][771]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.08:861][771]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.08:861][771]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.08:861][771]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.08:863][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013326s)
+[2015.03.21-20.15.08:864][771]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2015.03.21-20.15.08:864][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.014120s)
+[2015.03.21-20.15.08:899][771]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.15.08:901][771]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.15.08:916][771]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.15.08
+[2015.03.21-20.15.08:920][771]LogWorld: Bringing up level for play took: 0.017739
+[2015.03.21-20.15.08:925][771]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.016
+[2015.03.21-20.15.10:163][838]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC9E77FC40
+[2015.03.21-20.15.12:210][951]Cmd: TRANSACTION UNDO
+[2015.03.21-20.15.12:210][951]LogEditorTransaction: Undo Move Actors
+[2015.03.21-20.15.12:799][959]Cmd: TRANSACTION UNDO
+[2015.03.21-20.15.12:799][959]LogEditorTransaction: Undo Move Actors
+[2015.03.21-20.15.13:830][ 13]Cmd: TRANSACTION UNDO
+[2015.03.21-20.15.13:830][ 13]LogEditorTransaction: Undo Move Actors
+[2015.03.21-20.15.16:662][175]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2015.03.21-20.15.23:139][558]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2015.03.21-20.15.25:588][700]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2015.03.21-20.15.26:179][734]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.15.26:191][734]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.15.26:499][734]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.15.26:672][734]LogPlayLevel: [PIE] Compiling Log before PIE...
+[2015.03.21-20.15.26:747][734]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.15.26:841][734]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.15.26:968][734]LogPlayLevel: PIE:  Blueprint regeneration took 788 ms (5 blueprints)
+[2015.03.21-20.15.26:968][734]PIE: New page: PIE session: Levelone (21 Mar 2015 20:15:26)
+[2015.03.21-20.15.26:978][734]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.26:978][734]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.26:979][734]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.26:979][734]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.26:979][734]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.26:979][734]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.26:979][734]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.26:979][734]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.26:980][734]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.26:980][734]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.15.26:982][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013155s)
+[2015.03.21-20.15.26:982][734]LogPlayLevel: PIE: World Init took: (0.000555s)
+[2015.03.21-20.15.26:982][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.013883s)
+[2015.03.21-20.15.27:022][734]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.15.27:025][734]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.15.27:038][734]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.15.27
+[2015.03.21-20.15.27:040][734]LogWorld: Bringing up level for play took: 0.015060
+[2015.03.21-20.15.27:044][734]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.135
+[2015.03.21-20.15.52:707][260]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000EC2DCFB1A0
+[2015.03.21-20.15.53:684][313]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_tuft_Sprite)
+[2015.03.21-20.15.54:403][354]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (menubg_Sprite)
+[2015.03.21-20.15.56:064][452]Cmd: DUPLICATE
+[2015.03.21-20.15.56:064][452]Cmd: ACTOR DUPLICATE
+[2015.03.21-20.15.59:169][634]Cmd: DELETE
+[2015.03.21-20.15.59:169][634]Cmd: ACTOR DELETE
+[2015.03.21-20.15.59:170][634]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2015.03.21-20.15.59:205][634]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2015.03.21-20.15.59:484][651]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (menubg_Sprite)
+[2015.03.21-20.16.11:644][368]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.16.11:655][368]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.16.11:973][368]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.16.12:068][368]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.16.12:234][368]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.16.12:346][368]LogPlayLevel: PIE:  Blueprint regeneration took 701 ms (4 blueprints)
+[2015.03.21-20.16.12:347][368]PIE: New page: PIE session: Levelone (21 Mar 2015 20:16:12)
+[2015.03.21-20.16.12:358][368]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.16.12:358][368]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.16.12:358][368]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.16.12:358][368]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.16.12:359][368]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.16.12:359][368]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.16.12:359][368]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.16.12:359][368]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.16.12:359][368]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.16.12:359][368]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.16.12:361][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013819s)
+[2015.03.21-20.16.12:362][368]LogPlayLevel: PIE: World Init took: (0.000576s)
+[2015.03.21-20.16.12:362][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.014646s)
+[2015.03.21-20.16.12:403][368]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.16.12:405][368]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.16.12:423][368]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-20.16.12
+[2015.03.21-20.16.12:426][368]LogWorld: Bringing up level for play took: 0.019207
+[2015.03.21-20.16.12:429][368]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.521
+[2015.03.21-20.16.15:173][531]LogSelection:Warning: PIE object was selected: "PaperSpriteActor /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.menubg_Sprite_166"
+[2015.03.21-20.18.11:440][470]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000ECA6EF1E40
+[2015.03.21-20.18.11:875][493]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (menubg_Sprite)
+[2015.03.21-20.18.12:637][537]Cmd: DELETE
+[2015.03.21-20.18.12:637][537]Cmd: ACTOR DELETE
+[2015.03.21-20.18.12:639][537]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2015.03.21-20.18.12:668][537]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2015.03.21-20.18.20:928][ 31]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-20.18.20:940][ 31]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-20.18.21:246][ 31]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-20.18.21:341][ 31]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-20.18.21:511][ 31]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-20.18.21:644][ 31]LogPlayLevel: PIE:  Blueprint regeneration took 716 ms (4 blueprints)
+[2015.03.21-20.18.21:645][ 31]PIE: New page: PIE session: Levelone (21 Mar 2015 20:18:21)
+[2015.03.21-20.18.21:656][ 31]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.18.21:656][ 31]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.18.21:656][ 31]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.18.21:656][ 31]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.18.21:657][ 31]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.18.21:657][ 31]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.18.21:657][ 31]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.18.21:657][ 31]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.18.21:658][ 31]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.18.21:658][ 31]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-20.18.21:660][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014839s)
+[2015.03.21-20.18.21:661][ 31]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2015.03.21-20.18.21:661][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.015736s)
+[2015.03.21-20.18.21:700][ 31]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-20.18.21:702][ 31]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-20.18.21:719][ 31]LogWorld: Bring
