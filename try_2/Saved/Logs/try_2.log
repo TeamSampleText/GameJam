@@ -1486,4 +1486,1225 @@ Make sure 'Icantspellchamerlan_C' has been compiled for  Add Impulse
 [2015.03.21-14.55.13:122][853]LogFileHelpers: Saving map 'Levelone' took 0.386
 [2015.03.21-14.55.13:129][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
 [2015.03.21-14.55.13:381][853]LogSavePackage: Save=247.956787ms
-[2015.03.21-14.55.13:381][853]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitH
+[2015.03.21-14.55.13:381][853]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Icantspellchamerlan6D69EBF14AD2ABC1D96A00805AE29227.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.21-14.55.13:391][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/BirdPlaceholder" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/BirdPlaceholder.uasset" SILENT=true
+[2015.03.21-14.55.13:398][853]LogSavePackage: Save=2.977729ms
+[2015.03.21-14.55.13:399][853]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/BirdPlaceholder205C29EB431682D711D466926E7D3FA5.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/BirdPlaceholder.uasset'
+[2015.03.21-14.55.13:405][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/piss" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/piss.uasset" SILENT=true
+[2015.03.21-14.55.13:413][853]LogSavePackage: Save=3.117999ms
+[2015.03.21-14.55.13:413][853]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/piss779C375E404CE5B0493C5289488D7B17.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/piss.uasset'
+[2015.03.21-14.55.13:420][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Point_A" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_A.uasset" SILENT=true
+[2015.03.21-14.55.13:427][853]LogSavePackage: Save=2.931115ms
+[2015.03.21-14.55.13:427][853]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Point_ADE62E815422083057DFE559376E41230.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_A.uasset'
+[2015.03.21-14.55.13:435][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pngs/Point_B" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B.uasset" SILENT=true
+[2015.03.21-14.55.13:442][853]LogSavePackage: Save=3.054279ms
+[2015.03.21-14.55.13:442][853]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Point_B57202901401F7193B219CB93B9A2E692.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/pngs/Point_B.uasset'
+[2015.03.21-14.58.44:421][237]BlueprintLog: New page: Compile Icantspellchamerlan
+[2015.03.21-14.58.44:636][237]BlueprintEditorCompileResults: Info [0930.80] Compile of Icantspellchamerlan successful! [in 215 ms]
+[2015.03.21-14.58.44:638][237]LogBlueprintUserMessages: Icantspellchamerlan13
+[2015.03.21-14.58.44:638][237]LogBlueprintUserMessages: Icantspellchamerlan13
+[2015.03.21-14.58.45:920][308]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-14.58.45:924][308]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-14.58.46:028][308]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-14.58.46:089][308]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-14.58.46:156][308]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-14.58.46:365][308]LogPlayLevel: PIE:  Blueprint regeneration took 444 ms (4 blueprints)
+[2015.03.21-14.58.46:365][308]PIE: New page: PIE session: Levelone (21 Mar 2015 14:58:46)
+[2015.03.21-14.58.46:373][308]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-14.58.46:373][308]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-14.58.46:374][308]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-14.58.46:374][308]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-14.58.46:374][308]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-14.58.46:374][308]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-14.58.46:374][308]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-14.58.46:374][308]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-14.58.46:374][308]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-14.58.46:374][308]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-14.58.46:375][308]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-14.58.46:375][308]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-14.58.46:376][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010529s)
+[2015.03.21-14.58.46:377][308]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2015.03.21-14.58.46:377][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.011214s)
+[2015.03.21-14.58.46:412][308]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-14.58.46:414][308]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-14.58.46:418][308]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-14.58.46
+[2015.03.21-14.58.46:419][308]LogWorld: Bringing up level for play took: 0.004884
+[2015.03.21-14.58.46:421][308]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-14.58.46:421][308]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-14.58.46:421][308]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-14.58.46:421][308]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-14.58.46:421][308]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-14.58.46:421][308]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-14.58.46:421][308]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-14.58.46:421][308]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-14.58.46:421][308]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-14.58.46:433][308]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.277
+[2015.03.21-14.58.46:462][308]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-14.58.46:462][308]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-14.58.46:462][308]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-14.58.46:462][308]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-14.58.46:607][309]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-14.58.46:607][309]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-14.58.47:751][353]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-14.58.47:751][353]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-14.58.47:751][353]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-14.58.47:751][353]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-14.58.47:751][353]LogBlueprintUserMessages: Hello
+[2015.03.21-14.58.50:060][461]LogBlueprintUserMessages: Player found
+[2015.03.21-14.58.50:101][463]LogBlueprintUserMessages: Hello
+[2015.03.21-14.58.52:719][588]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-14.58.52:719][588]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-14.58.52:719][588]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-14.58.53:821][641]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-14.58.53:821][641]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-14.58.53:821][641]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-14.58.53:821][641]LogBlueprintUserMessages: Bird
+[2015.03.21-14.58.53:979][646]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001FAEAD40
+[2015.03.21-14.58.57:235][836]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-14.58.57:235][836]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-14.58.57:235][836]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-14.58.57:236][836]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-14.59.06:947][351]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-14.59.06:947][351]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-14.59.06:947][351]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-14.59.06:947][351]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-14.59.40:968][183]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-14.59.40:968][183]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-14.59.40:968][183]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-14.59.40:968][183]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.05:737][617]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.05:737][617]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.05:737][617]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.05:737][617]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.24:109][672]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.24:109][672]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.24:109][672]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.24:109][672]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.25:530][752]LogEditorTransaction: Undo Delete current selection
+[2015.03.21-15.00.25:610][752]LogBlueprintUserMessages: Icantspellchamerlan15
+[2015.03.21-15.00.25:610][752]LogBlueprintUserMessages: Icantspellchamerlan15
+[2015.03.21-15.00.25:638][752]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.25:638][752]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.25:638][752]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.25:638][752]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.29:628][963]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.29:628][963]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.29:628][963]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.29:628][963]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.37:021][362]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.37:021][362]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.37:021][362]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.37:021][362]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.49:727][ 78]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-15.00.49:751][ 78]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-15.00.49:954][ 78]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-15.00.50:069][ 78]LogPlayLevel: [PIE] Compiling Log before PIE...
+[2015.03.21-15.00.50:119][ 78]LogPlayLevel: [PIE] Compiling Branch before PIE...
+[2015.03.21-15.00.50:158][ 78]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-15.00.50:221][ 78]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-15.00.50:293][ 78]LogPlayLevel: PIE:  Blueprint regeneration took 565 ms (6 blueprints)
+[2015.03.21-15.00.50:293][ 78]PIE: New page: PIE session: Levelone (21 Mar 2015 15:00:50)
+[2015.03.21-15.00.50:300][ 78]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.00.50:300][ 78]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.00.50:301][ 78]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.00.50:301][ 78]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.00.50:301][ 78]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.00.50:301][ 78]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.00.50:301][ 78]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.00.50:301][ 78]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.00.50:301][ 78]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.00.50:301][ 78]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.00.50:301][ 78]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.00.50:301][ 78]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.00.50:303][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009737s)
+[2015.03.21-15.00.50:304][ 78]LogPlayLevel: PIE: World Init took: (0.000489s)
+[2015.03.21-15.00.50:304][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.010357s)
+[2015.03.21-15.00.50:338][ 78]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-15.00.50:340][ 78]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-15.00.50:344][ 78]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-15.00.50
+[2015.03.21-15.00.50:345][ 78]LogWorld: Bringing up level for play took: 0.004494
+[2015.03.21-15.00.50:347][ 78]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.00.50:347][ 78]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.00.50:347][ 78]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.00.50:347][ 78]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.00.50:347][ 78]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.00.50:347][ 78]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.00.50:347][ 78]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.00.50:347][ 78]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.00.50:347][ 78]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.00.50:358][ 78]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.353
+[2015.03.21-15.00.50:387][ 78]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.50:387][ 78]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.50:387][ 78]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.50:387][ 78]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.00.50:519][ 79]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.00.50:519][ 79]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.00.52:362][156]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.00.52:362][156]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.00.52:362][156]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.00.52:362][156]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.00.52:362][156]LogBlueprintUserMessages: Hello
+[2015.03.21-15.00.52:941][183]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.00.52:941][183]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.00.52:941][183]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.00.52:941][183]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.00.52:941][183]LogBlueprintUserMessages: Hello
+[2015.03.21-15.00.54:146][240]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.00.54:146][240]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.00.54:146][240]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.00.54:146][240]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.00.54:146][240]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.00.54:195][242]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.00.54:195][242]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.00.54:195][242]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.00.54:195][242]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.00.54:195][242]LogBlueprintUserMessages: piss_Sprite3
+[2015.03.21-15.00.55:493][301]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.00.55:493][301]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.00.55:493][301]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.00.55:493][301]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.00.55:493][301]LogBlueprintUserMessages: piss_Sprite3
+[2015.03.21-15.00.55:858][318]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.00.55:859][318]LogScript:Warning: Cannot access 'Box'. It is pending kill. Property: 'Box'
+	Icantspellchamerlan_C /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.Icantspellchamerlan_C_0
+	Function /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan_C:ExecuteUbergraph_Icantspellchamerlan:03A6
+[2015.03.21-15.00.55:859][318]PIE:Error: Error Cannot access 'Box'. It is pending kill. Property: 'Box' from node Shot Timer EXpired in blueprint Icantspellchamerlan
+[2015.03.21-15.00.55:859][318]LogScript:Warning: Cannot access 'Box'. It is pending kill. Property: 'Box'
+	Icantspellchamerlan_C /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.Icantspellchamerlan_C_0
+	Function /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan_C:ExecuteUbergraph_Icantspellchamerlan:0159
+[2015.03.21-15.00.55:859][318]PIE:Error: Error Cannot access 'Box'. It is pending kill. Property: 'Box' from node Shot Timer EXpired in blueprint Icantspellchamerlan
+[2015.03.21-15.00.56:826][361]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000027C39E40
+[2015.03.21-15.01.02:822][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.21-15.01.02:972][694]LogSavePackage: Save=124.285446ms
+[2015.03.21-15.01.02:972][694]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Levelone3A646EDF4B8736394141488EE35CAE0C.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.21-15.01.03:008][694]LogFileHelpers: Saving map 'Levelone' took 0.326
+[2015.03.21-15.01.03:017][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.21-15.01.03:280][694]LogSavePackage: Save=255.740463ms
+[2015.03.21-15.01.03:280][694]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Icantspellchamerlan1ABA56E241C9E06B3984A6A522CECE65.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.21-15.01.03:290][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Log" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Blueprints/Log.uasset" SILENT=true
+[2015.03.21-15.01.03:316][694]LogSavePackage: Save=19.130938ms
+[2015.03.21-15.01.03:316][694]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Log2EB5D0724989BC32695B2495772128E5.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Blueprints/Log.uasset'
+[2015.03.21-15.01.03:327][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Branch" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Branch.uasset" SILENT=true
+[2015.03.21-15.01.03:347][694]LogSavePackage: Save=13.858437ms
+[2015.03.21-15.01.03:347][694]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/BranchF15BAA894960321ED77E23AC893E4448.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Branch.uasset'
+[2015.03.21-15.01.04:418][755]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-15.01.04:441][755]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-15.01.04:627][755]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-15.01.04:690][755]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-15.01.04:797][755]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-15.01.04:866][755]LogPlayLevel: PIE:  Blueprint regeneration took 448 ms (4 blueprints)
+[2015.03.21-15.01.04:867][755]PIE: New page: PIE session: Levelone (21 Mar 2015 15:01:04)
+[2015.03.21-15.01.04:873][755]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.04:873][755]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.04:874][755]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.04:874][755]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.04:874][755]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.04:874][755]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.04:874][755]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.04:874][755]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.04:875][755]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.04:875][755]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.04:875][755]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.04:875][755]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.04:877][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009479s)
+[2015.03.21-15.01.04:877][755]LogPlayLevel: PIE: World Init took: (0.000429s)
+[2015.03.21-15.01.04:877][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.010037s)
+[2015.03.21-15.01.04:914][755]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-15.01.04:916][755]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-15.01.04:921][755]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-15.01.04
+[2015.03.21-15.01.04:922][755]LogWorld: Bringing up level for play took: 0.004740
+[2015.03.21-15.01.04:923][755]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.01.04:923][755]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.01.04:923][755]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.01.04:923][755]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.01.04:923][755]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.01.04:923][755]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.01.04:923][755]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.01.04:923][755]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.01.04:923][755]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.01.04:936][755]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.226
+[2015.03.21-15.01.04:965][755]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.01.04:965][755]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.01.04:965][755]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.01.04:965][755]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.01.05:094][756]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.01.05:094][756]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.01.06:700][820]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.01.06:700][820]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.01.06:700][820]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.01.06:700][820]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.01.06:700][820]LogBlueprintUserMessages: Hello
+[2015.03.21-15.01.07:628][862]LogBlueprintUserMessages: Player found
+[2015.03.21-15.01.07:671][864]LogBlueprintUserMessages: Hello
+[2015.03.21-15.01.09:000][927]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.01.09:000][927]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.01.09:000][927]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.01.09:706][960]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.01.09:707][960]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.01.09:707][960]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.01.09:707][960]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.01.09:707][960]LogBlueprintUserMessages: Hello
+[2015.03.21-15.01.10:381][989]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000117154E0
+[2015.03.21-15.01.16:262][330]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.01.16:262][330]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.01.16:262][330]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.01.16:262][330]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.01.28:750][ 28]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.01.28:750][ 28]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.01.28:750][ 28]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.01.28:750][ 28]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.01.40:172][698]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-15.01.40:195][698]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-15.01.40:390][698]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-15.01.40:452][698]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-15.01.40:560][698]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-15.01.40:629][698]LogPlayLevel: PIE:  Blueprint regeneration took 457 ms (4 blueprints)
+[2015.03.21-15.01.40:629][698]PIE: New page: PIE session: Levelone (21 Mar 2015 15:01:40)
+[2015.03.21-15.01.40:636][698]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.40:636][698]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.40:637][698]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.40:637][698]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.40:637][698]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.40:637][698]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.40:637][698]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.40:637][698]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.40:637][698]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.40:638][698]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.40:638][698]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.40:638][698]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.01.40:639][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009590s)
+[2015.03.21-15.01.40:640][698]LogPlayLevel: PIE: World Init took: (0.000445s)
+[2015.03.21-15.01.40:640][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.010165s)
+[2015.03.21-15.01.40:675][698]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-15.01.40:678][698]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-15.01.40:682][698]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-15.01.40
+[2015.03.21-15.01.40:683][698]LogWorld: Bringing up level for play took: 0.004794
+[2015.03.21-15.01.40:684][698]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.01.40:685][698]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.01.40:685][698]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.01.40:685][698]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.01.40:685][698]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.01.40:685][698]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.01.40:685][698]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.01.40:685][698]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.01.40:685][698]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.01.40:696][698]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.015
+[2015.03.21-15.01.40:725][698]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.01.40:725][698]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.01.40:725][698]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.01.40:725][698]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.01.40:857][699]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.01.40:857][699]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.01.43:686][831]LogBlueprintUserMessages: Player found
+[2015.03.21-15.01.43:728][833]LogBlueprintUserMessages: Hello
+[2015.03.21-15.01.44:453][865]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D62BEC0
+[2015.03.21-15.09.45:565][728]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-15.09.45:589][728]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-15.09.45:780][728]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-15.09.45:842][728]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-15.09.45:947][728]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-15.09.46:018][728]LogPlayLevel: PIE:  Blueprint regeneration took 453 ms (4 blueprints)
+[2015.03.21-15.09.46:018][728]PIE: New page: PIE session: Levelone (21 Mar 2015 15:09:46)
+[2015.03.21-15.09.46:025][728]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.46:025][728]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.46:026][728]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.46:026][728]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.46:026][728]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.46:026][728]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.46:026][728]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.46:026][728]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.46:026][728]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.46:026][728]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.46:027][728]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.46:027][728]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.46:028][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010064s)
+[2015.03.21-15.09.46:029][728]LogPlayLevel: PIE: World Init took: (0.000508s)
+[2015.03.21-15.09.46:029][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.010716s)
+[2015.03.21-15.09.46:062][728]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-15.09.46:065][728]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-15.09.46:069][728]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-15.09.46
+[2015.03.21-15.09.46:070][728]LogWorld: Bringing up level for play took: 0.004146
+[2015.03.21-15.09.46:071][728]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.46:071][728]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.46:071][728]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.09.46:071][728]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.46:071][728]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.09.46:071][728]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.09.46:071][728]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.46:071][728]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.09.46:071][728]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.09.46:082][728]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.366
+[2015.03.21-15.09.46:112][728]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.09.46:112][728]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.09.46:112][728]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.09.46:112][728]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.09.46:244][729]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.09.46:244][729]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.09.47:471][769]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.47:471][769]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.09.47:471][769]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.09.47:471][769]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.09.47:471][769]LogBlueprintUserMessages: Hello
+[2015.03.21-15.09.47:737][781]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.47:737][781]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.09.47:737][781]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.09.47:737][781]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.09.47:737][781]LogBlueprintUserMessages: Hello
+[2015.03.21-15.09.47:759][782]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.47:759][782]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.09.47:759][782]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.09.47:759][782]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.09.47:759][782]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.09.47:803][784]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.47:804][784]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.09.47:804][784]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.09.47:804][784]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.09.47:804][784]LogBlueprintUserMessages: piss_Sprite3
+[2015.03.21-15.09.48:398][811]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.48:398][811]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.09.48:398][811]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.09.48:399][811]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.09.48:399][811]LogBlueprintUserMessages: piss_Sprite3
+[2015.03.21-15.09.48:548][818]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.48:549][818]LogScript:Warning: Cannot access 'Box'. It is pending kill. Property: 'Box'
+	Icantspellchamerlan_C /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.Icantspellchamerlan_C_0
+	Function /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan_C:ExecuteUbergraph_Icantspellchamerlan:03A6
+[2015.03.21-15.09.48:549][818]PIE:Error: Error Cannot access 'Box'. It is pending kill. Property: 'Box' from node Shot Timer EXpired in blueprint Icantspellchamerlan
+[2015.03.21-15.09.48:549][818]LogScript:Warning: Cannot access 'Box'. It is pending kill. Property: 'Box'
+	Icantspellchamerlan_C /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.Icantspellchamerlan_C_0
+	Function /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan_C:ExecuteUbergraph_Icantspellchamerlan:0159
+[2015.03.21-15.09.48:550][818]PIE:Error: Error Cannot access 'Box'. It is pending kill. Property: 'Box' from node Shot Timer EXpired in blueprint Icantspellchamerlan
+[2015.03.21-15.09.49:811][874]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D142A20
+[2015.03.21-15.09.50:813][919]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-15.09.50:836][919]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-15.09.51:023][919]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-15.09.51:084][919]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-15.09.51:189][919]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-15.09.51:259][919]LogPlayLevel: PIE:  Blueprint regeneration took 445 ms (4 blueprints)
+[2015.03.21-15.09.51:259][919]PIE: New page: PIE session: Levelone (21 Mar 2015 15:09:51)
+[2015.03.21-15.09.51:266][919]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.51:266][919]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.51:267][919]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.51:267][919]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.51:267][919]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.51:267][919]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.51:267][919]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.51:267][919]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.51:267][919]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.51:267][919]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.51:267][919]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.51:267][919]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.09.51:269][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009899s)
+[2015.03.21-15.09.51:270][919]LogPlayLevel: PIE: World Init took: (0.000425s)
+[2015.03.21-15.09.51:270][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.010475s)
+[2015.03.21-15.09.51:305][919]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-15.09.51:308][919]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-15.09.51:313][919]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-15.09.51
+[2015.03.21-15.09.51:314][919]LogWorld: Bringing up level for play took: 0.005970
+[2015.03.21-15.09.51:316][919]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.51:316][919]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.51:316][919]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.09.51:316][919]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.51:316][919]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.09.51:316][919]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.09.51:316][919]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.51:316][919]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.09.51:316][919]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.09.51:327][919]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.611
+[2015.03.21-15.09.51:356][919]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.09.51:356][919]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.09.51:356][919]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.09.51:356][919]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.09.51:486][920]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.09.51:486][920]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.09.53:163][992]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.53:163][992]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.09.53:163][992]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.09.53:163][992]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.09.53:163][992]LogBlueprintUserMessages: Hello
+[2015.03.21-15.09.53:440][  4]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.53:441][  4]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.09.53:441][  4]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.09.53:441][  4]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.09.53:441][  4]LogBlueprintUserMessages: Hello
+[2015.03.21-15.09.53:464][  5]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.53:464][  5]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.09.53:464][  5]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.09.53:464][  5]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.09.53:465][  5]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.09.53:514][  7]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.53:514][  7]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.09.53:514][  7]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.09.53:514][  7]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.09.53:514][  7]LogBlueprintUserMessages: piss_Sprite3
+[2015.03.21-15.09.54:585][ 55]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.54:585][ 55]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.09.54:585][ 55]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.09.54:585][ 55]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.09.54:585][ 55]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.09.55:452][ 94]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.55:452][ 94]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.09.55:452][ 94]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.09.55:452][ 94]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.09.55:498][ 96]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.55:498][ 96]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.09.55:498][ 96]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.09.55:498][ 96]LogBlueprintUserMessages: piss_Sprite3
+[2015.03.21-15.09.55:878][113]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.09.55:878][113]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.09.55:878][113]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.09.55:878][113]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.09.55:946][116]LogBlueprintUserMessages: Player found
+[2015.03.21-15.09.55:989][118]LogBlueprintUserMessages: Hello
+[2015.03.21-15.10.00:483][327]LogBlueprintUserMessages: Hello
+[2015.03.21-15.10.04:992][548]LogBlueprintUserMessages: Hello
+[2015.03.21-15.10.07:281][660]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.10.07:282][660]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.10.08:341][712]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.10.08:341][712]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.10.08:341][712]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.10.09:242][756]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.10.09:242][756]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.10.09:242][756]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.10.09:242][756]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.10.09:284][758]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.10.09:284][758]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.10.09:284][758]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.10.09:284][758]LogBlueprintUserMessages: piss_Sprite3
+[2015.03.21-15.10.09:489][768]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.10.09:490][768]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.10.09:490][768]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.10.09:490][768]LogBlueprintUserMessages: piss_Sprite3
+[2015.03.21-15.10.09:511][769]LogBlueprintUserMessages: Hello
+[2015.03.21-15.10.09:640][775]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.10.09:640][775]LogScript:Warning: Cannot access 'Box'. It is pending kill. Property: 'Box'
+	Icantspellchamerlan_C /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.Icantspellchamerlan_C_0
+	Function /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan_C:ExecuteUbergraph_Icantspellchamerlan:03A6
+[2015.03.21-15.10.09:640][775]PIE:Error: Error Cannot access 'Box'. It is pending kill. Property: 'Box' from node Shot Timer EXpired in blueprint Icantspellchamerlan
+[2015.03.21-15.10.09:641][775]LogScript:Warning: Cannot access 'Box'. It is pending kill. Property: 'Box'
+	Icantspellchamerlan_C /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.Icantspellchamerlan_C_0
+	Function /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan_C:ExecuteUbergraph_Icantspellchamerlan:0159
+[2015.03.21-15.10.09:641][775]PIE:Error: Error Cannot access 'Box'. It is pending kill. Property: 'Box' from node Shot Timer EXpired in blueprint Icantspellchamerlan
+[2015.03.21-15.10.10:564][817]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000CFD77E0
+[2015.03.21-15.10.15:227][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.21-15.10.15:374][ 72]LogSavePackage: Save=120.434029ms
+[2015.03.21-15.10.15:374][ 72]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/LeveloneBE6F6BE7466D66028C785292F4D8932A.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.21-15.10.15:409][ 72]LogFileHelpers: Saving map 'Levelone' took 0.304
+[2015.03.21-15.10.15:417][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.21-15.10.15:680][ 72]LogSavePackage: Save=251.721832ms
+[2015.03.21-15.10.15:680][ 72]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Icantspellchamerlan5D390C0B40CB82D467DC92A8A67472E4.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.21-15.14.27:534][127]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.14.27:534][127]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.14.27:534][127]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.14.27:534][127]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.14.32:549][419]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.14.32:549][419]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.14.32:549][419]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.14.32:549][419]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.14.49:196][384]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-15.14.49:220][384]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-15.14.49:412][384]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-15.14.49:476][384]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-15.14.49:582][384]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-15.14.49:652][384]LogPlayLevel: PIE:  Blueprint regeneration took 456 ms (4 blueprints)
+[2015.03.21-15.14.49:652][384]PIE: New page: PIE session: Levelone (21 Mar 2015 15:14:49)
+[2015.03.21-15.14.49:659][384]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.14.49:659][384]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.14.49:660][384]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.14.49:660][384]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.14.49:660][384]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.14.49:660][384]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.14.49:660][384]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.14.49:660][384]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.14.49:660][384]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.14.49:660][384]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.14.49:661][384]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.14.49:661][384]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.14.49:662][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009923s)
+[2015.03.21-15.14.49:663][384]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2015.03.21-15.14.49:663][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.010620s)
+[2015.03.21-15.14.49:699][384]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-15.14.49:702][384]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-15.14.49:706][384]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-15.14.49
+[2015.03.21-15.14.49:707][384]LogWorld: Bringing up level for play took: 0.004653
+[2015.03.21-15.14.49:708][384]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.14.49:708][384]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.14.49:708][384]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.14.49:708][384]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.14.49:708][384]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.14.49:708][384]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.14.49:708][384]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.14.49:708][384]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.14.49:709][384]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.14.49:720][384]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1
+[2015.03.21-15.14.49:749][384]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.14.49:749][384]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.14.49:749][384]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.14.49:749][384]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.14.49:881][385]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.14.49:881][385]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.14.52:070][473]LogBlueprintUserMessages: Player found
+[2015.03.21-15.14.52:113][475]LogBlueprintUserMessages: Hello
+[2015.03.21-15.14.55:847][653]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.14.55:847][653]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.14.55:847][653]LogBlueprintUserMessages: Bird
+[2015.03.21-15.14.56:411][680]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.14.56:411][680]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.14.56:411][680]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.14.56:599][689]LogBlueprintUserMessages: Hello
+[2015.03.21-15.14.56:702][694]LogBlueprintUserMessages: Player found
+[2015.03.21-15.14.57:638][739]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.14.57:638][739]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.14.57:638][739]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.14.57:638][739]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.01:108][905]LogBlueprintUserMessages: Hello
+[2015.03.21-15.15.02:323][963]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:323][963]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.02:345][964]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:345][964]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.02:345][964]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:366][965]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:366][965]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.02:366][965]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:389][966]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:389][966]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.02:389][966]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:411][967]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:411][967]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.02:411][967]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:432][968]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:432][968]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.02:432][968]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:460][969]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:460][969]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.02:460][969]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:481][970]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:481][970]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.02:481][970]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:502][971]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:502][971]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.02:502][971]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:525][972]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:525][972]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.02:525][972]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:546][973]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:546][973]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.02:546][973]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:567][974]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:567][974]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.02:567][974]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:590][975]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:590][975]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.02:590][975]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:611][976]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:611][976]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.02:611][976]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:633][977]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:634][977]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.02:634][977]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:655][978]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:656][978]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.02:656][978]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:677][979]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:677][979]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.02:677][979]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:698][980]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:698][980]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.02:698][980]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:720][981]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:720][981]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.02:720][981]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:742][982]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:742][982]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:764][983]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:764][983]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:784][984]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:784][984]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.02:806][985]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.02:806][985]LogBlueprintUserMessages: Bird
+[2015.03.21-15.15.04:299][ 55]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.04:299][ 55]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.04:766][ 77]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.04:766][ 77]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.04:766][ 77]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.15.05:052][ 90]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.05:052][ 90]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.05:052][ 90]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.15.05:052][ 90]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.15.05:052][ 90]LogBlueprintUserMessages: Hello
+[2015.03.21-15.15.05:309][102]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.05:309][102]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.05:309][102]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.15.05:309][102]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.15.05:309][102]LogBlueprintUserMessages: Hello
+[2015.03.21-15.15.05:329][103]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.05:329][103]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.15.05:329][103]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.15.05:329][103]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.15.05:329][103]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.15.05:378][105]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.05:378][105]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.15.05:378][105]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.15.05:378][105]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.15.05:378][105]LogBlueprintUserMessages: piss_Sprite3
+[2015.03.21-15.15.05:591][115]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.05:591][115]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.15.05:591][115]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.15.05:591][115]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.15.05:591][115]LogBlueprintUserMessages: piss_Sprite3
+[2015.03.21-15.15.05:612][116]LogBlueprintUserMessages: Hello
+[2015.03.21-15.15.05:738][122]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.15.05:738][122]LogScript:Warning: Cannot access 'Box'. It is pending kill. Property: 'Box'
+	Icantspellchamerlan_C /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.Icantspellchamerlan_C_0
+	Function /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan_C:ExecuteUbergraph_Icantspellchamerlan:03A6
+[2015.03.21-15.15.05:739][122]PIE:Error: Error Cannot access 'Box'. It is pending kill. Property: 'Box' from node Shot Timer EXpired in blueprint Icantspellchamerlan
+[2015.03.21-15.15.05:739][122]LogScript:Warning: Cannot access 'Box'. It is pending kill. Property: 'Box'
+	Icantspellchamerlan_C /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.Icantspellchamerlan_C_0
+	Function /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan_C:ExecuteUbergraph_Icantspellchamerlan:0159
+[2015.03.21-15.15.05:739][122]PIE:Error: Error Cannot access 'Box'. It is pending kill. Property: 'Box' from node Shot Timer EXpired in blueprint Icantspellchamerlan
+[2015.03.21-15.15.07:619][210]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000F507A60
+[2015.03.21-15.16.22:307][676]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.22:307][676]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.22:307][676]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.22:307][676]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.25:450][860]LogEditorTransaction: Undo Delete current selection
+[2015.03.21-15.16.25:528][860]LogBlueprintUserMessages: Icantspellchamerlan15
+[2015.03.21-15.16.25:528][860]LogBlueprintUserMessages: Icantspellchamerlan15
+[2015.03.21-15.16.25:555][860]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.25:555][860]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.25:555][860]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.25:555][860]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.34:215][350]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-15.16.34:239][350]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-15.16.34:434][350]LogPlayLevel: [PIE] Compiling Log before PIE...
+[2015.03.21-15.16.34:481][350]LogPlayLevel: [PIE] Compiling Branch before PIE...
+[2015.03.21-15.16.34:520][350]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-15.16.34:583][350]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-15.16.34:686][350]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-15.16.34:759][350]LogPlayLevel: PIE:  Blueprint regeneration took 544 ms (6 blueprints)
+[2015.03.21-15.16.34:759][350]PIE: New page: PIE session: Levelone (21 Mar 2015 15:16:34)
+[2015.03.21-15.16.34:766][350]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.34:766][350]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.34:767][350]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.34:767][350]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.34:767][350]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.34:767][350]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.34:767][350]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.34:767][350]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.34:768][350]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.34:768][350]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.34:768][350]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.34:768][350]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.34:769][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009581s)
+[2015.03.21-15.16.34:770][350]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2015.03.21-15.16.34:770][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.010200s)
+[2015.03.21-15.16.34:805][350]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-15.16.34:807][350]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-15.16.34:811][350]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-15.16.34
+[2015.03.21-15.16.34:812][350]LogWorld: Bringing up level for play took: 0.004514
+[2015.03.21-15.16.34:813][350]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.16.34:813][350]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.16.34:813][350]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.16.34:813][350]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.16.34:813][350]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.16.34:814][350]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.16.34:814][350]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.16.34:814][350]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.16.34:814][350]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.16.34:825][350]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.105
+[2015.03.21-15.16.34:854][350]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.34:854][350]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.34:854][350]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.34:854][350]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.34:985][351]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.16.34:985][351]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.16.35:615][371]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-15.16.36:186][396]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.16.36:186][396]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.16.36:186][396]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.16.36:186][396]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.16.36:186][396]LogBlueprintUserMessages: Hello
+[2015.03.21-15.16.36:345][403]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-15.16.36:950][430]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-15.16.37:698][465]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.16.37:698][465]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.16.37:698][465]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.16.37:698][465]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.16.37:698][465]LogBlueprintUserMessages: Hello
+[2015.03.21-15.16.37:719][466]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.16.37:719][466]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.16.37:719][466]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.16.37:719][466]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.16.37:719][466]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.16.37:769][468]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.16.37:769][468]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.16.37:769][468]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.16.37:769][468]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.16.37:769][468]LogBlueprintUserMessages: piss_Sprite3
+[2015.03.21-15.16.37:983][478]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.16.37:983][478]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.16.37:983][478]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.16.37:983][478]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.16.37:983][478]LogBlueprintUserMessages: piss_Sprite3
+[2015.03.21-15.16.38:660][506]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000CFD7C40
+[2015.03.21-15.16.40:652][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.21-15.16.40:802][599]LogSavePackage: Save=123.229584ms
+[2015.03.21-15.16.40:802][599]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/LeveloneDC3253724445D638DB27A2ADB38A1961.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.21-15.16.40:838][599]LogFileHelpers: Saving map 'Levelone' took 0.322
+[2015.03.21-15.16.40:846][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.21-15.16.41:114][599]LogSavePackage: Save=260.087524ms
+[2015.03.21-15.16.41:114][599]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Icantspellchamerlan14CE17B347C61FED84D806824D8F838E.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.21-15.16.41:124][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Log" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Blueprints/Log.uasset" SILENT=true
+[2015.03.21-15.16.41:149][599]LogSavePackage: Save=18.580551ms
+[2015.03.21-15.16.41:149][599]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Log2A8B610744D87FB8E7F9A3A4F4135A90.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Blueprints/Log.uasset'
+[2015.03.21-15.16.41:159][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Branch" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Branch.uasset" SILENT=true
+[2015.03.21-15.16.41:180][599]LogSavePackage: Save=13.945250ms
+[2015.03.21-15.16.41:180][599]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/BranchC8D2E5F840CD9983DA29E1B236F6729F.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Branch.uasset'
+[2015.03.21-15.16.45:786][875]BlueprintLog: New page: Compile Icantspellchamerlan
+[2015.03.21-15.16.45:997][875]BlueprintEditorCompileResults: Info [2012.15] Compile of Icantspellchamerlan successful! [in 210 ms]
+[2015.03.21-15.16.45:998][875]LogBlueprintUserMessages: Icantspellchamerlan13
+[2015.03.21-15.16.45:998][875]LogBlueprintUserMessages: Icantspellchamerlan13
+[2015.03.21-15.16.47:218][946]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-15.16.47:222][946]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-15.16.47:328][946]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-15.16.47:388][946]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-15.16.47:458][946]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-15.16.47:671][946]LogPlayLevel: PIE:  Blueprint regeneration took 453 ms (4 blueprints)
+[2015.03.21-15.16.47:672][946]PIE: New page: PIE session: Levelone (21 Mar 2015 15:16:47)
+[2015.03.21-15.16.47:678][946]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.47:678][946]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.47:679][946]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.47:679][946]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.47:679][946]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.47:679][946]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.47:679][946]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.47:679][946]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.47:680][946]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.47:680][946]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.47:680][946]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.47:680][946]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.16.47:681][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009495s)
+[2015.03.21-15.16.47:682][946]LogPlayLevel: PIE: World Init took: (0.000444s)
+[2015.03.21-15.16.47:682][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.010072s)
+[2015.03.21-15.16.47:718][946]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-15.16.47:720][946]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-15.16.47:725][946]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-15.16.47
+[2015.03.21-15.16.47:726][946]LogWorld: Bringing up level for play took: 0.005499
+[2015.03.21-15.16.47:728][946]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.16.47:728][946]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.16.47:728][946]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.16.47:728][946]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.16.47:728][946]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.16.47:728][946]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.16.47:728][946]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.16.47:728][946]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.16.47:728][946]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.16.47:740][946]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.02
+[2015.03.21-15.16.47:769][946]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.47:769][946]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.47:769][946]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.47:769][946]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.47:898][947]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.16.47:898][947]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.16.48:833][986]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-15.16.48:855][987]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.16.48:855][987]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.16.48:855][987]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.16.48:855][987]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.16.48:855][987]LogBlueprintUserMessages: Hello
+[2015.03.21-15.16.49:375][ 11]PIE:Warning: Warning Icantspellchamerlan_C_0.PaperFlipbook CHar has to have 'Simulate Physics' enabled if you'd like to AddAngularImpulse. 
+[2015.03.21-15.16.50:614][ 66]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000003390E0C0
+[2015.03.21-15.16.52:398][155]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.52:398][155]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.52:398][155]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.52:398][155]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.59:861][538]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.59:861][538]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.59:861][538]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.16.59:861][538]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.17.12:361][263]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-15.17.12:387][263]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-15.17.12:579][263]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-15.17.12:683][263]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-15.17.12:745][263]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-15.17.12:815][263]LogPlayLevel: PIE:  Blueprint regeneration took 454 ms (4 blueprints)
+[2015.03.21-15.17.12:815][263]PIE: New page: PIE session: Levelone (21 Mar 2015 15:17:12)
+[2015.03.21-15.17.12:823][263]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.17.12:823][263]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.17.12:823][263]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.17.12:823][263]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.17.12:823][263]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.17.12:823][263]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.17.12:823][263]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.17.12:823][263]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.17.12:824][263]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.17.12:824][263]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.17.12:824][263]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.17.12:824][263]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.17.12:826][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009963s)
+[2015.03.21-15.17.12:826][263]LogPlayLevel: PIE: World Init took: (0.000439s)
+[2015.03.21-15.17.12:826][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.010533s)
+[2015.03.21-15.17.12:862][263]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-15.17.12:864][263]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-15.17.12:869][263]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-15.17.12
+[2015.03.21-15.17.12:870][263]LogWorld: Bringing up level for play took: 0.004767
+[2015.03.21-15.17.12:871][263]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.17.12:871][263]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.17.12:871][263]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.17.12:871][263]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.17.12:871][263]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.17.12:871][263]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.17.12:871][263]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.17.12:871][263]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.17.12:871][263]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.17.12:884][263]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.163
+[2015.03.21-15.17.12:913][263]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.17.12:913][263]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.17.12:913][263]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.17.12:913][263]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.17.13:044][264]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.17.13:044][264]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.17.13:730][283]PIE:Warning: Warning Icantspellchamerlan_C_0.Box has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2015.03.21-15.17.14:345][311]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.17.14:345][311]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.17.14:345][311]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.17.14:345][311]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.17.14:345][311]LogBlueprintUserMessages: Hello
+[2015.03.21-15.17.14:365][312]PIE:Warning: Warning Icantspellchamerlan_C_0.Box has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2015.03.21-15.17.14:944][339]PIE:Warning: Warning Icantspellchamerlan_C_0.Box has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2015.03.21-15.17.15:556][368]PIE:Warning: Warning Icantspellchamerlan_C_0.Box has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2015.03.21-15.17.16:446][410]PIE:Warning: Warning Icantspellchamerlan_C_0.Box has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2015.03.21-15.17.17:070][439]PIE:Warning: Warning Icantspellchamerlan_C_0.Box has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2015.03.21-15.17.17:744][470]PIE:Warning: Warning Icantspellchamerlan_C_0.Box has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2015.03.21-15.17.19:911][572]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.17.19:911][572]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.17.19:911][572]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.17.19:911][572]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.17.19:911][572]LogBlueprintUserMessages: Hello
+[2015.03.21-15.17.20:145][583]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.17.20:145][583]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.17.20:145][583]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.17.20:145][583]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.17.20:145][583]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.17.20:187][585]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.17.20:187][585]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.17.20:187][585]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.17.20:188][585]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.17.20:188][585]LogBlueprintUserMessages: piss_Sprite3
+[2015.03.21-15.17.22:241][682]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.17.22:241][682]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.17.22:241][682]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.17.22:241][682]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.17.22:241][682]LogBlueprintUserMessages: piss_Sprite3
+[2015.03.21-15.17.22:607][699]PIE:Warning: Warning Icantspellchamerlan_C_0.Box has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2015.03.21-15.17.23:118][724]PIE:Warning: Warning Icantspellchamerlan_C_0.Box has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2015.03.21-15.17.23:856][760]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.17.23:856][760]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.17.23:856][760]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.17.23:856][760]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.17.25:616][846]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.17.25:616][846]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.17.25:616][846]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.17.25:616][846]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.17.25:860][858]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.17.25:860][858]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.17.25:860][858]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.17.25:860][858]LogBlueprintUserMessages: piss_Sprite3
+[2015.03.21-15.17.26:308][880]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.17.26:308][880]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.17.26:308][880]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.17.26:308][880]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.17.34:895][300]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.17.34:895][300]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.17.35:774][343]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.17.35:774][343]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.17.35:774][343]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.17.36:975][402]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.17.36:975][402]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.17.36:975][402]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.17.36:975][402]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.17.39:741][534]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D8B4A40
+[2015.03.21-15.19.27:323][130]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.21-15.19.27:348][130]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.21-15.19.27:542][130]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.21-15.19.27:605][130]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.21-15.19.27:711][130]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.21-15.19.27:781][130]LogPlayLevel: PIE:  Blueprint regeneration took 456 ms (4 blueprints)
+[2015.03.21-15.19.27:781][130]PIE: New page: PIE session: Levelone (21 Mar 2015 15:19:27)
+[2015.03.21-15.19.27:789][130]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.19.27:789][130]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.19.27:789][130]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.19.27:789][130]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.19.27:789][130]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.19.27:789][130]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.19.27:789][130]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.19.27:789][130]LogBlueprint:Warning: FMemberReference::ResolveMember (GetTransform) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.19.27:790][130]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.19.27:790][130]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.19.27:790][130]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.19.27:790][130]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.21-15.19.27:792][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009768s)
+[2015.03.21-15.19.27:792][130]LogPlayLevel: PIE: World Init took: (0.000488s)
+[2015.03.21-15.19.27:792][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.010401s)
+[2015.03.21-15.19.27:830][130]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.21-15.19.27:832][130]LogAIModule: Creating AISystem for world Levelone
+[2015.03.21-15.19.27:837][130]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.21-15.19.27
+[2015.03.21-15.19.27:838][130]LogWorld: Bringing up level for play took: 0.005945
+[2015.03.21-15.19.27:840][130]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.19.27:840][130]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.19.27:840][130]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.19.27:840][130]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.19.27:840][130]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.19.27:840][130]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.19.27:840][130]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.19.27:840][130]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.19.27:840][130]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.19.27:853][130]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.13
+[2015.03.21-15.19.27:884][130]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.19.27:884][130]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.19.27:884][130]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.19.27:884][130]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.21-15.19.28:020][131]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.19.28:020][131]LogBlueprintUserMessages: Icantspellchamerlan1
+[2015.03.21-15.19.30:169][218]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.19.30:169][218]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.19.30:169][218]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.19.30:169][218]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.19.30:169][218]LogBlueprintUserMessages: Hello
+[2015.03.21-15.19.30:976][255]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.19.30:976][255]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.19.30:976][255]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.19.30:976][255]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.19.30:976][255]LogBlueprintUserMessages: Hello
+[2015.03.21-15.19.30:996][256]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.19.30:996][256]LogBlueprintUserMessages: branch_2_Sprite
+[2015.03.21-15.19.30:996][256]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.19.30:996][256]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.19.30:996][256]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.19.31:067][259]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.19.31:068][259]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.19.31:068][259]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.19.31:068][259]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.19.31:068][259]LogBlueprintUserMessages: piss_Sprite3
+[2015.03.21-15.19.31:462][277]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.19.31:462][277]LogBlueprintUserMessages: TriggerBox2
+[2015.03.21-15.19.31:462][277]LogBlueprintUserMessages: Icantspellchamerlan
+[2015.03.21-15.19.31:462][277]LogBlueprintUserMessages: TriggerBox
+[2015.03.21-15.19.31:462][277]LogBlueprintUserMessages: piss_Sprite3
+[2015.03.21-15.19.31:616][284]LogBlueprintUserMessages: branch_1_Sprite
+[2015.03.21-15.19.31:617][284]LogScript:Warning: Cannot access 'Box'. It is pending kill. Property: 'Box'
+	Icantspellchamerlan_C /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.Icantspellchamerlan_C_0
+	Function /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan_C:ExecuteUbergraph_Icantspellchamerlan:03B6
+[2015.03.21-15.19.31:618][284]PIE:Error: Error Cannot access 'Box'. It is pending kill. Property: 'Box' from node Shot Timer EXpired in blueprint Icantspellchamerlan
+[2015.03.21-15.19.31:618][284]LogScript:Warning: Cannot access 'Box'. It is pending kill. Property: 'Box'
+	Icantspellchamerlan_C /Game/Maps/UEDPIE_0_Levelone.Levelone:PersistentLevel.Icantspellchamerlan_C_0
+	Function /Game/BluePrints/Icantspellchamerlan.Icantspellchamerlan_C:ExecuteUbergraph_Icantspellchamerlan:0169
+[2015.03.21-15.19.31:618][284]PIE:Error: Error Cannot access 'Box'. It is pending kill. Property: 'Box' from node Shot Timer EXpired in blueprint Icantspellchamerlan
+[2015.03.21-15.19.34:966][441]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000031C8E520
+[2015.03.21-15.27.19:172][228]LogSavePackage: Save=119.985855ms
+[2015.03.21-15.27.19:172][228]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Levelone_Auto2DA0B253B4E81D70D83CF309F54B469DD.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Autosaves/Game/Maps/Levelone_Auto2.umap'
+[2015.03.21-15.27.19:182][228]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levelone' took 0.220
+[2015.03.21-15.27.19:182][228]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.220
+[2015.03.21-15.27.19:215][228]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Icantspellchamerlan] ([1] browsable assets)...
+[2015.03.21-15.27.19:215][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Icantspellchamerlan]
+[2015.03.21-15.27.19:641][228]LogSavePackage: Save=373.066315ms
+[2015.03.21-15.27.19:642][228]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Icantspellchamerlan_Auto2F50F6699434DD4D9347060A6B6209C6E.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Autosaves/Game/BluePrints/Icantspellchamerlan_Auto2.uasset'
+[2015.03.21-15.27.19:652][228]LogFileHelpers: Auto-saving content packages took 0.469
+[2015.03.21-15.27.50:845][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.21-15.27.50:987][ 86]LogSavePackage: Save=119.004395ms
+[2015.03.21-15.27.50:987][ 86]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/LeveloneA32419CB442BC6FC790308A2AFEFE798.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.21-15.27.51:022][ 86]LogFileHelpers: Saving map 'Levelone' took 0.317
+[2015.03.21-15.27.51:027][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.21-15.27.51:293][ 86]LogSavePackage: Save=260.288940ms
+[2015.03.21-15.27.51:293][ 86]LogSavePackage: Moving '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Saved/Icantspellchamerlan790080224AF5C63BAE5459839EBCE60C.tmp' to '../../../../../../Users/TMoynihan/Documents/GitHub/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.21-15.27.53:536][189]Cmd: QUIT_EDITOR
+[2015.03.21-15.27.53:795][189]LogExit: Preparing to exit.
+[2015.03.21-15.27.54:730][189]LogExit: Editor shut down
+[2015.03.21-15.27.54:731][189]LogExit: Transaction tracking system shut down
+[2015.03.21-15.27.54:732][189]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000268E6E80
+[2015.03.21-15.27.54:732][189]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D76C680
+[2015.03.21-15.27.54:733][189]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000020613D80
+[2015.03.21-15.27.54:733][189]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001C6E8E00
+[2015.03.21-15.27.54:733][189]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001C63D760
+[2015.03.21-15.27.54:734][189]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001DD7E980
+[2015.03.21-15.27.54:735][189]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000129CF1A0
+[2015.03.21-15.27.54:735][189]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000012EBA840
+[2015.03.21-15.27.54:802][189]LogExit: Object subsystem successfully closed.
+[2015.03.21-15.27.54:847][189]LogModuleManager: Shutting down and abandoning module CrashTracker (177)
+[2015.03.21-15.27.54:847][189]LogModuleManager: Shutting down and abandoning module SuperSearch (176)
+[2015.03.21-15.27.54:847][189]LogModuleManager: Shutting down and abandoning module SceneOutliner (175)
+[2015.03.21-15.27.54:847][189]LogModuleManager: Shutting down and abandoning module EditorWidgets (174)
+[2015.03.21-15.27.54:847][189]LogModuleManager: Shutting down and abandoning module CollectionManager (173)
+[2015.03.21-15.27.54:847][189]LogModuleManager: Shutting down and abandoning module StatsViewer (172)
+[2015.03.21-15.27.54:847][189]LogModuleManager: Shutting down and abandoning module FoliageEdit (171)
+[2015.03.21-15.27.54:847][189]LogModuleManager: Shutting down and abandoning module LandscapeEditor (170)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module MeshPaint (169)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module ActorPickerMode (168)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module GeometryMode (167)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module TextureAlignMode (166)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module BspMode (165)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module PlacementMode (164)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module AutomationWorker (163)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module CharacterAI (162)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module SmartSnapping (161)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module ViewportSnapping (160)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module LogVisualizer (159)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (158)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module IntroTutorials (157)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (156)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module HardwareTargeting (155)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (154)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module UndoHistory (153)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (152)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module UserFeedback (151)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module XmlParser (150)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module Blutility (149)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (148)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (147)
+[2015.03.21-15.27.54:848][189]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (146)
+[2015.03.21-15.27.55:664][189]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (145)
+[2015.03.21-15.27.55:664][189]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (144)
+[2015.03.21-15.27.55:664][189]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (143)
+[2015.03.21-15.27.55:664][189]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (142)
+[2015.03.21-15.27.55:664][189]LogModuleManager: Shutting down and abandoning module InputBindingEditor (141)
+[2015.03.21-15.27.55:664][189]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (140)
+[2015.03.21-15.27.55:664][189]LogModuleManager: Shutting down and abandoning module SettingsEditor (139)
+[2015.03.21-15.27.55:664][189]LogModuleManager: Shutting down and abandoning module ProjectLauncher (138)
+[2015.03.21-15.27.55:664][189]LogModuleManager: Shutting down and abandoning module SessionFrontend (137)
+[2015.03.21-15.27.55:664][189]LogModuleManager: Shutting down and abandoning module ProfilerClient (136)
+[2015.03.21-15.27.55:664][189]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (135)
+[2015.03.21-15.27.55:664][189]LogModuleManager: Shutting down and abandoning module DeviceManager (134)
+[2015.03.21-15.27.55:665][189]LogModuleManager: Shutting down and abandoning module AutomationController (133)
+[2015.03.21-15.27.55:665][189]LogModuleManager: Shutting down and abandoning module AutomationWindow (132)
+[2015.03.21-15.27.55:665][189]LogModuleManager: Shutting down and abandoning module Layers (131)
+[2015.03.21-15.27.55:665][189]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (130)
+[2015.03.21-15.27.55:665][189]LogModuleManager: Shutting down and abandoning module DetailCustomizations (129)
+[2015.03.21-15.27.55:665][189]LogModuleManager: Shutting down and abandoning module PackagesDialog (128)
+[2015.03.21-15.27.55:665][189]LogModuleManager: Shutting down and abandoning module AssetRegistry (127)
+[2015.03.21-15.27.55:799][189]LogModuleManager: Shutting down and abandoning module Persona (126)
+[2015.03.21-15.27.55:799][189]LogModuleManager: Shutting down and abandoning module SlateReflector (125)
+[2015.03.21-15.27.55:799][189]LogModuleManager: Shutting down and abandoning module LevelEditor (124)
+[2015.03.21-15.27.55:801][189]LogModuleManager: Shutting down and abandoning module Kismet (123)
+[2015.03.21-15.27.55:801][189]LogModuleManager: Shutting down and abandoning module GraphEditor (122)
+[2015.03.21-15.27.55:801][189]LogModuleManager: Shutting down and abandoning module ClassViewer (121)
+[2015.03.21-15.27.55:801][189]LogModuleManager: Shutting down and abandoning module Toolbox (120)
+[2015.03.21-15.27.55:801][189]LogModuleManager: Shutting down and abandoning module ModuleUI (119)
+[2015.03.21-15.27.55:801][189]LogModuleManager: Shutting down and abandoning module MovieSceneTools (118)
+[2015.03.21-15.27.55:801][189]LogModuleManager: Shutting down and abandoning module OutputLog (117)
+[2015.03.21-15.27.55:801][189]LogModuleManager: Shutting down and abandoning module GammaUI (116)
+[2015.03.21-15.27.55:801][189]LogModuleManager: Shutting down and abandoning module Documentation (115)
+[2015.03.21-15.27.55:801][189]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (114)
+[2015.03.21-15.27.55:801][189]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (113)
+[2015.03.21-15.27.55:801][189]LogModuleManager: Shutting down and abandoning module HTTP (112)
+[2015.03.21-15.27.55:801][189]LogModuleManager: Shutting down and abandoning module AnalyticsET (111)
+[2015.03.21-15.27.55:801][189]LogModuleManager: Shutting down and abandoning module Analytics (110)
+[2015.03.21-15.27.55:801][189]LogModuleManager: Shutting down and abandoning module AITestSuite (109)
+[2015.03.21-15.27.55:801][189]LogModuleManager: Shutting down and abandoning module GameplayDebugger (108)
+[2015.03.21-15.27.55:801][189]LogModuleManager: Shutting down and abandoning module AIModule (107)
+[2015.03.21-15.27.55:801][189]LogModuleManager: Shutting down and abandoning module ProfilerService (106)
+[2015.03.21-15.27.56:023][189]LogModuleManager: Shutting down and abandoning module TaskGraph (105)
+[2015.03.21-15.27.56:023][189]LogModuleManager: Shutting down and abandoning module SlateRemote (104)
+[2015.03.21-15.27.56:023][189]LogModuleManager: Shutting down and abandoning module ScriptEditorPlugin (103)
+[2015.03.21-15.27.56:023][189]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (102)
+[2015.03.21-15.27.56:023][189]LogModuleManager: Shutting down and abandoning module CableComponent (101)
+[2015.03.21-15.27.56:023][189]LogModuleManager: Shutting down and abandoning module MessagingDebugger (100)
+[2015.03.21-15.27.56:023][189]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (99)
+[2015.03.21-15.27.56:024][189]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (98)
+[2015.03.21-15.27.56:024][189]LogModuleManager: Shutting down and abandoning module PluginsEditor (97)
+[2015.03.21-15.27.56:024][189]LogModuleManager: Shutting down and abandoning module MainFrame (96)
+[2015.03.21-15.27.56:024][189]LogModuleManager: Shutting down and abandoning module EpicSurvey (95)
+[2015.03.21-15.27.56:024][189]LogModuleManager: Shutting down and abandoning module DesktopPlatform (94)
+[2015.03.21-15.27.56:024][189]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (93)
+[2015.03.21-15.27.56:025][189]LogModuleManager: Shutting down and abandoning module HotReload (92)
+[2015.03.21-15.27.56:025][189]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (91)
+[2015.03.21-15.27.56:025][189]LogModuleManager: Shutting down and abandoning module UObjectPlugin (90)
+[2015.03.21-15.27.56:025][189]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (89)
+[2015.03.21-15.27.56:025][189]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (88)
+[2015.03.21-15.27.56:025][189]LogModuleManager: Shutting down and abandoning module SourceControl (87)
+[2015.03.21-15.27.56:025][189]LogModuleManager: Shutting down and abandoning module GitSourceControl (86)
+[2015.03.21-15.27.56:025][189]LogModuleManager: Shutting down and abandoning module BlankPlugin (85)
+[2015.03.21-15.27.56:025][189]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (84)
+[2015.03.21-15.27.56:025][189]LogModuleManager: Shutting down and abandoning module PaperJsonImporter (83)
+[2015.03.21-15.27.56:025][189]LogModuleManager: Shutting down and abandoning module ContentBrowser (82)
+[2015.03.21-15.27.56:027][189]LogModuleManager: Shutting down and abandoning module Paper2DEditor (81)
+[2015.03.21-15.27.56:027][189]LogModuleManager: Shutting down and abandoning module ScriptPlugin (80)
+[2015.03.21-15.27.56:027][189]LogModuleManager: Shutting down and abandoning module UdpMessaging (79)
+[2015.03.21-15.27.56:127][189]LogModuleManager: Shutting down and abandoning module Paper2D (78)
+[2015.03.21-15.27.56:127][189]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (77)
+[2015.03.21-15.27.56:133][189]LogModuleManager: Shutting down and abandoning module Media (76)
+[2015.03.21-15.27.56:133][189]LogModuleManager: Shutting down and abandoning module WmfMedia (75)
+[2015.03.21-15.27.56:134][189]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2015.03.21-15.27.56:134][189]LogModuleManager: Shutting down and abandoning module PropertyEditor (73)
+[2015.03.21-15.27.56:134][189]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (72)
+[2015.03.21-15.27.56:134][189]LogModuleManager: Shutting down and abandoning module FunctionalTesting (71)
+[2015.03.21-15.27.56:134][189]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (70)
+[2015.03.21-15.27.56:134][189]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (69)
+[2015.03.21-15.27.56:134][189]LogModuleManager: Shutting down and abandoning module MessageLog (68)
+[2015.03.21-15.27.56:135][189]LogModuleManager: Shutting down and abandoning module Sequencer (67)
+[2015.03.21-15.27.56:135][189]LogModuleManager: Shutting down and abandoning module AssetTools (66)
+[2015.03.21-15.27.56:135][189]LogModuleManager: Shutting down and abandoning module UMGEditor (65)
+[2015.03.21-15.27.56:135][189]LogModuleManager: Shutting down and abandoning module UMG (64)
+[2015.03.21-15.27.56:135][189]LogModuleManager: Shutting down and abandoning module Slate (63)
+[2015.03.21-15.27.56:135][189]LogModuleManager: Shutting down and abandoning module EditorStyle (62)
+[2015.03.21-15.27.56:147][189]LogModuleManager: Shutting down and abandoning module SessionServices (61)
+[2015.03.21-15.27.56:147][189]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (60)
+[2015.03.21-15.27.56:147][189]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (59)
+[2015.03.21-15.27.56:147][189]LogModuleManager: Shutting down and abandoning module XAudio2 (58)
+[2015.03.21-15.27.56:147][189]LogModuleManager: Shutting down and abandoning module Networking (56)
+[2015.03.21-15.27.56:147][189]LogModuleManager: Shutting down and abandoning module Core (55)
+[2015.03.21-15.27.56:147][189]LogModuleManager: Shutting down and abandoning module KismetCompiler (54)
+[2015.03.21-15.27.56:147][189]LogModuleManager: Shutting down and abandoning module PhysXFormats (53)
+[2015.03.21-15.27.56:147][189]LogModuleManager: Shutting down and abandoning module MeshUtilities (52)
+[2015.03.21-15.27.56:147][189]LogModuleManager: Shutting down and abandoning module DerivedDataCache (51)
+[2015.03.21-15.27.56:221][189]LogDerivedDataCache: Shutdown
+[2015.03.21-15.27.56:221][189]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (50)
+[2015.03.21-15.27.56:221][189]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (49)
+[2015.03.21-15.27.56:221][189]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (48)
+[2015.03.21-15.27.56:221][189]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (47)
+[2015.03.21-15.27.56:221][189]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (46)
+[2015.03.21-15.27.56:221][189]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (45)
+[2015.03.21-15.27.56:221][189]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (44)
+[2015.03.21-15.27.56:221][189]LogModuleManager: Shutting down and abandoning module ImageWrapper (43)
+[2015.03.21-15.27.56:221][189]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (42)
+[2015.03.21-15.27.56:221][189]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (41)
+[2015.03.21-15.27.56:221][189]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (40)
+[2015.03.21-15.27.56:221][189]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (39)
+[2015.03.21-15.27.56:221][189]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (38)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (37)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (36)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (35)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module Messaging (34)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (33)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (32)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (31)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (30)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (29)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module Android_ES31TargetPlatform (28)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (27)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (26)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (25)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (24)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (23)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (22)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (21)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module TargetPlatform (20)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module InputCore (19)
+[2015.03.21-15.27.56:222][189]LogModuleManager: Shutting down and abandoning module Settings (18)
+[2015.03.21-15.27.56:223][189]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (16)
+[2015.03.21-15.27.56:223][189]LogModuleManager: Shutting down and abandoning module OculusRift (15)
+[2015.03.21-15.27.56:223][189]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (14)
+[2015.03.21-15.27.56:223][189]LogModuleManager: Shutting down and abandoning module TextureCompressor (13)
+[2015.03.21-15.27.56:223][189]LogModuleManager: Shutting down and abandoning module ShaderCore (12)
+[2015.03.21-15.27.56:223][189]LogModuleManager: Shutting down and abandoning module Landscape (11)
+[2015.03.21-15.27.56:223][189]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (10)
+[2015.03.21-15.27.56:232][189]LogModuleManager: Shutting down and abandoning module OpenGLDrv (9)
+[2015.03.21-15.27.56:232][189]LogModuleManager: Shutting down and abandoning module D3D11RHI (8)
+[2015.03.21-15.27.56:232][189]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2015.03.21-15.27.56:232][189]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2015.03.21-15.27.56:232][189]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2015.03.21-15.27.56:232][189]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2015.03.21-15.27.56:232][189]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2015.03.21-15.27.56:232][189]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2015.03.21-15.27.56:232][189]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2015.03.21-15.27.56:233][189]LogExit: Exiting.
+[2015.03.21-15.27.56:276][189]Log file closed, 03/21/15 15:27:56
