@@ -13697,4 +13697,35 @@ Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en
 [2015.03.22-13.28.07:722][128]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Bird9707BA6243010EAAC14F30AAAF6BE9CA.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Bird.uasset'
 [2015.03.22-13.28.07:742][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Settings" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Settings.uasset" SILENT=true
 [2015.03.22-13.28.07:953][128]LogSavePackage: Save=183.014557ms
-[2015.03.22-13
+[2015.03.22-13.28.07:953][128]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Settings62D583F84AEB0A38E4A00CAAB4C75361.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Settings.uasset'
+[2015.03.22-13.28.07:972][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Menu.uasset" SILENT=true
+[2015.03.22-13.28.08:046][128]LogSavePackage: Save=46.924210ms
+[2015.03.22-13.28.08:046][128]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Menu88678E214BABE8F2B53C68985EFFD2BE.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Menu.uasset'
+[2015.03.22-13.28.08:064][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/widget" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/widget.uasset" SILENT=true
+[2015.03.22-13.28.08:110][128]LogSavePackage: Save=16.530645ms
+[2015.03.22-13.28.08:110][128]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/widget12D239024B2FCC74872F06B6B0F5FAEA.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/widget.uasset'
+[2015.03.22-13.28.44:185][987]Cmd: DUPLICATE
+[2015.03.22-13.28.44:185][987]Cmd: ACTOR DUPLICATE
+[2015.03.22-13.28.52:036][454]Cmd: DUPLICATE
+[2015.03.22-13.28.52:036][454]Cmd: ACTOR DUPLICATE
+[2015.03.22-13.28.54:677][606]LogEditorViewport: Clicking on Actor (LMB): Bug_C (Bug43)
+[2015.03.22-13.28.58:635][833]Cmd: TRANSACTION UNDO
+[2015.03.22-13.28.58:635][833]LogEditorTransaction: Undo Move Actors
+[2015.03.22-13.28.59:163][835]LogEditorViewport: Clicking on Actor (LMB): Bug_C (Bug44)
+[2015.03.22-13.29.03:990][105]LogEditorViewport: Clicking on Actor (LMB): Bug_C (Bug42)
+[2015.03.22-13.29.08:049][331]LogEditorViewport: Clicking on Actor (LMB): Bug_C (Bug37)
+[2015.03.22-13.29.17:865][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Bird" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Bird.uasset" SILENT=true
+[2015.03.22-13.29.18:221][802]LogSavePackage: Save=327.550232ms
+[2015.03.22-13.29.18:221][802]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/BirdDE15804A4C77A040BE05198037E68EA0.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Bird.uasset'
+[2015.03.22-13.29.18:241][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Bug" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Bug.uasset" SILENT=true
+[2015.03.22-13.29.18:367][802]LogSavePackage: Save=99.082062ms
+[2015.03.22-13.29.18:367][802]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/BugCAA78DC448AEE026FC4E829E1601846D.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Bug.uasset'
+[2015.03.22-13.29.18:386][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Menu.uasset" SILENT=true
+[2015.03.22-13.29.18:450][802]LogSavePackage: Save=42.409019ms
+[2015.03.22-13.29.18:450][802]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Menu76A7048D4529A8DB9BAA598C81163AC4.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Menu.uasset'
+[2015.03.22-13.29.18:468][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/reset_button" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/reset_button.uasset" SILENT=true
+[2015.03.22-13.29.18:561][802]LogSavePackage: Save=70.450974ms
+[2015.03.22-13.29.18:561][802]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/reset_button6CCE18A84FD7299ECD5611AA38F418DB.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/reset_button.uasset'
+[2015.03.22-13.29.18:579][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Settings" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Settings.uasset" SILENT=true
+[2015.03.22-13.29.18:790][802]LogSavePackage: Save=186.845764ms
+[2015.03.22-13.29.18:791][802]LogSavePackage: Moving '../../../../../..
