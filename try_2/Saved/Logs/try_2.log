@@ -1434,4 +1434,1144 @@ Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en
 [2015.03.22-11.45.24:511][900]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
 [2015.03.22-11.45.24:516][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030392s)
 [2015.03.22-11.45.24:516][900]LogPlayLevel: PIE: World Init took: (0.000525s)
-[2015.03.22-11.45.24:516][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level
+[2015.03.22-11.45.24:516][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.031105s)
+[2015.03.22-11.45.24:554][900]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-11.45.24:556][900]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-11.45.24:585][900]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-11.45.24
+[2015.03.22-11.45.24:594][900]LogWorld: Bringing up level for play took: 0.036767
+[2015.03.22-11.45.24:610][900]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.701
+[2015.03.22-11.45.24:648][900]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.45.24:648][900]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.45.24:648][900]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.45.24:648][900]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.45.25:406][929]LogBlueprintUserMessages: 1
+[2015.03.22-11.45.27:473][ 53]LogBlueprintUserMessages: 1
+[2015.03.22-11.45.30:539][231]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CE3BC1080
+[2015.03.22-11.45.37:766][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.22-11.45.38:212][639]LogSavePackage: Save=405.357391ms
+[2015.03.22-11.45.38:212][639]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone6992E4A9423A7D8DFA95079747B73ED3.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.22-11.45.38:272][639]LogFileHelpers: Saving map 'Levelone' took 0.706
+[2015.03.22-11.45.38:278][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.22-11.45.38:905][639]LogSavePackage: Save=612.699646ms
+[2015.03.22-11.45.38:905][639]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/IcantspellchamerlanF46FFF70472A37293D2761AA7364AB09.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.22-11.45.46:506][749]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-11.45.46:548][749]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-11.45.46:989][749]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-11.45.47:103][749]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-11.45.47:237][749]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-11.45.47:430][749]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-11.45.47:540][749]LogPlayLevel: PIE:  Blueprint regeneration took 1034 ms (5 blueprints)
+[2015.03.22-11.45.47:541][749]PIE: New page: PIE session: Levelone (22 Mar 2015 11:45:47)
+[2015.03.22-11.45.47:559][749]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.47:559][749]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.47:560][749]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.47:560][749]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.47:560][749]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.47:560][749]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.47:561][749]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.47:561][749]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.47:561][749]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.47:561][749]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.47:561][749]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.47:561][749]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.47:561][749]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.47:561][749]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.47:561][749]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.47:561][749]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.47:562][749]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.47:562][749]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.47:566][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025132s)
+[2015.03.22-11.45.47:567][749]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2015.03.22-11.45.47:567][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.025960s)
+[2015.03.22-11.45.47:607][749]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-11.45.47:609][749]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-11.45.47:640][749]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-11.45.47
+[2015.03.22-11.45.47:647][749]LogWorld: Bringing up level for play took: 0.037246
+[2015.03.22-11.45.47:664][749]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.756
+[2015.03.22-11.45.47:707][749]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.45.47:707][749]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.45.47:707][749]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.45.47:707][749]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.45.48:416][776]LogBlueprintUserMessages: 1
+[2015.03.22-11.45.50:103][871]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CF2205DA0
+[2015.03.22-11.45.54:583][132]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-11.45.54:623][132]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-11.45.55:024][132]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-11.45.55:127][132]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-11.45.55:250][132]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-11.45.55:427][132]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-11.45.55:520][132]LogPlayLevel: PIE:  Blueprint regeneration took 936 ms (5 blueprints)
+[2015.03.22-11.45.55:520][132]PIE: New page: PIE session: Levelone (22 Mar 2015 11:45:55)
+[2015.03.22-11.45.55:536][132]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.55:536][132]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.55:537][132]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.55:537][132]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.55:537][132]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.55:537][132]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.55:538][132]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.55:538][132]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.55:538][132]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.55:538][132]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.55:538][132]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.55:538][132]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.55:538][132]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.55:538][132]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.55:538][132]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.55:538][132]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.55:539][132]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.55:539][132]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.45.55:543][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023133s)
+[2015.03.22-11.45.55:544][132]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2015.03.22-11.45.55:544][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.023837s)
+[2015.03.22-11.45.55:583][132]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-11.45.55:586][132]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-11.45.55:614][132]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-11.45.55
+[2015.03.22-11.45.55:621][132]LogWorld: Bringing up level for play took: 0.034682
+[2015.03.22-11.45.55:635][132]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.726
+[2015.03.22-11.45.55:676][132]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.45.55:676][132]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.45.55:676][132]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.45.55:676][132]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.45.56:058][139]LogBlueprintUserMessages: 1
+[2015.03.22-11.45.57:747][234]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CECA00D60
+[2015.03.22-11.46.01:000][422]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-11.46.01:040][422]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-11.46.01:428][422]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-11.46.01:531][422]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-11.46.01:657][422]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-11.46.01:865][422]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-11.46.01:984][422]LogPlayLevel: PIE:  Blueprint regeneration took 985 ms (5 blueprints)
+[2015.03.22-11.46.01:985][422]PIE: New page: PIE session: Levelone (22 Mar 2015 11:46:01)
+[2015.03.22-11.46.02:002][422]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.02:002][422]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.02:003][422]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.02:003][422]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.02:003][422]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.02:003][422]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.02:004][422]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.02:004][422]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.02:004][422]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.02:004][422]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.02:004][422]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.02:004][422]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.02:004][422]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.02:004][422]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.02:004][422]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.02:004][422]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.02:005][422]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.02:005][422]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.02:009][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023878s)
+[2015.03.22-11.46.02:010][422]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2015.03.22-11.46.02:010][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.024596s)
+[2015.03.22-11.46.02:049][422]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-11.46.02:052][422]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-11.46.02:080][422]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-11.46.02
+[2015.03.22-11.46.02:088][422]LogWorld: Bringing up level for play took: 0.035716
+[2015.03.22-11.46.02:102][422]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.193
+[2015.03.22-11.46.02:139][422]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.46.02:139][422]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.46.02:139][422]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.46.02:139][422]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.46.02:734][442]LogBlueprintUserMessages: 1
+[2015.03.22-11.46.04:181][523]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CF65BF4C0
+[2015.03.22-11.46.05:898][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.22-11.46.06:298][602]LogSavePackage: Save=357.160065ms
+[2015.03.22-11.46.06:298][602]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone4A2BD7C3427CBBBF7ABB81B8503F395A.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.22-11.46.06:351][602]LogFileHelpers: Saving map 'Levelone' took 0.647
+[2015.03.22-11.46.06:358][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.22-11.46.06:981][602]LogSavePackage: Save=608.311340ms
+[2015.03.22-11.46.06:981][602]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Icantspellchamerlan46652CA044CC0C5FC3C669BC310B7892.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.22-11.46.32:535][ 84]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-11.46.32:577][ 84]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-11.46.32:981][ 84]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-11.46.33:095][ 84]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-11.46.33:221][ 84]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-11.46.33:404][ 84]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-11.46.33:500][ 84]LogPlayLevel: PIE:  Blueprint regeneration took 966 ms (5 blueprints)
+[2015.03.22-11.46.33:501][ 84]PIE: New page: PIE session: Levelone (22 Mar 2015 11:46:33)
+[2015.03.22-11.46.33:519][ 84]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.33:519][ 84]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.33:520][ 84]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.33:520][ 84]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.33:520][ 84]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.33:520][ 84]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.33:520][ 84]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.33:520][ 84]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.33:521][ 84]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.33:521][ 84]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.33:521][ 84]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.33:521][ 84]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.33:521][ 84]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.33:521][ 84]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.33:521][ 84]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.33:521][ 84]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.33:521][ 84]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.33:521][ 84]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.46.33:526][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024432s)
+[2015.03.22-11.46.33:526][ 84]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2015.03.22-11.46.33:526][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.025226s)
+[2015.03.22-11.46.33:565][ 84]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-11.46.33:567][ 84]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-11.46.33:595][ 84]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-11.46.33
+[2015.03.22-11.46.33:603][ 84]LogWorld: Bringing up level for play took: 0.035239
+[2015.03.22-11.46.33:622][ 84]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.713
+[2015.03.22-11.46.33:661][ 84]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.46.33:661][ 84]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.46.33:661][ 84]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.46.33:661][ 84]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.46.34:405][112]LogBlueprintUserMessages: 1
+[2015.03.22-11.46.36:497][237]LogBlueprintUserMessages: 1
+[2015.03.22-11.46.39:508][417]LogBlueprintUserMessages: 2
+[2015.03.22-11.46.39:908][441]LogBlueprintUserMessages: Player found
+[2015.03.22-11.46.41:185][517]LogBlueprintUserMessages: Hello
+[2015.03.22-11.46.42:121][567]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CF65BE520
+[2015.03.22-11.47.10:510][140]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-11.47.10:551][140]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-11.47.10:953][140]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-11.47.11:060][140]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-11.47.11:185][140]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-11.47.11:368][140]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-11.47.11:471][140]LogPlayLevel: PIE:  Blueprint regeneration took 960 ms (5 blueprints)
+[2015.03.22-11.47.11:471][140]PIE: New page: PIE session: Levelone (22 Mar 2015 11:47:11)
+[2015.03.22-11.47.11:488][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.11:488][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.11:488][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.11:488][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.11:489][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.11:489][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.11:489][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.11:489][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.11:489][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.11:489][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.11:489][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.11:489][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.11:490][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.11:490][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.11:490][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.11:490][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.11:490][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.11:490][140]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.11:494][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022806s)
+[2015.03.22-11.47.11:495][140]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2015.03.22-11.47.11:495][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.023635s)
+[2015.03.22-11.47.11:533][140]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-11.47.11:536][140]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-11.47.11:564][140]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-11.47.11
+[2015.03.22-11.47.11:571][140]LogWorld: Bringing up level for play took: 0.034883
+[2015.03.22-11.47.11:590][140]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.682
+[2015.03.22-11.47.11:633][140]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.47.11:633][140]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.47.11:633][140]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.47.11:633][140]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.47.12:236][155]LogBlueprintUserMessages: 1
+[2015.03.22-11.47.14:493][270]LogBlueprintUserMessages: 1
+[2015.03.22-11.47.16:832][388]LogBlueprintUserMessages: Hello
+[2015.03.22-11.47.17:223][408]LogBlueprintUserMessages: Hello
+[2015.03.22-11.47.17:501][422]LogBlueprintUserMessages: 2
+[2015.03.22-11.47.18:437][464]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CD2E4C860
+[2015.03.22-11.47.29:729][ 99]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-11.47.29:772][ 99]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-11.47.30:162][ 99]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-11.47.30:264][ 99]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-11.47.30:387][ 99]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-11.47.30:572][ 99]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-11.47.30:674][ 99]LogPlayLevel: PIE:  Blueprint regeneration took 945 ms (5 blueprints)
+[2015.03.22-11.47.30:674][ 99]PIE: New page: PIE session: Levelone (22 Mar 2015 11:47:30)
+[2015.03.22-11.47.30:692][ 99]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.30:692][ 99]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.30:692][ 99]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.30:692][ 99]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.30:693][ 99]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.30:693][ 99]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.30:693][ 99]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.30:693][ 99]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.30:693][ 99]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.30:693][ 99]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.30:693][ 99]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.30:693][ 99]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.30:694][ 99]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.30:694][ 99]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.30:694][ 99]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.30:694][ 99]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.30:694][ 99]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.30:694][ 99]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.47.30:698][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023441s)
+[2015.03.22-11.47.30:699][ 99]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2015.03.22-11.47.30:699][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.024180s)
+[2015.03.22-11.47.30:735][ 99]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-11.47.30:737][ 99]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-11.47.30:766][ 99]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-11.47.30
+[2015.03.22-11.47.30:773][ 99]LogWorld: Bringing up level for play took: 0.035092
+[2015.03.22-11.47.30:788][ 99]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.879
+[2015.03.22-11.47.30:826][ 99]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.47.30:827][ 99]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.47.30:827][ 99]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.47.30:827][ 99]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.47.33:651][253]LogBlueprintUserMessages: 1
+[2015.03.22-11.47.33:912][263]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CD24245E0
+[2015.03.22-11.48.20:468][879]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.48.20:468][879]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.48.20:468][879]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.48.20:468][879]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.48.43:894][914]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.48.43:894][914]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.48.43:894][914]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.48.43:894][914]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.49.05:624][180]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-11.49.05:665][180]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-11.49.06:079][180]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-11.49.06:186][180]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-11.49.06:316][180]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-11.49.06:534][180]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-11.49.06:661][180]LogPlayLevel: PIE:  Blueprint regeneration took 1036 ms (5 blueprints)
+[2015.03.22-11.49.06:661][180]PIE: New page: PIE session: Levelone (22 Mar 2015 11:49:06)
+[2015.03.22-11.49.06:679][180]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.49.06:679][180]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.49.06:680][180]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.49.06:680][180]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.49.06:680][180]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.49.06:680][180]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.49.06:681][180]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.49.06:681][180]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.49.06:681][180]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.49.06:681][180]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.49.06:681][180]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.49.06:681][180]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.49.06:681][180]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.49.06:682][180]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.49.06:682][180]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.49.06:682][180]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.49.06:682][180]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.49.06:682][180]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.49.06:686][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025030s)
+[2015.03.22-11.49.06:687][180]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2015.03.22-11.49.06:687][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.025889s)
+[2015.03.22-11.49.06:729][180]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-11.49.06:732][180]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-11.49.06:761][180]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-11.49.06
+[2015.03.22-11.49.06:773][180]LogWorld: Bringing up level for play took: 0.040588
+[2015.03.22-11.49.06:794][180]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.885
+[2015.03.22-11.49.06:839][180]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.49.06:839][180]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.49.06:839][180]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.49.06:840][180]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.49.07:493][201]LogBlueprintUserMessages: 1
+[2015.03.22-11.49.09:695][324]LogBlueprintUserMessages: 1
+[2015.03.22-11.49.10:901][390]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CEF5FDEE0
+[2015.03.22-11.49.12:544][484]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.49.12:544][484]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.49.12:544][484]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.49.12:544][484]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.49.43:683][291]LogEditorTransaction: Undo Modify Component(s)
+[2015.03.22-11.50.05:845][539]LogEditorTransaction: Undo Modify Component(s)
+[2015.03.22-11.50.48:185][911]LogEditorTransaction: Undo Set Vector Property
+[2015.03.22-11.50.48:846][920]Cmd: TRANSACTION UNDO
+[2015.03.22-11.50.48:846][920]LogEditorTransaction: Undo Set Vector Property
+[2015.03.22-11.50.50:510][  9]Cmd: TRANSACTION UNDO
+[2015.03.22-11.50.50:510][  9]LogEditorTransaction: Undo Set Vector Property
+[2015.03.22-11.50.51:684][ 69]Cmd: TRANSACTION UNDO
+[2015.03.22-11.50.51:684][ 69]LogEditorTransaction: Undo Edit Properties
+[2015.03.22-11.51.50:107][493]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-11.51.50:120][493]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-11.51.50:553][493]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-11.51.50:687][493]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-11.51.50:842][493]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-11.51.51:056][493]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-11.51.51:319][493]LogPlayLevel: PIE:  Blueprint regeneration took 1212 ms (5 blueprints)
+[2015.03.22-11.51.51:319][493]PIE: New page: PIE session: Levelone (22 Mar 2015 11:51:51)
+[2015.03.22-11.51.51:337][493]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.51.51:337][493]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.51.51:338][493]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.51.51:338][493]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.51.51:338][493]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.51.51:338][493]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.51.51:339][493]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.51.51:339][493]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.51.51:339][493]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.51.51:339][493]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.51.51:339][493]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.51.51:339][493]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.51.51:339][493]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.51.51:339][493]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.51.51:339][493]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.51.51:339][493]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.51.51:340][493]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.51.51:340][493]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.51.51:344][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023784s)
+[2015.03.22-11.51.51:344][493]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2015.03.22-11.51.51:345][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.024624s)
+[2015.03.22-11.51.51:380][493]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-11.51.51:383][493]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-11.51.51:430][493]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-11.51.51
+[2015.03.22-11.51.51:438][493]LogWorld: Bringing up level for play took: 0.054465
+[2015.03.22-11.51.51:441][493]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.532
+[2015.03.22-11.51.51:988][524]LogBlueprintUserMessages: 1
+[2015.03.22-11.51.54:055][648]LogBlueprintUserMessages: 1
+[2015.03.22-11.51.57:007][825]LogBlueprintUserMessages: Player found
+[2015.03.22-11.51.57:056][828]LogBlueprintUserMessages: 2
+[2015.03.22-11.51.57:857][876]LogBlueprintUserMessages: 3
+[2015.03.22-11.51.58:089][890]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:106][891]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:122][892]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:139][893]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:156][894]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:173][895]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:189][896]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:205][897]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:223][898]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:239][899]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:255][900]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:272][901]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:289][902]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:305][903]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:322][904]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:339][905]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:355][906]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:372][907]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:389][908]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:405][909]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:422][910]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:440][911]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:456][912]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:473][913]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:490][914]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:506][915]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:523][916]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:539][917]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:556][918]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:573][919]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:589][920]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:606][921]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:623][922]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:639][923]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:656][924]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:673][925]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:690][926]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:706][927]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:723][928]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:739][929]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:756][930]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:772][931]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:789][932]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:806][933]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:822][934]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:839][935]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:856][936]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:872][937]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:889][938]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:906][939]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:922][940]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:939][941]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:956][942]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:972][943]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.58:989][944]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.59:005][945]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.59:022][946]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.59:039][947]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.59:056][948]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.59:073][949]LogBlueprintUserMessages: Play died
+[2015.03.22-11.51.59:178][950]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C82CF8D60
+[2015.03.22-11.52.00:514][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.22-11.52.00:915][ 10]LogSavePackage: Save=354.545715ms
+[2015.03.22-11.52.00:915][ 10]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/LeveloneCFBC1CD3444E5566C5B4EBB746A1CC3A.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.22-11.52.00:967][ 10]LogFileHelpers: Saving map 'Levelone' took 0.649
+[2015.03.22-11.52.00:975][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.22-11.52.01:620][ 10]LogSavePackage: Save=620.925781ms
+[2015.03.22-11.52.01:620][ 10]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/IcantspellchamerlanAB1A9DAB4D33C11BDCF84AAEC1AFD6C0.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.22-11.52.21:033][673]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (hollow_log_Sprite)
+[2015.03.22-11.52.21:516][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2015.03.22-11.52.22:236][737]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (plainstile_Sprite17)
+[2015.03.22-11.53.23:842][284]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sounds'
+[2015.03.22-11.53.24:173][301]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/sprites'
+[2015.03.22-11.53.39:479][198]LogEditorTransaction: Undo Modify Component(s)
+[2015.03.22-11.54.15:646][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.22-11.54.16:274][ 78]LogSavePackage: Save=611.348145ms
+[2015.03.22-11.54.16:274][ 78]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Icantspellchamerlan11A0C87E4B73FCF55CD7249478A31A61.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.22-11.55.06:735][722]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.06:735][722]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.06:735][722]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.06:735][722]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.14:852][170]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.14:852][170]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.14:852][170]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.14:852][170]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.20:996][524]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.20:996][524]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.20:996][524]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.20:996][524]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.33:728][172]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.33:728][172]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.33:728][172]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.33:728][172]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.40:079][530]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-11.55.40:125][530]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-11.55.40:530][530]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-11.55.40:639][530]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-11.55.40:766][530]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-11.55.40:955][530]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-11.55.41:070][530]LogPlayLevel: PIE:  Blueprint regeneration took 990 ms (5 blueprints)
+[2015.03.22-11.55.41:070][530]PIE: New page: PIE session: Levelone (22 Mar 2015 11:55:41)
+[2015.03.22-11.55.41:088][530]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.55.41:088][530]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.55.41:089][530]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.55.41:089][530]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.55.41:089][530]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.55.41:089][530]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.55.41:089][530]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.55.41:089][530]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.55.41:090][530]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.55.41:090][530]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.55.41:090][530]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.55.41:090][530]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.55.41:090][530]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.55.41:090][530]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.55.41:090][530]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.55.41:090][530]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.55.41:090][530]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.55.41:090][530]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.55.41:095][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024434s)
+[2015.03.22-11.55.41:095][530]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2015.03.22-11.55.41:095][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.025245s)
+[2015.03.22-11.55.41:135][530]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-11.55.41:137][530]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-11.55.41:165][530]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-11.55.41
+[2015.03.22-11.55.41:172][530]LogWorld: Bringing up level for play took: 0.034787
+[2015.03.22-11.55.41:175][530]LogBlueprintUserMessages: 1
+[2015.03.22-11.55.41:184][530]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.276
+[2015.03.22-11.55.41:207][530]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.41:207][530]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.41:207][530]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.41:207][530]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.55.44:025][684]LogBlueprintUserMessages: 1
+[2015.03.22-11.55.46:225][816]LogBlueprintUserMessages: Player found
+[2015.03.22-11.55.47:025][864]LogBlueprintUserMessages: 2
+[2015.03.22-11.55.47:674][903]LogBlueprintUserMessages: Play died
+[2015.03.22-11.55.47:690][904]LogBlueprintUserMessages: Play died
+[2015.03.22-11.55.50:025][ 44]LogBlueprintUserMessages: 3
+[2015.03.22-11.55.53:025][224]LogBlueprintUserMessages: 4
+[2015.03.22-11.55.56:073][401]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C82DBB4C0
+[2015.03.22-11.56.00:489][662]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-11.56.00:531][662]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-11.56.00:939][662]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-11.56.01:046][662]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-11.56.01:173][662]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-11.56.01:362][662]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-11.56.01:471][662]LogPlayLevel: PIE:  Blueprint regeneration took 982 ms (5 blueprints)
+[2015.03.22-11.56.01:471][662]PIE: New page: PIE session: Levelone (22 Mar 2015 11:56:01)
+[2015.03.22-11.56.01:488][662]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.56.01:488][662]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.56.01:489][662]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.56.01:489][662]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.56.01:489][662]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.56.01:489][662]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.56.01:489][662]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.56.01:489][662]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.56.01:489][662]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.56.01:489][662]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.56.01:490][662]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.56.01:490][662]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.56.01:490][662]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.56.01:490][662]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.56.01:490][662]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.56.01:490][662]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.56.01:490][662]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.56.01:490][662]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.56.01:494][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023331s)
+[2015.03.22-11.56.01:495][662]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2015.03.22-11.56.01:495][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.024058s)
+[2015.03.22-11.56.01:533][662]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-11.56.01:535][662]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-11.56.01:563][662]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-11.56.01
+[2015.03.22-11.56.01:570][662]LogWorld: Bringing up level for play took: 0.034275
+[2015.03.22-11.56.01:583][662]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.674
+[2015.03.22-11.56.02:248][694]LogBlueprintUserMessages: 1
+[2015.03.22-11.56.04:248][814]LogBlueprintUserMessages: 1
+[2015.03.22-11.56.04:248][814]LogBlueprintUserMessages: 1
+[2015.03.22-11.56.05:916][914]LogBlueprintUserMessages: Player found
+[2015.03.22-11.56.05:916][914]LogBlueprintUserMessages: Player found
+[2015.03.22-11.56.05:916][914]LogBlueprintUserMessages: Player found
+[2015.03.22-11.56.07:248][994]LogBlueprintUserMessages: 2
+[2015.03.22-11.56.08:548][ 72]LogBlueprintUserMessages: Play died
+[2015.03.22-11.56.10:249][174]LogBlueprintUserMessages: 3
+[2015.03.22-11.56.13:248][354]LogBlueprintUserMessages: 4
+[2015.03.22-11.56.13:713][376]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C8130BB00
+[2015.03.22-11.56.18:559][657]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/UI'
+[2015.03.22-11.57.54:318][644]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-11.57.54:332][644]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-11.57.54:751][644]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-11.57.54:862][644]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-11.57.54:945][644]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-11.57.55:073][644]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-11.57.55:292][644]LogPlayLevel: PIE:  Blueprint regeneration took 974 ms (5 blueprints)
+[2015.03.22-11.57.55:292][644]PIE: New page: PIE session: Levelone (22 Mar 2015 11:57:55)
+[2015.03.22-11.57.55:310][644]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.57.55:310][644]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.57.55:311][644]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.57.55:311][644]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.57.55:311][644]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.57.55:311][644]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.57.55:311][644]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.57.55:311][644]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.57.55:312][644]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.57.55:312][644]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.57.55:312][644]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.57.55:312][644]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.57.55:312][644]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.57.55:312][644]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.57.55:312][644]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.57.55:312][644]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.57.55:312][644]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.57.55:312][644]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.57.55:319][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026598s)
+[2015.03.22-11.57.55:320][644]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2015.03.22-11.57.55:320][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.027633s)
+[2015.03.22-11.57.55:360][644]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-11.57.55:362][644]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-11.57.55:390][644]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-11.57.55
+[2015.03.22-11.57.55:397][644]LogWorld: Bringing up level for play took: 0.033258
+[2015.03.22-11.57.55:407][644]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.498
+[2015.03.22-11.57.56:391][691]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CD2A1FE20
+[2015.03.22-11.58.03:250][ 91]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.58.03:250][ 91]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.58.03:250][ 91]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.58.03:250][ 91]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.58.06:819][278]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-11.58.06:863][278]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-11.58.07:264][278]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-11.58.07:372][278]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-11.58.07:500][278]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-11.58.07:689][278]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-11.58.07:801][278]LogPlayLevel: PIE:  Blueprint regeneration took 982 ms (5 blueprints)
+[2015.03.22-11.58.07:801][278]PIE: New page: PIE session: Levelone (22 Mar 2015 11:58:07)
+[2015.03.22-11.58.07:818][278]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.58.07:818][278]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.58.07:819][278]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.58.07:819][278]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.58.07:819][278]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.58.07:819][278]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.58.07:820][278]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.58.07:820][278]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.58.07:820][278]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.58.07:820][278]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.58.07:820][278]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.58.07:820][278]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.58.07:820][278]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.58.07:820][278]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.58.07:820][278]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.58.07:821][278]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.58.07:821][278]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.58.07:821][278]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.58.07:825][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023167s)
+[2015.03.22-11.58.07:826][278]LogPlayLevel: PIE: World Init took: (0.000597s)
+[2015.03.22-11.58.07:826][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.023987s)
+[2015.03.22-11.58.07:869][278]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-11.58.07:871][278]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-11.58.07:899][278]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-11.58.07
+[2015.03.22-11.58.07:906][278]LogWorld: Bringing up level for play took: 0.034712
+[2015.03.22-11.58.07:928][278]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.019
+[2015.03.22-11.58.07:952][278]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.58.07:952][278]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.58.07:952][278]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.58.07:952][278]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-11.58.08:820][313]LogBlueprintUserMessages: 1
+[2015.03.22-11.58.10:795][431]LogBlueprintUserMessages: 1
+[2015.03.22-11.58.12:574][537]LogBlueprintUserMessages: Hello
+[2015.03.22-11.58.13:807][611]LogBlueprintUserMessages: 2
+[2015.03.22-11.58.14:858][674]LogBlueprintUserMessages: Player found
+[2015.03.22-11.58.16:308][761]LogBlueprintUserMessages: Play died
+[2015.03.22-11.58.16:325][762]LogBlueprintUserMessages: Play died
+[2015.03.22-11.58.16:811][791]LogBlueprintUserMessages: 3
+[2015.03.22-11.58.19:814][970]LogBlueprintUserMessages: 4
+[2015.03.22-11.58.22:815][150]LogBlueprintUserMessages: 5
+[2015.03.22-11.58.25:815][330]LogBlueprintUserMessages: 6
+[2015.03.22-11.58.28:828][510]LogBlueprintUserMessages: 7
+[2015.03.22-11.58.30:174][584]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C8AB311C0
+[2015.03.22-11.59.08:404][656]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-11.59.08:418][656]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-11.59.08:827][656]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-11.59.08:940][656]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-11.59.09:069][656]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-11.59.09:257][656]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-11.59.09:372][656]LogPlayLevel: PIE:  Blueprint regeneration took 967 ms (5 blueprints)
+[2015.03.22-11.59.09:372][656]PIE: New page: PIE session: Levelone (22 Mar 2015 11:59:09)
+[2015.03.22-11.59.09:390][656]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.09:390][656]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.09:391][656]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.09:391][656]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.09:391][656]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.09:391][656]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.09:391][656]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.09:391][656]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.09:392][656]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.09:392][656]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.09:392][656]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.09:392][656]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.09:392][656]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.09:392][656]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.09:392][656]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.09:392][656]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.09:393][656]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.09:393][656]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.09:397][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024342s)
+[2015.03.22-11.59.09:397][656]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2015.03.22-11.59.09:398][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.025165s)
+[2015.03.22-11.59.09:439][656]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-11.59.09:441][656]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-11.59.09:469][656]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-11.59.09
+[2015.03.22-11.59.09:476][656]LogWorld: Bringing up level for play took: 0.033782
+[2015.03.22-11.59.09:478][656]LogBlueprintUserMessages: 1
+[2015.03.22-11.59.09:490][656]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.58
+[2015.03.22-11.59.10:719][723]LogBlueprintUserMessages: Hello
+[2015.03.22-11.59.12:152][809]LogBlueprintUserMessages: 1
+[2015.03.22-11.59.13:852][911]LogBlueprintUserMessages: Player found
+[2015.03.22-11.59.14:385][943]LogBlueprintUserMessages: 2
+[2015.03.22-11.59.15:153][989]LogBlueprintUserMessages: 2
+[2015.03.22-11.59.15:302][998]LogBlueprintUserMessages: Play died
+[2015.03.22-11.59.15:319][999]LogBlueprintUserMessages: Play died
+[2015.03.22-11.59.18:153][169]LogBlueprintUserMessages: 3
+[2015.03.22-11.59.19:172][224]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C871B4540
+[2015.03.22-11.59.23:459][466]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-11.59.23:472][466]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-11.59.23:890][466]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-11.59.24:005][466]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-11.59.24:134][466]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-11.59.24:324][466]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-11.59.24:445][466]LogPlayLevel: PIE:  Blueprint regeneration took 986 ms (5 blueprints)
+[2015.03.22-11.59.24:445][466]PIE: New page: PIE session: Levelone (22 Mar 2015 11:59:24)
+[2015.03.22-11.59.24:462][466]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.24:462][466]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.24:463][466]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.24:463][466]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.24:463][466]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.24:463][466]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.24:463][466]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.24:463][466]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.24:464][466]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.24:464][466]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.24:464][466]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.24:464][466]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.24:464][466]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.24:464][466]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.24:464][466]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.24:464][466]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.24:464][466]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.24:464][466]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-11.59.24:469][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023160s)
+[2015.03.22-11.59.24:469][466]LogPlayLevel: PIE: World Init took: (0.000509s)
+[2015.03.22-11.59.24:469][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.023858s)
+[2015.03.22-11.59.24:508][466]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-11.59.24:510][466]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-11.59.24:538][466]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-11.59.24
+[2015.03.22-11.59.24:545][466]LogWorld: Bringing up level for play took: 0.034063
+[2015.03.22-11.59.24:561][466]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.653
+[2015.03.22-11.59.27:203][618]LogBlueprintUserMessages: 1
+[2015.03.22-11.59.27:220][619]LogBlueprintUserMessages: 1
+[2015.03.22-11.59.28:387][689]LogBlueprintUserMessages: 2
+[2015.03.22-11.59.29:271][742]LogBlueprintUserMessages: Player found
+[2015.03.22-11.59.30:220][799]LogBlueprintUserMessages: 2
+[2015.03.22-11.59.31:820][895]LogBlueprintUserMessages: Play died
+[2015.03.22-11.59.31:837][896]LogBlueprintUserMessages: Play died
+[2015.03.22-11.59.33:220][979]LogBlueprintUserMessages: 3
+[2015.03.22-11.59.36:221][159]LogBlueprintUserMessages: 4
+[2015.03.22-11.59.39:224][333]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CF89980E0
+[2015.03.22-11.59.42:340][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.22-11.59.42:743][500]LogSavePackage: Save=356.413696ms
+[2015.03.22-11.59.42:743][500]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/LeveloneCF2ECD0E4030B952544F0FBFF259D049.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.22-11.59.42:794][500]LogFileHelpers: Saving map 'Levelone' took 0.657
+[2015.03.22-11.59.42:801][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.22-11.59.43:504][500]LogSavePackage: Save=680.575317ms
+[2015.03.22-11.59.43:504][500]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/IcantspellchamerlanD6D990E64620D0709E7FA685295CFBB1.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.22-11.59.43:522][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/HUD.uasset" SILENT=true
+[2015.03.22-11.59.43:598][500]LogSavePackage: Save=52.578663ms
+[2015.03.22-11.59.43:598][500]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/HUDD4888BF7467D16E8B2F566922E577981.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/HUD.uasset'
+[2015.03.22-11.59.59:313][347]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/UI'
+[2015.03.22-12.01.58:321][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/reset_button" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/reset_button.uasset" SILENT=true
+[2015.03.22-12.01.58:337][469]LogSavePackage: Save=11.505559ms
+[2015.03.22-12.01.58:337][469]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/reset_buttonB0E890604F5FC13DB3A9CA84CB79980C.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/reset_button.uasset'
+[2015.03.22-12.02.06:435][932]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.02.06:449][932]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.02.06:869][932]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.02.06:976][932]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.02.07:100][932]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.02.07:283][932]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.02.07:395][932]LogPlayLevel: PIE:  Blueprint regeneration took 960 ms (5 blueprints)
+[2015.03.22-12.02.07:395][932]PIE: New page: PIE session: Levelone (22 Mar 2015 12:02:07)
+[2015.03.22-12.02.07:412][932]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.07:412][932]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.07:412][932]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.07:413][932]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.07:413][932]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.07:413][932]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.07:413][932]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.07:413][932]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.07:413][932]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.07:413][932]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.07:414][932]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.07:414][932]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.07:414][932]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.07:414][932]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.07:414][932]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.07:414][932]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.07:414][932]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.07:414][932]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.07:418][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022665s)
+[2015.03.22-12.02.07:419][932]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2015.03.22-12.02.07:419][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.023492s)
+[2015.03.22-12.02.07:459][932]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.02.07:461][932]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.02.07:488][932]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.02.07
+[2015.03.22-12.02.07:495][932]LogWorld: Bringing up level for play took: 0.033575
+[2015.03.22-12.02.07:499][932]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.59
+[2015.03.22-12.02.08:051][963]LogBlueprintUserMessages: 1
+[2015.03.22-12.02.09:194][ 27]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C8ABDDBC0
+[2015.03.22-12.02.19:059][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.22-12.02.19:474][580]LogSavePackage: Save=371.707367ms
+[2015.03.22-12.02.19:474][580]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone7FA492E5468D88FBEFD7189B7254B2A6.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.22-12.02.19:528][580]LogFileHelpers: Saving map 'Levelone' took 0.675
+[2015.03.22-12.02.19:536][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.22-12.02.20:262][580]LogSavePackage: Save=709.299561ms
+[2015.03.22-12.02.20:262][580]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/IcantspellchamerlanEE2DFB57470C016FB15AA19874233FB4.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.22-12.02.22:176][693]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.02.22:176][693]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.02.22:176][693]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.02.22:176][693]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.02.54:626][486]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.02.54:672][486]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.02.55:081][486]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.02.55:189][486]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.02.55:319][486]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.02.55:509][486]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.02.55:623][486]LogPlayLevel: PIE:  Blueprint regeneration took 996 ms (5 blueprints)
+[2015.03.22-12.02.55:623][486]PIE: New page: PIE session: Levelone (22 Mar 2015 12:02:55)
+[2015.03.22-12.02.55:640][486]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.55:640][486]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.55:640][486]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.55:640][486]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.55:641][486]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.55:641][486]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.55:641][486]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.55:641][486]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.55:641][486]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.55:641][486]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.55:642][486]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.55:642][486]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.55:642][486]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.55:642][486]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.55:642][486]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.55:642][486]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.55:642][486]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.55:642][486]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.02.55:646][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023095s)
+[2015.03.22-12.02.55:647][486]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2015.03.22-12.02.55:647][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.023847s)
+[2015.03.22-12.02.55:685][486]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.02.55:687][486]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.02.55:715][486]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.02.55
+[2015.03.22-12.02.55:723][486]LogWorld: Bringing up level for play took: 0.035066
+[2015.03.22-12.02.55:740][486]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.831
+[2015.03.22-12.02.55:765][486]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.02.55:765][486]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.02.55:765][486]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.02.55:765][486]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.02.57:323][562]LogBlueprintUserMessages: 1
+[2015.03.22-12.02.57:953][593]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C82DB8680
+[2015.03.22-12.03.07:802][173]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.03.07:844][173]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.03.08:266][173]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.03.08:370][173]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.03.08:496][173]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.03.08:683][173]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.03.08:800][173]LogPlayLevel: PIE:  Blueprint regeneration took 997 ms (5 blueprints)
+[2015.03.22-12.03.08:800][173]PIE: New page: PIE session: Levelone (22 Mar 2015 12:03:08)
+[2015.03.22-12.03.08:817][173]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.08:817][173]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.08:818][173]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.08:818][173]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.08:818][173]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.08:818][173]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.08:819][173]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.08:819][173]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.08:819][173]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.08:819][173]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.08:819][173]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.08:819][173]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.08:819][173]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.08:819][173]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.08:819][173]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.08:819][173]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.08:820][173]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.08:820][173]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.08:824][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023657s)
+[2015.03.22-12.03.08:825][173]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2015.03.22-12.03.08:825][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.024501s)
+[2015.03.22-12.03.08:861][173]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.03.08:863][173]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.03.08:891][173]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.03.08
+[2015.03.22-12.03.08:898][173]LogWorld: Bringing up level for play took: 0.034610
+[2015.03.22-12.03.08:918][173]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 2.009
+[2015.03.22-12.03.08:938][173]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.08:938][173]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.08:938][173]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.08:938][173]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.09:787][207]LogBlueprintUserMessages: 1
+[2015.03.22-12.03.11:224][293]LogBlueprintUserMessages: 1
+[2015.03.22-12.03.11:778][326]LogBlueprintUserMessages: 1
+[2015.03.22-12.03.13:149][408]LogBlueprintUserMessages: Player found
+[2015.03.22-12.03.13:804][441]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C866E63E0
+[2015.03.22-12.03.24:795][ 83]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.24:795][ 83]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.24:795][ 83]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.24:795][ 83]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.30:800][393]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.30:800][393]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.30:800][393]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.30:800][393]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.33:987][568]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.03.34:029][568]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.03.34:437][568]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.03.34:541][568]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.03.34:665][568]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.03.34:849][568]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.03.34:970][568]LogPlayLevel: PIE:  Blueprint regeneration took 982 ms (5 blueprints)
+[2015.03.22-12.03.34:970][568]PIE: New page: PIE session: Levelone (22 Mar 2015 12:03:34)
+[2015.03.22-12.03.34:987][568]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.34:987][568]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.34:988][568]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.34:988][568]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.34:988][568]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.34:988][568]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.34:988][568]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.34:988][568]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.34:988][568]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.34:988][568]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.34:989][568]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.34:989][568]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.34:989][568]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.34:989][568]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.34:989][568]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.34:989][568]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.34:989][568]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.34:989][568]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.34:993][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022962s)
+[2015.03.22-12.03.34:994][568]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2015.03.22-12.03.34:994][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.023700s)
+[2015.03.22-12.03.35:037][568]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.03.35:039][568]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.03.35:067][568]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.03.35
+[2015.03.22-12.03.35:074][568]LogWorld: Bringing up level for play took: 0.034074
+[2015.03.22-12.03.35:086][568]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.178
+[2015.03.22-12.03.35:105][568]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.35:105][568]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.35:105][568]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.35:105][568]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.35:634][584]LogBlueprintUserMessages: 1
+[2015.03.22-12.03.37:451][693]LogBlueprintUserMessages: Hello
+[2015.03.22-12.03.37:684][707]LogBlueprintUserMessages: Hello
+[2015.03.22-12.03.37:934][722]LogBlueprintUserMessages: 1
+[2015.03.22-12.03.40:935][902]LogBlueprintUserMessages: 2
+[2015.03.22-12.03.41:402][924]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C8A2463E0
+[2015.03.22-12.03.44:854][ 98]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.03.44:896][ 98]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.03.45:312][ 98]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.03.45:417][ 98]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.03.45:543][ 98]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.03.45:727][ 98]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.03.45:845][ 98]LogPlayLevel: PIE:  Blueprint regeneration took 990 ms (5 blueprints)
+[2015.03.22-12.03.45:845][ 98]PIE: New page: PIE session: Levelone (22 Mar 2015 12:03:45)
+[2015.03.22-12.03.45:863][ 98]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.45:863][ 98]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.45:863][ 98]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.45:863][ 98]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.45:864][ 98]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.45:864][ 98]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.45:864][ 98]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.45:864][ 98]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.45:864][ 98]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.45:864][ 98]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.45:864][ 98]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.45:864][ 98]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.45:865][ 98]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.45:865][ 98]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.45:865][ 98]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.45:865][ 98]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.45:865][ 98]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.45:865][ 98]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.03.45:869][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024117s)
+[2015.03.22-12.03.45:870][ 98]LogPlayLevel: PIE: World Init took: (0.000577s)
+[2015.03.22-12.03.45:870][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.024884s)
+[2015.03.22-12.03.45:908][ 98]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.03.45:910][ 98]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.03.45:939][ 98]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.03.45
+[2015.03.22-12.03.45:946][ 98]LogWorld: Bringing up level for play took: 0.034360
+[2015.03.22-12.03.45:959][ 98]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.049
+[2015.03.22-12.03.45:978][ 98]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.45:978][ 98]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.45:978][ 98]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.45:978][ 98]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.03.46:324][104]LogBlueprintUserMessages: 1
+[2015.03.22-12.03.47:206][157]LogBlueprintUserMessages: Hello
+[2015.03.22-12.03.47:440][171]LogBlueprintUserMessages: Hello
+[2015.03.22-12.03.48:791][252]LogBlueprintUserMessages: 1
+[2015.03.22-12.03.51:790][432]LogBlueprintUserMessages: 2
+[2015.03.22-12.03.54:790][612]LogBlueprintUserMessages: 3
+[2015.03.22-12.03.55:639][657]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C82C60180
+[2015.03.22-12.04.00:535][947]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.04.00:535][947]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.04.00:535][947]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.04.00:535][947]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.04.15:323][821]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/BluePrints'
+[2015.03.22-12.04.42:263][356]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.04.42:263][356]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.04.42:263][356]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.04.42:263][356]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.04.46:261][568]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.04.46:261][568]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.04.46:261][568]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.04.46:261][568]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.04.50:012][780]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.04.50:012][780]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.04.50:012][780]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.04.50:012][780]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.04.59:737][340]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.04.59:737][340]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.04.59:737][340]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.04.59:737][340]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.05.02:423][485]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.05.02:466][485]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.05.02:879][485]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.05.03:002][485]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.05.03:138][485]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.05.03:324][485]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.05.03:441][485]LogPlayLevel: PIE:  Blueprint regeneration took 1017 ms (5 blueprints)
+[2015.03.22-12.05.03:442][485]PIE: New page: PIE session: Levelone (22 Mar 2015 12:05:03)
+[2015.03.22-12.05.03:458][485]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.03:458][485]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.03:459][485]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.03:459][485]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.03:459][485]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.03:459][485]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.03:460][485]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.03:460][485]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.03:460][485]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.03:460][485]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.03:460][485]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.03:460][485]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.03:460][485]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.03:460][485]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.03:460][485]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.03:460][485]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.03:461][485]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.03:461][485]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.03:465][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022674s)
+[2015.03.22-12.05.03:465][485]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2015.03.22-12.05.03:465][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.023431s)
+[2015.03.22-12.05.03:504][485]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.05.03:506][485]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.05.03:534][485]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.05.03
+[2015.03.22-12.05.03:541][485]LogWorld: Bringing up level for play took: 0.034935
+[2015.03.22-12.05.03:556][485]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.647
+[2015.03.22-12.05.03:576][485]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.05.03:576][485]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.05.03:576][485]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.05.03:576][485]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.05.04:494][525]LogBlueprintUserMessages: 1
+[2015.03.22-12.05.05:895][609]LogBlueprintUserMessages: 1
+[2015.03.22-12.05.06:395][639]LogBlueprintUserMessages: 1
+[2015.03.22-12.05.07:460][697]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CECA004A0
+[2015.03.22-12.05.13:385][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.22-12.05.13:774][ 30]LogSavePackage: Save=343.979492ms
+[2015.03.22-12.05.13:774][ 30]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone6C11B3F64E5F1309032F2F844784BE40.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.22-12.05.13:822][ 30]LogFileHelpers: Saving map 'Levelone' took 0.637
+[2015.03.22-12.05.13:828][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Bug" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Bug.uasset" SILENT=true
+[2015.03.22-12.05.14:114][ 30]LogSavePackage: Save=122.844475ms
+[2015.03.22-12.05.14:114][ 30]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/BugA173AE0F4BC9A5343C48DBA350F4562D.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Bug.uasset'
+[2015.03.22-12.05.14:133][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.22-12.05.14:755][ 30]LogSavePackage: Save=596.339417ms
+[2015.03.22-12.05.14:755][ 30]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/IcantspellchamerlanA56C8F144BF51C9829FDD7BABCDC6E12.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.22-12.05.21:569][419]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.05.21:615][419]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.05.22:042][419]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.05.22:176][419]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.05.22:286][419]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.05.22:474][419]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.05.22:596][419]LogPlayLevel: PIE:  Blueprint regeneration took 1026 ms (5 blueprints)
+[2015.03.22-12.05.22:596][419]PIE: New page: PIE session: Levelone (22 Mar 2015 12:05:22)
+[2015.03.22-12.05.22:613][419]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.22:613][419]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.22:614][419]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.22:614][419]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.22:614][419]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.22:614][419]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.22:615][419]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.22:615][419]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.22:615][419]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.22:615][419]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.22:615][419]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.22:615][419]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.22:615][419]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.22:615][419]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.22:616][419]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.22:616][419]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.22:616][419]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.22:616][419]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.22:620][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023601s)
+[2015.03.22-12.05.22:620][419]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2015.03.22-12.05.22:621][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.024356s)
+[2015.03.22-12.05.22:660][419]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.05.22:662][419]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.05.22:690][419]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.05.22
+[2015.03.22-12.05.22:697][419]LogWorld: Bringing up level for play took: 0.034048
+[2015.03.22-12.05.22:709][419]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.8
+[2015.03.22-12.05.23:647][468]LogBlueprintUserMessages: 6
+[2015.03.22-12.05.25:398][573]LogBlueprintUserMessages: 1
+[2015.03.22-12.05.26:414][634]LogBlueprintUserMessages: 12
+[2015.03.22-12.05.26:764][655]LogBlueprintUserMessages: Player found
+[2015.03.22-12.05.26:831][659]LogBlueprintUserMessages: 17
+[2015.03.22-12.05.28:397][753]LogBlueprintUserMessages: 2
+[2015.03.22-12.05.29:969][840]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C87046C00
+[2015.03.22-12.05.30:464][865]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.05.30:478][865]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.05.30:907][865]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.05.31:028][865]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.05.31:162][865]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.05.31:348][865]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.05.31:474][865]LogPlayLevel: PIE:  Blueprint regeneration took 1009 ms (5 blueprints)
+[2015.03.22-12.05.31:474][865]PIE: New page: PIE session: Levelone (22 Mar 2015 12:05:31)
+[2015.03.22-12.05.31:491][865]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.31:491][865]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.31:491][865]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.31:491][865]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.31:492][865]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.31:492][865]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.31:492][865]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.31:492][865]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.31:492][865]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.31:492][865]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.31:492][865]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.31:492][865]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.31:493][865]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.31:493][865]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.31:493][865]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.31:493][865]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.31:493][865]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.31:493][865]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.05.31:497][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022955s)
+[2015.03.22-12.05.31:498][865]LogPlayLevel: PIE: World Init took: (0.000522s)
+[2015.03.22-12.05.31:498][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.023662s)
+[2015.03.22-12.05.31:534][865]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.05.31:537][865]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.05.31:564][865]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.05.31
+[2015.03.22-12.05.31:571][865]LogWorld: Bringing up level for play took: 0.034181
+[2015.03.22-12.05.31:585][865]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.676
+[2015.03.22-12.05.32:297][901]LogBlueprintUserMessages: 6
+[2015.03.22-12.05.34:114][ 10]LogBlueprintUserMessages: Hello
+[2015.03.22-12.05.34:264][ 19]LogBlueprintUserMessages: 1
+[2015.03.22-12.05.36:883][176]LogBlueprintUserMessages: Hello
+[2015.03.22-12.05.37:266][199]LogBlueprintUserMessages: 2
+[2015.03.22-12.05.40:267][379]LogBlueprintUserMessages: 3
+[2015.03.22-12.05.41:291][433]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C92BD3060
+[2015.03.22-12.05.43:151][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.22-12.05.43:547][523]LogSavePackage: Save=351.662048ms
+[2015.03.22-12.05.43:547][523]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/LeveloneBCBFADBB46769035E086C5A1ABE57684.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.22-12.05.43:601][523]LogFileHelpers: Saving map 'Levelone' took 0.648
+[2015.03.22-12.05.43:608][523]Cmd: OBJ SAVEPACKAGE PACKAGE="
