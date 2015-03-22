@@ -2574,4 +2574,1414 @@ Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en
 [2015.03.22-12.05.43:547][523]LogSavePackage: Save=351.662048ms
 [2015.03.22-12.05.43:547][523]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/LeveloneBCBFADBB46769035E086C5A1ABE57684.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
 [2015.03.22-12.05.43:601][523]LogFileHelpers: Saving map 'Levelone' took 0.648
-[2015.03.22-12.05.43:608][523]Cmd: OBJ SAVEPACKAGE PACKAGE="
+[2015.03.22-12.05.43:608][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Bug" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Bug.uasset" SILENT=true
+[2015.03.22-12.05.43:721][523]LogSavePackage: Save=97.501457ms
+[2015.03.22-12.05.43:721][523]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Bug4EFBAA214928D89FE09A09823C1C7928.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Bug.uasset'
+[2015.03.22-12.15.40:939][764]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levelone' took 0.024
+[2015.03.22-12.15.42:838][877]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.15.42:851][877]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.15.43:284][877]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.15.43:400][877]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.15.43:535][877]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.15.43:722][877]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.15.43:840][877]LogPlayLevel: PIE:  Blueprint regeneration took 1001 ms (5 blueprints)
+[2015.03.22-12.15.43:840][877]PIE: New page: PIE session: Levelone (22 Mar 2015 12:15:43)
+[2015.03.22-12.15.43:857][877]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.43:857][877]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.43:858][877]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.43:858][877]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.43:858][877]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.43:858][877]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.43:859][877]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.43:859][877]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.43:859][877]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.43:859][877]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.43:859][877]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.43:859][877]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.43:859][877]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.43:859][877]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.43:860][877]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.43:860][877]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.43:860][877]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.43:860][877]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.43:864][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023299s)
+[2015.03.22-12.15.43:865][877]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2015.03.22-12.15.43:865][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.024361s)
+[2015.03.22-12.15.43:908][877]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.15.43:911][877]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.15.43:940][877]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.15.43
+[2015.03.22-12.15.43:947][877]LogWorld: Bringing up level for play took: 0.035327
+[2015.03.22-12.15.43:959][877]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.051
+[2015.03.22-12.15.44:856][918]LogBlueprintUserMessages: 6
+[2015.03.22-12.15.46:356][  8]LogBlueprintUserMessages: 11
+[2015.03.22-12.15.46:656][ 26]LogBlueprintUserMessages: 1
+[2015.03.22-12.15.47:323][ 66]LogBlueprintUserMessages: Player found
+[2015.03.22-12.15.47:724][ 90]LogBlueprintUserMessages: 17
+[2015.03.22-12.15.48:557][140]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:573][141]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:590][142]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:607][143]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:623][144]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:640][145]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:657][146]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:673][147]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:690][148]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:707][149]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:723][150]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:740][151]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:757][152]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:773][153]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:790][154]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:807][155]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:824][156]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:841][157]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:858][158]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:874][159]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:891][160]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:908][161]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:925][162]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:941][163]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:958][164]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:974][165]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.48:991][166]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:008][167]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:025][168]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:041][169]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:058][170]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:074][171]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:091][172]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:108][173]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:124][174]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:141][175]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:158][176]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:174][177]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:191][178]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:208][179]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:225][180]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:241][181]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:258][182]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:276][183]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:291][184]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:309][185]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:326][186]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:342][187]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:358][188]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:374][189]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:391][190]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:409][191]LogBlueprintUserMessages: Play died
+[2015.03.22-12.15.49:658][206]LogBlueprintUserMessages: 2
+[2015.03.22-12.15.52:124][325]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C9383A7A0
+[2015.03.22-12.15.53:017][374]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.15.53:030][374]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.15.53:454][374]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.15.53:569][374]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.15.53:703][374]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.15.53:890][374]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.15.54:013][374]LogPlayLevel: PIE:  Blueprint regeneration took 996 ms (5 blueprints)
+[2015.03.22-12.15.54:013][374]PIE: New page: PIE session: Levelone (22 Mar 2015 12:15:54)
+[2015.03.22-12.15.54:029][374]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.54:029][374]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.54:030][374]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.54:030][374]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.54:030][374]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.54:030][374]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.54:030][374]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.54:031][374]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.54:031][374]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.54:031][374]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.54:031][374]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.54:031][374]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.54:031][374]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.54:031][374]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.54:031][374]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.54:031][374]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.54:031][374]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.54:032][374]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.15.54:036][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022728s)
+[2015.03.22-12.15.54:036][374]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2015.03.22-12.15.54:036][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.023435s)
+[2015.03.22-12.15.54:072][374]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.15.54:075][374]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.15.54:102][374]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.15.54
+[2015.03.22-12.15.54:110][374]LogWorld: Bringing up level for play took: 0.034664
+[2015.03.22-12.15.54:120][374]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.212
+[2015.03.22-12.15.54:540][392]LogBlueprintUserMessages: 6
+[2015.03.22-12.15.56:807][528]LogBlueprintUserMessages: 1
+[2015.03.22-12.15.56:857][531]LogBlueprintUserMessages: Hello
+[2015.03.22-12.15.56:940][536]LogBlueprintUserMessages: Hello
+[2015.03.22-12.15.59:807][708]LogBlueprintUserMessages: 2
+[2015.03.22-12.16.02:806][888]LogBlueprintUserMessages: 3
+[2015.03.22-12.16.05:807][ 68]LogBlueprintUserMessages: 4
+[2015.03.22-12.16.08:807][248]LogBlueprintUserMessages: 5
+[2015.03.22-12.16.11:807][428]LogBlueprintUserMessages: 6
+[2015.03.22-12.16.14:808][608]LogBlueprintUserMessages: 7
+[2015.03.22-12.16.17:808][788]LogBlueprintUserMessages: 8
+[2015.03.22-12.16.20:807][968]LogBlueprintUserMessages: 9
+[2015.03.22-12.16.23:808][148]LogBlueprintUserMessages: 10
+[2015.03.22-12.16.26:807][328]LogBlueprintUserMessages: 11
+[2015.03.22-12.16.38:375][ 22]LogBlueprintUserMessages: 12
+[2015.03.22-12.16.41:375][202]LogBlueprintUserMessages: 13
+[2015.03.22-12.16.44:376][382]LogBlueprintUserMessages: 14
+[2015.03.22-12.16.47:376][562]LogBlueprintUserMessages: 15
+[2015.03.22-12.16.50:375][742]LogBlueprintUserMessages: 16
+[2015.03.22-12.16.53:375][922]LogBlueprintUserMessages: 17
+[2015.03.22-12.16.56:383][ 92]LogBlueprintUserMessages: 18
+[2015.03.22-12.16.59:382][272]LogBlueprintUserMessages: 19
+[2015.03.22-12.17.02:382][452]LogBlueprintUserMessages: 20
+[2015.03.22-12.17.05:383][632]LogBlueprintUserMessages: 21
+[2015.03.22-12.17.08:383][812]LogBlueprintUserMessages: 22
+[2015.03.22-12.17.11:383][992]LogBlueprintUserMessages: 23
+[2015.03.22-12.17.14:383][172]LogBlueprintUserMessages: 24
+[2015.03.22-12.17.17:387][352]LogBlueprintUserMessages: 25
+[2015.03.22-12.17.20:387][532]LogBlueprintUserMessages: 26
+[2015.03.22-12.17.23:388][712]LogBlueprintUserMessages: 27
+[2015.03.22-12.17.26:387][892]LogBlueprintUserMessages: 28
+[2015.03.22-12.17.29:387][ 72]LogBlueprintUserMessages: 29
+[2015.03.22-12.17.42:754][874]LogBlueprintUserMessages: 30
+[2015.03.22-12.17.45:754][ 54]LogBlueprintUserMessages: 31
+[2015.03.22-12.17.48:755][234]LogBlueprintUserMessages: 32
+[2015.03.22-12.17.50:372][331]LogBlueprintUserMessages: 43
+[2015.03.22-12.17.51:339][389]LogBlueprintUserMessages: 48
+[2015.03.22-12.17.51:756][414]LogBlueprintUserMessages: 33
+[2015.03.22-12.17.54:759][593]LogBlueprintUserMessages: 34
+[2015.03.22-12.17.57:759][773]LogBlueprintUserMessages: 35
+[2015.03.22-12.18.00:759][953]LogBlueprintUserMessages: 36
+[2015.03.22-12.18.03:759][133]LogBlueprintUserMessages: 37
+[2015.03.22-12.18.06:760][313]LogBlueprintUserMessages: 38
+[2015.03.22-12.18.09:842][498]LogBlueprintUserMessages: 39
+[2015.03.22-12.18.14:642][786]LogBlueprintUserMessages: Player found
+[2015.03.22-12.18.15:209][820]LogBlueprintUserMessages: 40
+[2015.03.22-12.18.17:592][963]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.18:210][  0]LogBlueprintUserMessages: 41
+[2015.03.22-12.18.20:919][155]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C943E79C0
+[2015.03.22-12.18.21:980][215]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.18.21:980][215]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.18.21:980][215]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.18.21:980][215]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.18.29:548][637]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.18.29:588][637]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.18.30:018][637]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.18.30:134][637]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.18.30:272][637]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.18.30:460][637]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.18.30:582][637]LogPlayLevel: PIE:  Blueprint regeneration took 1034 ms (5 blueprints)
+[2015.03.22-12.18.30:582][637]PIE: New page: PIE session: Levelone (22 Mar 2015 12:18:30)
+[2015.03.22-12.18.30:600][637]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.30:600][637]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.30:600][637]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.30:600][637]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.30:601][637]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.30:601][637]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.30:601][637]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.30:601][637]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.30:601][637]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.30:601][637]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.30:602][637]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.30:602][637]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.30:602][637]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.30:602][637]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.30:602][637]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.30:602][637]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.30:602][637]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.30:602][637]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.30:606][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023794s)
+[2015.03.22-12.18.30:607][637]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2015.03.22-12.18.30:607][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.024572s)
+[2015.03.22-12.18.30:652][637]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.18.30:654][637]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.18.30:701][637]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.18.30
+[2015.03.22-12.18.30:708][637]LogWorld: Bringing up level for play took: 0.053605
+[2015.03.22-12.18.30:723][637]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.815
+[2015.03.22-12.18.33:393][789]LogBlueprintUserMessages: 1
+[2015.03.22-12.18.35:276][902]LogBlueprintUserMessages: Player found
+[2015.03.22-12.18.36:392][969]LogBlueprintUserMessages: 2
+[2015.03.22-12.18.36:692][987]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.36:708][988]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.36:725][989]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.36:742][990]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.36:758][991]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.36:775][992]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.36:792][993]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.36:808][994]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.36:825][995]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.39:392][149]LogBlueprintUserMessages: 3
+[2015.03.22-12.18.42:002][299]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C90467380
+[2015.03.22-12.18.45:003][476]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.18.45:016][476]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.18.45:434][476]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.18.45:552][476]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.18.45:687][476]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.18.45:875][476]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.18.45:996][476]LogPlayLevel: PIE:  Blueprint regeneration took 992 ms (5 blueprints)
+[2015.03.22-12.18.45:997][476]PIE: New page: PIE session: Levelone (22 Mar 2015 12:18:45)
+[2015.03.22-12.18.46:014][476]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.46:014][476]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.46:014][476]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.46:014][476]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.46:015][476]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.46:015][476]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.46:015][476]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.46:015][476]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.46:015][476]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.46:015][476]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.46:015][476]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.46:015][476]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.46:016][476]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.46:016][476]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.46:016][476]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.46:016][476]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.46:016][476]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.46:016][476]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.18.46:020][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023312s)
+[2015.03.22-12.18.46:021][476]LogPlayLevel: PIE: World Init took: (0.000497s)
+[2015.03.22-12.18.46:021][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.023994s)
+[2015.03.22-12.18.46:058][476]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.18.46:061][476]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.18.46:088][476]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.18.46
+[2015.03.22-12.18.46:095][476]LogWorld: Bringing up level for play took: 0.033964
+[2015.03.22-12.18.46:108][476]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.199
+[2015.03.22-12.18.46:391][486]LogBlueprintUserMessages: 6
+[2015.03.22-12.18.48:774][629]LogBlueprintUserMessages: 1
+[2015.03.22-12.18.50:175][713]LogBlueprintUserMessages: Player found
+[2015.03.22-12.18.51:357][784]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:374][785]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:391][786]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:407][787]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:424][788]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:441][789]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:457][790]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:474][791]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:491][792]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:507][793]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:524][794]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:540][795]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:557][796]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:574][797]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:590][798]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:607][799]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:624][800]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:640][801]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:657][802]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:674][803]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:690][804]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:707][805]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:723][806]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:740][807]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:757][808]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:773][809]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:774][809]LogBlueprintUserMessages: 2
+[2015.03.22-12.18.51:790][810]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:806][811]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:824][812]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:841][813]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:858][814]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:874][815]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:891][816]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:907][817]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:924][818]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:941][819]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:957][820]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:974][821]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.51:991][822]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:007][823]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:024][824]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:040][825]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:057][826]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:074][827]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:091][828]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:107][829]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:124][830]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:141][831]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:157][832]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:174][833]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:191][834]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:207][835]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:224][836]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:241][837]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:257][838]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:274][839]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:290][840]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:307][841]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:324][842]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:340][843]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:357][844]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:374][845]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.52:390][846]LogBlueprintUserMessages: Play died
+[2015.03.22-12.18.54:775][989]LogBlueprintUserMessages: 3
+[2015.03.22-12.18.55:530][ 28]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CF331E0C0
+[2015.03.22-12.18.57:188][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.22-12.18.57:589][106]LogSavePackage: Save=351.553650ms
+[2015.03.22-12.18.57:589][106]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/LeveloneF9E9E899422B8F58A90D229263795755.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.22-12.18.57:639][106]LogFileHelpers: Saving map 'Levelone' took 0.684
+[2015.03.22-12.18.57:648][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.22-12.18.58:286][106]LogSavePackage: Save=614.240845ms
+[2015.03.22-12.18.58:286][106]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/IcantspellchamerlanD2BB05B54BB5EC1F52D0FDA64589F509.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.22-12.20.12:769][519]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/TwinStickBP'
+[2015.03.22-12.20.13:124][540]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/UI'
+[2015.03.22-12.21.53:404][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/reset_button" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/reset_button.uasset" SILENT=true
+[2015.03.22-12.21.53:438][353]LogSavePackage: Save=16.244905ms
+[2015.03.22-12.21.53:438][353]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/reset_buttonAC9DF29B4DE0519431BBE89EE99564AD.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/reset_button.uasset'
+[2015.03.22-12.21.55:296][463]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.21.55:306][463]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.21.55:654][463]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.21.55:742][463]LogPlayLevel: [PIE] Compiling reset_button before PIE...
+[2015.03.22-12.21.55:802][463]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.21.55:908][463]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.21.56:055][463]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.21.56:148][463]LogPlayLevel: PIE:  Blueprint regeneration took 852 ms (6 blueprints)
+[2015.03.22-12.21.56:149][463]PIE: New page: PIE session: Levelone (22 Mar 2015 12:21:56)
+[2015.03.22-12.21.56:162][463]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.21.56:162][463]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.21.56:162][463]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.21.56:162][463]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.21.56:163][463]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.21.56:163][463]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.21.56:163][463]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.21.56:163][463]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.21.56:163][463]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.21.56:163][463]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.21.56:163][463]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.21.56:163][463]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.21.56:164][463]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.21.56:164][463]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.21.56:164][463]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.21.56:164][463]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.21.56:164][463]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.21.56:164][463]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.21.56:167][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018131s)
+[2015.03.22-12.21.56:168][463]LogPlayLevel: PIE: World Init took: (0.000513s)
+[2015.03.22-12.21.56:168][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.018824s)
+[2015.03.22-12.21.56:209][463]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.21.56:210][463]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.21.56:232][463]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.21.56
+[2015.03.22-12.21.56:237][463]LogWorld: Bringing up level for play took: 0.026484
+[2015.03.22-12.21.56:245][463]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.336
+[2015.03.22-12.21.56:949][499]LogBlueprintUserMessages: 6
+[2015.03.22-12.21.58:500][587]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CF134DF80
+[2015.03.22-12.22.36:567][695]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.22.36:567][695]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.22.36:567][695]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.22.36:567][695]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.22.39:297][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.22-12.22.39:612][832]LogSavePackage: Save=275.293457ms
+[2015.03.22-12.22.39:612][832]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone496726EE4937CCE0CEC66284FF01BF6A.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.22-12.22.39:652][832]LogFileHelpers: Saving map 'Levelone' took 0.517
+[2015.03.22-12.22.39:658][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.22-12.22.40:143][832]LogSavePackage: Save=467.665588ms
+[2015.03.22-12.22.40:143][832]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/IcantspellchamerlanB7212AA5447669017FF47189A2ED749F.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.22-12.22.40:158][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/reset_button" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/reset_button.uasset" SILENT=true
+[2015.03.22-12.22.40:192][832]LogSavePackage: Save=17.336958ms
+[2015.03.22-12.22.40:192][832]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/reset_button33590E9E40AB156470EA6E9FA5DB86F8.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/reset_button.uasset'
+[2015.03.22-12.23.27:911][462]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.23.27:947][462]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.23.28:288][462]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.23.28:382][462]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.23.28:489][462]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.23.28:638][462]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.23.28:741][462]LogPlayLevel: PIE:  Blueprint regeneration took 830 ms (5 blueprints)
+[2015.03.22-12.23.28:741][462]PIE: New page: PIE session: Levelone (22 Mar 2015 12:23:28)
+[2015.03.22-12.23.28:754][462]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.23.28:754][462]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.23.28:755][462]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.23.28:755][462]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.23.28:755][462]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.23.28:755][462]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.23.28:755][462]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.23.28:755][462]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.23.28:755][462]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.23.28:755][462]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.23.28:755][462]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.23.28:756][462]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.23.28:756][462]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.23.28:756][462]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.23.28:756][462]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.23.28:756][462]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.23.28:756][462]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.23.28:756][462]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.23.28:759][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017978s)
+[2015.03.22-12.23.28:760][462]LogPlayLevel: PIE: World Init took: (0.000541s)
+[2015.03.22-12.23.28:760][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.018678s)
+[2015.03.22-12.23.28:795][462]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.23.28:797][462]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.23.28:819][462]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.23.28
+[2015.03.22-12.23.28:825][462]LogWorld: Bringing up level for play took: 0.027081
+[2015.03.22-12.23.28:839][462]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.931
+[2015.03.22-12.23.28:855][462]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.23.28:855][462]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.23.28:855][462]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.23.28:855][462]LogGraphPanel:Warning: Found NULL Node in GraphObj array. A node type has been deleted without creating an ActiveClassRedictor to K2Node_DeadClass.
+[2015.03.22-12.23.31:059][581]LogBlueprintUserMessages: 6
+[2015.03.22-12.23.31:626][615]LogBlueprintUserMessages: 1
+[2015.03.22-12.23.32:309][656]LogBlueprintUserMessages: Hello
+[2015.03.22-12.23.32:687][673]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CDF50AE80
+[2015.03.22-12.23.33:918][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.22-12.23.34:223][731]LogSavePackage: Save=273.213623ms
+[2015.03.22-12.23.34:223][731]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone212B9C40423B22F9D6D5FEB70E726DB5.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.22-12.23.34:263][731]LogFileHelpers: Saving map 'Levelone' took 0.516
+[2015.03.22-12.27.05:940][416]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.27.05:974][416]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.27.06:286][416]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.27.06:372][416]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.27.06:472][416]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.27.06:617][416]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.27.06:706][416]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C87044C20
+[2015.03.22-12.27.06:706][416]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CF513F380
+[2015.03.22-12.27.06:716][416]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CF513E480
+[2015.03.22-12.27.06:716][416]LogPlayLevel: PIE:  Blueprint regeneration took 775 ms (5 blueprints)
+[2015.03.22-12.27.06:716][416]PIE: New page: PIE session: Levelone (22 Mar 2015 12:27:06)
+[2015.03.22-12.27.06:729][416]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.06:729][416]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.06:730][416]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.06:730][416]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.06:730][416]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.06:730][416]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.06:731][416]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.06:731][416]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.06:731][416]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.06:731][416]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.06:731][416]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.06:731][416]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.06:731][416]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.06:731][416]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.06:731][416]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.06:731][416]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.06:731][416]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.06:731][416]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.06:734][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018066s)
+[2015.03.22-12.27.06:735][416]LogPlayLevel: PIE: World Init took: (0.000474s)
+[2015.03.22-12.27.06:735][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.018718s)
+[2015.03.22-12.27.06:773][416]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.27.06:775][416]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.27.06:796][416]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.27.06
+[2015.03.22-12.27.06:801][416]LogWorld: Bringing up level for play took: 0.025626
+[2015.03.22-12.27.06:804][416]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone -0.105
+[2015.03.22-12.27.09:412][572]LogBlueprintUserMessages: 1
+[2015.03.22-12.27.09:863][599]LogBlueprintUserMessages: 7
+[2015.03.22-12.27.12:412][752]LogBlueprintUserMessages: 2
+[2015.03.22-12.27.18:297][ 99]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C93E78A40
+[2015.03.22-12.27.20:632][218]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.27.20:642][218]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.27.20:955][218]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.27.21:038][218]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.27.21:136][218]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.27.21:278][218]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.27.21:376][218]LogPlayLevel: PIE:  Blueprint regeneration took 743 ms (5 blueprints)
+[2015.03.22-12.27.21:376][218]PIE: New page: PIE session: Levelone (22 Mar 2015 12:27:21)
+[2015.03.22-12.27.21:389][218]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.21:389][218]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.21:389][218]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.21:389][218]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.21:390][218]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.21:390][218]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.21:390][218]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.21:390][218]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.21:390][218]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.21:390][218]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.21:390][218]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.21:391][218]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.21:391][218]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.21:391][218]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.21:391][218]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.21:391][218]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.21:391][218]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.21:391][218]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.27.21:394][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018103s)
+[2015.03.22-12.27.21:395][218]LogPlayLevel: PIE: World Init took: (0.000502s)
+[2015.03.22-12.27.21:395][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.018769s)
+[2015.03.22-12.27.21:433][218]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.27.21:435][218]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.27.21:457][218]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.27.21
+[2015.03.22-12.27.21:462][218]LogWorld: Bringing up level for play took: 0.026394
+[2015.03.22-12.27.21:470][218]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.561
+[2015.03.22-12.27.24:105][372]LogBlueprintUserMessages: 1
+[2015.03.22-12.27.24:571][400]LogBlueprintUserMessages: 7
+[2015.03.22-12.27.24:988][425]LogBlueprintUserMessages: 12
+[2015.03.22-12.27.29:072][670]LogBlueprintUserMessages: 17
+[2015.03.22-12.27.31:991][840]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CD2DF8A40
+[2015.03.22-12.28.10:604][ 92]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.28.10:615][ 92]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.28.10:968][ 92]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.28.11:066][ 92]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.28.11:148][ 92]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.28.11:247][ 92]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.28.11:420][ 92]LogPlayLevel: PIE:  Blueprint regeneration took 815 ms (5 blueprints)
+[2015.03.22-12.28.11:421][ 92]PIE: New page: PIE session: Levelone (22 Mar 2015 12:28:11)
+[2015.03.22-12.28.11:434][ 92]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.28.11:434][ 92]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.28.11:434][ 92]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.28.11:434][ 92]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.28.11:435][ 92]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.28.11:435][ 92]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.28.11:435][ 92]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.28.11:435][ 92]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.28.11:435][ 92]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.28.11:435][ 92]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.28.11:435][ 92]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.28.11:435][ 92]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.28.11:435][ 92]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.28.11:435][ 92]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.28.11:435][ 92]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.28.11:436][ 92]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.28.11:436][ 92]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.28.11:436][ 92]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.28.11:439][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017884s)
+[2015.03.22-12.28.11:439][ 92]LogPlayLevel: PIE: World Init took: (0.000490s)
+[2015.03.22-12.28.11:439][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.018539s)
+[2015.03.22-12.28.11:477][ 92]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.28.11:479][ 92]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.28.11:500][ 92]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.28.11
+[2015.03.22-12.28.11:505][ 92]LogWorld: Bringing up level for play took: 0.025930
+[2015.03.22-12.28.11:515][ 92]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.606
+[2015.03.22-12.28.11:528][ 92]LogPropertyNode: Object is invalid Slot
+[2015.03.22-12.28.11:528][ 92]LogPropertyNode: Object is invalid Navigation
+[2015.03.22-12.28.12:937][172]LogBlueprintUserMessages: 6
+[2015.03.22-12.28.13:688][217]LogBlueprintUserMessages: 11
+[2015.03.22-12.28.13:937][232]LogBlueprintUserMessages: 16
+[2015.03.22-12.28.14:154][245]LogBlueprintUserMessages: 1
+[2015.03.22-12.28.15:608][332]LogBlueprintUserMessages: Player found
+[2015.03.22-12.28.17:166][425]LogBlueprintUserMessages: 2
+[2015.03.22-12.28.20:166][605]LogBlueprintUserMessages: 3
+[2015.03.22-12.28.23:175][785]LogBlueprintUserMessages: 4
+[2015.03.22-12.28.25:524][926]LogBlueprintUserMessages: Play died
+[2015.03.22-12.28.25:541][927]LogBlueprintUserMessages: Play died
+[2015.03.22-12.28.25:558][928]LogBlueprintUserMessages: Play died
+[2015.03.22-12.28.25:574][929]LogBlueprintUserMessages: Play died
+[2015.03.22-12.28.25:591][930]LogBlueprintUserMessages: Play died
+[2015.03.22-12.28.25:607][931]LogBlueprintUserMessages: Play died
+[2015.03.22-12.28.25:624][932]LogBlueprintUserMessages: Play died
+[2015.03.22-12.28.25:641][933]LogBlueprintUserMessages: Play died
+[2015.03.22-12.28.25:658][934]LogBlueprintUserMessages: Play died
+[2015.03.22-12.28.25:674][935]LogBlueprintUserMessages: Play died
+[2015.03.22-12.28.25:691][936]LogBlueprintUserMessages: Play died
+[2015.03.22-12.28.25:707][937]LogBlueprintUserMessages: Play died
+[2015.03.22-12.28.25:724][938]LogBlueprintUserMessages: Play died
+[2015.03.22-12.28.25:741][939]LogBlueprintUserMessages: Play died
+[2015.03.22-12.28.25:757][940]LogBlueprintUserMessages: Play died
+[2015.03.22-12.28.25:774][941]LogBlueprintUserMessages: Play died
+[2015.03.22-12.28.26:174][965]LogBlueprintUserMessages: 5
+[2015.03.22-12.28.29:175][145]LogBlueprintUserMessages: 6
+[2015.03.22-12.28.31:714][292]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CF38380E0
+[2015.03.22-12.28.36:806][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.22-12.28.37:114][577]LogSavePackage: Save=271.413788ms
+[2015.03.22-12.28.37:114][577]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone0ED781F84C5AD7CB3D2F0E949C45B3E8.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.22-12.28.37:153][577]LogFileHelpers: Saving map 'Levelone' took 0.505
+[2015.03.22-12.28.37:158][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/HUD.uasset" SILENT=true
+[2015.03.22-12.28.37:215][577]LogSavePackage: Save=39.679298ms
+[2015.03.22-12.28.37:215][577]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/HUD36AC137D4A0B1BC6C7DA5396635EA654.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/HUD.uasset'
+[2015.03.22-12.29.45:066][ 93]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.29.45:085][ 93]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.29.45:516][ 93]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.29.45:661][ 93]LogPlayLevel: [PIE] Compiling reset_button before PIE...
+[2015.03.22-12.29.45:774][ 93]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.29.45:898][ 93]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.29.46:099][ 93]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.29.46:239][ 93]LogPlayLevel: PIE:  Blueprint regeneration took 1173 ms (6 blueprints)
+[2015.03.22-12.29.46:239][ 93]PIE: New page: PIE session: Levelone (22 Mar 2015 12:29:46)
+[2015.03.22-12.29.46:265][ 93]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.29.46:265][ 93]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.29.46:266][ 93]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.29.46:266][ 93]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.29.46:266][ 93]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.29.46:266][ 93]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.29.46:267][ 93]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.29.46:267][ 93]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.29.46:267][ 93]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.29.46:267][ 93]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.29.46:267][ 93]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.29.46:267][ 93]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.29.46:268][ 93]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.29.46:268][ 93]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.29.46:268][ 93]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.29.46:268][ 93]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.29.46:268][ 93]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.29.46:268][ 93]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.29.46:272][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032458s)
+[2015.03.22-12.29.46:273][ 93]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2015.03.22-12.29.46:273][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.033357s)
+[2015.03.22-12.29.46:310][ 93]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.29.46:312][ 93]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.29.46:346][ 93]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.29.46
+[2015.03.22-12.29.46:354][ 93]LogWorld: Bringing up level for play took: 0.040644
+[2015.03.22-12.29.46:372][ 93]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.463
+[2015.03.22-12.29.46:389][ 93]LogPropertyNode: Object is invalid Slot
+[2015.03.22-12.29.46:389][ 93]LogPropertyNode: Object is invalid Navigation
+[2015.03.22-12.29.49:008][243]LogBlueprintUserMessages: 1
+[2015.03.22-12.29.50:892][356]LogBlueprintUserMessages: Player found
+[2015.03.22-12.29.52:009][423]LogBlueprintUserMessages: 2
+[2015.03.22-12.29.52:331][442]LogBlueprintUserMessages: Play died
+[2015.03.22-12.29.52:348][443]LogBlueprintUserMessages: Play died
+[2015.03.22-12.29.52:364][444]LogBlueprintUserMessages: Play died
+[2015.03.22-12.29.55:018][603]LogBlueprintUserMessages: 3
+[2015.03.22-12.29.56:748][699]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C926D59E0
+[2015.03.22-12.29.59:506][852]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.29.59:519][852]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.29.59:954][852]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.30.00:101][852]LogPlayLevel: [PIE] Compiling reset_button before PIE...
+[2015.03.22-12.30.00:215][852]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.30.00:339][852]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.30.00:542][852]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.30.00:670][852]LogPlayLevel: PIE:  Blueprint regeneration took 1164 ms (6 blueprints)
+[2015.03.22-12.30.00:670][852]PIE: New page: PIE session: Levelone (22 Mar 2015 12:30:00)
+[2015.03.22-12.30.00:687][852]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.00:687][852]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.00:688][852]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.00:688][852]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.00:688][852]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.00:688][852]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.00:689][852]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.00:689][852]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.00:689][852]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.00:689][852]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.00:689][852]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.00:689][852]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.00:689][852]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.00:689][852]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.00:689][852]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.00:689][852]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.00:690][852]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.00:690][852]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.00:694][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023463s)
+[2015.03.22-12.30.00:694][852]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2015.03.22-12.30.00:695][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.024205s)
+[2015.03.22-12.30.00:734][852]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.30.00:736][852]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.30.00:763][852]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.30.00
+[2015.03.22-12.30.00:770][852]LogWorld: Bringing up level for play took: 0.034106
+[2015.03.22-12.30.00:782][852]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.874
+[2015.03.22-12.30.00:796][852]LogPropertyNode: Object is invalid Slot
+[2015.03.22-12.30.00:796][852]LogPropertyNode: Object is invalid Navigation
+[2015.03.22-12.30.03:417][  2]LogBlueprintUserMessages: 1
+[2015.03.22-12.30.05:303][115]LogBlueprintUserMessages: Player found
+[2015.03.22-12.30.06:425][182]LogBlueprintUserMessages: 2
+[2015.03.22-12.30.06:742][201]LogBlueprintUserMessages: Play died
+[2015.03.22-12.30.06:759][202]LogBlueprintUserMessages: Play died
+[2015.03.22-12.30.06:775][203]LogBlueprintUserMessages: Play died
+[2015.03.22-12.30.09:430][362]LogBlueprintUserMessages: 3
+[2015.03.22-12.30.11:970][507]LogPackageName: SearchForPackageOnDisk took   0.111s to resolve Levelone.umap
+[2015.03.22-12.30.12:070][507]LogPackageName: SearchForPackageOnDisk took   0.099s to resolve Levelone.umap
+[2015.03.22-12.30.12:070][507]LogNet: Browse: /Game/Maps/Levelone
+[2015.03.22-12.30.12:071][507]LogLoad: LoadMap: /Game/Maps/Levelone
+[2015.03.22-12.30.12:101][507]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CFB128D60
+[2015.03.22-12.30.12:101][507]Cmd: MEM
+[2015.03.22-12.30.12:125][507]LogMemory: Platform Memory Stats for Windows
+[2015.03.22-12.30.12:125][507]LogMemory: Process Physical Memory: 1175.08 MB used, 1175.08 MB peak
+[2015.03.22-12.30.12:125][507]LogMemory: Process Virtual Memory: 1092.92 MB used, 1092.92 MB peak
+[2015.03.22-12.30.12:125][507]LogMemory: Physical Memory: 7376.21 MB used, 12200.27 MB total
+[2015.03.22-12.30.12:125][507]LogMemory: Virtual Memory: 1643.39 MB used, 134217728.00 MB total
+[2015.03.22-12.30.12:125][507]LogMemory: 
+[2015.03.22-12.30.12:125][507]Allocator Stats for TBB: (not implemented)
+[2015.03.22-12.30.12:142][507]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.12:142][507]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.12:143][507]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.12:143][507]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.12:143][507]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.12:143][507]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.12:143][507]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.12:143][507]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.12:144][507]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.12:144][507]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.12:144][507]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.12:144][507]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.12:144][507]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.12:144][507]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.12:144][507]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.12:144][507]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.12:144][507]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.12:144][507]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.30.12:149][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023714s)
+[2015.03.22-12.30.12:149][507]LogPlayLevel: PIE: World Init took: (0.000579s)
+[2015.03.22-12.30.12:149][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.024490s)
+[2015.03.22-12.30.12:151][507]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.30.12:153][507]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.30.12:182][507]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.30.12
+[2015.03.22-12.30.12:188][507]LogWorld: Bringing up level for play took: 0.034585
+[2015.03.22-12.30.12:890][548]LogBlueprintUserMessages: 6
+[2015.03.22-12.30.14:259][630]LogBlueprintUserMessages: Hello
+[2015.03.22-12.30.14:858][666]LogBlueprintUserMessages: 1
+[2015.03.22-12.30.15:038][671]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C943E7C40
+[2015.03.22-12.30.51:416][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.22-12.30.51:809][319]LogSavePackage: Save=350.873383ms
+[2015.03.22-12.30.51:809][319]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone598D09EC4626A2AC66945F89513ACEBA.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Levelone.umap'
+[2015.03.22-12.30.51:860][319]LogFileHelpers: Saving map 'Levelone' took 0.642
+[2015.03.22-12.30.51:867][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Icantspellchamerlan" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset" SILENT=true
+[2015.03.22-12.30.52:523][319]LogSavePackage: Save=633.022522ms
+[2015.03.22-12.30.52:523][319]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Icantspellchamerlan73B27F9C489BAE4245CB96901BC6E846.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/BluePrints/Icantspellchamerlan.uasset'
+[2015.03.22-12.30.52:543][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/reset_button" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/reset_button.uasset" SILENT=true
+[2015.03.22-12.30.52:594][319]LogSavePackage: Save=25.140211ms
+[2015.03.22-12.30.52:594][319]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/reset_button2561ED944A265D7BD01411A47B037914.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/reset_button.uasset'
+[2015.03.22-12.31.21:208][743]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.31.21:219][743]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.31.21:663][743]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.31.21:772][743]LogPlayLevel: [PIE] Compiling reset_button before PIE...
+[2015.03.22-12.31.21:850][743]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.31.21:983][743]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.31.22:191][743]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.31.22:321][743]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CD046E020
+[2015.03.22-12.31.22:333][743]LogPlayLevel: PIE:  Blueprint regeneration took 1124 ms (6 blueprints)
+[2015.03.22-12.31.22:333][743]PIE: New page: PIE session: Levelone (22 Mar 2015 12:31:22)
+[2015.03.22-12.31.22:352][743]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.31.22:352][743]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.31.22:353][743]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.31.22:353][743]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.31.22:353][743]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.31.22:353][743]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.31.22:354][743]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.31.22:354][743]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.31.22:354][743]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.31.22:354][743]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.31.22:354][743]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.31.22:354][743]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.31.22:354][743]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.31.22:354][743]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.31.22:354][743]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.31.22:354][743]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.31.22:355][743]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.31.22:355][743]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.31.22:359][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025435s)
+[2015.03.22-12.31.22:360][743]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2015.03.22-12.31.22:360][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.026270s)
+[2015.03.22-12.31.22:401][743]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.31.22:403][743]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.31.22:431][743]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.31.22
+[2015.03.22-12.31.22:437][743]LogWorld: Bringing up level for play took: 0.033526
+[2015.03.22-12.31.22:441][743]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 1.532
+[2015.03.22-12.31.23:218][787]LogBlueprintUserMessages: 6
+[2015.03.22-12.31.24:518][865]LogBlueprintUserMessages: Hello
+[2015.03.22-12.31.24:851][885]LogBlueprintUserMessages: Hello
+[2015.03.22-12.31.25:051][897]LogBlueprintUserMessages: 1
+[2015.03.22-12.31.27:814][ 56]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C8309B060
+[2015.03.22-12.40.10:158][220]LogEditorTransaction: Undo Remove Widget
+[2015.03.22-12.41.02:003][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levelone" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Levelone_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2015.03.22-12.41.02:310][178]LogSavePackage: Save=287.967010ms
+[2015.03.22-12.41.02:310][178]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Levelone_Auto1A75A596B4CC34A7C632C27B5794CD817.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/Maps/Levelone_Auto1.umap'
+[2015.03.22-12.41.02:326][178]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levelone' took 0.469
+[2015.03.22-12.41.02:326][178]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.469
+[2015.03.22-12.41.02:364][178]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/HUD] ([1] browsable assets)...
+[2015.03.22-12.41.02:364][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HUD]
+[2015.03.22-12.41.02:413][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/HUD_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2015.03.22-12.41.02:593][178]LogSavePackage: Save=162.741776ms
+[2015.03.22-12.41.02:594][178]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/HUD_Auto16D2264564A48877265504994132E00D2.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/HUD_Auto1.uasset'
+[2015.03.22-12.41.02:642][178]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/reset_button] ([1] browsable assets)...
+[2015.03.22-12.41.02:642][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/reset_button]
+[2015.03.22-12.41.02:682][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/reset_button" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/reset_button_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2015.03.22-12.41.02:822][178]LogSavePackage: Save=122.468826ms
+[2015.03.22-12.41.02:823][178]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/reset_button_Auto160B745B74FEE0C7E4DF8FBBEEDB410E3.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/reset_button_Auto1.uasset'
+[2015.03.22-12.41.02:875][178]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Settings] ([1] browsable assets)...
+[2015.03.22-12.41.02:875][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Settings]
+[2015.03.22-12.41.02:917][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Settings" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/Settings_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2015.03.22-12.41.03:224][178]LogSavePackage: Save=288.229340ms
+[2015.03.22-12.41.03:225][178]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Settings_Auto17AF36C094969178EDB604F9574C49FB2.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Autosaves/Game/UI/Settings_Auto1.uasset'
+[2015.03.22-12.41.03:240][178]LogFileHelpers: Auto-saving content packages took 0.914
+[2015.03.22-12.43.14:481][779]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.43.14:489][779]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.43.14:828][779]LogPlayLevel: [PIE] Compiling Levelone before PIE...
+[2015.03.22-12.43.14:942][779]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.43.15:024][779]LogPlayLevel: [PIE] Compiling reset_button before PIE...
+[2015.03.22-12.43.15:101][779]LogPlayLevel: [PIE] Compiling Settings before PIE...
+[2015.03.22-12.43.15:263][779]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.43.15:375][779]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.43.15:572][779]LogPlayLevel: PIE:  Blueprint regeneration took 1090 ms (7 blueprints)
+[2015.03.22-12.43.15:572][779]PIE: New page: PIE session: Levelone (22 Mar 2015 12:43:15)
+[2015.03.22-12.43.15:586][779]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.43.15:586][779]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.43.15:587][779]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.43.15:587][779]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.43.15:587][779]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.43.15:587][779]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.43.15:587][779]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.43.15:587][779]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.43.15:587][779]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.43.15:587][779]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.43.15:587][779]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.43.15:587][779]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.43.15:588][779]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.43.15:588][779]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.43.15:588][779]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.43.15:588][779]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.43.15:588][779]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.43.15:588][779]LogBlueprint:Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2015.03.22-12.43.15:592][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018806s)
+[2015.03.22-12.43.15:592][779]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2015.03.22-12.43.15:592][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levelone.Levelone to /Game/Maps/UEDPIE_0_Levelone.Levelone (0.019511s)
+[2015.03.22-12.43.15:631][779]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.43.15:633][779]LogAIModule: Creating AISystem for world Levelone
+[2015.03.22-12.43.15:654][779]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Levelone.Levelone up for play (max tick rate 60) at 2015.03.22-12.43.15
+[2015.03.22-12.43.15:659][779]LogWorld: Bringing up level for play took: 0.025283
+[2015.03.22-12.43.15:669][779]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Levelone 0.76
+[2015.03.22-12.43.17:623][883]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C964D1B20
+[2015.03.22-12.43.20:711][ 67]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Maps'
+[2015.03.22-12.43.28:839][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/HUD.uasset" SILENT=true
+[2015.03.22-12.43.28:892][170]LogSavePackage: Save=37.716885ms
+[2015.03.22-12.43.28:892][170]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/HUD80CBAA114BB9E8BCA0BCC38170232BA3.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/HUD.uasset'
+[2015.03.22-12.43.28:905][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/reset_button" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/reset_button.uasset" SILENT=true
+[2015.03.22-12.43.28:944][170]LogSavePackage: Save=20.244858ms
+[2015.03.22-12.43.28:944][170]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/reset_buttonC3DB226F4B7F636292F9D3B439BB9CFC.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/reset_button.uasset'
+[2015.03.22-12.43.28:957][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Settings" FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Settings.uasset" SILENT=true
+[2015.03.22-12.43.29:136][170]LogSavePackage: Save=162.768875ms
+[2015.03.22-12.43.29:136][170]LogSavePackage: Moving '../../../../../../Users/Alan/Desktop/GameJam/try_2/Saved/Settings0BCF11E148AB8AEF1F96C6B86FF74886.tmp' to '../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/UI/Settings.uasset'
+[2015.03.22-12.43.29:149][170]Cmd: MAP LOAD FILE="../../../../../../Users/Alan/Desktop/GameJam/try_2/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2015.03.22-12.43.29:149][170]LightingResults: New page: Lighting Build
+[2015.03.22-12.43.29:184][170]LoadErrors: New page: Loading map: Menu.umap
+[2015.03.22-12.43.29:483][170]MapCheck: New page: Map Check
+[2015.03.22-12.43.29:483][170]LightingResults: New page: Lighting Build
+[2015.03.22-12.43.29:505][170]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CDD40BC40
+[2015.03.22-12.43.29:552][170]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2015.03.22-12.43.29:553][170]LogAIModule: Creating AISystem for world Menu
+[2015.03.22-12.43.29:584][170]Cmd: MAP CHECKDEP
+[2015.03.22-12.43.29:584][170]MapCheck: New page: Menu - 22 Mar 2015 12:43:29
+[2015.03.22-12.43.29:756][170]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 172.043ms to complete.
+[2015.03.22-12.43.29:757][170]LogFileHelpers: Loading map 'Menu' took 0.611
+[2015.03.22-12.43.30:624][209]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.43.30:632][209]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.43.30:974][209]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.22-12.43.31:036][209]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.43.31:129][209]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.43.31:277][209]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.43.31:354][209]LogPlayLevel: [PIE] Compiling reset_button before PIE...
+[2015.03.22-12.43.31:450][209]LogPlayLevel: PIE:  Blueprint regeneration took 826 ms (6 blueprints)
+[2015.03.22-12.43.31:451][209]PIE: New page: PIE session: Menu (22 Mar 2015 12:43:31)
+[2015.03.22-12.43.31:457][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005969s)
+[2015.03.22-12.43.31:457][209]LogPlayLevel: PIE: World Init took: (0.000434s)
+[2015.03.22-12.43.31:457][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.006540s)
+[2015.03.22-12.43.31:492][209]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.43.31:494][209]LogAIModule: Creating AISystem for world Menu
+[2015.03.22-12.43.31:495][209]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.22-12.43.31
+[2015.03.22-12.43.31:495][209]LogWorld: Bringing up level for play took: 0.000936
+[2015.03.22-12.43.31:498][209]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.589
+[2015.03.22-12.43.34:109][365]LogBlueprintUserMessages: 1
+[2015.03.22-12.43.37:109][545]LogBlueprintUserMessages: 2
+[2015.03.22-12.43.40:124][719]LogBlueprintUserMessages: 3
+[2015.03.22-12.43.41:241][783]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C980236A0
+[2015.03.22-12.43.43:035][889]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.43.43:042][889]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.43.43:374][889]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.22-12.43.43:433][889]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.43.43:524][889]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.43.43:676][889]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.43.43:752][889]LogPlayLevel: [PIE] Compiling reset_button before PIE...
+[2015.03.22-12.43.43:852][889]LogPlayLevel: PIE:  Blueprint regeneration took 816 ms (6 blueprints)
+[2015.03.22-12.43.43:853][889]PIE: New page: PIE session: Menu (22 Mar 2015 12:43:43)
+[2015.03.22-12.43.43:859][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006401s)
+[2015.03.22-12.43.43:860][889]LogPlayLevel: PIE: World Init took: (0.000555s)
+[2015.03.22-12.43.43:860][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.007097s)
+[2015.03.22-12.43.43:897][889]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.43.43:900][889]LogAIModule: Creating AISystem for world Menu
+[2015.03.22-12.43.43:902][889]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.22-12.43.43
+[2015.03.22-12.43.43:903][889]LogWorld: Bringing up level for play took: 0.002083
+[2015.03.22-12.43.43:904][889]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.22-12.43.43:927][889]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 1.018
+[2015.03.22-12.43.46:586][ 44]LogBlueprintUserMessages: 1
+[2015.03.22-12.43.49:585][224]LogBlueprintUserMessages: 2
+[2015.03.22-12.43.52:585][404]LogBlueprintUserMessages: 3
+[2015.03.22-12.43.53:750][469]LogPackageName: SearchForPackageOnDisk took   0.083s to resolve Settings.umap
+[2015.03.22-12.43.53:826][469]LogPackageName: SearchForPackageOnDisk took   0.074s to resolve Settings.umap
+[2015.03.22-12.43.53:826][469]LogNet: Browse: /Game/Maps/Settings
+[2015.03.22-12.43.53:826][469]LogLoad: LoadMap: /Game/Maps/Settings
+[2015.03.22-12.43.53:850][469]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CD2B16AC0
+[2015.03.22-12.43.53:850][469]Cmd: MEM
+[2015.03.22-12.43.53:870][469]LogMemory: Platform Memory Stats for Windows
+[2015.03.22-12.43.53:870][469]LogMemory: Process Physical Memory: 1252.13 MB used, 1254.66 MB peak
+[2015.03.22-12.43.53:870][469]LogMemory: Process Virtual Memory: 1172.75 MB used, 1174.75 MB peak
+[2015.03.22-12.43.53:870][469]LogMemory: Physical Memory: 7431.48 MB used, 12200.27 MB total
+[2015.03.22-12.43.53:870][469]LogMemory: Virtual Memory: 1718.74 MB used, 134217728.00 MB total
+[2015.03.22-12.43.53:870][469]LogMemory: 
+[2015.03.22-12.43.53:870][469]Allocator Stats for TBB: (not implemented)
+[2015.03.22-12.43.55:094][469]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.43.55:095][469]LogAIModule: Creating AISystem for world Settings
+[2015.03.22-12.43.55:096][469]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Settings.Settings up for play (max tick rate 60) at 2015.03.22-12.43.55
+[2015.03.22-12.43.55:097][469]LogWorld: Bringing up level for play took: 0.001151
+[2015.03.22-12.43.55:098][469]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.22-12.43.56:769][569]Cmd: g.ResolutionQuality 100
+[2015.03.22-12.43.56:770][569]Command not recognized: g.ResolutionQuality 100
+[2015.03.22-12.43.56:770][569]Cmd: sg.ViewDistanceQuality 4
+[2015.03.22-12.43.56:770][569]sg.ViewDistanceQuality = "4"
+[2015.03.22-12.43.56:770][569]Cmd: sg.AntiAliasingQuality 4
+[2015.03.22-12.43.56:770][569]sg.AntiAliasingQuality = "4"
+[2015.03.22-12.43.56:770][569]Cmd: sg.PostProcessQuality 4
+[2015.03.22-12.43.56:770][569]sg.PostProcessQuality = "4"
+[2015.03.22-12.43.56:770][569]Cmd: sg.ShadowQuality 4
+[2015.03.22-12.43.56:770][569]sg.ShadowQuality = "4"
+[2015.03.22-12.43.56:770][569]Cmd: sg.TextureQuality 4
+[2015.03.22-12.43.56:770][569]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.43.56:770][569]sg.TextureQuality = "4"
+[2015.03.22-12.43.56:770][569]Cmd: sg.EffectsQuality 4
+[2015.03.22-12.43.56:770][569]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.43.56:770][569]sg.EffectsQuality = "4"
+[2015.03.22-12.43.56:770][569]LogBlueprintUserMessages: Ultra
+[2015.03.22-12.43.57:570][617]Cmd: g.ResolutionQuality 100
+[2015.03.22-12.43.57:570][617]Command not recognized: g.ResolutionQuality 100
+[2015.03.22-12.43.57:570][617]Cmd: sg.ViewDistanceQuality 4
+[2015.03.22-12.43.57:570][617]sg.ViewDistanceQuality = "4"
+[2015.03.22-12.43.57:570][617]Cmd: sg.AntiAliasingQuality 4
+[2015.03.22-12.43.57:570][617]sg.AntiAliasingQuality = "4"
+[2015.03.22-12.43.57:570][617]Cmd: sg.PostProcessQuality 4
+[2015.03.22-12.43.57:570][617]sg.PostProcessQuality = "4"
+[2015.03.22-12.43.57:570][617]Cmd: sg.ShadowQuality 4
+[2015.03.22-12.43.57:570][617]sg.ShadowQuality = "4"
+[2015.03.22-12.43.57:570][617]Cmd: sg.TextureQuality 4
+[2015.03.22-12.43.57:570][617]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.43.57:570][617]sg.TextureQuality = "4"
+[2015.03.22-12.43.57:570][617]Cmd: sg.EffectsQuality 4
+[2015.03.22-12.43.57:570][617]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.43.57:570][617]sg.EffectsQuality = "4"
+[2015.03.22-12.43.57:570][617]LogBlueprintUserMessages: Ultra
+[2015.03.22-12.43.57:705][625]LogBlueprintUserMessages: 1
+[2015.03.22-12.43.58:187][654]Cmd: g.ResolutionQuality 100
+[2015.03.22-12.43.58:187][654]Command not recognized: g.ResolutionQuality 100
+[2015.03.22-12.43.58:187][654]Cmd: sg.ViewDistanceQuality 4
+[2015.03.22-12.43.58:187][654]sg.ViewDistanceQuality = "4"
+[2015.03.22-12.43.58:187][654]Cmd: sg.AntiAliasingQuality 4
+[2015.03.22-12.43.58:187][654]sg.AntiAliasingQuality = "4"
+[2015.03.22-12.43.58:187][654]Cmd: sg.PostProcessQuality 4
+[2015.03.22-12.43.58:187][654]sg.PostProcessQuality = "4"
+[2015.03.22-12.43.58:187][654]Cmd: sg.ShadowQuality 4
+[2015.03.22-12.43.58:187][654]sg.ShadowQuality = "4"
+[2015.03.22-12.43.58:187][654]Cmd: sg.TextureQuality 4
+[2015.03.22-12.43.58:187][654]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.43.58:187][654]sg.TextureQuality = "4"
+[2015.03.22-12.43.58:187][654]Cmd: sg.EffectsQuality 4
+[2015.03.22-12.43.58:187][654]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.43.58:187][654]sg.EffectsQuality = "4"
+[2015.03.22-12.43.58:187][654]LogBlueprintUserMessages: Ultra
+[2015.03.22-12.43.58:853][694]Cmd: g.ResolutionQuality 100
+[2015.03.22-12.43.58:853][694]Command not recognized: g.ResolutionQuality 100
+[2015.03.22-12.43.58:853][694]Cmd: sg.ViewDistanceQuality 4
+[2015.03.22-12.43.58:853][694]sg.ViewDistanceQuality = "4"
+[2015.03.22-12.43.58:853][694]Cmd: sg.AntiAliasingQuality 4
+[2015.03.22-12.43.58:853][694]sg.AntiAliasingQuality = "4"
+[2015.03.22-12.43.58:853][694]Cmd: sg.PostProcessQuality 4
+[2015.03.22-12.43.58:853][694]sg.PostProcessQuality = "4"
+[2015.03.22-12.43.58:853][694]Cmd: sg.ShadowQuality 4
+[2015.03.22-12.43.58:853][694]sg.ShadowQuality = "4"
+[2015.03.22-12.43.58:853][694]Cmd: sg.TextureQuality 4
+[2015.03.22-12.43.58:853][694]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.43.58:853][694]sg.TextureQuality = "4"
+[2015.03.22-12.43.58:853][694]Cmd: sg.EffectsQuality 4
+[2015.03.22-12.43.58:853][694]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.43.58:854][694]sg.EffectsQuality = "4"
+[2015.03.22-12.43.58:854][694]LogBlueprintUserMessages: Ultra
+[2015.03.22-12.43.59:020][704]Cmd: g.ResolutionQuality 100
+[2015.03.22-12.43.59:021][704]Command not recognized: g.ResolutionQuality 100
+[2015.03.22-12.43.59:021][704]Cmd: sg.ViewDistanceQuality 4
+[2015.03.22-12.43.59:021][704]sg.ViewDistanceQuality = "4"
+[2015.03.22-12.43.59:021][704]Cmd: sg.AntiAliasingQuality 4
+[2015.03.22-12.43.59:021][704]sg.AntiAliasingQuality = "4"
+[2015.03.22-12.43.59:021][704]Cmd: sg.PostProcessQuality 4
+[2015.03.22-12.43.59:021][704]sg.PostProcessQuality = "4"
+[2015.03.22-12.43.59:021][704]Cmd: sg.ShadowQuality 4
+[2015.03.22-12.43.59:021][704]sg.ShadowQuality = "4"
+[2015.03.22-12.43.59:021][704]Cmd: sg.TextureQuality 4
+[2015.03.22-12.43.59:021][704]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.43.59:021][704]sg.TextureQuality = "4"
+[2015.03.22-12.43.59:021][704]Cmd: sg.EffectsQuality 4
+[2015.03.22-12.43.59:021][704]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.43.59:021][704]sg.EffectsQuality = "4"
+[2015.03.22-12.43.59:021][704]LogBlueprintUserMessages: Ultra
+[2015.03.22-12.43.59:370][725]Cmd: g.ResolutionQuality 100
+[2015.03.22-12.43.59:370][725]Command not recognized: g.ResolutionQuality 100
+[2015.03.22-12.43.59:370][725]Cmd: sg.ViewDistanceQuality 4
+[2015.03.22-12.43.59:371][725]sg.ViewDistanceQuality = "4"
+[2015.03.22-12.43.59:371][725]Cmd: sg.AntiAliasingQuality 4
+[2015.03.22-12.43.59:371][725]sg.AntiAliasingQuality = "4"
+[2015.03.22-12.43.59:371][725]Cmd: sg.PostProcessQuality 4
+[2015.03.22-12.43.59:371][725]sg.PostProcessQuality = "4"
+[2015.03.22-12.43.59:371][725]Cmd: sg.ShadowQuality 4
+[2015.03.22-12.43.59:371][725]sg.ShadowQuality = "4"
+[2015.03.22-12.43.59:371][725]Cmd: sg.TextureQuality 4
+[2015.03.22-12.43.59:371][725]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.43.59:371][725]sg.TextureQuality = "4"
+[2015.03.22-12.43.59:371][725]Cmd: sg.EffectsQuality 4
+[2015.03.22-12.43.59:371][725]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.43.59:371][725]sg.EffectsQuality = "4"
+[2015.03.22-12.43.59:371][725]LogBlueprintUserMessages: Ultra
+[2015.03.22-12.43.59:837][753]Cmd: g.ResolutionQuality 100
+[2015.03.22-12.43.59:837][753]Command not recognized: g.ResolutionQuality 100
+[2015.03.22-12.43.59:837][753]Cmd: sg.ViewDistanceQuality 4
+[2015.03.22-12.43.59:837][753]sg.ViewDistanceQuality = "4"
+[2015.03.22-12.43.59:837][753]Cmd: sg.AntiAliasingQuality 4
+[2015.03.22-12.43.59:837][753]sg.AntiAliasingQuality = "4"
+[2015.03.22-12.43.59:837][753]Cmd: sg.PostProcessQuality 4
+[2015.03.22-12.43.59:837][753]sg.PostProcessQuality = "4"
+[2015.03.22-12.43.59:837][753]Cmd: sg.ShadowQuality 4
+[2015.03.22-12.43.59:837][753]sg.ShadowQuality = "4"
+[2015.03.22-12.43.59:837][753]Cmd: sg.TextureQuality 4
+[2015.03.22-12.43.59:837][753]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.43.59:837][753]sg.TextureQuality = "4"
+[2015.03.22-12.43.59:837][753]Cmd: sg.EffectsQuality 4
+[2015.03.22-12.43.59:837][753]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.43.59:837][753]sg.EffectsQuality = "4"
+[2015.03.22-12.43.59:837][753]LogBlueprintUserMessages: Ultra
+[2015.03.22-12.44.00:036][765]Cmd: g.ResolutionQuality 100
+[2015.03.22-12.44.00:036][765]Command not recognized: g.ResolutionQuality 100
+[2015.03.22-12.44.00:036][765]Cmd: sg.ViewDistanceQuality 4
+[2015.03.22-12.44.00:036][765]sg.ViewDistanceQuality = "4"
+[2015.03.22-12.44.00:036][765]Cmd: sg.AntiAliasingQuality 4
+[2015.03.22-12.44.00:036][765]sg.AntiAliasingQuality = "4"
+[2015.03.22-12.44.00:036][765]Cmd: sg.PostProcessQuality 4
+[2015.03.22-12.44.00:036][765]sg.PostProcessQuality = "4"
+[2015.03.22-12.44.00:036][765]Cmd: sg.ShadowQuality 4
+[2015.03.22-12.44.00:036][765]sg.ShadowQuality = "4"
+[2015.03.22-12.44.00:036][765]Cmd: sg.TextureQuality 4
+[2015.03.22-12.44.00:036][765]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.44.00:038][765]sg.TextureQuality = "4"
+[2015.03.22-12.44.00:038][765]Cmd: sg.EffectsQuality 4
+[2015.03.22-12.44.00:038][765]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.44.00:038][765]sg.EffectsQuality = "4"
+[2015.03.22-12.44.00:038][765]LogBlueprintUserMessages: Ultra
+[2015.03.22-12.44.00:337][783]Cmd: g.ResolutionQuality 100
+[2015.03.22-12.44.00:337][783]Command not recognized: g.ResolutionQuality 100
+[2015.03.22-12.44.00:337][783]Cmd: sg.ViewDistanceQuality 4
+[2015.03.22-12.44.00:337][783]sg.ViewDistanceQuality = "4"
+[2015.03.22-12.44.00:337][783]Cmd: sg.AntiAliasingQuality 4
+[2015.03.22-12.44.00:337][783]sg.AntiAliasingQuality = "4"
+[2015.03.22-12.44.00:337][783]Cmd: sg.PostProcessQuality 4
+[2015.03.22-12.44.00:337][783]sg.PostProcessQuality = "4"
+[2015.03.22-12.44.00:337][783]Cmd: sg.ShadowQuality 4
+[2015.03.22-12.44.00:337][783]sg.ShadowQuality = "4"
+[2015.03.22-12.44.00:337][783]Cmd: sg.TextureQuality 4
+[2015.03.22-12.44.00:338][783]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.44.00:338][783]sg.TextureQuality = "4"
+[2015.03.22-12.44.00:338][783]Cmd: sg.EffectsQuality 4
+[2015.03.22-12.44.00:338][783]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.44.00:338][783]sg.EffectsQuality = "4"
+[2015.03.22-12.44.00:338][783]LogBlueprintUserMessages: Ultra
+[2015.03.22-12.44.00:703][805]Cmd: g.ResolutionQuality 100
+[2015.03.22-12.44.00:704][805]Command not recognized: g.ResolutionQuality 100
+[2015.03.22-12.44.00:704][805]Cmd: sg.ViewDistanceQuality 4
+[2015.03.22-12.44.00:704][805]sg.ViewDistanceQuality = "4"
+[2015.03.22-12.44.00:704][805]Cmd: sg.AntiAliasingQuality 4
+[2015.03.22-12.44.00:704][805]sg.AntiAliasingQuality = "4"
+[2015.03.22-12.44.00:704][805]Cmd: sg.PostProcessQuality 4
+[2015.03.22-12.44.00:704][805]sg.PostProcessQuality = "4"
+[2015.03.22-12.44.00:704][805]Cmd: sg.ShadowQuality 4
+[2015.03.22-12.44.00:704][805]sg.ShadowQuality = "4"
+[2015.03.22-12.44.00:704][805]Cmd: sg.TextureQuality 4
+[2015.03.22-12.44.00:704][805]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.44.00:704][805]sg.TextureQuality = "4"
+[2015.03.22-12.44.00:704][805]Cmd: sg.EffectsQuality 4
+[2015.03.22-12.44.00:704][805]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.44.00:704][805]sg.EffectsQuality = "4"
+[2015.03.22-12.44.00:704][805]LogBlueprintUserMessages: Ultra
+[2015.03.22-12.44.00:708][805]LogBlueprintUserMessages: 2
+[2015.03.22-12.44.00:903][817]Cmd: g.ResolutionQuality 100
+[2015.03.22-12.44.00:903][817]Command not recognized: g.ResolutionQuality 100
+[2015.03.22-12.44.00:903][817]Cmd: sg.ViewDistanceQuality 4
+[2015.03.22-12.44.00:903][817]sg.ViewDistanceQuality = "4"
+[2015.03.22-12.44.00:903][817]Cmd: sg.AntiAliasingQuality 4
+[2015.03.22-12.44.00:903][817]sg.AntiAliasingQuality = "4"
+[2015.03.22-12.44.00:903][817]Cmd: sg.PostProcessQuality 4
+[2015.03.22-12.44.00:903][817]sg.PostProcessQuality = "4"
+[2015.03.22-12.44.00:903][817]Cmd: sg.ShadowQuality 4
+[2015.03.22-12.44.00:904][817]sg.ShadowQuality = "4"
+[2015.03.22-12.44.00:904][817]Cmd: sg.TextureQuality 4
+[2015.03.22-12.44.00:904][817]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.44.00:904][817]sg.TextureQuality = "4"
+[2015.03.22-12.44.00:904][817]Cmd: sg.EffectsQuality 4
+[2015.03.22-12.44.00:904][817]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.44.00:904][817]sg.EffectsQuality = "4"
+[2015.03.22-12.44.00:904][817]LogBlueprintUserMessages: Ultra
+[2015.03.22-12.44.01:070][827]Cmd: g.ResolutionQuality 100
+[2015.03.22-12.44.01:071][827]Command not recognized: g.ResolutionQuality 100
+[2015.03.22-12.44.01:071][827]Cmd: sg.ViewDistanceQuality 4
+[2015.03.22-12.44.01:071][827]sg.ViewDistanceQuality = "4"
+[2015.03.22-12.44.01:071][827]Cmd: sg.AntiAliasingQuality 4
+[2015.03.22-12.44.01:071][827]sg.AntiAliasingQuality = "4"
+[2015.03.22-12.44.01:071][827]Cmd: sg.PostProcessQuality 4
+[2015.03.22-12.44.01:071][827]sg.PostProcessQuality = "4"
+[2015.03.22-12.44.01:071][827]Cmd: sg.ShadowQuality 4
+[2015.03.22-12.44.01:071][827]sg.ShadowQuality = "4"
+[2015.03.22-12.44.01:071][827]Cmd: sg.TextureQuality 4
+[2015.03.22-12.44.01:071][827]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.44.01:071][827]sg.TextureQuality = "4"
+[2015.03.22-12.44.01:071][827]Cmd: sg.EffectsQuality 4
+[2015.03.22-12.44.01:071][827]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.44.01:071][827]sg.EffectsQuality = "4"
+[2015.03.22-12.44.01:071][827]LogBlueprintUserMessages: Ultra
+[2015.03.22-12.44.03:705][985]LogBlueprintUserMessages: 3
+[2015.03.22-12.44.04:062][  2]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C96116A20
+[2015.03.22-12.44.26:697][328]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.44.26:705][328]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.44.27:044][328]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.22-12.44.27:114][328]LogPlayLevel: [PIE] Compiling Settings before PIE...
+[2015.03.22-12.44.27:211][328]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.44.27:308][328]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.44.27:462][328]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.44.27:543][328]LogPlayLevel: [PIE] Compiling reset_button before PIE...
+[2015.03.22-12.44.27:636][328]LogPlayLevel: PIE:  Blueprint regeneration took 938 ms (7 blueprints)
+[2015.03.22-12.44.27:636][328]PIE: New page: PIE session: Menu (22 Mar 2015 12:44:27)
+[2015.03.22-12.44.27:642][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005878s)
+[2015.03.22-12.44.27:643][328]LogPlayLevel: PIE: World Init took: (0.000491s)
+[2015.03.22-12.44.27:643][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.006503s)
+[2015.03.22-12.44.27:681][328]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.44.27:683][328]LogAIModule: Creating AISystem for world Menu
+[2015.03.22-12.44.27:684][328]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.22-12.44.27
+[2015.03.22-12.44.27:685][328]LogWorld: Bringing up level for play took: 0.001032
+[2015.03.22-12.44.27:685][328]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.22-12.44.27:694][328]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.785
+[2015.03.22-12.44.30:378][481]LogBlueprintUserMessages: 1
+[2015.03.22-12.44.33:379][661]LogBlueprintUserMessages: 2
+[2015.03.22-12.44.36:382][840]LogBlueprintUserMessages: 3
+[2015.03.22-12.44.36:752][856]LogPackageName: SearchForPackageOnDisk took   0.103s to resolve Settings.umap
+[2015.03.22-12.44.36:850][856]LogPackageName: SearchForPackageOnDisk took   0.096s to resolve Settings.umap
+[2015.03.22-12.44.36:850][856]LogNet: Browse: /Game/Maps/Settings
+[2015.03.22-12.44.36:850][856]LogLoad: LoadMap: /Game/Maps/Settings
+[2015.03.22-12.44.36:880][856]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002CD7902CA0
+[2015.03.22-12.44.36:880][856]Cmd: MEM
+[2015.03.22-12.44.36:903][856]LogMemory: Platform Memory Stats for Windows
+[2015.03.22-12.44.36:903][856]LogMemory: Process Physical Memory: 1279.23 MB used, 1279.24 MB peak
+[2015.03.22-12.44.36:903][856]LogMemory: Process Virtual Memory: 1196.34 MB used, 1196.40 MB peak
+[2015.03.22-12.44.36:903][856]LogMemory: Physical Memory: 7558.10 MB used, 12200.27 MB total
+[2015.03.22-12.44.36:903][856]LogMemory: Virtual Memory: 1738.93 MB used, 134217728.00 MB total
+[2015.03.22-12.44.36:903][856]LogMemory: 
+[2015.03.22-12.44.36:903][856]Allocator Stats for TBB: (not implemented)
+[2015.03.22-12.44.37:098][856]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.44.37:100][856]LogAIModule: Creating AISystem for world Settings
+[2015.03.22-12.44.37:101][856]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Settings.Settings up for play (max tick rate 60) at 2015.03.22-12.44.37
+[2015.03.22-12.44.37:102][856]LogWorld: Bringing up level for play took: 0.001275
+[2015.03.22-12.44.37:103][856]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.22-12.44.37:990][907]Cmd: g.ResolutionQuality 25
+[2015.03.22-12.44.37:990][907]Command not recognized: g.ResolutionQuality 25
+[2015.03.22-12.44.37:990][907]Cmd: sg.ViewDistanceQuality 1
+[2015.03.22-12.44.37:990][907]sg.ViewDistanceQuality = "1"
+[2015.03.22-12.44.37:990][907]Cmd: sg.AntiAliasingQuality 1
+[2015.03.22-12.44.37:990][907]sg.AntiAliasingQuality = "1"
+[2015.03.22-12.44.37:990][907]Cmd: sg.PostProcessQuality 1
+[2015.03.22-12.44.37:991][907]sg.PostProcessQuality = "1"
+[2015.03.22-12.44.37:991][907]Cmd: sg.ShadowQuality 1
+[2015.03.22-12.44.37:991][907]sg.ShadowQuality = "1"
+[2015.03.22-12.44.37:991][907]Cmd: sg.TextureQuality 1
+[2015.03.22-12.44.37:991][907]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.44.37:991][907]sg.TextureQuality = "1"
+[2015.03.22-12.44.37:991][907]Cmd: sg.EffectsQuality 1
+[2015.03.22-12.44.37:991][907]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.44.37:991][907]sg.EffectsQuality = "1"
+[2015.03.22-12.44.37:996][907]LogBlueprintUserMessages: Low
+[2015.03.22-12.44.38:014][908]LogRenderer:Warning: Reallocating scene render targets to support 1296x760 (Frame:106604).
+[2015.03.22-12.44.38:920][959]Cmd: g.ResolutionQuality 25
+[2015.03.22-12.44.38:920][959]Command not recognized: g.ResolutionQuality 25
+[2015.03.22-12.44.38:920][959]Cmd: sg.ViewDistanceQuality 0
+[2015.03.22-12.44.38:920][959]sg.ViewDistanceQuality = "0"
+[2015.03.22-12.44.38:920][959]Cmd: sg.AntiAliasingQuality 0
+[2015.03.22-12.44.38:920][959]sg.AntiAliasingQuality = "0"
+[2015.03.22-12.44.38:920][959]Cmd: sg.PostProcessQuality 0
+[2015.03.22-12.44.38:920][959]sg.PostProcessQuality = "0"
+[2015.03.22-12.44.38:920][959]Cmd: sg.ShadowQuality 0
+[2015.03.22-12.44.38:920][959]sg.ShadowQuality = "0"
+[2015.03.22-12.44.38:920][959]Cmd: sg.TextureQuality 0
+[2015.03.22-12.44.38:921][959]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.44.38:921][959]sg.TextureQuality = "0"
+[2015.03.22-12.44.38:921][959]Cmd: sg.EffectsQuality 0
+[2015.03.22-12.44.38:921][959]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.44.38:921][959]sg.EffectsQuality = "0"
+[2015.03.22-12.44.38:925][959]LogBlueprintUserMessages: Console Pesent
+[2015.03.22-12.44.38:948][960]LogRenderer:Warning: Reallocating scene render targets to support 1296x760 (Frame:106656).
+[2015.03.22-12.44.39:718][  5]LogBlueprintUserMessages: 1
+[2015.03.22-12.44.39:816][ 11]Cmd: g.ResolutionQuality 25
+[2015.03.22-12.44.39:816][ 11]Command not recognized: g.ResolutionQuality 25
+[2015.03.22-12.44.39:816][ 11]Cmd: sg.ViewDistanceQuality 0
+[2015.03.22-12.44.39:816][ 11]sg.ViewDistanceQuality = "0"
+[2015.03.22-12.44.39:816][ 11]Cmd: sg.AntiAliasingQuality 0
+[2015.03.22-12.44.39:816][ 11]sg.AntiAliasingQuality = "0"
+[2015.03.22-12.44.39:816][ 11]Cmd: sg.PostProcessQuality 0
+[2015.03.22-12.44.39:816][ 11]sg.PostProcessQuality = "0"
+[2015.03.22-12.44.39:816][ 11]Cmd: sg.ShadowQuality 0
+[2015.03.22-12.44.39:816][ 11]sg.ShadowQuality = "0"
+[2015.03.22-12.44.39:816][ 11]Cmd: sg.TextureQuality 0
+[2015.03.22-12.44.39:816][ 11]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.44.39:817][ 11]sg.TextureQuality = "0"
+[2015.03.22-12.44.39:817][ 11]Cmd: sg.EffectsQuality 0
+[2015.03.22-12.44.39:817][ 11]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.44.39:817][ 11]sg.EffectsQuality = "0"
+[2015.03.22-12.44.39:817][ 11]LogBlueprintUserMessages: Console Pesent
+[2015.03.22-12.44.40:019][ 23]Cmd: g.ResolutionQuality 25
+[2015.03.22-12.44.40:020][ 23]Command not recognized: g.ResolutionQuality 25
+[2015.03.22-12.44.40:020][ 23]Cmd: sg.ViewDistanceQuality 0
+[2015.03.22-12.44.40:020][ 23]sg.ViewDistanceQuality = "0"
+[2015.03.22-12.44.40:020][ 23]Cmd: sg.AntiAliasingQuality 0
+[2015.03.22-12.44.40:020][ 23]sg.AntiAliasingQuality = "0"
+[2015.03.22-12.44.40:020][ 23]Cmd: sg.PostProcessQuality 0
+[2015.03.22-12.44.40:020][ 23]sg.PostProcessQuality = "0"
+[2015.03.22-12.44.40:020][ 23]Cmd: sg.ShadowQuality 0
+[2015.03.22-12.44.40:020][ 23]sg.ShadowQuality = "0"
+[2015.03.22-12.44.40:020][ 23]Cmd: sg.TextureQuality 0
+[2015.03.22-12.44.40:020][ 23]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.44.40:020][ 23]sg.TextureQuality = "0"
+[2015.03.22-12.44.40:020][ 23]Cmd: sg.EffectsQuality 0
+[2015.03.22-12.44.40:020][ 23]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.44.40:020][ 23]sg.EffectsQuality = "0"
+[2015.03.22-12.44.40:020][ 23]LogBlueprintUserMessages: Console Pesent
+[2015.03.22-12.44.40:206][ 34]Cmd: g.ResolutionQuality 25
+[2015.03.22-12.44.40:206][ 34]Command not recognized: g.ResolutionQuality 25
+[2015.03.22-12.44.40:206][ 34]Cmd: sg.ViewDistanceQuality 0
+[2015.03.22-12.44.40:206][ 34]sg.ViewDistanceQuality = "0"
+[2015.03.22-12.44.40:206][ 34]Cmd: sg.AntiAliasingQuality 0
+[2015.03.22-12.44.40:206][ 34]sg.AntiAliasingQuality = "0"
+[2015.03.22-12.44.40:206][ 34]Cmd: sg.PostProcessQuality 0
+[2015.03.22-12.44.40:206][ 34]sg.PostProcessQuality = "0"
+[2015.03.22-12.44.40:206][ 34]Cmd: sg.ShadowQuality 0
+[2015.03.22-12.44.40:207][ 34]sg.ShadowQuality = "0"
+[2015.03.22-12.44.40:207][ 34]Cmd: sg.TextureQuality 0
+[2015.03.22-12.44.40:207][ 34]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.44.40:207][ 34]sg.TextureQuality = "0"
+[2015.03.22-12.44.40:207][ 34]Cmd: sg.EffectsQuality 0
+[2015.03.22-12.44.40:207][ 34]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.44.40:207][ 34]sg.EffectsQuality = "0"
+[2015.03.22-12.44.40:207][ 34]LogBlueprintUserMessages: Console Pesent
+[2015.03.22-12.44.41:109][ 87]Cmd: g.ResolutionQuality 25
+[2015.03.22-12.44.41:109][ 87]Command not recognized: g.ResolutionQuality 25
+[2015.03.22-12.44.41:109][ 87]Cmd: sg.ViewDistanceQuality 1
+[2015.03.22-12.44.41:109][ 87]sg.ViewDistanceQuality = "1"
+[2015.03.22-12.44.41:110][ 87]Cmd: sg.AntiAliasingQuality 1
+[2015.03.22-12.44.41:110][ 87]sg.AntiAliasingQuality = "1"
+[2015.03.22-12.44.41:110][ 87]Cmd: sg.PostProcessQuality 1
+[2015.03.22-12.44.41:110][ 87]sg.PostProcessQuality = "1"
+[2015.03.22-12.44.41:110][ 87]Cmd: sg.ShadowQuality 1
+[2015.03.22-12.44.41:110][ 87]sg.ShadowQuality = "1"
+[2015.03.22-12.44.41:110][ 87]Cmd: sg.TextureQuality 1
+[2015.03.22-12.44.41:110][ 87]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.44.41:110][ 87]sg.TextureQuality = "1"
+[2015.03.22-12.44.41:111][ 87]Cmd: sg.EffectsQuality 1
+[2015.03.22-12.44.41:111][ 87]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.44.41:111][ 87]sg.EffectsQuality = "1"
+[2015.03.22-12.44.41:116][ 87]LogBlueprintUserMessages: Low
+[2015.03.22-12.44.41:135][ 88]LogRenderer:Warning: Reallocating scene render targets to support 1296x760 (Frame:106784).
+[2015.03.22-12.44.42:220][151]Cmd: g.ResolutionQuality 50
+[2015.03.22-12.44.42:220][151]Command not recognized: g.ResolutionQuality 50
+[2015.03.22-12.44.42:220][151]Cmd: sg.ViewDistanceQuality 2
+[2015.03.22-12.44.42:220][151]sg.ViewDistanceQuality = "2"
+[2015.03.22-12.44.42:220][151]Cmd: sg.AntiAliasingQuality 2
+[2015.03.22-12.44.42:220][151]sg.AntiAliasingQuality = "2"
+[2015.03.22-12.44.42:220][151]Cmd: sg.PostProcessQuality 2
+[2015.03.22-12.44.42:220][151]sg.PostProcessQuality = "2"
+[2015.03.22-12.44.42:220][151]Cmd: sg.ShadowQuality 2
+[2015.03.22-12.44.42:220][151]sg.ShadowQuality = "2"
+[2015.03.22-12.44.42:220][151]Cmd: sg.TextureQuality 2
+[2015.03.22-12.44.42:220][151]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.44.42:220][151]sg.TextureQuality = "2"
+[2015.03.22-12.44.42:220][151]Cmd: sg.EffectsQuality 2
+[2015.03.22-12.44.42:220][151]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.44.42:220][151]sg.EffectsQuality = "2"
+[2015.03.22-12.44.42:220][151]LogBlueprintUserMessages: Medium
+[2015.03.22-12.44.42:247][152]LogRenderer:Warning: Reallocating scene render targets to support 1296x760 (Frame:106848).
+[2015.03.22-12.44.42:731][179]LogBlueprintUserMessages: 2
+[2015.03.22-12.44.42:780][182]Cmd: g.ResolutionQuality 100
+[2015.03.22-12.44.42:780][182]Command not recognized: g.ResolutionQuality 100
+[2015.03.22-12.44.42:780][182]Cmd: sg.ViewDistanceQuality 3
+[2015.03.22-12.44.42:780][182]sg.ViewDistanceQuality = "3"
+[2015.03.22-12.44.42:780][182]Cmd: sg.AntiAliasingQuality 3
+[2015.03.22-12.44.42:780][182]sg.AntiAliasingQuality = "3"
+[2015.03.22-12.44.42:780][182]Cmd: sg.PostProcessQuality 3
+[2015.03.22-12.44.42:780][182]sg.PostProcessQuality = "3"
+[2015.03.22-12.44.42:780][182]Cmd: sg.ShadowQuality 3
+[2015.03.22-12.44.42:780][182]sg.ShadowQuality = "3"
+[2015.03.22-12.44.42:780][182]Cmd: sg.TextureQuality 3
+[2015.03.22-12.44.42:780][182]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.44.42:780][182]sg.TextureQuality = "3"
+[2015.03.22-12.44.42:781][182]Cmd: sg.EffectsQuality 3
+[2015.03.22-12.44.42:781][182]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.44.42:781][182]sg.EffectsQuality = "3"
+[2015.03.22-12.44.42:785][182]LogBlueprintUserMessages: High
+[2015.03.22-12.44.42:806][183]LogRenderer:Warning: Reallocating scene render targets to support 1296x760 (Frame:106879).
+[2015.03.22-12.44.43:836][242]Cmd: g.ResolutionQuality 100
+[2015.03.22-12.44.43:836][242]Command not recognized: g.ResolutionQuality 100
+[2015.03.22-12.44.43:836][242]Cmd: sg.ViewDistanceQuality 4
+[2015.03.22-12.44.43:836][242]sg.ViewDistanceQuality = "4"
+[2015.03.22-12.44.43:836][242]Cmd: sg.AntiAliasingQuality 4
+[2015.03.22-12.44.43:836][242]sg.AntiAliasingQuality = "4"
+[2015.03.22-12.44.43:836][242]Cmd: sg.PostProcessQuality 4
+[2015.03.22-12.44.43:836][242]sg.PostProcessQuality = "4"
+[2015.03.22-12.44.43:836][242]Cmd: sg.ShadowQuality 4
+[2015.03.22-12.44.43:836][242]sg.ShadowQuality = "4"
+[2015.03.22-12.44.43:836][242]Cmd: sg.TextureQuality 4
+[2015.03.22-12.44.43:836][242]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.44.43:836][242]sg.TextureQuality = "4"
+[2015.03.22-12.44.43:836][242]Cmd: sg.EffectsQuality 4
+[2015.03.22-12.44.43:837][242]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.44.43:837][242]sg.EffectsQuality = "4"
+[2015.03.22-12.44.43:837][242]LogBlueprintUserMessages: Ultra
+[2015.03.22-12.44.44:960][301]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C9D30A8E0
+[2015.03.22-12.44.51:111][636]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.03.22-12.44.51:121][636]LogPlayLevel: [PIE] Compiling Icantspellchamerlan before PIE...
+[2015.03.22-12.44.51:568][636]LogPlayLevel: [PIE] Compiling Menu before PIE...
+[2015.03.22-12.44.51:658][636]LogPlayLevel: [PIE] Compiling Settings before PIE...
+[2015.03.22-12.44.51:785][636]LogPlayLevel: [PIE] Compiling Bug before PIE...
+[2015.03.22-12.44.51:904][636]LogPlayLevel: [PIE] Compiling Bird before PIE...
+[2015.03.22-12.44.52:102][636]LogPlayLevel: [PIE] Compiling HUD before PIE...
+[2015.03.22-12.44.52:201][636]LogPlayLevel: [PIE] Compiling reset_button before PIE...
+[2015.03.22-12.44.52:316][636]LogPlayLevel: PIE:  Blueprint regeneration took 1204 ms (7 blueprints)
+[2015.03.22-12.44.52:316][636]PIE: New page: PIE session: Menu (22 Mar 2015 12:44:52)
+[2015.03.22-12.44.52:324][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007719s)
+[2015.03.22-12.44.52:325][636]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2015.03.22-12.44.52:325][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.008437s)
+[2015.03.22-12.44.52:366][636]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.44.52:368][636]LogAIModule: Creating AISystem for world Menu
+[2015.03.22-12.44.52:369][636]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.22-12.44.52
+[2015.03.22-12.44.52:369][636]LogWorld: Bringing up level for play took: 0.001100
+[2015.03.22-12.44.52:370][636]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.22-12.44.52:379][636]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Menu 1.471
+[2015.03.22-12.44.55:086][787]LogBlueprintUserMessages: 1
+[2015.03.22-12.44.58:091][966]LogBlueprintUserMessages: 2
+[2015.03.22-12.45.01:094][143]LogBlueprintUserMessages: 3
+[2015.03.22-12.45.01:569][165]LogPackageName: SearchForPackageOnDisk took   0.102s to resolve Settings.umap
+[2015.03.22-12.45.01:669][165]LogPackageName: SearchForPackageOnDisk took   0.098s to resolve Settings.umap
+[2015.03.22-12.45.01:669][165]LogNet: Browse: /Game/Maps/Settings
+[2015.03.22-12.45.01:669][165]LogLoad: LoadMap: /Game/Maps/Settings
+[2015.03.22-12.45.01:697][165]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C87C1B240
+[2015.03.22-12.45.01:697][165]Cmd: MEM
+[2015.03.22-12.45.01:722][165]LogMemory: Platform Memory Stats for Windows
+[2015.03.22-12.45.01:722][165]LogMemory: Process Physical Memory: 1278.56 MB used, 1284.15 MB peak
+[2015.03.22-12.45.01:722][165]LogMemory: Process Virtual Memory: 1199.33 MB used, 1201.59 MB peak
+[2015.03.22-12.45.01:722][165]LogMemory: Physical Memory: 7526.27 MB used, 12200.27 MB total
+[2015.03.22-12.45.01:722][165]LogMemory: Virtual Memory: 1747.94 MB used, 134217728.00 MB total
+[2015.03.22-12.45.01:722][165]LogMemory: 
+[2015.03.22-12.45.01:722][165]Allocator Stats for TBB: (not implemented)
+[2015.03.22-12.45.01:916][165]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.45.01:919][165]LogAIModule: Creating AISystem for world Settings
+[2015.03.22-12.45.01:920][165]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Settings.Settings up for play (max tick rate 60) at 2015.03.22-12.45.01
+[2015.03.22-12.45.01:921][165]LogWorld: Bringing up level for play took: 0.001760
+[2015.03.22-12.45.01:922][165]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.22-12.45.03:032][229]Cmd: g.ResolutionQuality 25
+[2015.03.22-12.45.03:032][229]Command not recognized: g.ResolutionQuality 25
+[2015.03.22-12.45.03:032][229]Cmd: sg.ViewDistanceQuality 0
+[2015.03.22-12.45.03:032][229]sg.ViewDistanceQuality = "0"
+[2015.03.22-12.45.03:032][229]Cmd: sg.AntiAliasingQuality 0
+[2015.03.22-12.45.03:032][229]sg.AntiAliasingQuality = "0"
+[2015.03.22-12.45.03:032][229]Cmd: sg.PostProcessQuality 0
+[2015.03.22-12.45.03:033][229]sg.PostProcessQuality = "0"
+[2015.03.22-12.45.03:033][229]Cmd: sg.ShadowQuality 0
+[2015.03.22-12.45.03:033][229]sg.ShadowQuality = "0"
+[2015.03.22-12.45.03:033][229]Cmd: sg.TextureQuality 0
+[2015.03.22-12.45.03:033][229]LogConsoleManager:Warning: Console variable 'r.Streaming.PoolSize' wasn't set (Priority Code < Scalability)
+[2015.03.22-12.45.03:033][229]sg.TextureQuality = "0"
+[2015.03.22-12.45.03:033][229]Cmd: sg.EffectsQuality 0
+[2015.03.22-12.45.03:033][229]LogConsoleManager:Warning: Console variable 'r.MaterialQualityLevel' wasn't set (Priority Console < Scalability)
+[2015.03.22-12.45.03:033][229]sg.EffectsQuality = "0"
+[2015.03.22-12.45.03:038][229]LogBlueprintUserMessages: Console Pesent
+[2015.03.22-12.45.03:058][230]LogRenderer:Warning: Reallocating scene render targets to support 1296x760 (Frame:107592).
+[2015.03.22-12.45.03:958][277]LogPackageName: SearchForPackageOnDisk took   0.098s to resolve Menu.umap
+[2015.03.22-12.45.04:060][277]LogPackageName: SearchForPackageOnDisk took   0.099s to resolve Menu.umap
+[2015.03.22-12.45.04:060][277]LogNet: Browse: /Game/Maps/Menu
+[2015.03.22-12.45.04:060][277]LogLoad: LoadMap: /Game/Maps/Menu
+[2015.03.22-12.45.04:089][277]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C9CA3C5E0
+[2015.03.22-12.45.04:089][277]Cmd: MEM
+[2015.03.22-12.45.04:112][277]LogMemory: Platform Memory Stats for Windows
+[2015.03.22-12.45.04:112][277]LogMemory: Process Physical Memory: 1278.85 MB used, 1284.15 MB peak
+[2015.03.22-12.45.04:112][277]LogMemory: Process Virtual Memory: 1198.21 MB used, 1201.59 MB peak
+[2015.03.22-12.45.04:112][277]LogMemory: Physical Memory: 7542.47 MB used, 12200.27 MB total
+[2015.03.22-12.45.04:112][277]LogMemory: Virtual Memory: 1746.69 MB used, 134217728.00 MB total
+[2015.03.22-12.45.04:112][277]LogMemory: 
+[2015.03.22-12.45.04:112][277]Allocator Stats for TBB: (not implemented)
+[2015.03.22-12.45.04:120][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008021s)
+[2015.03.22-12.45.04:121][277]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2015.03.22-12.45.04:121][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.008715s)
+[2015.03.22-12.45.04:123][277]LogWorld: Game class is 'TwinStickGameMode_C'
+[2015.03.22-12.45.04:125][277]LogAIModule: Creating AISystem for world Menu
+[2015.03.22-12.45.04:126][277]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2015.03.22-12.45.04
+[2015.03.22-12.45.04:127][277]LogWorld: Bringing up level for play took: 0.001104
+[2015.03.22-12.45.04:127][277]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2015.03.22-12.45.06:857][439]LogBlueprintUserMessages: 1
+[2015.03.22-12.45.09:864][618]LogBlueprintUserMessages: 2
+[2015.03.22-12.45.12:874][796]LogBlueprintUserMessages: 3
+[2015.03.22-12.45.13:141][807]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002C9CE02F20
+[2015.03.22-12.45.14:867][909]BlueprintLog: New page: Compile Settings
+[2015.03.22-12.45.15:013][909]BlueprintEditorCompileResults: Info 
